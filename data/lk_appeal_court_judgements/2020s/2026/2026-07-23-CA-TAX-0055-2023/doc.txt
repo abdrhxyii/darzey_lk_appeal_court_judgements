@@ -1,0 +1,671 @@
+==== BLOCKS ==== 
+
+Page 1 of 13
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an appeal by way of Stated Case on a question of law for the opinion of the Court of Appeal under and in terms of section 11A of the Tax Appeals Commission Act No. 23 of 2011 (as amended).
+
+CA Case No: CA/TAX/55/2023 Shangri-La Hotels Lanka (Pvt) Ltd.,
+
+Tax Appeals Commission No. Level 05,
+
+TAC/VAT/086/2021 No.1A,
+
+Centre Road, Galle Face,
+
+Colombo 02.
+
+Appellant
+
+Vs.
+
+Commissioner General of Inland
+
+Revenue,
+
+Department of Inland Revenue,
+
+Sir Chittampalam A. Gardiner Mawatha,
+
+Colombo 02.
+
+Respondent
+
+Before: M.C.B.S. Morais J.
+
+&
+
+Annalingam Premashanker J.
+
+Page 2 of 13
+
+Counsel: Laknath Peiris with Isuri Peiris instructed by Abdeen Associates for the Appellant.
+
+Chaya Sri Nammuni, DSG for the Respondent.
+
+Written Submissions: By the Appellant – on 25.11.2025, 13.02.2026
+
+By the Respondent – on 23.07.2025
+
+Argued on: 16.12.2025
+
+Decided On: 23.07.2026
+
+JUDGMENT
+
+M.C.B.S. Morais J.
+
+This is an appeal by way of case stated against the determination of the Tax Appeals
+
+Commission (TAC) dated 26th of April 2023, in the case of TAC/VAT/086/2021.
+
+This appeal is filed under Section 11A of the Tax Appeals Commission Act No. 23 of 2011 (as
+
+amended).
+
+The tax in dispute is against the assessment made for the taxable period 1632 (1st of August
+
+2016 to 31st of August 2016) and the taxable amount in dispute is Rs. 122,779,366.00. with a
+
+penalty of Rs. 122,779,366.00.
+
+FACTUAL BACKGROUND
+
+The Shangri-La Hotels Lanka (Pvt) Limited (hereinafter will be referred to as the Appellant)
+
+is a limited liability company incorporated and domiciled in Sri Lanka and carrying on
+
+development projects. The Appellant has entered into an agreement with the Board of
+
+Page 3 of 13
+
+Investment of Sri Lanka (BOI) to construct and operate a mixed development project inclusive
+
+of a luxury hotel, high quality residencies and shopping mall in Colombo. Accordingly, the
+
+BOI has identified this project as a strategic development project and has granted tax
+
+concessions under section 2 of the Strategic Development Act No. 14 of 2008. Further, in terms
+
+of section 3(4) of the Strategic Development Act No. 14 of 2008, the Minister of Economic
+
+Development has published an order via gazette to declare the said project as a strategic
+
+development project and thereby the project is identified as ‘project to construct a luxury hotel
+
+as a mixed-use complex including high quality residencies and high-end shopping mall in Fort.’
+
+The Appellant has submitted the return for the above taxable period claiming deduction in
+
+terms of the supply of residential apartments constructed by the Appellant. The said claim was
+
+rejected by the Assessor by the intimation letter dated 29th of August 2019.
+
+The said letter contains the reasons for the exception not being provided to the Appellant and
+
+the final amount to be paid as the Value Added Tax (VAT). However, it has failed to provide
+
+the computation of the taxable income. Accordingly, the Assessor has issued assessment
+
+without granting those deductions by the Notice of Assessment dated 3rd of September 2019
+
+for the reasons based on the intimation letter.
+
+The Appellant being aggrieved by the decision of the Assessor, made an appeal to the
+
+Commissioner General of Inland Revenue (hereinafter will be referred to as the Respondent).
+
+The Respondent in his determination dated 12th of October 2021 determined the appeal by
+
+upholding the assessment issued by the Assessor. The Appellant being dissatisfied with the
+
+said determination of the Respondent, made an appeal to the Tax Appeals Commission (TAC).
+
+The TAC after considering the submissions made by both parties, dismissed the appeal by the
+
+determination dated 26th of April 2023 and confirmed the determination made by the
+
+Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+Page 4 of 13
+
+I. “ Did the Tax Appeals Commission err in law when it confirmed the assessment
+
+of Value Added Tax and penalty, as determined by the Commissioner General of
+
+Inland Revenue?
+
+II. Did the Tax Appeals Commission err in law when it failed to consider whether
+
+the assessment was time barred?
+
+III. Is the Determination Tax Appeals Commission contrary to section 33 of Value
+
+Added Tax Act, No. 14 of 2002 (as amended) read together with section 2 and
+
+section 28 of Value Added Tax Act, No. 14 of 2002 (as amended)?
+
+IV. Is the Determination Tax Appeals Commission contrary to section 61 of Value
+
+Added Tax Act, No. 14 of 2002 (as amended)?
+
+V. Whether Tax Appeals Commission has the jurisdiction to confirm the
+
+Assessment under section 9 (10) of Tax Appeals Commission Act, No. 23 of 2011
+
+(as amended)
+
+VI. Did the Tax Appeals Commission err in law when it decided that section
+
+16(2)(b) of Value Added Tax Act No.20 of 2016 was not retrospective?
+
+VII. In view of the facts and circumstances of the case, did the Tax Appeals
+
+Commission err in law when it arrived at the conclusion that it did?”
+
+The question of law No. II raised by the Appellant is in relation to the time limitation in issuing
+
+an assessment under section 33(1) Value Added Tax Act No. 14 of 2002 as amended (VAT
+
+Act). Since this matter goes to the root of the case, I shall initially address this question first. If
+
+it is answered positively, little purpose is served in addressing the rest of the questions raised
+
+by the Appellant.
+
+ANALYSIS
+
+ii) Did the Tax Appeals Commission err in law when it failed to consider whether the
+
+assessment was time barred?
+
+It is the contention of the Appellant that the assessment issued by the Deputy Commissioner of
+
+Inland Revenue is timed barred.
+
+Page 5 of 13
+
+The Appellant contends that the assessment for the taxable period 1632 was made on 27th of
+
+September 2016. Accordingly, the assessment was rejected by the Deputy Commissioner by
+
+the intimation letter dated 29th of August 2019 and subsequently the Notice of the Assessment
+
+was issued on 3rd of September 2019. On this basis, the Appellant contends that the assessment
+
+issued by the Deputy Commissioner is time barred under section 33(1) of the VAT Act.
+
+The Appellant further contends that according to the statutory time limitation under section
+
+33(1) of the VAT Act, the assessor is required by law to make an assessment or an additional
+
+assessment before the expiration of the three-year time period from the end of the relevant
+
+taxable period. Therefore, it is the position of the Appellant that the taxable period in issue has
+
+ended on 31st of August 2016 and hence the statutory time bar shall be engaged on 31st of
+
+August 2019. Therefore, the Appellant contends that the assessment issued by the Deputy
+
+Commissioner of Inland Revenue is time barred under section 33(1) of the VAT Act.
+
+The section 33(1) of the VAT Act, which deals with the limitation of time for assessment or
+
+additional assessment, reads in the following manner;
+
+“33. (1) Where any registered person has furnished a return under sub section (1) of
+
+section 21 in respect of a taxable period or has been assessed for tax in respect of any
+
+period, it shall not be lawful for the Assessor where an assessment – (a) has not been
+
+made, to make an assessment; or (b) has been made, to make an additional assessment;
+
+after the expiration of three years from the end of the taxable period in respect of
+
+which the return is furnished or the assessment was made as the case may be. ”
+
+According to the above provision of law, where a registered person has furnished a return under
+
+section 21(1) or has already been assessed for a taxable period, the Assessor is required to make
+
+any assessment or additional assessment within three years from the end of that taxable
+
+period. Upon the expiry of that period, the Assessor has no authority to issue a fresh assessment
+
+or an additional assessment, unless it falls within the exception of fraud under section 33(2) of
+
+the VAT Act.
+
+Page 6 of 13
+
+Upon consideration of the facts and circumstances of this case, it is apparent that the relevant
+
+taxable period in issue is expired on 31th of August 2019. Consequently, in terms of section
+
+33(1) of the VAT Act, the Assessor was required to make any assessment on or before 31st of
+
+August 2019 which is the expiry of the statutory period of limitation.
+
+However, the Respondent contends that the letter of intimation was issued to the Appellant on
+
+29th of August 2019, which is prior to the expiry of the prescribed limitation period.
+
+Accordingly, the Respondent submits that the Deputy Commissioner had communicated the
+
+decision to the Appellant within the statutory time limit and that the assessment is therefore
+
+valid in law.
+
+The Respondent further argues that the making of an assessment and the service of a Notice of
+
+Assessment are two separate and distinct statutory acts. It is the Respondent's position that the
+
+limitation prescribed under section 33(1) of the VAT Act governs only the making of the
+
+assessment and does not extend to the subsequent issuance or service of the Notice of
+
+Assessment upon the taxpayer. On that basis, the Respondent maintains that the assessment
+
+made by the Commissioner-General was made within the statutory period and is not barred by
+
+limitation, and is therefore valid in law.
+
+The Respondent has further relied on allegation of fraud, evasion, or willful default under
+
+section 33(2). However, due to the lack of evidence by the Respondent, the TAC has dismissed
+
+such claim.
+
+In addressing the question related to the time bar, the TAC in its determination dated 26th of
+
+April 2023 has held in the following manner by relying on the cases of Illukkumbura Industrial
+
+Automation (Private) Limited V. Commissioner General of Inland Revenue CA Tax 05/2016
+
+decided on 29.09.2022 and Stafford Motor Company (Pvt) Ltd V. Commissioner General of
+
+Inland Revenue CA Tax 17/2017 decided on 15.03.2019;
+
+“Therefore, it is quite clear, with regard of the 'time bar in an assessment raised by an
+
+Assessor', has to be taken in to consideration only whether the Assessor was able to
+
+raise the Assessment prior to the deadline, and not the date of 'Notice of Assessment
+
+Page 7 of 13
+
+sent to the Appellant. Making an assessment and raising a notice of assessment have
+
+been considered as two actions, not as one action.
+
+Further, even though, the above judgements have referred to Section 163 and Section
+
+164 of the IR Act No 10 of 2006, the Section 163 of IRA and VATA Section 33(1) speaks
+
+about 'making an assessment' by an Assessor within a given period. Therefore, it has
+
+to be taken as similarity process.
+
+Further, the computation of Value Added Tax liability for the taxable period 1632, has
+
+been made and intimated to the Appellant with giving reasons by the intimation letter,
+
+saying, 'thus, the returns of the Value Added Tax submitted by the Company for the
+
+above taxable period have not been accepted due to the reasons mentioned above.
+
+'Further has mentioned that, 'please treat this letter as an intimation issued under
+
+Section 29 of the VATA.
+
+Therefore, the Appellant cannot say that he did not receive or he was unaware of the
+
+assessment made for the taxable period 1632.
+
+It is also seen as the VATA is silent not only on any prescribed time limit in the issuance
+
+of the 'Notice of Assessment', but also of a 'Notice of Assessment. Therefore, it is not
+
+lawful to introduce a 'time bar period' on a Notice of Assessment by any person other
+
+than the legislature.
+
+Considering the above, this Commission cannot see, any merits on the argument of the
+
+Appellant saying 'raising of the notice of assessment' was not made on time and thereof
+
+the additional assessment is bad in law. Accordingly, this Commission rejects the said
+
+argument and decides that said Assessment is valid in Law.”
+
+The reasoning adopted by the TAC proceeds on the basis that the statutory limitation prescribed
+
+under section 33(1) of the VAT Act applies only to the Assessor's act of making the assessment
+
+and does not extend to the subsequent issuance of the Notice of Assessment. The TAC further
+
+held that, as the VAT Act does not prescribe a specific time limit for the issuance of a Notice
+
+of Assessment the Court cannot read such a requirement into the statute.
+
+Page 8 of 13
+
+In order to determine the correctness of the TAC determination, it is necessary to examine the
+
+statutory framework governing assessments under the VAT Act. In particular, the provisions
+
+contained in Chapter V of the VAT Act must be construed as a whole, as they collectively
+
+prescribe the procedure to be followed by the Assessor in making and communicating an
+
+assessment.
+
+The section 29 and 31(1) of the VAT Act under chapter V, mentions the requirement of
+
+providing and intimation letter and the Notice of assessment in terms of additional assessment.
+
+“29. Where the Assessor does not accept a return furnished by any person under section
+
+21 for any taxable period and makes an assessment or an additional assessment on
+
+such person for such taxable period under section 28 or under section 31, as the case
+
+may be, the Assessor shall communicate to such person by registered letter sent through
+
+the post why he is not accepting the return.
+
+……………………..
+
+31. (1) Where it appears to an Assessor that a person chargeable with tax has for any
+
+taxable period paid as tax an amount less than the proper amount of the tax payable by
+
+him for that taxable period, or chargeable from him for that taxable period, the
+
+Assessor may, at any time, assess such person at the additional amount at which,
+
+according to the judgement of such Assessor, tax ought to have been paid by such
+
+person. The Assessor shall give such person notice of the assessment. ”
+
+The provisions contained under Chapter V of the VAT Act is in relation to the statutory
+
+scheme governing the assessment of VAT. The provisions of the Chapter are intended to
+
+regulate the entire assessment process from the rejection of a return to the issuance of the final
+
+assessment.
+
+According to Section 29 of the VAT Act, when a return is furnished by a registered person, the
+
+Assessor is empowered to reject the assessment if it amounts of tax is less than the actual tax
+
+payable. Thereby, the Assessor is required to communicate the rejection to the taxpayer by
+
+issuing a letter of intimation setting out the reasons for the rejection.
+
+Page 9 of 13
+
+Further, section 31(1) requires the Assessor to issue a Notice of Assessment specifying the
+
+amount of tax assessed and payable. These provisions are not isolated from one another; instead
+
+they form successive stages of a single statutory process.
+
+When reading Chapter V as a whole, it is evident that the issuance of the letter of intimation
+
+and the subsequent Notice of Assessment are mandatory procedural requirements prescribed
+
+by the Act. Therefore, it can be reasonably construed that the assessment process cannot be
+
+regarded as complete merely because the Assessor has internally determined the taxpayer's
+
+liability. It is completed only when the taxpayer is informed of the reasons for the rejection of
+
+the return and is subsequently notified of the quantified tax liability through the Notice of
+
+Assessment.
+
+Accordingly, the limitation period prescribed under section 33(1) of the VAT Act must be
+
+interpreted in the context of the statutory procedure set out in Chapter V. In my view, the
+
+expression of "assessment" cannot be confined merely to the Assessor's internal determination
+
+alone while excluding the statutory steps required to communicate that assessment to the
+
+taxpayer. Such an interpretation would undermine the purpose of the Act and render the
+
+procedural safeguards contained in sections 29 and 31 ineffective.
+
+Therefore, I am of the view that the limitation period prescribed under section 33(1) of the
+
+VAT Act applies to the assessment process in its entirety. Consequently, both the letter of
+
+intimation issued under section 29 and the Notice of Assessment issued under section 31 must
+
+be communicated to the taxpayer within the prescribed period for the assessment to be regarded
+
+as having been made in accordance with the Act.
+
+Therefore, in the present matter, the intimation letter alone could not constitute a valid
+
+assessment in the absence of the Notice of Assessment.
+
+Accordingly, this Court is of the view that the TAC arrived at its decision without giving due
+
+consideration to the facts and circumstances of the present case. Furthermore, although the
+
+TAC relied on previous decisions of this Court, it is important to note that the Supreme Court
+
+has since adopted a more comprehensive approach to this issue.
+
+Page 10 of 13
+
+When considering the provisions governing the limitation period for the making of assessments
+
+under the Inland Revenue Act No. 10 of 2006 and the Value Added Tax Act No.14 of 2002, it
+
+is apparent that both statutes employ substantially similar language and embody the same
+
+legislative intention. In both enactments, the Parliament has prescribed a statutory time limit
+
+within which the tax authority must make an assessment, thereby ensuring certainty and finality
+
+in tax administration.
+
+In those circumstances, the interpretation placed by the Supreme Court upon the corresponding
+
+provisions of the Inland Revenue Act is of considerable significance in construing section 33(1)
+
+of the Value Added Tax Act. In this regard, the decision in Fonterra Brands Lanka (Private)
+
+Limited v. Commissioner General of Inland Revenue, being the latest pronouncement of the
+
+Supreme Court on the issue, is binding upon this Court. Accordingly, this Court is bound to
+
+apply the principles enunciated therein in interpreting the limitation period prescribed under
+
+section 33(1) of the Value Added Tax Act.
+
+In the case of Fonterra Brands Lanka (Private) Limited V. The Commissioner General of
+
+Inland Revenue, SC Appeal 187/2014, decided on 26th September 2025, His Lordship
+
+Thurairaja PC, J. considered the meaning of an "assessment" and the stage at which the
+
+assessment process is completed. His Lordship held that an assessment is not confined to the
+
+internal act of making the assessment by the Assessor. Rather, the assessment process includes
+
+the communication of the reasons for the assessment to the taxpayer through the letter of
+
+intimation, followed by the issuance of the Notice of Assessment containing the computation
+
+of the tax payable. In that regard, His Lordship has observed:
+
+“It may be noted that when the learned Chief Justice said, “[h]is reasons must be
+
+communicated at or about the time he sends his assessment on an estimated income”,
+
+His Lordship referred to the “sending of the notice of assessment”, since the internal
+
+assessment document, which remains in the possession of the Assessor, is only an
+
+“estimate” and is not sent to the taxpayer. Thus, the act of sending the notice of
+
+assessment, with the reasons, is what completes the legal process.
+
+Page 11 of 13
+
+45. This passage highlights two critical principles. First, the giving of reasons is not a
+
+mere procedural formality; it is a substantive requirement ensuring that the assessment
+
+reflects a genuine, considered decision by the Assessor. Second, the timing of the
+
+communication is essential; reasons must accompany the notice of assessment at the
+
+moment the assessment is sent; failing which, the remedial purpose of the legislation
+
+is defeated.
+
+…………………………
+
+Therefore, I am of the view that the act of assessment is only complete when the
+
+taxpayer is both assessed and required to pay. To import the reasoning of Honig into
+
+the Sri Lankan context would therefore be to disregard the words and structure of our
+
+own legislation.”
+
+In the above case, the court having considered the circumstances of the case in Illukkumbura
+
+Industrial Automation (Private) Limited V. Commissioner General of Inland Revenue CA Tax
+
+05/2016, has come to the conclusion that the assessment process is completed only when the
+
+assessment is communicated to the taxpayer. Accordingly, the making of an assessment and
+
+the issuance of the Notice of Assessment are not two separate and independent acts. They form
+
+part of a single statutory process by which the taxpayer is informed of the Assessor's decision,
+
+the reasons for that decision, and the amount of tax assessed. Further, in the case of Stafford
+
+Motor Company (Pvt) Ltd V. Commissioner General of Inland Revenue CA Tax 17/2017, this
+
+Court, relying on the English decision in Honig and Others v. Sarsfield (Inspector of
+
+Taxes) (1986) BTC 205, held that the effective date for the commencement of the limitation
+
+period for the issuance of an assessment by the Assessor is the date on which the assessment is
+
+made. However, that position has subsequently been overruled by the Supreme Court in the
+
+case of Fonterra Brands Lanka (Private) Limited V. The Commissioner General of Inland
+
+Revenue, SC Appeal 187/2014.
+
+Furthermore, his lordship has considered that the communication of the assessment to the
+
+taxpayer is an essential part of the assessment itself. Accordingly, for an assessment to be
+
+regarded as having been made within the period prescribed by law, the internal process of
+
+making of the assessment by the Assessor is not sufficient. The assessment must also be
+
+Page 12 of 13
+
+communicated to the taxpayer, in the manner required by the Act, before the expiry of the
+
+statutory time limit.
+
+This position has also been adopted by E. Gooneratne in his book ‘Income Tax in Sri Lanka’
+
+(1st edn, Stamford Lake 2001) Pg 393,
+
+“Making an assessment culminates in the notice on the person assessed. An
+
+assessment is made when the assessment is sent.”
+
+The above aspect of law clearly undermines the Respondent's contention that the making of an
+
+assessment is completed upon the Assessor's internal process of making an assessment. On the
+
+contrary, the above authorities make it clear that an assessment is made only when it is
+
+communicated to the taxpayer through the issuance of the Notice of Assessment.
+
+Therefore, I am of the view that the Notice of assessment dated 3rd of September 2019 issued
+
+by the Deputy Commissioner is time barred under section 33(1) of the VAT Act. Thereby, the
+
+Tax Appeals Commission has erred in law when it failed to consider that the assessment was
+
+time barred.
+
+Therefore, I answer the question of law II in the affirmative.
+
+In view of the determination reached in respect of Question of Law II, this Court holds that the
+
+notice of assessment and the intimation letter issued by the Deputy Commissioner are null and
+
+void and of no effect in law.
+
+In light of the foregoing, the remaining questions of law raised by the Appellant need not be
+
+answered.
+
+CONCLUSION
+
+When considering the facts and the circumstances of the case, in line with the materials
+
+presented before this court, I am of the considered view that the questions of law formulated
+
+by the Appellant should be answered as set out below.
+
+Page 13 of 13
+
+Question of law I – Need not be addressed
+
+Question of law II – Affirmative
+
+Question of law III –Need not be addressed
+
+Question of law IV – Need not be addressed
+
+Question of law V – Need not be addressed
+
+Question of law VI - Need not be addressed
+
+Question of law VII -Need not be addressed
+
+Accordingly, the appeal is allowed.
+
+The determination of the TAC dated 26th of April 2023, determination of the Respondent dated
+
+12th of October 2021 is overturned and the assessment dated 3rd of September 2019 issued by
+
+the Deputy Commissioner of the Department of Inland Revenue is annulled.
+
+The Registrar is directed to serve a copy of this judgment to the Secretary of the Tax Appeals
+
+Commission for necessary action.
+
+Judge of the Court of Appeal
+
+Annalingam Premashanker J.
+
+I agree
+
+Judge of the Court of Appeal

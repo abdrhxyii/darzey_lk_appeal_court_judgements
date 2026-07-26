@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-07-26 06:43:12",
-  "n_docs": 11309,
-  "n_docs_with_pdfs": 11284,
-  "n_docs_with_text": 11284,
+  "time_updated": "2026-07-26 18:30:24",
+  "n_docs": 11325,
+  "n_docs_with_pdfs": 11300,
+  "n_docs_with_text": 11300,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-07-23",
-  "dataset_size": 11138525852,
+  "date_str_max": "2026-07-24",
+  "dataset_size": 11145533036,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-07-23-CA-WRT-0177-2025",
-    "num": "CA/WRT/0177/2025",
-    "date_str": "2026-07-23",
-    "description": "Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour View More before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-07-24-CA-WRT-0019-2026",
+    "num": "CA/WRT/0019/2026",
+    "date_str": "2026-07-24",
+    "description": "B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others View More before Hon. Mahen Gopallawa, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0177-2025.pdf",
-    "parties": "Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour View More",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Prohibition, Arbitrator\u2019s Power to Award Surcharge on Gratuity.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Industrial Disputes Act, Payment of Gratuity Act."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0019-26-Judgment-Final.pdf",
+    "parties": "B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others View More",
+    "judgement_by": "Hon. Mahen Gopallawa, J.",
+    "keywords": "Appointment \u2013 scheme of recruitment \u2013 marking scheme \u2013 interview \u2013 deviation \u2013 selection process \u2013necessary parties \u2013 misconceived reliefs \u2013 suppression of material facts",
+    "legistation": "Sri Lanka Tea Board Law, No. 14 of 1975 (as amended) Constitution 1978"
   }
 }

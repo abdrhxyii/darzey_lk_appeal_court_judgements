@@ -1,0 +1,825 @@
+==== BLOCKS ==== 
+
+1
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an Application for
+
+Orders in the nature of Writs of
+
+Certiorari, Prohibition and Mandamus
+
+under Article 140 of the Constitution of
+
+the Democratic Socialist Republic of Sri
+
+Lanka.
+
+Serendipol (Pvt) Ltd,
+
+Pannala Road, Dandagamuwa,
+
+Kuliyapitiya. CA (Writ) App. No. 158/2023
+
+PETITIONER Vs.
+
+1. Commissioner General of Labour,
+
+Labour Secretariat, Narahenpita, Colombo 05. 2. Ms. Padma Rathnayake,
+
+Assistant Commissioner of Labour Zonal Labour Office, Wayamba Zone, Parkrambahu Mawatha, Meegahakotuwa, Kulliyapitiya. 3. R.D. Lal Padmasiri,
+
+Pahala Kalugamuwa, Kuliyapitiya. 4. L.A.S.P. Gunathilaka,
+
+Hammalawa Waththa, Kuliyapitiya. 5. U.A. Priyantha Sulalith,
+
+Kolongahamulahena,
+
+2
+
+Dandagamuwa West, Kuliyapitiya. 6. D.M. Wijepala,
+
+Kaburapola, Moonamaldeniya. 7. Μ.Κ.Ν.Τ. Perera,
+
+Kaburapola, Moonamaldeniya. 8. S.A. Thilak Sanjeewa,
+
+Bangalawaththa, Ahugoda, Pothuhera.
+
+9. W.N. Kumar Fernando,
+
+Kaburapola, Moonamaldeniya. 10. S. Sathyanandan,
+
+No. 21, Senanigama, Dandagamuwa, Kuliyapitiya. 11. A.A. Priyankara Perera,
+
+Kaburapola, Moonamaldeniya. 12. J.K.R.S. Jayasinghe,
+
+No. 65/1, Pinlinda Road, Urupitiya, Kuliyapitiya.
+
+13. P.K.D. Ajith Sampath,
+
+Ihalagama Uthura, Udubaddawa.
+
+14. H.K. Thilakaratne,
+
+Ihalagama Kalugamuwa, Thalahitimulla.
+
+15. K.P.R.L. Kumara,
+
+Wilapola, Udubaddawa.
+
+16. R.L. Dayananda,
+
+No. 313/15, Paragodamulla, Walakuburumulla.
+
+17. M.M.A. Pushpakumara,
+
+Kaburapola, Moonamaldeniya.
+
+3
+
+18. S.P.T.S. Somananda,
+
+Ihala Kalugamuwa, Thalaitimulla, Kuliyapitiya.
+
+19. J.M.N. Jayakody,
+
+08 Post, Wendesiwaththa, Thalahitimulla, Kuliyapitiya.
+
+20. M. Rathnasiri,
+
+Haugammana, Thalahitimulla.
+
+21. M.R.I. Perera,
+
+No. 285/3, Kaburapola, Moonamaldeniya.
+
+22. R.D.C. Nishantha,
+
+Polgaha Agara, Wathugahamulla. Nathtandiya.
+
+23. M.S.S.D. Perera,
+
+Kaburapola, Moonamaldeniya.
+
+24. W.A.W.R. Wickrama Arachchi,
+
+No. 18/1, Kaburapola, Moonamaldeniya.
+
+25. M.I.N.S. Priyantha,
+
+Boruwewa, Ilukhena.
+
+26. H.M.A. Herath,
+
+Kaburapola, Moonamaldeniya.
+
+27. K.M.U.S. Karunanayake,
+
+Pahala Elathalawa, Katuwalla, Deegalla.
+
+28. W.A. Ranasinghe,
+
+Kumbalwela, Illukhena.
+
+29. A.M.P. Wickramasinghe,
+
+Ihala Kanogama, Katupotha.
+
+30. H.A.T. Hettiarachchi,
+
+4
+
+Rathmale Waththa, Pahala Diyadora.
+
+31. H.M.D.P. Dissanayake,
+
+Ihala Elathalawa, Deegalla.
+
+32. S.W.R.V. Kumara,
+
+Alankare, Moragane.
+
+33. S.Ρ.Μ.Ν.M.P. Kumara,
+
+Wahumuwa, Kithalawa.
+
+34. T.A.A. Fernando,
+
+No. 77, Yaganwela, Dummalasuriya.
+
+35. H.M.R. Pushpakumara,
+
+Pahala Elathalawa, Katuwella.
+
+36. Κ.Μ.Μ.Ρ. Kasthuri,
+
+Demaladora, Katupotha.
+
+37. M.P.S. Kumara,
+
+Ihala Kalugamuwa, Thalahitimulla. Kuliyapitiya.
+
+38. J.A.B.S. Kumara,
+
+Walakumburumulla, Weralugama.
+
+39. L.P.S. Kumara,
+
+Walakumburumulla, Weralugama.
+
+40. L.R.J.S. Kumara,
+
+Pahala Elathalawa, Deegalla.
+
+41. W.A.P.P. Kumara,
+
+Ihala Kalugamuwa, Thalahitimulla. Kuliyapitiya.
+
+42. K.B.R. Nayanajith,
+
+Ihala Kalugamuwa, Thalahitimulla. Kuliyapitiya.
+
+43. G.D.K. Godagamage,
+
+Koskele Watta, Kabalewa, Deegalla, Kuliyapitiya.
+
+5
+
+RESPONDENTS
+
+Before: Dr. D. F. H. Gunawardhana, J.
+
+Counsel:
+
+Geoffrey Alagaratnam, P.C., with Luwie Ganeshathasan for the Petitioner.
+
+Mihiri de Alwis, S.S.C., for the 1st Respondent.
+
+Chamara Wannisekara with Isuri Cooray instructed by Dineth Kaushalya for the 3rd to 11th,
+
+15th, 16th, 17th, 19th to 26th, 31st and 32nd Respondents.
+
+Argued on: 09.03.2026
+
+Delivered on: 16.07.2026
+
+6
+
+Dr. D. F. H. Gunawardhana, J.
+
+Judgement
+
+Introduction
+
+The Petitioner is a body corporate incorporated under the laws of Sri Lanka, and it claims that it is
+
+a company partnered with more than 1,000 coconut farmers who grow coconuts within the
+
+Coconut Triangle and process approximately 30 million coconuts annually. The Petitioner
+
+processes such coconuts into virgin coconut oil, coconut milk, desiccated coconut, coconut chips,
+
+and coconut water, primarily for export. Thus, it supports farmers in transitioning to regenerative
+
+organic methods that enrich the soil, promote the system and improve yields, help sequester
+
+atmospheric carbon, and increase resilience levels. The Petitioner further claims to be the first
+
+company in the world to obtain a Regenerative Organic Certification for coconuts.
+
+Further, the Petitioner asserts that, between the years 2017 and November 2021, it employed the
+
+3rd to 43rd Respondents for the purpose of collecting, loading, and transporting coconuts from
+
+plantations to the factory, and that their employment was not governed under the purview of the
+
+Motor Transport Trade Wages Board.
+
+On a complaint made by the 3rd to 43rd Respondents, the 2nd Respondent on the direction of the 1st
+
+Respondent had taken a decision to recover the overtime payable between January 2017 to
+
+December 2017, and January 2018 to November 2021, separately. For that purpose, the 2nd
+
+Respondent had issued two notices marked as P1 and P2 annexed to the Petition, which the
+
+Petitioner challenges in this Application.
+
+7
+
+Accordingly, the Petitioner is a body corporate incorporated under the laws of Sri Lanka and is
+
+capable of suing and being sued in its corporate name. The 1st Respondent is the Commissioner
+
+General of Labour, who is vested with the authority to take decisions under the Wages Boards
+
+Ordinance and the regulations made thereunder. The 2nd Respondent is the Assistant
+
+Commissioner of Labour, Kuliyapitiya, and the 3rd to 43rd Respondents, according to the Petitioner,
+
+are complainants who made complaints against the Petitioner to the 2nd Respondent and are the
+
+beneficiaries of the notices marked P1 and P2 annexed to the Petition.
+
+After the issuance of formal notice, the Respondents filed their respective Objections and moved
+
+for the dismissal of this Application.
+
+This was argued before me on 09.03.2026, followed by the submission of Written Submissions;
+
+hence, this judgement.
+
+The Petitioner’s complaint
+
+The Petitioner is a body corporate, and it can sue and be sued in its corporate name; further, to
+
+establish this the Petitioner has marked P3, its Certificate of Incorporation, and the Petitioner
+
+claims that its main business is collecting coconuts from various producers who are suppliers, and
+
+then, in its factory, the coconuts so collected are subjected to processing into various products.
+
+Thus, the end products are desiccated coconut and various other value-added products. The
+
+Petitioner is engaged in the export and sale of the said value-added products overseas and is thereby
+
+earning foreign exchange.
+
+8
+
+Further, the Petitioner admits that the 3rd to 43rd Respondents were employed by the Petitioner to
+
+collect coconuts from various suppliers, and for that purpose they were employed to operate lorries
+
+and various other modes of transportation and bring the collected coconuts back to the factory.
+
+In addition to that, by the two letters marked P4 and P5, the Petitioner received notices from the
+
+2nd Respondent stating that they had received complaints from the 3rd to 43rd Respondents, who
+
+were employed under the Petitioner, regarding the Petitioner's failure to pay their overtime for the
+
+periods from January 2017 to December 2017 and from January 2018 to November 2021. Thereby,
+
+the 2nd Respondent called the Petitioner for information to calculate their overtime and wages.
+
+Thereafter, in response to those two letters, the Petitioner furnished all the required information,
+
+which is reflected in the document marked P6. In addition to that, the Petitioner has marked
+
+documents P6(a) to P6(e) as annexures to P6, which relate to the overtime and payments of the
+
+Respondents. However, P6(e) is a document containing an extract of the Wages Boards Ordinance
+
+and the relevant regulations made thereunder. Thereafter, based on that, the Petitioner has taken
+
+the position that the overtime of the 3rd to 43rd Respondents had been calculated according to the
+
+basic wages applicable to a worker in the coconut industry and not the transport industry, though
+
+the said Respondents may have been engaged in the transportation of coconuts and, of course, not
+
+only transportation but also collecting and picking coconuts as well.
+
+Since, the Petitioner's main business is not transportation, but processing coconuts through value
+
+addition. For that purpose, the Petitioner has to collect coconuts from various estates belonging to
+
+suppliers to obtain the coconuts necessary for its industry. Thus, the 3rd to 43rd Respondents were
+
+employed mainly to collect and bring coconuts to the factory. Therefore, they cannot be treated as
+
+employees engaged in the transportation industry but rather as employees in the coconut industry.
+
+9
+
+Further, although part of their work may involve transporting coconuts, they are not engaged solely
+
+in transportation. Therefore, the Petitioner's position is that it has calculated the wages according
+
+to the wages applicable to the coconut industry and, in fact, has paid amounts in excess of what
+
+was required as overtime.
+
+The Petitioner maintains the position that it is not in arrears of any payment and has not calculated
+
+or paid less than what is required. However, thereafter, the Petitioner claims that it received the
+
+two letters marked P8 and P9. Accordingly, the document marked as P8 is regarding the wages
+
+and overtime had not been calculated correctly for the period between January 2017 and December
+
+2017, and therefore, the calculations had been made according to the relevant regulations. Thus, if
+
+there was any issue with regard to the same, the Petitioner was instructed to meet the Labour
+
+Officer in Kuliyapitiya, one Mrs. Abeysinghe. In addition, similar information was given as
+
+reflected in the document marked P9. However, that is related to the period commencing from
+
+January 2018 to November 2021.
+
+Further, there was subsequent correspondence between the Petitioner and the 2nd Respondent,
+
+which is marked as P10 and P11; the document marked as P10 relates to the period from January
+
+2017 to December 2017, while P11 relates to the period commencing from January 2018 till
+
+November 2021.
+
+Further, the Petitioner raised its objections by the document marked P12 annexed to the Petition
+
+with regard to those two documents. However, the Petitioner had received notices under Section
+
+46(3) of the Wages Boards (Amendment) Act, No. 14 of 2019, (hereinafter referred to as the “Act”),
+
+from the 2nd Respondent, which are marked as P13 and P14.
+
+10
+
+Thereafter, there was further correspondence between the parties. However, after a final notice
+
+was issued, and the 2nd Respondent instituted action in the Magistrate's Court of Kuliyapitiya,
+
+which is reflected in the document P21, to recover the calculated amount of arrears of overtime
+
+payments due to the 3rd to 43rd Respondents, as calculated by the 2nd Respondent and reflected in
+
+P1 for the period between January 2017 and December 2017. Moreover, by a similar intimation,
+
+notice was also given with regard to the period from January 2018 till November 2021 for the
+
+overdue overtime payable by the Petitioner to the 3rd to 43rd Respondents, which is marked as P2.
+
+Thereby, payment was demanded by those two letters, and since the Petitioner had not paid the
+
+same subsequent to the notices marked P13 and P14, the Respondents instituted the said
+
+application in the Magistrate's Court.
+
+Therefore, the Petitioner challenges the documents marked P1 and P2 on the basis that the
+
+calculations were made by the 2nd Respondent without affording the Petitioner for a hearing and
+
+on the basis of Motor Traffic Transport Wages Board Ordinance.
+
+Secondly, the Petitioner challenges the same on the basis that the calculations are erroneous, since
+
+by the time the claim was made, more than four years have passed. However, the calculations were
+
+made on the basis that the arrears could be calculated for a period of six years in terms of the
+
+amendment introduced in 2022.
+
+The Respondents’ Objections
+
+It is the position of the Respondents that, since the Petitioner had failed to calculate and pay the
+
+overtime payments arrears to the employees, namely the 3rd to 43rd Respondents to this application,
+
+upon their complaint and based on the information provided by the Petitioner, the 2nd and 3rd
+
+Respondents calculated the amount due and payable after deducting the amounts already paid.
+
+11
+
+Thereby, the balance overdue payment was then communicated to the Petitioner by the documents
+
+marked P8 and P9; thereafter, the Petitioner failed to make the said payments. Accordingly, the
+
+Respondents had no other option but to institute action.
+
+Further, the Respondents rely upon five documents, namely R1 to R5, annexed to their Statement
+
+of Objections; R1 and R2 are the two documents relied upon by the Respondents in calculating
+
+the salaries and overtime payable according to the wages paid by the Petitioner to the Respondents.
+
+Further, R3 reflects the minutes of the meeting conducted by the 2nd and 3rd Respondents. In
+
+addition to that, the Respondents also rely upon two other documents marked R4 and R5, which
+
+have been marked by the Petitioner as P11 and P13, respectively.
+
+After filing the averments contained in the Statement of Objections, the Petitioner filed its Counter
+
+Affidavit denying the averments contained therein and further reaffirming the averments set out in
+
+the Petition.
+
+Thereafter, the matter was argued before me on 09.03.2026, and the following arguments were
+
+advanced.
+
+Arguments
+
+First argument advanced by Mr. Alagarathnam is that P1 and P2 are ultra vires, since the Petitioner
+
+is only engaged in an industry related to coconut and coconut products and by-products; therefore,
+
+the transport is merely an ancillary service, and in the course of its business, if it has employed
+
+some employees to transport coconuts and if they work overtime, that does not fall within the
+
+industry of the Petitioner. Therefore, basing such employees who are working under the Petitioner
+
+12
+
+within the Wages Board Ordinance and based on that, calculating overtime is erroneous and ultra
+
+vires.
+
+Secondly, Mr. Alagarathnam argued that Section 46 of the Act is not only a procedural section but
+
+also a penal section, since it defines the offence. It is now being applied retrospectively from 2019
+
+and goes backward for six years, which is two years more than the earlier period. Therefore, that
+
+has to be considered when the Petition is filed.
+
+Thirdly, Mr. Alagarathnam argued that, in terms of Section 21, only the minimum salary can be
+
+taken into consideration when overtime is calculated. However, in this particular instance, the
+
+Commissioner has based the calculation on the salary paid to the employees, which is much higher
+
+than the minimum salary provided and contemplated by the Act itself. Therefore, that is also
+
+irrational.
+
+However, on the other hand, Ms. Mihiri De Alwis argued that the Petitioner has employed
+
+employees in the course of its business; therefore, it falls within the purview of the Petitioner’s
+
+business and industry, and therefore it is not ultra vires. Secondly, the salary paid by the Petitioner
+
+has to be taken as the basis on which overtime is calculated.
+
+Questions to be decided
+
+In view of the facts stated in the Petition, Objections, and the arguments advanced by way of oral
+
+submissions and written submissions, it is my view that the following questions arise for my
+
+consideration;
+
+(i) What type of business or trade is the Petitioner engaged in
+
+13
+
+(ii) Is the 2nd Respondent justified at arriving at the decision to issue notice under Section 46
+
+to recover overtime calculated in terms of the Motor Traffic Transport Wages Board
+
+Ordinance
+
+(iii)Ancillary matters to be considered
+
+The Petitioner asserts that it later became aware that the 3rd to 43rd Respondents had made
+
+complaints to the 2nd Respondent relating to overtime payments. Thereby, pursuant to the said
+
+complaints, the 2nd Respondent sought certain information from the Petitioner regarding the
+
+employees, and the Petitioner furnished the same by the documents marked as P4 and P5.
+
+By letter marked as P6, and annextures therein marked as P6(a), P6(c), P6(d), and P6(e), the
+
+Petitioner submitted that the calculations of overtime payments based on the minimum rates of
+
+wages prescribed under the Wages Boards Ordinance with regard to the employment. Therefore,
+
+based on those calculations, the Petitioner claims that the 2nd Respondent has miscalculated the
+
+wages.
+
+However, the Petitioner states that, to its surprise and shock, the 2nd Respondent had issued two
+
+notices in respect of overtime payments, marked P1 and P2. The first notice relates to overtime
+
+payments for the period from January 2017 to December 2017, while the second relates to the
+
+period from January 2018 to November 2021.
+
+Further, the Petitioner raised its objections to the wage calculations by letter P7 addressed to the
+
+2nd Respondent. Thereafter, the 2nd Respondent responded to the said letter P7 by two letters
+
+marked P8 and P9.
+
+14
+
+The Petitioner’s trade or business
+
+The Petitioner challenges P1 and P2 mainly on the basis that the 2nd Respondent has arrived at his
+
+decision without considering the trade or business of the Petitioner as the basis for calculating the
+
+wages of the 3rd to 43rd Respondents. It is argued that the 2nd Respondent based his decision on the
+
+specific work performed by the 3rd to 43rd Respondents in the discharge of their duties as workmen.
+
+Therefore, Mr. Alagarathnam argued that such an approach is contrary to the wording of the Act,
+
+the intention of the legislature, and the interpretation given by the superior courts of this country.
+
+I will now consider that aspect of the argument.
+
+According to the Petitioner, its main business is the collection and purchase of coconuts from
+
+various suppliers and processing them in its factory with value addition. It is stated that there are
+
+about 1000 suppliers registered with the Petitioner. Once the harvest is collected, the coconuts are
+
+processed into various value-added products, which are then exported and sold in the international
+
+market. Thus, earning foreign exchange is the main business of the Petitioner. Therefore, it is
+
+argued that transportation for the purpose of collecting coconuts is only an ancillary activity and
+
+cannot be considered as constituting the business, or even part of the business, of the Petitioner.
+
+Accordingly, it is contended that the decisions of the 2nd Respondent, to conclude overtime on the
+
+basis of the regulations made under the Motor transport Wages Board Ordinance resulting in P1
+
+and P2, are erroneous and irrational.
+
+On a perusal of the Wages Board Ordinance, No. 27 of 1941, what is contemplated in Section 36
+
+is the trade or business of the employer and not that of the employee.
+
+For further clarity, I reproduce the said Section 36;
+
+15
+
+“36. Where a worker is employed on piece-work and a general minimum time-rate but no
+
+general minimum piece-rate has been determined under this Ordinance, the employer of
+
+that worker shall be deemed to pay wages at less than the minimum rate unless he shows
+
+that the piece-rate of wages paid would yield in the circumstances of the case at least the
+
+same remuneration as the general minimum time-rate”
+
+This provision has been interpreted in two cases, namely Sinnathamby v. Jinasena1, decided by
+
+Justice Basnayake, and Abeygoonesekara v. Sinnathamby2, decided by Justice Nagalingam. In
+
+Sinnathamby v. Jinasena, it was argued that overtime should be calculated according to the work
+
+rendered by the workman. However, the Court held thus;
+
+“The trade contemplated in the section is the trade of the employer and not that of the
+
+worker. In the instant case, the trade of the employer is the engineering trade, and the trade
+
+of the worker is the motor transport trade. The obligations imposed by section 36 in respect
+
+of an employer in the motor transport trade do not therefore fall on him. It is submitted by
+
+learned Crown Counsel that the words" in any trade" in section 36 are wide enough to
+
+catch up not only the employer's trade, but also the worker's trade. By themselves they are
+
+words of wide import, but their meaning is controlled by the context in which they occur.
+
+When the other provisions of the Ordinance are examined, it becomes apparent that when
+
+the Ordinance uses the words ‘employer in any trade’ it contemplates the employer's trade
+
+and not the worker's. Section 35 speaks of a worker in any trade, while section 37 speaks
+
+of every person engaged in any trade. The latter section also makes it clear that the
+
+obligation imposed thereby is imposed in respect of the trade of the employer and not that
+
+1 53 NLR 139. 2 52 NLR 403.
+
+16
+
+of the worker. When it comes to the payment of wages the Ordinance provides that the
+
+employer shall pay the minimum wages applicable to the worker's trade (section 21).”
+
+In the same breath, in the case of Abeygoonesekara v. Sinnathamby, wherein Justice Nagalingam
+
+held thus;
+
+“‘Trade includes any industry, business, undertaking, occupation, profession or calling
+
+carried out, performed or exercised by an employer’.
+
+Having regard to this definition it would be clear that where an employer carries on a
+
+particular business or undertaking, then such business or undertaking would fall within
+
+the definition of the term - ‘trade’ as used in the Ordinance and before an employer can be
+
+said to be in the motor transport trade he must be shown to be carrying on the business or
+
+undertaking of a motor transport agent, that is to say, of one who holds himself out as
+
+being prepared to transport for reward goods by means of motor vehicles. Clearly, as
+
+indicated earlier, the appellant does not carry out, perform or exercise the business of a
+
+transport agent. Mr. Fernando ultimately conceded that this view -may be correct.
+
+Mr. Fernando, however, relies for his contention upon a reading of the definition from the
+
+standpoint of the worker, which would then run as follows:
+
+‘Trade includes any industry, business, undertaking, occupation, profession or calling
+
+carried out, performed or exercised by a worker.’
+
+Looking at this definition it would be manifest that any occupation or calling exercised by
+
+a worker is in itself a trade and regarded as such for the purpose of the Ordinance. The
+
+trade of the worker, that is to say, the occupation or calling of the worker is in no way
+
+dependent upon and need not be related to any industry, business or undertaking in which
+
+the employer may be engaged. The employer in point of fact need have no business
+
+17
+
+whatsoever, and to this extent our law departs "largely from the law of England. That the
+
+occupation or calling exercised by the worker in this case is that of a lorry driver is
+
+undoubted. It would therefore be correct to describe the worker as one who is engaged in
+
+the lorry-drivers' trade, which trade is a branch of the larger trade designated the motor
+
+transport trade. The worker whom the appellant Is alleged to have underpaid is therefore
+
+one in the motor transport trade and he certainly is entitled under the notification to be
+
+paid the minimum wage, though the appellant may not be in the motor trade himself.
+
+The germ of the idea behind our definition of " trade" is to be found in the case of Skinner
+
+v. Jack Breach1[ (1927) 2 K. B. 220] where the contention was put forward that both the
+
+worker and the employer must be engaged in the same business before that business could
+
+be regarded as a trade within the meaning of the Trade Boards Act. This contention was
+
+rejected in that case and the Judges took the view that it was immaterial that the employer
+
+was engaged in a trade different from that he employs the worker to carry on. Our
+
+Legislature adopted this view and gave it legal recognition by enacting the definition of
+
+the term ‘trade’ so as to include the occupation or calling of a worker, irrespective of what
+
+the trade of the employer may be. In other words, the definition catches up both classes of
+
+cases (1) where the employer and the worker are engaged in the same trade and (2) where
+
+the employer and the worker may be engaged in two different trades.”
+
+Accordingly, it is my view that the main business of the Petitioner is the collection, processing,
+
+and production of coconut into value-added products, and not transportation. If the Petitioner were
+
+engaged in the transportation business and rendered transportation services to third parties, it could
+
+then be said that the Petitioner is engaged in the business of transportation. However, that is not
+
+18
+
+the position in the present case. Therefore, the decision taken on the basis of the Motor Wages
+
+Board Ordinance will apply to the workmen (3rd to 43rd Respondents) is irrational and erroneous.
+
+Miscalculation of overtime
+
+In this case, it is argued for and on behalf of the Petitioner that the 2nd Respondent has
+
+miscalculated the overtime based on actual wages paid. It is argued that the overtime under the
+
+Motor Traffic Transport Wages Board, if at all to be settled in favour of the 3rd to 43rd Respondents,
+
+cannot be calculated on actual wages; it has to be based on minimum wages. In support of this
+
+argument, the Petitioner relies upon the document marked as P6(e) annexed to the Petition, which
+
+is the Order of the Wages Board for the Motor Transport Trade as published in the Sri Lanka
+
+Labour Gazette No. 52 of 2001.
+
+For further clarity, the relevant section of P6(e) is reproduced below which reads thus;
+
+“OVERTIME RATE:
+
+1. In respect of each hour in excess of the normal working day the minimum overtime rate
+
+shall be one and half times the minimum hourly rate ascertained by dividing minimum
+
+monthly rate by 200.”
+
+Accordingly, it is my view that the said argument is tenable; as such, the overtime calculated by
+
+the 2nd Respondent based on the actual wages under the Motor Traffic Transport Wages Board is
+
+erroneous. Therefore, what is reflected in P1 and P2 as overdue overtime payment recoverable
+
+from the Petitioner, payable to the 3rd to 43rd Respondents, are erroneously calculated. Thus, it is
+
+irrational and have to be quashed.
+
+19
+
+Prescription
+
+The next argument is on the prescription of the determination reflected in P1 and P2.
+
+It is further contended on behalf of the Petitioner that Section 19(a) does not apply retrospectively,
+
+but only prospectively. Therefore, the calculation from 2017 is prescribed and thus cannot be
+
+sustained.
+
+On the other hand, it was argued for and on behalf of the Respondents that the prescriptive period
+
+is extended up to six years; therefore, it is covered up to 2017 from the date of the calculation. As
+
+such, Section 19(a) introduced in 2022 is applicable.
+
+It is argued that four years has to be calculated backwards from the date of the determination in
+
+terms of Section 19(a). However, Section 19(a) has been amended in 2019; according to which,
+
+the prescriptive period is now six years.
+
+However, it is argued on behalf of the Petitioner countering the six-year period that Amending Act
+
+was brought in 1990, amending Section 19 and introduced Section 19(a), and it applies
+
+prospectively and not retrospectively. Even assuming that it accepts prospectively, only the 2017
+
+calculation is prescribed because it is outside the four years.
+
+Nevertheless, the argument based on that is unnecessary to be considered since I have already
+
+decided to issue writs quashing the decisions reflected in P1 and P2, based on the other two
+
+grounds. Accordingly, the third matter is not necessary to be considered.
+
+20
+
+Conclusion
+
+For the reasons adumbrated above, Writ of Certiorari is issued as prayed for in prayer (b) of the
+
+Petition, without costs.
+
+JUDGE OF THE COURT OF APPEAL
