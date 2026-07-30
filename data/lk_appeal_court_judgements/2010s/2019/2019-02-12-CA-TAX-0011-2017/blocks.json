@@ -1,0 +1,5509 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      103.42,
+      105.59,
+      511.32,
+      118.78
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.396748542785645,
+      9.512097358703613,
+      9.562727928161621,
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.94,
+      499.19,
+      207.89,
+      512.38
+    ],
+    "text": "Case No. CA/TAX/ll/2017",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.651959419250488,
+      10.357884407043457
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.54,
+      528.23,
+      244.69,
+      541.42
+    ],
+    "text": "Tax Appeals Commission Case No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.645243644714355,
+      9.725924491882324,
+      9.76237678527832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.53,
+      557.51,
+      174.35,
+      570.7
+    ],
+    "text": "TAC/VAT/012/2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.864555358886719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.17,
+      163.65,
+      537.57,
+      177.8
+    ],
+    "text": "In the matter of an appeal on a question of law by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.989572525024414,
+      10.044583320617676,
+      10.24510383605957,
+      10.300000190734863,
+      10.333745002746582,
+      10.393921852111816,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.72,
+      185.01,
+      538.27,
+      199.16
+    ],
+    "text": "way of a case stated for the opinion of Honorable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.148130416870117,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.518287658691406,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.81,
+      206.84,
+      537.54,
+      220.99
+    ],
+    "text": "Court of Appeal of the Democratic Socialist Republic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.86,
+      228.21,
+      538.8,
+      242.36
+    ],
+    "text": "of Sri Lanka under and in terms of Section 170(2) of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.177825927734375,
+      10.229660034179688,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.43,
+      249.8,
+      537.33,
+      263.95
+    ],
+    "text": "the Inland Revenue Act No. 10 of 2006 (as amended)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.98271369934082,
+      10.268953323364258,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.0,
+      271.16,
+      537.55,
+      285.31
+    ],
+    "text": "read with Section 11A of the Tax Appeals",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.075401306152344,
+      10.300000190734863,
+      10.388867378234863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.57,
+      292.76,
+      508.63,
+      306.91
+    ],
+    "text": "Commission Act No. 23 of 2011 (as amended)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.078263282775879,
+      10.166383743286133,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.35,
+      351.57,
+      459.56,
+      365.72
+    ],
+    "text": "Squire Mech Engineering (Pvt) Ltd.,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.73,
+      381.08,
+      432.63,
+      395.23
+    ],
+    "text": "No. 135/1, Old Kottawa Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.287442207336426,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.73,
+      410.13,
+      404.81,
+      424.28
+    ],
+    "text": "Nawinna, Maharagama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.23,
+      499.19,
+      304.57,
+      512.38
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      478.57,
+      440.63,
+      536.18,
+      453.82
+    ],
+    "text": "APPELLANT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.69,
+      586.28,
+      510.82,
+      600.43
+    ],
+    "text": "The Commissioner General of Inland Revenue,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      615.56,
+      440.59,
+      629.71
+    ],
+    "text": "Department of Inland Revenue,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.87,
+      644.84,
+      481.31,
+      658.99
+    ],
+    "text": "Sir Chittampalam A. Gardiner Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.894362449645996,
+      10.285540580749512,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.09,
+      673.88,
+      350.14,
+      688.03
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      467.78,
+      704.16,
+      535.67,
+      717.35
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      278.67,
+      747.34,
+      334.55,
+      760.25
+    ],
+    "text": "Page 1 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.240394592285156,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.58,
+      104.61,
+      194.51,
+      118.76
+    ],
+    "text": "Before: Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.330193519592285,
+      10.03042221069336,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.41,
+      133.88,
+      219.71,
+      148.03
+    ],
+    "text": "Achala Wengappuli J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.330193519592285,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.17,
+      163.17,
+      119.36,
+      177.32
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.19,
+      192.44,
+      373.3,
+      206.59
+    ],
+    "text": "Saliya Pieris P.c. with Upendra Walgampaya for the Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.249979019165039,
+      10.300000190734863,
+      10.388867378234863,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.52,
+      221.96,
+      271.13,
+      236.11
+    ],
+    "text": "Indula Ratnayake SC for the Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.268834114074707,
+      10.300000190734863,
+      10.333745002746582,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.29,
+      251.25,
+      245.91,
+      265.4
+    ],
+    "text": "Written Submissions tendered on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.354455947875977,
+      10.425288200378418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.33,
+      280.77,
+      196.2,
+      294.92
+    ],
+    "text": "Appellant on 20.03.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.8,
+      310.05,
+      207.32,
+      324.2
+    ],
+    "text": "Respondent on 25.05.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.263786315917969,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.33,
+      339.33,
+      188.79,
+      353.48
+    ],
+    "text": "Argued on: 02.08.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.57,
+      368.85,
+      192.91,
+      383.0
+    ],
+    "text": "Decided on: 12.02.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.76,
+      398.36,
+      155.81,
+      412.51
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.696202278137207,
+      10.03042221069336,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.01,
+      427.4,
+      538.27,
+      441.55
+    ],
+    "text": "The Appellant is a company engaged in the business of construction and civil engineering. It",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.272713661193848,
+      10.2755708694458,
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.44,
+      449.0,
+      538.56,
+      463.15
+    ],
+    "text": "constructed the District Hospital Pottuvil which was funded by the International Federation of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.82,
+      470.36,
+      538.08,
+      484.51
+    ],
+    "text": "Red Crosses which is a foreign donor organization. Sri Lanka Red Cross Society was the direct",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.839401245117188,
+      9.91147232055664,
+      10.177825927734375,
+      10.20698070526123,
+      10.222709655761719,
+      10.276874542236328,
+      10.287993431091309,
+      10.300000190734863,
+      10.30204963684082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.44,
+      491.72,
+      537.32,
+      505.87
+    ],
+    "text": "contractor and the Appellant acted as sub-contractor. The Value Added Tax (VAT) return sent by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.575413703918457,
+      10.229257583618164,
+      10.24510383605957,
+      10.267046928405762,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.27,
+      513.33,
+      537.49,
+      527.48
+    ],
+    "text": "the Appellant claiming an exemption was rejected as the Appellant has not got approval from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.1607084274292,
+      10.264989852905273,
+      10.300000190734863,
+      10.330704689025879,
+      10.36916732788086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.28,
+      534.92,
+      537.69,
+      549.07
+    ],
+    "text": "the Minister of Finance and Planning for the exemption. It was the position of the Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.42558479309082,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.27,
+      556.52,
+      537.41,
+      570.67
+    ],
+    "text": "that the Appellant had to pay VAT on services supplied for the construction of the District Hospital",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.288643836975098,
+      10.300000190734863,
+      10.325418472290039,
+      10.333745002746582,
+      10.49338436126709,
+      10.518287658691406,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.6,
+      578.12,
+      167.0,
+      592.27
+    ],
+    "text": "project at Pottuvil.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.25,
+      607.4,
+      537.37,
+      621.55
+    ],
+    "text": "The Appellant made an appeal to the Respondent which was rejected. The Appellant then",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.1607084274292,
+      10.201883316040039,
+      10.300000190734863,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.45,
+      628.76,
+      537.85,
+      642.91
+    ],
+    "text": "appealed to the Tax Appeals Commission (TAe) which was also rejected. Hence the Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.229257583618164,
+      10.287993431091309,
+      10.300000190734863,
+      10.414117813110352,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.84,
+      650.12,
+      537.43,
+      664.27
+    ],
+    "text": "moved that the TAC refer certain questions of law for the opinion of the Court which was allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.970169067382812,
+      10.300000190734863,
+      10.333745002746582,
+      10.42558479309082,
+      10.439356803894043,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279.88,
+      746.12,
+      335.61,
+      760.27
+    ],
+    "text": "Page 2 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      10.1214017868042,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.77,
+      104.37,
+      392.45,
+      118.52
+    ],
+    "text": "The questions of law referred by the TAC for opinion of Court are:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.970169067382812,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.42558479309082,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.26,
+      127.16,
+      536.95,
+      141.31
+    ],
+    "text": "(1) Whether the Tax Appeals Commission is mandated and/or empowered under the Tax",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.075401306152344,
+      10.171954154968262,
+      10.229257583618164,
+      10.300000190734863,
+      10.333745002746582,
+      10.403480529785156
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.49,
+      148.77,
+      537.31,
+      162.92
+    ],
+    "text": "Appeals Commission Act No. 23 of 2011 to make its determination disregarding the section",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.166383743286133,
+      10.300000190734863,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.87,
+      170.37,
+      537.55,
+      184.52
+    ],
+    "text": "10 of the Tax Appeal Commission Act No. 23 of 2011 as amended up to 24th April by its",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.970169067382812,
+      10.0501708984375,
+      10.229257583618164,
+      10.241835594177246,
+      10.244098663330078,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.37,
+      191.96,
+      427.99,
+      206.11
+    ],
+    "text": "amendment Act No. 10 of 2012 and amendment Act No. 20 of 2011?",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.281232833862305,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.27,
+      213.33,
+      536.84,
+      227.48
+    ],
+    "text": "(2) Under Section 23 of the Value Added Tax Act No. 14 of 2002 every registered person shall",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.063126564025879,
+      10.152595520019531,
+      10.166383743286133,
+      10.300000190734863,
+      10.414117813110352,
+      10.439356803894043,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.37,
+      234.92,
+      537.6,
+      249.07
+    ],
+    "text": "account for tax on invoice basis. Provided however the Commissioner General may direct",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.291096687316895,
+      10.300000190734863,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.39,
+      256.28,
+      537.23,
+      270.43
+    ],
+    "text": "such person to account for tax on payment basis. Can the assessor disregard the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.981165885925293,
+      10.224523544311523,
+      10.291096687316895,
+      10.300000190734863,
+      10.42558479309082,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.33,
+      278.13,
+      536.45,
+      292.28
+    ],
+    "text": "Commissioner General's direction to the Appellant to account for tax on payment basis and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255955696105957,
+      10.300000190734863,
+      10.49338436126709,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.52,
+      299.48,
+      282.75,
+      313.63
+    ],
+    "text": "issue the assessment on invoice basis?",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.275921821594238,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.02,
+      321.08,
+      537.3,
+      335.23
+    ],
+    "text": "(3) Under Section 2(1)(a) of the Value Added Act No. 14 of 2002 at the time of supply, on every",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.171954154968262,
+      10.263786315917969,
+      10.300000190734863,
+      10.333745002746582,
+      10.350476264953613,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.95,
+      342.69,
+      537.35,
+      356.84
+    ],
+    "text": "taxable supply of good and services, made in a taxable period, by a registered person in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.12,
+      364.29,
+      536.35,
+      378.44
+    ],
+    "text": "course of carrying on or carrying out, a taxable activity shall charge the value added tax. And",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.53,
+      385.88,
+      537.35,
+      400.03
+    ],
+    "text": "under section 8 of the Act, no tax shall be charged on the supply of goods or services and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.084853172302246,
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.57585620880127,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.28,
+      407.24,
+      537.45,
+      421.39
+    ],
+    "text": "importation of goods specified in the first schedule to this act as such supplies and imports",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.12,
+      428.85,
+      336.41,
+      443.0
+    ],
+    "text": "are not taxable unless zero rated under section 7.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.36916732788086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.49,
+      450.44,
+      537.92,
+      464.59
+    ],
+    "text": "Now the question is can the appellant charge tax by issuing tax invoices on his supplies to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.24510383605957,
+      10.256959915161133,
+      10.28939437866211,
+      10.300000190734863,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.28,
+      472.04,
+      537.12,
+      486.19
+    ],
+    "text": "registered person who is engaged in the supply of goods or services specified in the first",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.272713661193848,
+      10.300000190734863,
+      10.378748893737793,
+      10.431559562683105,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.15,
+      493.41,
+      218.26,
+      507.56
+    ],
+    "text": "schedule to the VAT Act?",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.78,
+      514.76,
+      538.08,
+      528.91
+    ],
+    "text": "(4) The item No. (lx) of the para (8) of the part 11 of the first schedule to the VAT Act No. 14 of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.171954154968262,
+      10.224120140075684,
+      10.241835594177246,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127,
+      10.708884239196777,
+      10.710567474365234,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.15,
+      536.12,
+      199.95,
+      550.27
+    ],
+    "text": "2002 goes as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.34,
+      557.72,
+      536.58,
+      571.87
+    ],
+    "text": "\"Goods or Services funded directly by foreign organizations for the relief of sudden distress",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.378748893737793,
+      10.42558479309082,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.12,
+      579.33,
+      536.99,
+      593.48
+    ],
+    "text": "caused by natural or human disasters or any activity having regard to the interest of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.439356803894043,
+      10.507657051086426,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.28,
+      600.69,
+      326.67,
+      614.84
+    ],
+    "text": "national economy as approved by the Minister\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.25,
+      622.28,
+      536.97,
+      636.43
+    ],
+    "text": "Does the phrase in the item \"as approved by the Minister\" necessarily, exclusively and purely",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.190670013427734,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.28,
+      643.88,
+      537.92,
+      658.03
+    ],
+    "text": "mean the finance minister? Doesn't line Minister's approval considering the renovation of a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.71,
+      665.0,
+      438.32,
+      679.16
+    ],
+    "text": "tsunami affected District Hospital at Pottuvil tally with the above item?",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.326865196228027,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      278.68,
+      746.95,
+      334.37,
+      759.73
+    ],
+    "text": "Page 3 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.135597229003906,
+      9.300000190734863,
+      9.78828239440918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.64,
+      103.88,
+      131.0,
+      117.8
+    ],
+    "text": "Question 1",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.01,
+      133.11,
+      537.62,
+      147.56
+    ],
+    "text": "The Appellant submitted that the determination ofthe TAC is dated 21.03.2017 whereas in terms",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.905235290527344,
+      10.272713661193848,
+      10.2755708694458,
+      10.300000190734863,
+      10.52210521697998,
+      10.7384672164917,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.46,
+      154.47,
+      537.43,
+      168.92
+    ],
+    "text": "of the proviso to Section 10 of the Tax Appeals Commission Act No. 23 of 2011 as amended (TAC",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.950883865356445,
+      10.152595520019531,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.33,
+      175.82,
+      538.64,
+      190.27
+    ],
+    "text": "Act) the determination should have been made before 31.07.2015 as the section specifies a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.830814361572266,
+      10.300000190734863,
+      10.333745002746582,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.6,
+      197.42,
+      441.28,
+      211.87
+    ],
+    "text": "period of 270 days before which a determination must be made by the TAe.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.77,
+      227.24,
+      538.33,
+      241.39
+    ],
+    "text": "In addressing this question, the fundamental issue to be determined is whether the time limit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      9.989572525024414,
+      10.084853172302246,
+      10.300000190734863,
+      10.333745002746582,
+      10.382072448730469,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.23,
+      248.55,
+      536.94,
+      263.0
+    ],
+    "text": "given in section 10 of the TAC Act is directory or mandatory. The question whether provision in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.970169067382812,
+      10.272713661193848,
+      10.300000190734863,
+      10.333745002746582,
+      10.351122856140137,
+      10.378748893737793,
+      10.57585620880127,
+      10.917461395263672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.45,
+      270.44,
+      536.81,
+      284.59
+    ],
+    "text": "a statute is mandatory or directory is not capable of generalization but when the legislature has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.968826293945312,
+      10.021535873413086,
+      10.300000190734863,
+      10.338129997253418,
+      10.451091766357422,
+      10.507657051086426,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.6,
+      291.8,
+      536.83,
+      305.95
+    ],
+    "text": "not said which is which, one of the basic tests for deciding whether a statutory direction is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.577726364135742,
+      9.775232315063477,
+      10.277926445007324,
+      10.300000190734863,
+      10.351122856140137,
+      10.42558479309082,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.6,
+      313.4,
+      537.82,
+      327.55
+    ],
+    "text": "mandatory or directory is to consider whether violation thereof is penal or not. It has been the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.968826293945312,
+      10.184502601623535,
+      10.300000190734863,
+      10.320080757141113,
+      10.367877006530762,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.03,
+      335.0,
+      536.76,
+      349.15
+    ],
+    "text": "traditional view that where disobedience of a provision is expressly made penal it has to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.084853172302246,
+      10.10332202911377,
+      10.300000190734863,
+      10.456954002380371,
+      10.49338436126709,
+      10.571520805358887,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.2,
+      356.36,
+      537.49,
+      370.51
+    ],
+    "text": "concluded that the provision is mandatory whereas if no penalty is prescribed non-compliance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.968826293945312,
+      10.300000190734863,
+      10.456954002380371,
+      10.798869132995605
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.07,
+      378.2,
+      354.4,
+      392.36
+    ],
+    "text": "with the provisions, of a statute may held to be directory.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.49338436126709,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.63,
+      413.24,
+      537.19,
+      427.39
+    ],
+    "text": "Where the prescription of a statute related to performance of a public duty and where invalidation",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.357986450195312,
+      11.399999618530273,
+      11.460240364074707,
+      12.074872970581055,
+      12.214502334594727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.22,
+      434.84,
+      537.48,
+      448.99
+    ],
+    "text": "of acts done, in neglect of them would work serious general inconvenience or injustice to persons",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.988886833190918,
+      11.399999618530273,
+      11.933658599853516,
+      12.214502334594727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.75,
+      456.67,
+      537.56,
+      470.59
+    ],
+    "text": "who have no control over those entrusted with the duty yet not promote the essential aims of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.519820213317871,
+      11.790752410888672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.2,
+      478.05,
+      537.56,
+      492.2
+    ],
+    "text": "legislature, such prescriptions seem to be generally understood as mere instructions for the",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.399999618530273,
+      11.413891792297363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.18,
+      499.63,
+      537.34,
+      513.55
+    ],
+    "text": "guidance and government of those on whom the duty is imposed, or, in other words, as directory",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.968430519104004,
+      11.072392463684082,
+      11.159309387207031,
+      11.399999618530273,
+      12.214502334594727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.99,
+      521.23,
+      536.26,
+      535.15
+    ],
+    "text": "only. Neglect of them may be penal, indeed, but it does not affect the validity of the acts done in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.815832138061523,
+      11.399999618530273,
+      11.43225383758545,
+      11.451483726501465,
+      11.603384971618652,
+      11.933658599853516,
+      12.074872970581055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.26,
+      541.53,
+      537.41,
+      556.61
+    ],
+    "text": "disregard of them. It has often-been held, for instance, when an Act ordered a thing to be done",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.691896438598633,
+      11.325121879577637,
+      11.399999618530273,
+      11.400599479675293,
+      11.509078025817871,
+      12.074872970581055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.99,
+      562.89,
+      536.44,
+      577.97
+    ],
+    "text": "by a public body or public officers and pointed out the specific time when it was to be done,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.325121879577637,
+      11.399999618530273,
+      11.400599479675293,
+      11.407247543334961,
+      11.453872680664062,
+      11.490738868713379,
+      11.497086524963379,
+      11.501151084899902,
+      11.506551742553711,
+      11.623116493225098,
+      11.625862121582031,
+      11.627212524414062
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.18,
+      585.32,
+      537.04,
+      599.47
+    ],
+    "text": "then the Act is directory only and might be complied with after the prescribed time. (Emphasis",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.399999618530273,
+      11.453872680664062,
+      11.47684097290039,
+      11.501151084899902,
+      11.506551742553711,
+      11.507641792297363,
+      11.509078025817871
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.21,
+      606.38,
+      426.87,
+      620.83
+    ],
+    "text": "added) [Maxwell on Interpretation of Statutes, 11th Edition, at page 369].",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.800000190734863,
+      11.399999618530273,
+      11.933658599853516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279.15,
+      745.65,
+      335.24,
+      759.8
+    ],
+    "text": "Page 4 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.09174633026123,
+      9.100000381469727,
+      10.30109977722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.76,
+      104.13,
+      537.7,
+      118.28
+    ],
+    "text": "In Nagalingam vs. Lakshman de Mel (78 NLR 231,237) in respect of a similar situation where the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.635205268859863,
+      9.857494354248047,
+      10.100000381469727,
+      10.154726028442383,
+      10.249001502990723,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.64,
+      125.72,
+      538.07,
+      139.87
+    ],
+    "text": "Commissioner of Labour had not made his order within the time prescribed under the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.332099914550781,
+      10.4091215133667,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.25,
+      147.32,
+      536.66,
+      161.47
+    ],
+    "text": "Termination of Employment of Workmen (Special Provisions) Act No. 45 of 1971 Sharvananda J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.962401390075684,
+      10.249275207519531,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.63,
+      168.69,
+      183.02,
+      182.84
+    ],
+    "text": "(as he was then) held:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.88629150390625,
+      10.12709903717041,
+      10.287993431091309,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.46,
+      203.96,
+      537.71,
+      218.11
+    ],
+    "text": "\"The delay should not render null and void the proceedings and affect the parties, as the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.333745002746582,
+      10.451091766357422
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.4,
+      225.56,
+      537.71,
+      239.71
+    ],
+    "text": "parties have no control over the proceedings. It could not have been intended that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.325418472290039,
+      10.333745002746582,
+      10.36916732788086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.26,
+      246.93,
+      537.76,
+      261.08
+    ],
+    "text": "delay should cause a loss of jurisdiction, that the Commission had to give an effective",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.044583320617676,
+      10.300000190734863,
+      10.333745002746582,
+      10.456954002380371,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.02,
+      268.28,
+      537.33,
+      282.43
+    ],
+    "text": "order of approval or refusal. In my view, a failure to comply literally with the aforesaid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154726028442383,
+      10.300000190734863,
+      10.378748893737793,
+      10.388867378234863,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.41,
+      290.11,
+      537.56,
+      304.27
+    ],
+    "text": "provisions does not affect the efficacy or finality of the Commissioner's order made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.36916732788086,
+      10.378748893737793,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.83,
+      311.72,
+      537.96,
+      325.87
+    ],
+    "text": "thereon. Had it been the intention of the Parliament to avoid such order nothing would",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.30479907989502,
+      10.402292251586914,
+      10.40412425994873,
+      10.414117813110352,
+      10.427461624145508,
+      10.493924140930176,
+      10.627105712890625,
+      10.710567474365234,
+      11.239823341369629
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.16,
+      333.33,
+      393.31,
+      347.48
+    ],
+    "text": "be simpler than to have so stipulated. \" (Emphasis added)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.18789005279541,
+      10.300000190734863,
+      10.32521915435791,
+      10.437581062316895,
+      10.88952922821045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.01,
+      368.6,
+      536.85,
+      382.76
+    ],
+    "text": "Two Indian authorities Raza Buland Sugar Co. Ltd., vs. Municipal Board, Rampur (AIR 1965 SC",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.167545318603516,
+      9.554783821105957,
+      9.635205268859863,
+      10.100000381469727,
+      10.105513572692871,
+      10.141216278076172,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.2,
+      390.2,
+      537.14,
+      404.35
+    ],
+    "text": "895) and State of Mysore vs. V.K. Kangan (AIR 1975 SC 219) states that as to whether a provision",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.268834114074707,
+      9.529911041259766,
+      9.575413703918457,
+      9.718754768371582,
+      10.100000381469727,
+      10.105513572692871,
+      10.300000190734863,
+      10.351122856140137,
+      10.456954002380371,
+      10.627105712890625,
+      11.114089965820312
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.38,
+      411.8,
+      534.94,
+      425.95
+    ],
+    "text": "is mandatory or directory, would, in the ultimate analysis, depend upon the intent of the law-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.272713661193848,
+      10.300000190734863,
+      10.333745002746582,
+      10.350078582763672,
+      10.378748893737793,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.36,
+      433.17,
+      537.08,
+      447.32
+    ],
+    "text": "maker and that has to be gathered not only from the phraseology of the provision but also by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.24510383605957,
+      10.300000190734863,
+      10.324769973754883,
+      10.333745002746582,
+      10.338129997253418,
+      10.36916732788086,
+      10.39139461517334,
+      10.439356803894043,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.2,
+      454.37,
+      537.28,
+      468.78
+    ],
+    "text": "considering its nature, its design and the consequence which would follow from construing it in",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      11.69235897064209,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.22,
+      475.74,
+      183.01,
+      490.15
+    ],
+    "text": "one way or the other.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.836592674255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.53,
+      511.17,
+      537.62,
+      525.32
+    ],
+    "text": "In Visuvalingam v. Uyanage [(1985) 1 Sri LR 203] a Bench of nine Judges of the Supreme Court",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.262163162231445,
+      9.42949390411377,
+      9.989572525024414,
+      10.068958282470703,
+      10.100000381469727,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.2,
+      532.76,
+      536.61,
+      546.91
+    ],
+    "text": "considered whether Article 126 (5) of the Constitution is mandatory or directory. Article 126 (5)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.577726364135742,
+      10.279580116271973,
+      10.300000190734863,
+      10.351122856140137,
+      10.378748893737793,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.22,
+      554.36,
+      537.47,
+      568.51
+    ],
+    "text": "of the Constitution provides that when an application to the Supreme Court for relief against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.1607084274292,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.456954002380371,
+      10.49338436126709,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.05,
+      575.96,
+      537.3,
+      590.11
+    ],
+    "text": "violation of fundamental rights guaranteed by the Constitution has been made \"the Supreme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.24510383605957,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.18,
+      597.32,
+      537.82,
+      611.47
+    ],
+    "text": "Court shall hear and finally dispose of any petition or reference under this Article within two",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.537120819091797,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.36,
+      618.68,
+      537.59,
+      632.83
+    ],
+    "text": "months of the filing of such petition .. . \". The Supreme Court by majority judgment held that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.321577072143555,
+      10.39139461517334,
+      10.439356803894043,
+      10.710567474365234,
+      11.409990310668945
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.36,
+      640.28,
+      466.01,
+      654.43
+    ],
+    "text": "provisions of Article 126 (5) of the Constitution are directory and not mandatory.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.279580116271973,
+      10.300000190734863,
+      10.333745002746582,
+      10.36916732788086,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.15,
+      746.84,
+      335.03,
+      759.76
+    ],
+    "text": "Page 5 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.240394592285156,
+      9.399999618530273,
+      9.840765953063965
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75.37,
+      104.44,
+      535.82,
+      118.18
+    ],
+    "text": "Dealing with the argument that Article 126 (5) is mandatory and that even a fault of the court is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.437213897705078,
+      9.822576522827148,
+      10.0,
+      10.02177619934082,
+      10.050721168518066,
+      10.090243339538574,
+      10.095939636230469,
+      10.182141304016113,
+      10.236454963684082,
+      10.303543090820312,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75.41,
+      125.81,
+      325.93,
+      139.55
+    ],
+    "text": "no excuse, Samarakoon, e.J. said (at page 226) that:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.941629409790039,
+      10.0,
+      10.303543090820312
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.26,
+      161.08,
+      536.14,
+      174.82
+    ],
+    "text": "\"If that right was intended to be lost because the court fails in its duty the Constitution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.037629127502441,
+      10.073282241821289,
+      10.084195137023926,
+      10.102276802062988,
+      10.199411392211914,
+      10.261335372924805,
+      10.303543090820312,
+      10.471198081970215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.68,
+      182.68,
+      536.12,
+      196.42
+    ],
+    "text": "would have so provided. It has provided no sanction of any kind in case of such failure. To",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.91821575164795,
+      9.999250411987305,
+      10.0,
+      10.083451271057129,
+      10.241581916809082,
+      10.28620433807373,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.21,
+      204.29,
+      536.65,
+      218.03
+    ],
+    "text": "my mind it was only an injunction to be respected and obeyed but fell short of punishment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.003748893737793,
+      10.01284122467041,
+      10.047188758850098,
+      10.050870895385742,
+      10.186461448669434,
+      10.339439392089844,
+      10.420701026916504,
+      10.64044189453125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.95,
+      225.88,
+      536.59,
+      239.62
+    ],
+    "text": "if disobeyed. I am of opinion that the provisions of Article 126 (5) are directory and not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.001500129699707,
+      10.0271635055542,
+      10.053556442260742,
+      10.102276802062988,
+      10.28620433807373,
+      10.303543090820312,
+      10.41642951965332,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.97,
+      247.25,
+      536.59,
+      260.99
+    ],
+    "text": "mandatory. Any other construction would deprive a citizen of his fundamental right for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.032746315002441,
+      10.083451271057129,
+      10.180520057678223,
+      10.223502159118652,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.97,
+      268.84,
+      536.02,
+      282.58
+    ],
+    "text": "no fault of his. While I can read into the Constitution a duty on the Supreme Court to act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.036831855773926,
+      10.095939636230469,
+      10.102276802062988,
+      10.140661239624023,
+      10.159281730651855,
+      10.339439392089844,
+      10.553435325622559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.73,
+      290.68,
+      536.38,
+      304.42
+    ],
+    "text": "in a particular way I cannot read into it any deprivation of a citizen's guaranteed right due",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.007596969604492,
+      10.05599308013916,
+      10.159281730651855,
+      10.41642951965332,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.39,
+      312.04,
+      293.53,
+      325.78
+    ],
+    "text": "to circumstances beyond his control\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.1061372756958,
+      10.339439392089844
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75.09,
+      346.97,
+      536.35,
+      360.85
+    ],
+    "text": "In terms of section 8(1) of the TAC Act, it is only a person who is aggrieved by the determination",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.631821632385254,
+      9.823899269104004,
+      9.843017578125,
+      10.0,
+      10.03608512878418,
+      10.100000381469727,
+      10.102276802062988,
+      10.156869888305664,
+      10.182141304016113,
+      10.187492370605469,
+      10.28620433807373,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.78,
+      368.68,
+      535.57,
+      382.42
+    ],
+    "text": "of the Commissioner General of Inland Revenue in relation to the imposition of any tax, levy,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.059174537658691,
+      10.102276802062988,
+      10.182141304016113,
+      10.28620433807373,
+      10.420701026916504,
+      10.471198081970215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.77,
+      389.79,
+      536.6,
+      404.33
+    ],
+    "text": "charge, duty or penalty or the Director General of Customs under subsection (lB) of section 10",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      10.018383026123047,
+      10.036483764648438,
+      10.140661239624023,
+      10.182141304016113,
+      10.226485252380371,
+      10.420701026916504,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.78,
+      411.39,
+      536.06,
+      425.93
+    ],
+    "text": "of the Customs Ordinance who can prefer an appeal to the TAe. Section 9(10) of the TAC Act",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.759918212890625,
+      9.897221565246582,
+      10.0,
+      10.02177619934082,
+      10.047338485717773,
+      10.102276802062988,
+      10.217876434326172,
+      10.420701026916504,
+      10.471198081970215,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.78,
+      433.48,
+      536.18,
+      447.22
+    ],
+    "text": "allows the TAC to on appeal confirm, reduce, increase or annul, as the case may be, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.561589241027832,
+      9.823899269104004,
+      10.0,
+      10.102276802062988,
+      10.182141304016113,
+      10.226485252380371,
+      10.471198081970215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.78,
+      455.08,
+      536.35,
+      468.82
+    ],
+    "text": "assessment determined by the Commissioner General of Inland Revenue or to remit the case to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.938863754272461,
+      10.0,
+      10.102276802062988,
+      10.114543914794922,
+      10.13691234588623,
+      10.182141304016113,
+      10.226485252380371,
+      10.339439392089844,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.35,
+      476.45,
+      233.92,
+      490.19
+    ],
+    "text": "the Director General of Customs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.02177619934082,
+      10.553435325622559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.33,
+      511.48,
+      536.25,
+      525.22
+    ],
+    "text": "The TAC Act does not spell out any penal consequences for the failure on the part of the TAC to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.695514678955078,
+      9.759918212890625,
+      10.0,
+      10.021327018737793,
+      10.02177619934082,
+      10.102276802062988,
+      10.149975776672363,
+      10.206027030944824,
+      10.22917366027832,
+      10.29776668548584,
+      10.36397647857666
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.53,
+      532.11,
+      535.38,
+      546.65
+    ],
+    "text": "comply with the time limit set out in section 10 of the TAC Act. If the Appellant is correct in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.822576522827148,
+      9.823899269104004,
+      10.0,
+      10.102276802062988,
+      10.236454963684082,
+      10.241581916809082,
+      10.256412506103516,
+      10.265768051147461,
+      10.308782577514648,
+      10.420701026916504,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.55,
+      554.44,
+      535.68,
+      568.18
+    ],
+    "text": "submitting that the time bar on the TAC is mandatory, it will result in the validity of the impugned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.822576522827148,
+      9.823899269104004,
+      10.0,
+      10.007746696472168,
+      10.049776077270508,
+      10.102276802062988,
+      10.182141304016113,
+      10.256412506103516,
+      10.367738723754883,
+      10.41642951965332,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.78,
+      576.04,
+      535.44,
+      589.78
+    ],
+    "text": "determinations made by the Commissioner General of Inland Revenue and the Director General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.001299858093262,
+      10.102276802062988,
+      10.182141304016113,
+      10.28620433807373
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.54,
+      597.64,
+      536.11,
+      611.38
+    ],
+    "text": "of Customs been maintained for no fault of the aggrieved party where the TAC fails to adhere to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.759918212890625,
+      10.0,
+      10.020578384399414,
+      10.047736167907715,
+      10.054750442504883,
+      10.102276802062988,
+      10.152487754821777,
+      10.182141304016113,
+      10.206027030944824,
+      10.27263355255127,
+      10.28620433807373,
+      10.339439392089844,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.35,
+      619.24,
+      535.49,
+      632.98
+    ],
+    "text": "the time limit. Such deprivation of rights of the aggrieved party cannot be implied in the absence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.005748748779297,
+      10.007697105407715,
+      10.020578384399414,
+      10.02177619934082,
+      10.061262130737305,
+      10.102276802062988,
+      10.140512466430664,
+      10.182141304016113,
+      10.265768051147461,
+      10.28620433807373,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.54,
+      640.84,
+      536.64,
+      654.58
+    ],
+    "text": "of clear and unambiguous statutory provisions. On the other hand, if the failure on the part of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.912467002868652,
+      10.0,
+      10.021327018737793,
+      10.102276802062988,
+      10.156377792358398,
+      10.175607681274414,
+      10.182141304016113,
+      10.28620433807373,
+      10.41642951965332,
+      10.420701026916504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.35,
+      661.97,
+      535.96,
+      675.71
+    ],
+    "text": "the TAC to adhere to the time limit should result in the aggrieved party obtaining the relief",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.695514678955078,
+      10.0,
+      10.02177619934082,
+      10.070600509643555,
+      10.102276802062988,
+      10.182141304016113,
+      10.205194473266602,
+      10.256412506103516,
+      10.471198081970215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.53,
+      683.33,
+      536.11,
+      697.07
+    ],
+    "text": "claimed, the legislature would have specifically stated so. For example, the second proviso to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.796529769897461,
+      10.0,
+      10.102276802062988,
+      10.125709533691406,
+      10.339439392089844
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.31,
+      704.45,
+      535.04,
+      718.19
+    ],
+    "text": "section 34(8) of the VAT Act specifically provides that lithe appeal shall be deemed to have been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.880688667297363,
+      10.0,
+      10.182141304016113,
+      10.238945007324219,
+      10.28620433807373,
+      10.471198081970215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277.63,
+      745.97,
+      333.3,
+      759.71
+    ],
+    "text": "Page 6 of 11",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.011893272399902,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.25,
+      104.37,
+      536.47,
+      118.52
+    ],
+    "text": "allowed and the tax charged accordingly\" where the appeal to the Commissioner-General against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.26,
+      125.96,
+      534.16,
+      140.11
+    ],
+    "text": "an assessment made by the Assessor is not determined within the stipulated time of two years.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.044583320617676,
+      10.300000190734863,
+      10.333745002746582,
+      10.350476264953613,
+      10.451091766357422,
+      10.537120819091797,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.12,
+      160.94,
+      536.91,
+      175.39
+    ],
+    "text": "Accordingly, this Court holds that the time limit set out in section 10 of the TAC Act is only",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.905235290527344,
+      10.272713661193848,
+      10.300000190734863,
+      10.381478309631348,
+      10.4091215133667,
+      10.418617248535156,
+      10.456954002380371,
+      10.57585620880127,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.5,
+      182.6,
+      537.04,
+      196.75
+    ],
+    "text": "directory. We came to a similar conclusion in Kegal/e Plantations PLC VS. Commissioner General",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.194368839263916,
+      7.500100135803223,
+      9.544841766357422,
+      10.0,
+      10.272713661193848,
+      10.300000190734863,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.19,
+      203.91,
+      349.52,
+      218.36
+    ],
+    "text": "of Inland Revenue [CA{Tax} 09/2017; C.A.M. 04.09.2018].",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      10.300000190734863,
+      10.800000190734863,
+      10.870619773864746,
+      10.932565689086914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.33,
+      234.09,
+      129.13,
+      247.63
+    ],
+    "text": "Question 2",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.05,
+      263.01,
+      536.75,
+      277.16
+    ],
+    "text": "This is not an issue raised before the Respondent when the Appellant appealed to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.1607084274292,
+      10.300000190734863,
+      10.333745002746582,
+      10.357986450195312,
+      10.36916732788086
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.84,
+      284.6,
+      536.87,
+      298.75
+    ],
+    "text": "Respondent against the assessment made by the assessor. It was also not a point raised in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.340171813964844,
+      10.394070625305176,
+      10.414117813110352,
+      10.451091766357422
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.25,
+      305.97,
+      536.71,
+      320.12
+    ],
+    "text": "appeal made to the TAe. In fact, it was mentioned as a \"fundamental VAT principle\" in the third",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.830814361572266,
+      10.154726028442383,
+      10.287993431091309,
+      10.288643836975098,
+      10.300000190734863,
+      10.317235946655273,
+      10.333745002746582,
+      10.571520805358887,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.36,
+      327.27,
+      535.98,
+      341.72
+    ],
+    "text": "written submissions dated 11.07.2016 filed on behalf of the Appellant. This was not an issue",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.044583320617676,
+      10.275921821594238,
+      10.300000190734863,
+      10.57585620880127,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.24,
+      349.16,
+      186.64,
+      363.31
+    ],
+    "text": "considered by the TAe.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.13,
+      378.14,
+      536.65,
+      392.59
+    ],
+    "text": "A case stated can be referred to this Court only on a question of law. Section 23 of the VAT Act",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.086844444274902,
+      10.1592378616333,
+      10.201428413391113,
+      10.256959915161133,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.64,
+      399.8,
+      533.65,
+      413.95
+    ],
+    "text": "requires every registered person to account for tax on an invoice basis unless the Commissioner-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.1607084274292,
+      10.300000190734863,
+      10.518287658691406,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.44,
+      421.41,
+      535.8,
+      435.56
+    ],
+    "text": "General directs such person to account for tax on a payment basis on such conditions as may be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.084853172302246,
+      10.300000190734863,
+      10.42558479309082,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.51,
+      442.76,
+      536.08,
+      456.91
+    ],
+    "text": "specified by him on an application made in that behalf by a registered person. In terms of section",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154726028442383,
+      10.1607084274292,
+      10.300000190734863,
+      10.39139461517334,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.41,
+      464.07,
+      535.93,
+      478.52
+    ],
+    "text": "83 of the VAT Act \"Commissioner General \"means the Commissioner-General of Inland Revenue",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.224120140075684,
+      10.300000190734863,
+      10.439356803894043,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.49,
+      485.67,
+      537.44,
+      500.12
+    ],
+    "text": "appointed under the Inland Revenue Act, No. 38 of 2000 and includes a Commissioner, and a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.84,
+      507.32,
+      537.07,
+      521.47
+    ],
+    "text": "Deputy Commissioner specially authorized by the Commissioner-General either generally or for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.332099914550781,
+      10.333745002746582,
+      10.378748893737793
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.49,
+      528.92,
+      536.87,
+      543.07
+    ],
+    "text": "a specific purpose to act on behalf of the Commissioner-General. The letter relied upon by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.24510383605957,
+      10.300000190734863,
+      10.382668495178223,
+      10.439356803894043,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.37,
+      549.98,
+      536.39,
+      564.43
+    ],
+    "text": "Appellant {Appeal Brief Page 69} is signed by a Commissioner of Inland Revenue, LTU. Therefore,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.876806259155273,
+      10.072282791137695,
+      10.300000190734863,
+      10.439356803894043,
+      10.510263442993164
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.47,
+      571.77,
+      536.49,
+      586.06
+    ],
+    "text": "Question 2 in our view entails an examination of facts such as whether the Respondent did give",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.830814361572266,
+      10.1607084274292,
+      10.272713661193848,
+      10.300000190734863,
+      10.351122856140137,
+      10.399999618530273,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.64,
+      593.24,
+      428.92,
+      607.39
+    ],
+    "text": "permission to the Appellant to account for on payment basis for in terms.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.414117813110352,
+      10.42558479309082,
+      10.518287658691406,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.56,
+      614.31,
+      536.87,
+      628.76
+    ],
+    "text": "In D.l. Ranaweera vs. Commissioner of Inland Revenue {70 N.L.R. 564} an attempt made by the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.587387084960938,
+      9.663322448730469,
+      10.0,
+      10.154726028442383,
+      10.1607084274292,
+      10.300000190734863,
+      10.399999618530273,
+      10.403677940368652,
+      10.746667861938477,
+      10.800000190734863,
+      10.804675102233887
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.49,
+      635.97,
+      537.44,
+      650.12
+    ],
+    "text": "appellant to raise the question that the Assistant Commissioner was never authorized to sign a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.277926445007324,
+      10.300000190734863,
+      10.333745002746582,
+      10.456954002380371,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.47,
+      657.33,
+      535.64,
+      671.48
+    ],
+    "text": "certificate under Chapter 13 of the Income Tax Ordinance was refused by the Supreme Court on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.229257583618164,
+      10.244098663330078,
+      10.263786315917969,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.07,
+      678.63,
+      537.29,
+      693.08
+    ],
+    "text": "the basis that it was not raised before the Court of first instance. Seetha v. Weerakoon {49 N.L.R.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.207280158996582,
+      9.498245239257812,
+      10.0,
+      10.255955696105957,
+      10.300000190734863,
+      10.333745002746582,
+      10.36916732788086,
+      10.439356803894043,
+      10.456954002380371,
+      10.474546432495117,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.51,
+      700.18,
+      535.87,
+      714.47
+    ],
+    "text": "225} was cited in support of the proposition that a mixed question of fact and law cannot be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.287993431091309,
+      10.300000190734863,
+      10.333745002746582,
+      10.399999618530273,
+      10.456954002380371,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.88,
+      721.64,
+      237.06,
+      735.79
+    ],
+    "text": "raised for the first time in appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.42558479309082,
+      10.467439651489258
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      278.68,
+      745.64,
+      334.1,
+      759.79
+    ],
+    "text": "Page 7 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.699999809265137,
+      9.997200012207031,
+      10.30109977722168
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.65,
+      104.12,
+      535.84,
+      118.27
+    ],
+    "text": "Accordingly, this Court holds that the Appellant is not entitled to raise this question as a question",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.830814361572266,
+      10.300000190734863,
+      10.333745002746582,
+      10.456954002380371,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.78,
+      125.73,
+      108.17,
+      139.88
+    ],
+    "text": "of law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.7,
+      154.85,
+      163.47,
+      169.49
+    ],
+    "text": "Questions 3 and 4",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      10.399999618530273,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.33,
+      184.02,
+      536.01,
+      198.44
+    ],
+    "text": "The issue for consideration is who is the \" Minister\" in item No. (lx) of the para (B) of the part 11",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.91193962097168,
+      9.968826293945312,
+      10.2755708694458,
+      10.300000190734863,
+      10.308096885681152,
+      10.333745002746582,
+      10.42558479309082,
+      10.57585620880127,
+      10.687488555908203
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.54,
+      206.12,
+      246.18,
+      220.27
+    ],
+    "text": "of the first schedule to the VAT Act.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.288643836975098,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.33,
+      235.41,
+      535.75,
+      249.56
+    ],
+    "text": "The learned President Counsel for the Appellant submits that it should be the Minister of Health",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.39139461517334,
+      10.42558479309082,
+      10.439356803894043,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.55,
+      256.76,
+      535.75,
+      270.91
+    ],
+    "text": "as the Ministry of Health is the line ministry and the Chief Accountant of the Ministry of Health",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.968826293945312,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.93,
+      278.13,
+      419.21,
+      292.28
+    ],
+    "text": "has by letter dated 16.07.2010 approved the project for tax exemption.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.10332202911377,
+      10.300000190734863,
+      10.333545684814453,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.33,
+      307.65,
+      536.72,
+      321.8
+    ],
+    "text": "The learned State Counsel for the Respondent however submits that the word \"Minister\" is a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.334542274475098,
+      10.456954002380371,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.68,
+      329.25,
+      307.6,
+      343.4
+    ],
+    "text": "reference exclusively to the Minister of Finance.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.32352352142334,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.33,
+      358.52,
+      535.79,
+      372.67
+    ],
+    "text": "The VAT Act does not define who is meant by \"Minister\". However, section 2{m) of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.224120140075684,
+      10.2755708694458,
+      10.300000190734863,
+      10.307297706604004,
+      10.36916732788086,
+      10.370012283325195,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.84,
+      380.13,
+      293.21,
+      394.28
+    ],
+    "text": "Interpretation Ordinance as amended states:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.830814361572266,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.54,
+      409.41,
+      535.79,
+      423.58
+    ],
+    "text": "\"2. In this Ordinance and in every written law, whether made before or after the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.462586402893066,
+      10.272713661193848,
+      10.300000190734863,
+      10.351122856140137,
+      10.378748893737793,
+      10.408775329589844
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.32,
+      431.0,
+      536.2,
+      445.15
+    ],
+    "text": "commencement of this Ordinance, unless there is something repugnant in the subject or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.32,
+      452.36,
+      150.94,
+      466.51
+    ],
+    "text": "context -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.26,
+      473.97,
+      535.33,
+      488.12
+    ],
+    "text": "(m) \"Minister\" used with reference to any subject or function of Government shall mean",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.386090278625488,
+      10.388867378234863,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.91,
+      495.32,
+      535.13,
+      509.47
+    ],
+    "text": "the Minister to whom that subject or function has been assigned by the President and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.300000190734863,
+      10.35256576538086,
+      10.378748893737793,
+      10.456954002380371,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.48,
+      516.69,
+      444.05,
+      530.84
+    ],
+    "text": "includes a person duly appointed to act in the place of such Minister\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.311594009399414,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.27,
+      546.2,
+      536.64,
+      560.35
+    ],
+    "text": "Section 75(1) of the VAT Act gives power to the \"minister\" to make regulations in respect of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.288643836975098,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.49338436126709,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.68,
+      567.8,
+      535.53,
+      581.95
+    ],
+    "text": "matters required by the VAT Act to be prescribed or in respect of matters authorized by the VAT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.084853172302246,
+      10.1592378616333,
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.41,
+      589.4,
+      536.11,
+      603.55
+    ],
+    "text": "Act to be made. Obviously here the \"minister\" is the Minister of Finance as he is the minister to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.577726364135742,
+      9.775232315063477,
+      9.830814361572266,
+      10.201428413391113,
+      10.244148254394531,
+      10.300000190734863,
+      10.308695793151855,
+      10.333745002746582,
+      10.357986450195312,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.4,
+      610.76,
+      391.9,
+      624.91
+    ],
+    "text": "whom the subject or function has been assigned by the President.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.300000190734863,
+      10.378748893737793
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      277.48,
+      745.65,
+      333.14,
+      759.8
+    ],
+    "text": "Page 8 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.997200012207031,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.32,
+      104.13,
+      536.17,
+      118.28
+    ],
+    "text": "It is a trite rule of interpretation that generally words are used in the same sense in an Act unless",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.044583320617676,
+      10.272713661193848,
+      10.300000190734863,
+      10.327912330627441,
+      10.333745002746582,
+      10.382370948791504,
+      10.456954002380371,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.01,
+      125.48,
+      535.79,
+      139.63
+    ],
+    "text": "a contrary intention is clear. Bindra, Interpretation of Statutes, 10th Ed., 701: \"Words are",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.513686180114746,
+      9.968826293945312,
+      10.300000190734863,
+      10.31224250793457,
+      10.965547561645508
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.03,
+      146.84,
+      535.73,
+      160.99
+    ],
+    "text": "generally used in the same sense throughout in a statute unless there is something repugnant in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.272713661193848,
+      10.300000190734863,
+      10.366634368896484,
+      10.414117813110352
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.59,
+      168.45,
+      536.48,
+      182.6
+    ],
+    "text": "the context. The same expressions, if it appears more than once in the same statute or for that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.325418472290039,
+      10.332099914550781,
+      10.3391752243042,
+      10.798869132995605
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.16,
+      189.8,
+      535.8,
+      203.95
+    ],
+    "text": "matter in the same provision, should receive the same meaning unless, the context suggests",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.315488815307617,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.02,
+      211.4,
+      536.59,
+      225.55
+    ],
+    "text": "otherwise ... Where in a statute, a word is not defined, but is used in different sections, it ought to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499926567077637,
+      9.775232315063477,
+      9.968826293945312,
+      10.272713661193848,
+      10.300000190734863,
+      10.338129997253418,
+      10.338278770446777,
+      10.49338436126709,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.17,
+      233.01,
+      536.18,
+      247.16
+    ],
+    "text": "be interpreted in the same sense throughout, unless the context in any particular section plainly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.084853172302246,
+      10.272713661193848,
+      10.300000190734863,
+      10.333745002746582,
+      10.414117813110352
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      75.16,
+      254.6,
+      535.61,
+      268.75
+    ],
+    "text": "requires that it should be understood in a different sense.\" There is nothing in the VAT Act which",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.224120140075684,
+      10.300000190734863,
+      10.308197021484375,
+      10.39139461517334,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.79,
+      275.97,
+      535.2,
+      290.12
+    ],
+    "text": "shows any intention on the part of the legislature to use the word \"minister\" in a different sense.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.185513496398926,
+      10.300000190734863,
+      10.31224250793457,
+      10.33588695526123,
+      10.360372543334961,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.75,
+      305.48,
+      536.96,
+      319.63
+    ],
+    "text": "On the contrary, there is clear indication that where it was the intention to specifically refer to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.962831497192383,
+      9.968826293945312,
+      10.300000190734863,
+      10.456954002380371,
+      10.49338436126709,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.92,
+      326.85,
+      535.96,
+      341.0
+    ],
+    "text": "minister other than the Minister of Finance this was done in clear and specific terms. For",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.287993431091309,
+      10.300000190734863,
+      10.32711410522461,
+      10.414117813110352,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.77,
+      348.2,
+      536.15,
+      362.35
+    ],
+    "text": "example, item xxxi of Part I to Schedule I makes reference to the Minister in charge of the subject",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.78,
+      369.57,
+      177.74,
+      383.72
+    ],
+    "text": "of tertiary education.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.33,
+      399.32,
+      535.07,
+      413.47
+    ],
+    "text": "The Appellant has failed to produce any approval from the Ministry of Finance granting an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.044583320617676,
+      10.184502601623535,
+      10.2755708694458,
+      10.300000190734863,
+      10.30479907989502,
+      10.333745002746582,
+      10.380138397216797,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.77,
+      420.69,
+      130.19,
+      434.84
+    ],
+    "text": "exemption.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.88,
+      450.2,
+      535.96,
+      464.35
+    ],
+    "text": "However, the learned Presidents Counsel for the Appellant submitted that there was a legitimate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.456954002380371,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.53,
+      471.57,
+      535.54,
+      485.72
+    ],
+    "text": "expectation on the part of the Appellant that it will get the exemption in view of letter dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.301750183105469,
+      10.439356803894043,
+      10.456954002380371,
+      10.571520805358887,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.79,
+      493.16,
+      535.79,
+      507.31
+    ],
+    "text": "16.07.2010 sent by the Chief Accountant of the Ministry of Health by which he approved the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.244148254394531,
+      10.300000190734863,
+      10.414117813110352,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.68,
+      514.52,
+      535.96,
+      528.67
+    ],
+    "text": "project for tax exemption. There is a fundamental error in this argument as the said letter only",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.968826293945312,
+      10.272713661193848,
+      10.300000190734863,
+      10.34390640258789,
+      10.42558479309082
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.55,
+      535.88,
+      535.68,
+      550.03
+    ],
+    "text": "states that a tax exemption is \"recommended\". There is a clear distinction between \"approval\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.968826293945312,
+      10.300000190734863,
+      10.325418472290039
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.53,
+      557.0,
+      192.89,
+      571.15
+    ],
+    "text": "and \"recommendation\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.87,
+      586.52,
+      535.01,
+      600.67
+    ],
+    "text": "Furthermore, it is an established principle that a legitimate expectation will arise only if there is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      9.968826293945312,
+      10.1607084274292,
+      10.300000190734863,
+      10.456954002380371,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.53,
+      608.12,
+      535.83,
+      622.27
+    ],
+    "text": "a holding out or representation by an authority vested with power to do so. [Tokyo Cement",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.044583320617676,
+      10.172157287597656,
+      10.300000190734863,
+      10.30969524383545,
+      10.326865196228027,
+      10.378748893737793,
+      10.381478309631348,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.36,
+      629.72,
+      536.04,
+      643.87
+    ],
+    "text": "Company (Lanka) Ltd. vs. Director General of Customs and others (2005) BLR 24]. The Chief",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.567988395690918,
+      9.835317611694336,
+      10.300000190734863,
+      10.965547561645508
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.41,
+      651.08,
+      534.83,
+      665.23
+    ],
+    "text": "Accountant of the Ministry of Health is not as only the Minister of Finance can grant an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.968826293945312,
+      10.044583320617676,
+      10.177775382995605,
+      10.300000190734863,
+      10.333745002746582,
+      10.336734771728516,
+      10.36916732788086,
+      10.414117813110352,
+      10.439356803894043,
+      10.57585620880127,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.53,
+      672.2,
+      130.96,
+      686.35
+    ],
+    "text": "exemption.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277.48,
+      744.68,
+      333.54,
+      758.83
+    ],
+    "text": "Page 9 of 11",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.61422061920166,
+      9.699999809265137,
+      9.75484561920166,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.35,
+      104.61,
+      457.16,
+      118.76
+    ],
+    "text": "For the forgoing reasons, we answer the questions referred to Court as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.333745002746582,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.31,
+      133.88,
+      536.02,
+      148.03
+    ],
+    "text": "(1) Whether the Tax Appeals Commission is mandated and/or empowered under the Tax",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.063126564025879,
+      10.152595520019531,
+      10.229257583618164,
+      10.300000190734863,
+      10.333745002746582,
+      10.403480529785156
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.29,
+      155.49,
+      536.12,
+      169.64
+    ],
+    "text": "Appeals Commission Act No. 23 of 2011 to make its determination disregarding the section",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0501708984375,
+      10.300000190734863,
+      10.439356803894043,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.68,
+      176.85,
+      536.22,
+      191.0
+    ],
+    "text": "10 of the Tax Appeal Commission Act No. 23 of 2011 as amended up to 24th April by its",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.016706466674805,
+      9.830814361572266,
+      10.166383743286133,
+      10.229257583618164,
+      10.268953323364258,
+      10.281232833862305,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.41,
+      198.44,
+      537.46,
+      212.59
+    ],
+    "text": "amendment Act No. 10 of 2012 and amendment Act No. 20 of 2011? The determination of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.281232833862305,
+      10.300000190734863,
+      10.331003189086914,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94.99,
+      220.05,
+      229.5,
+      234.2
+    ],
+    "text": "the TAC is not time barred.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.034734725952148,
+      10.300000190734863,
+      10.333745002746582,
+      10.532427787780762,
+      10.583061218261719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.06,
+      241.4,
+      535.59,
+      255.55
+    ],
+    "text": "(2) Under Section 23 of the Value Added Tax Act No. 14 of 2002 every registered person shall",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.152595520019531,
+      10.171954154968262,
+      10.281232833862305,
+      10.300000190734863,
+      10.414117813110352,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.41,
+      263.0,
+      536.64,
+      277.15
+    ],
+    "text": "account for tax on invoice basis. Provided however the Commissioner General may direct",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.43,
+      284.61,
+      536.27,
+      298.76
+    ],
+    "text": "such person to account for tax on payment basis. Can the assessor disregard the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.981165885925293,
+      10.224523544311523,
+      10.255955696105957,
+      10.300000190734863,
+      10.333745002746582,
+      10.42558479309082,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.61,
+      306.2,
+      535.49,
+      320.35
+    ],
+    "text": "Commissioner General's direction to the Appellant to account for tax on payment basis and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255955696105957,
+      10.300000190734863,
+      10.49338436126709,
+      10.518287658691406,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.56,
+      327.56,
+      536.49,
+      341.71
+    ],
+    "text": "issue the assessment on invoice basis? The Appellant is not entitled to raise this question",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.158731460571289,
+      10.300000190734863,
+      10.325069427490234,
+      10.458480834960938,
+      10.532427787780762,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.17,
+      349.17,
+      159.58,
+      363.32
+    ],
+    "text": "at this stage.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.315488815307617
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.06,
+      370.77,
+      536.34,
+      384.92
+    ],
+    "text": "(3) Under Section 2(1)(a) of the Value Added Act No. 14 of 2002 at the time of supply, on every",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.171954154968262,
+      10.263786315917969,
+      10.300000190734863,
+      10.333745002746582,
+      10.350476264953613,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      94.99,
+      392.12,
+      536.27,
+      406.27
+    ],
+    "text": "taxable supply of good and services, made in a taxable period, by a registered person in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.4,
+      413.72,
+      535.39,
+      427.87
+    ],
+    "text": "course of carrying on or carrying out, a taxable activity shall charge the value added tax. And",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.58,
+      435.08,
+      536.27,
+      449.23
+    ],
+    "text": "under section 8 of the Act, no tax shall be charged on the supply of goods or services and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.56,
+      456.45,
+      536.73,
+      470.6
+    ],
+    "text": "importation of goods specified in the first schedule to this act as such supplies and imports",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.575413703918457,
+      10.272713661193848,
+      10.300000190734863,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.41,
+      478.27,
+      333.94,
+      492.43
+    ],
+    "text": "are not taxable unless zero rated under section 7.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.975746154785156,
+      10.300000190734863,
+      10.36916732788086
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.77,
+      499.64,
+      537.2,
+      513.79
+    ],
+    "text": "Now the question is can the appellant charge tax by issuing tax invoices on his supplies to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.24510383605957,
+      10.256959915161133,
+      10.28939437866211,
+      10.300000190734863,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.8,
+      521.24,
+      536.4,
+      535.39
+    ],
+    "text": "registered person who is engaged in the supply of goods or services specified in the first",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.100059509277344,
+      10.272713661193848,
+      10.300000190734863,
+      10.370012283325195,
+      10.378748893737793,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.44,
+      542.6,
+      503.6,
+      556.75
+    ],
+    "text": "schedule to the VAT Act? There was no exemption given by the Minister of Finance.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.288643836975098,
+      10.300000190734863,
+      10.333745002746582,
+      10.346146583557129,
+      10.448627471923828,
+      10.493924140930176,
+      10.627105712890625,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.31,
+      563.96,
+      537.36,
+      578.11
+    ],
+    "text": "(4) The item No. (lx) of the para (8) of the part 11 of the first schedule to the VAT Act No. 14 of",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.063126564025879,
+      10.201883316040039,
+      10.224120140075684,
+      10.241835594177246,
+      10.300000190734863,
+      10.317255973815918,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.43,
+      585.56,
+      199.23,
+      599.71
+    ],
+    "text": "2002 goes as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.62,
+      607.17,
+      536.37,
+      621.32
+    ],
+    "text": "\"Goods or Services funded directly by foreign organizations for the relief of sudden distress",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.378748893737793,
+      10.42558479309082,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.4,
+      628.52,
+      536.51,
+      642.67
+    ],
+    "text": "caused by natural or human disasters or any activity having regard to the interest of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.378748893737793,
+      10.439356803894043,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.8,
+      649.88,
+      326.21,
+      664.03
+    ],
+    "text": "national economy as approved by the Minister\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.311594009399414
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.77,
+      671.01,
+      536.44,
+      685.16
+    ],
+    "text": "Does the phrase in the item \"as approved by the Minister\" necessarily, exclusively and purely",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.190670013427734,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.8,
+      692.61,
+      537.2,
+      706.76
+    ],
+    "text": "mean the finance minister? Doesn't line Minister's approval considering the renovation of a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.47,
+      713.97,
+      536.94,
+      728.12
+    ],
+    "text": "tsunami affected District Hospital at Pottuvil tally with the above item? The Minister in item",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.375622749328613,
+      10.386239051818848,
+      10.388867378234863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      275.8,
+      746.84,
+      337.43,
+      759.76
+    ],
+    "text": "Page 10 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.184581756591797,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.86,
+      0.41,
+      61.34,
+      28.15
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.799999237060547
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96.49,
+      104.03,
+      538.18,
+      118.6
+    ],
+    "text": "No. (lx) of the para (8) of the part 11 of the first schedule to the VAT Act is the Minister of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.366783142089844,
+      10.386239051818848,
+      10.414117813110352,
+      10.433732032775879,
+      10.493924140930176,
+      10.57585620880127,
+      10.710567474365234,
+      10.75911808013916,
+      11.017815589904785
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96.23,
+      125.73,
+      138.36,
+      139.88
+    ],
+    "text": "Finance.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.61,
+      140.66,
+      606.49,
+      169.39
+    ],
+    "text": "rt+t-Accordingly, acting in terms of section llA (6) of the Y.,A=f' Act, we confirm the assessment~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.002079486846924,
+      9.37331771850586,
+      10.279580116271973,
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127,
+      12.42051887512207,
+      13.794278144836426,
+      18.299901962280273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.98,
+      175.68,
+      190.41,
+      190.88
+    ],
+    "text": "determined by the TAe.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.22520923614502
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.29,
+      206.12,
+      445.28,
+      220.27
+    ],
+    "text": "The Registrar is directed to send a certified copy of this judgment to the TAe.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.2755708694458,
+      10.300000190734863,
+      10.321577072143555,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      322.48,
+      264.67,
+      461.53,
+      278.83
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.37,
+      293.88,
+      180.79,
+      308.12
+    ],
+    "text": "Achala Wengappuli J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      287.96,
+      323.72,
+      326.08,
+      337.87
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      322.48,
+      353.25,
+      461.29,
+      367.4
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275.32,
+      747.33,
+      336.95,
+      760.25
+    ],
+    "text": "Page 11 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.184581756591797,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  }
+]
