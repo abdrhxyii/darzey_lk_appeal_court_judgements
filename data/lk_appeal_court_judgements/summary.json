@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-07-30 06:48:54",
-  "n_docs": 14507,
-  "n_docs_with_pdfs": 12633,
-  "n_docs_with_text": 12633,
+  "time_updated": "2026-08-05 06:51:34",
+  "n_docs": 14719,
+  "n_docs_with_pdfs": 12835,
+  "n_docs_with_text": 12835,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-10-16",
-  "date_str_max": "2026-07-24",
-  "dataset_size": 12443637163,
+  "date_str_max": "2026-09-25",
+  "dataset_size": 12667853325,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-07-24-CA-WRT-0019-2026",
-    "num": "CA/WRT/0019/2026",
-    "date_str": "2026-07-24",
-    "description": "B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others View More before Hon. Mahen Gopallawa, J.",
+    "doc_id": "2026-09-25-CA-WRT-383-2018",
+    "num": "CA/WRT/383/2018",
+    "date_str": "2026-09-25",
+    "description": "Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0019-26-Judgment-Final.pdf",
-    "parties": "B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others B. M. K. Madushanka v. Sri Lanka Tea Board and 6 others View More",
-    "judgement_by": "Hon. Mahen Gopallawa, J.",
-    "keywords": "Appointment \u2013 scheme of recruitment \u2013 marking scheme \u2013 interview \u2013 deviation \u2013 selection process \u2013necessary parties \u2013 misconceived reliefs \u2013 suppression of material facts",
-    "legistation": "Sri Lanka Tea Board Law, No. 14 of 1975 (as amended) Constitution 1978"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Writ-383-2018-Judgement-Final.pdf",
+    "parties": "Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More",
+    "judgement_by": "Hon. Damith Thotawatte, J.",
+    "keywords": "Customs Value, Schedule \u2018E\u2019 of the Customs Ordinance, A \u2018turnkey\u2019 contract, Freight and Insurance charges, Suppression of material facts, Doctrine of Clean hands, Lack of uberrima fides",
+    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka. Customs Ordinance No. 17 of 1869 (as amended)"
   }
 }

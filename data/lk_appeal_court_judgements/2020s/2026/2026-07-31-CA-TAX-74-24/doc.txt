@@ -1,0 +1,561 @@
+==== BLOCKS ==== 
+
+Page 1 of 10
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an Appeal by way of Stated
+
+Case on a question of law for the opinion of
+
+the Court of Appeal under and in terms of
+
+Section 11A of the Tax Appeal’s Commission
+
+Act No. 23 of 2011 (as amended).
+
+Firstsource Dialog Solution
+
+(Private) Limited,
+
+Level 11, Access South Tower,
+
+No. 278/4, Union Place,
+
+Colombo 02.
+
+APPELLANT
+
+Court of Appeal Case No :
+
+CA/TAX/74/24
+
+Tax Appeals Commission
+
+No: TAC/IT/034/2019 Vs.
+
+Commissioner General of Inland Revenue,
+
+Department of Inland Revenue,
+
+Sir Chittampalam A. Gardiner Mawatha,
+
+Colombo 02.
+
+RESPONDENT
+
+Before: Hon. Justice B. Sasi Mahendran, J.
+
+Hon. Justice Adithya Patabendige, J
+
+Counsel : Dr. Shivaji Felix, PC with Nivantha Satharasinghe, Sajith
+
+Nawaratne and Asoka Obeysekara for the Appellant
+
+Sehan Soysa, S.S.C. for the Respondent.
+
+Page 2 of 10
+
+Written 17.07.2026 (by the Accused-Appellant)
+
+Submissions : 17.07.2026 (by the Respondent)
+
+On
+
+Argued On: 02.06.2026
+
+Judgment On: 31.07.2026
+
+B. Sasi Mahendran,
+
+The Appellant, First Source Dialog Solutions (Private) Limited, is a limited liability
+
+company incorporated in Sri Lanka engaged in business of providing information
+
+technology-enabled services to the international and local market. The Appellant entered
+
+into an agreement No. 109 attested by Notary Public, S.M. Medagama dated 07th March
+
+2011 with the Board of Investment (hereinafter referred to as the 'BOI') in terms of
+
+Section 17 of the Board of Investment of Sri Lanka Act (hereinafter referred to as the
+
+“BOI Act”).
+
+The Appellant submitted its return of income for the year of assessment 2014/2015
+
+claiming exemption granted to the enterprise under the terms of the agreement entered
+
+into with the BOI. The Assessor, by letter dated 20th of December 2016 issued under
+
+Section 163 (3) of the Inland Revenue Act No. 10 of 2006 (hereinafter referred to as the
+
+'IR Act'), rejected the Appellant's return of income for the year of assessment 2014/2015,
+
+on the ground, inter alia, they had violated the clauses of the BOI agreement by that they
+
+can't claim the exemption under the said agreement. It is relevant to reproduce the said
+
+passage of the BOI.
+
+“(3) The Enterprise shall be an entirely new enterprise and shall not involve the
+
+reconstitution of an existing business. However, transfer of assets shall be
+
+permitted subject to the condition that the value of assets transferred shall not be
+
+considered as part of the new investment. in this regard the Enterprise shall be
+
+required to forward a certified copy from the auditors for the value and the items
+
+which are transferred to the new Enterprise.” [emphasis added]
+
+Page 3 of 10
+
+According to the Appellant, the Appellant received the Notice of Assessment dated 03rd
+
+March 2017 subsequently. Thereafter, the Appellant appealed to the Commissioner
+
+General of Inland Revenue (hereinafter referred to as the 'CGIR') against the said
+
+assessment by letter dated 03rd April 2017. The CGIR heard the appeal and confirmed the
+
+assessment made by the Assessor by his determination dated 27th March 2019.
+
+The Appellant appealed to the Tax Appeals Commission (hereinafter referred to as the
+
+'TAC') against the determination of the CGIR. The TAC confirmed the determination
+
+made by the CGIR and dismissed the appeal by determination dated 14.02.2024. The
+
+Appellant aggrieved by the TAC's determination moved to state a case to the Court of
+
+Appeal on 10.04.2024. Accordingly, the TAC stated a case to this Court on four questions
+
+of law.
+
+The four questions of law in the case stated to the Court of Appeal are as follows;
+
+1. Is the assessment of income tax and penalty as confirmed by the Commissioner
+
+General of Inland Revenue excessive, arbitrary, unreasonable and without lawful
+
+justification?
+
+2. Is the Appellant, who has entered into a lawfully valid agreement with the Board
+
+of Investment of Sri Lanka on 7 March 2011, bearing No 109 attested by S M
+
+Medagama of Colombo, Notary Public, lawfully entitled to an income tax
+
+exemption for the relevant year of assessment? The Board of Investment of Sri
+
+Lanka has also confirmed that the company has met the required criteria specified
+
+in the agreement in order to be entitled to the tax concessions referred to in the
+
+agreement.
+
+3. Is it correct that the Appellant's business does not comprise a reconstitution of an
+
+existing business?
+
+4. In view of the facts and circumstances of the case has the Commissioner General
+
+of Inland Revenue erred in law in arriving at the conclusion that he/ she did?
+
+On 2nd June 2026, the hearing of arguments was concluded, and this Court directed both
+
+parties to file their written submissions in the form of synopses. Both parties have
+
+complied with that direction.
+
+The principal argument advanced by the parties were directed at Question of Law No. 2.
+
+Accordingly, I shall proceed to consider and determine Question of Law No. 2 referred to
+
+this Court.
+
+Page 4 of 10
+
+“2. Appellant, who has entered into a lawfully valid agreement with the Board of
+
+Investment of Sri Lanka on 7 March 2011, bearing No 109 attested by S M
+
+Medagama of Colombo, Notary Public, lawfully entitled to an income tax
+
+exemption for the relevant year of assessment? The Board of Investment of Sri
+
+Lanka has also confirmed that the company has met the required criteria specified
+
+in the agreement in order to be entitled to the tax concessions referred to in the
+
+agreement.”
+
+The question is whether the Appellant is exempt from the payment of tax by virtue of the
+
+agreement entered into between the Appellant Company and the BOI. According to the
+
+agreement, the Appellant was granted an exemption from the payment of tax for a period
+
+of seven years.
+
+At this juncture I am mindful of the Section 17 (1) of the Board of Investment of Sri Lanka
+
+Law, No. 4 of 1978, as amended provides as follows;
+
+“17 (1) the Commission shall have the power to enter into agreements with any
+
+enterprise in or outside the Area of Authority and to grant exemptions from any
+
+law referred to in Schedule B hereto, or to modify or vary the application of any
+
+such laws, to such enterprises in accordance with such regulations as may be made
+
+by the Minister.
+
+(2) Every such agreement shall be reduced to writing and shall upon registration
+
+with the Commission, constitute a valid and binding contract between the
+
+Commission and the enterprise. (emphasis added)”
+
+The Appellant’s contention is that in terms of clause 14 (i) of the agreement with the BOI,
+
+the profits and income of the Appellant company are exempt from tax for a period of seven
+
+years. The BOI determined the seven-year period to reckon from the year of assessment
+
+2011/2012.
+
+The aforesaid clause has been included in the agreement pursuant to the Regulations
+
+made under Section 17 of the BOI Act and published in the Extraordinary Gazette No.
+
+1469/35 dated 2nd November 2006.
+
+The year of assessment relevant to the case at hand is 2014/2015, which falls within the
+
+seven-year tax holiday. The Appellant submitted its return of income for the above year
+
+Page 5 of 10
+
+of assessment and the Assessor rejected the return in his aforementioned letter dated
+
+20th of December 2016 stating the reasons for rejection.
+
+“•Article 03 of the said agreement read thus: "The Enterprise shall be an entirely
+
+new enterprise and shall not involve any reconstitution of an existing business."
+
+•A clarification obtained by this office from the company revealed that it was
+
+engaged in the business of carrying out a call center for Dialog Axiata PLC, a part
+
+of the business done by Dialog Axiata PLC itself prior to the forming of this
+
+company in the year of 2011.
+
+•Further it was noted that Firstsource Dialog Solutions (PVT) Ltd had paid
+
+gratuity to employees, whose period of service in both companies (Dialog Axiata
+
+PLC and Firstsource Dialog Solutions (PVT) Ltd) when taken together exceeded
+
+05 years.”
+
+Aggrieved by the Assessor's decision, the Appellant appealed to the CGIR, Respondent.
+
+In his determination, the Respondent set out the reasons for upholding the Assessor's
+
+decision as follows,
+
+• After establishment of First Source Dialog Solutions, the call center which was
+
+handled by Dialog Axiata Ltd has been transferred to First Source Dialog Solutions
+
+Ltd.
+
+• Nature of business of First Source Dialog Solutions Ltd is providing IT enable
+
+services as a concept of business processing outsourcing (BPO) and 99% of the
+
+service of the assesse company had provided to the Dialog group.
+
+• It was noted that First Source Dialog Solutions (Pvt) Ltd had paid gratuity to
+
+employees whose aggregated period of services in both companies (Dialog Axiate
+
+PLC and First Source Dialog Solutions (Pvt) Ltd) exceeded five years.
+
+Accordingly, it is clear that the business of First Source Dialog Solutions (Pvt) Ltd)
+
+is not a new enterprise and only a reconstitution an existing business. Therefore,
+
+they have violated the terms and conditions stated under clause No (3) of the
+
+agreement dated 07.03.2011 between BOI and the company.
+
+Page 6 of 10
+
+Thereafter, the Respondent confirmed the Assessor's determination. Aggrieved by the
+
+said determination, the Appellant preferred an appeal to TAC. By its determination dated
+
+14.02.2024, the TAC made the following observations:
+
+(a) The Appellant had failed to make any counter-submissions in respect of the
+
+gratuity payment.
+
+(b) The Appellant had paid gratuity to their employees by aggregating their period
+
+of service with that rendered at Dialog Axiata PLC, despite the fact that the
+
+Appellant company was incorporated only on 06.06.2011.
+
+(c) Further they have overruled the objection of appellant with regard ti
+
+jurisdiction
+
+The main argument put forward by the appellant was that IRA lacks the jurisdiction to
+
+review the scope of a tax exemption granted by the BOI. As reply to the argument the
+
+counsel for the respondent made following determinations,
+
+“Another argument of the Appellant is thạt the IRD has no jurisdiction to review
+
+the scope of a tax exemption granted by the BOI. However, this argument is not
+
+accepted as correct by this Commission as the BOI Law does not supercede the
+
+provisions in the IRA. The Commission observes that in addition to the BOI Law,
+
+the IRA also has a separate Chapter as Chapter III detailing where exemptions
+
+have been granted from income tax to certain persons (other than individuals) on
+
+the whole or any part of their profits and income, identified based on priority
+
+sectors or categories based on the policy decisions of the government taken from to
+
+time. It is also observed by this Commission that there is neither any provision in
+
+the IRA nor in the BOI Law, where the authority of the Respondent has been
+
+restricted or curtailed on any verification or investigation in respect of any person
+
+or any category.”
+
+In addition to the above, I am of the view that the Assessor has arrived at his conclusion
+
+upon a careful consideration of the documents submitted by the Appellant. Upon
+
+scrutinizing the documents produced by the Appellant and perusing the agreement
+
+entered into with Dialog Axiata PLC, the Assessor has concluded that, although the
+
+Appellant had established that it was a separate legal entity from Dialog Axiata PLC, in
+
+Page 7 of 10
+
+substance, the Appellant continued to provide the same services that were previously
+
+carried out by Dialog Axiata PLC.
+
+Further, it was observed that the Appellant had paid gratuity to employees who had
+
+previously been employed by Dialog Axiata PLC. This was a significant factor taken into
+
+consideration by the Assessor, the CGIR and the TAC in determining the true nature of
+
+the Appellant's business and whether it constituted an entirely new enterprise within the
+
+meaning of Clause 3 of the BOI Agreement.
+
+This factual position was not disputed by the Appellant at any stage of the proceedings.
+
+In terms of Section 2 of the Payment of Gratuity Act, an employee becomes entitled to
+
+gratuity upon the completion of not less than five years of continuous service with the
+
+employer. The audited financial statements of the Appellant disclose that gratuity had
+
+been paid to its employees by taking into account the period of service rendered at Dialog
+
+Axiata PLC. This is a significant indication that the employees who had previously served
+
+Dialog Axiata PLC continued their employment with the Appellant, thereby
+
+demonstrating a continuity of the workforce. It lends considerable support to the finding
+
+that the Appellant was not an entirely new enterprise but merely a reconstitution of an
+
+existing business.
+
+It should be borne in mind that the tax exemption claimed by the appellant arose solely
+
+by virtue of the BOI Agreement. A perusal of the said Agreement reveals that the tax
+
+exemption was granted subject to the terms and conditions agreed upon by the parties.
+
+By entering into the Agreement, the appellant expressly undertook to comply with those
+
+conditions.
+
+In particular, paragraph 3 of the BOI Agreement stipulates that the applicant company
+
+shall be an entirely new enterprise and shall not involve the reconstitution of an existing
+
+business. Accordingly, the appellant's entitlement to the tax exemption was conditional
+
+upon strict compliance with those requirements.
+
+The question that arises is on what basis the appellant paid gratuity to its employees
+
+when the company was incorporated only on 6th June 2011.
+
+Consequently, the Appellant failed to satisfy the requirement contained in Clause 3 of the
+
+BOI Agreement. Since the tax exemption granted under Clause 14 of the BOI Agreement
+
+was expressly made conditional upon compliance with the terms and conditions of the
+
+Page 8 of 10
+
+Agreement, the Appellant was not entitled to claim the exemption for the relevant year
+
+of assessment.
+
+Question of Law No 3 is “Is it correct that the Appellant's business does not comprise a
+
+reconstitution of an existing business?”. According to the Appellant company in its written
+
+submissions by letter dated 15.06.2016, the Executive Director of BOI informed the
+
+Respondent that the Appellant company is a new company and it has fulfilled the relevant
+
+requirements as in the BOI agreement to be entered for the tax exemption and issued the
+
+tax exemption certificate for the year 2011/2012 and 2013/2014.
+
+The question is whether, if the BOI determined that the Company qualified as a new
+
+enterprise and issued the relevant tax exemption certificate, the CGIR, Respondent, was
+
+precluded from revisiting that determination. The Appellant submits that, by
+
+independently concluding that the Company did not qualify for the exemption and
+
+consequently denying the tax exemption, the CGIR effectively substituted his own
+
+determination for that of the BOI. Accordingly, the Appellant argues that the impugned
+
+assessment is invalid and cannot be sustained in law.
+
+My understanding is that the BOI determines eligibility for investment incentives under
+
+the BOI Law and sets some conditions for them to get the tax exemption. The CGIR is
+
+entrusted under the Inland Revenue Act with the administration of tax laws and the
+
+assessment of tax liability. Therefore, the BOI's certification does not automatically
+
+deprive the CGIR of his statutory duty to determine whether the conditions for exemption
+
+have been satisfied under the Inland Revenue Act.
+
+The Respondent has set out the reasons for concluding that the Appellant Company does
+
+not qualify as a new enterprise but is, in substance, a reconstitution of an existing
+
+business. Significantly, this conclusion was reached on the basis of documents submitted
+
+by the Appellant itself.
+
+Upon being informed of the Respondent's reasons for refusing to grant the claimed tax
+
+exemption, the Appellant bore the burden of rebutting those findings by producing
+
+credible evidence to the contrary. However, the Appellant has failed to discharge that
+
+burden.
+
+In particular, I note that the gratuity payment records constitute official documents, of
+
+which the Respondent was entitled to take cognizance in the course of its assessment.
+
+These records support the Respondent's conclusion that the Appellant Company was not
+
+Page 9 of 10
+
+a genuinely new enterprise. Despite having had the opportunity to do so, the Appellant
+
+has, to date, failed to adduce any evidence to refute or displace the Respondent's findings.
+
+In the absence of such evidence, there is no basis upon which this Court can reject the
+
+Respondent's conclusion.
+
+Accordingly, I find that the decisions of the CGIR and the TAC that the Appellant's
+
+business constituted a reconstitution of an existing business were correct. The payment
+
+of gratuity to the employees, notwithstanding the recent incorporation of the Appellant
+
+company, constitutes cogent evidence that the business was a reconstitution of an existing
+
+business rather than an entirely new enterprise, as required by Clause 3 of the BOI
+
+Agreement.
+
+The remaining three Questions of Law (No 1 and 4) are intrinsically connected with
+
+Question of Law No. 2. In view of my findings on Question of Law No. 1, namely that the
+
+Appellant is not entitled to the tax exemption claimed, the CGIR has correctly affirmed
+
+the decision of the Assessor. Further, Question of Law No. 4 has already been addressed
+
+in the course of answering Question of Law No. 2 and, therefore, requires no separate
+
+consideration.
+
+For the reasons set out above, this court holds that TAC did not err in law when it arrived
+
+at the conclusion when it did. Accordingly, this court answers the questions of law in the
+
+case stated for the opinion of this court as follows,
+
+1. No.
+
+2. No.
+
+3. No.
+
+4. No.
+
+In light of the answers given to the four questions of law, acting under Section 11A (6) of
+
+the Tax Appeal Commission Act No. 23 of 2011, as amended, I affirm the determinations
+
+made by the TAC and dismiss this appeal.
+
+The Registrar is directed to send a certified copy of this judgment to the Secretary of the
+
+TAC.
+
+Page 10 of 10
+
+Application dismissed.
+
+JUDGE OF THE COURT OF APPEAL
+
+Adithya Patabendige, J.
+
+I AGREE.
+
+JUDGE OF THE COURT OF APPEAL
