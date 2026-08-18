@@ -1,0 +1,691 @@
+==== BLOCKS ==== 
+
+1
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an application for the grant of
+
+Writs of Certiorari and Prohibition under and in
+
+terms of Article 140 of the Constitution of the
+
+Democratic Socialist Republic of Sri Lanka.
+
+Southern Salt Company (Pvt) Ltd
+
+23, Walukarama Road,
+
+Colombo 03.
+
+PETITIONER
+
+V.
+
+1. K.L. Ranjith Surasena
+
+Commissioner of Provincial Revenue
+
+Southern Province,
+
+Department of Provincial Revenue
+
+Southern Provincial Council
+
+No. 30, Wackwella Road,
+
+Galle.
+
+1A Tilishiya D.A. Gunasekara
+
+Commissioner of Provincial Revenue
+
+Southern Province,
+
+Department of Provincial Revenue
+
+Southern Provincial Council
+
+No. 30, Wackwella Road,
+
+Galle.
+
+1A SUBSTITUTED RESPONDENT
+
+CA (Writ) Application No: 320/2023
+
+2
+
+2. Geological Survey and Mines Bureau
+
+No. 569, Epitamulla Road,
+
+Pitakotte.
+
+RESPONDENTS
+
+Before : Hon. Rohantha Abeysuriya PC, J.(P/CA)
+
+: Hon. K. Priyantha Fernando, J. (CA)
+
+Counsel : Dilrukshi Dias Wickremasinghe, PC with Dilumi de
+
+Alwis for the Petitioner instructed by Amila Kumara.
+
+M. Fernando, S.C. for the Respondents.
+
+Written Submissions on : 16.03.2026 for the Petitioner.
+
+17.04.2026 for the Respondents.
+
+Decided on : 30.07.2026
+
+K. Priyantha Fernando, J. (CA)
+
+1. The Petitioner namely Southern Salt Company (Pvt.) Ltd is a company engaged in the business
+
+of manufacturing edible salt in Sri Lanka and has prayed inter alia for writs of certiorari to
+
+quash the “order made by the first Respondent” to institute action against the Petitioner before
+
+the Magistrate Court of Tangalle and for writs of Prohibition to prevent the Respondent
+
+(Commissioner of Provincial Revenue, Southern Province and Geological Survey and Mines
+
+Bureau) from taking any further measures to prosecute the matter before the Magistrates’ Court.
+
+3
+
+2. The Petitioner has received summons issued by the Magistrate’s Court of Tangalle (Case No.
+
+39700) on a Certificate of Tax in Default filed by the 1st Respondent (Commissioner of
+
+Provincial Revenue - Southern Province) alleging offences under Sections 9 and 12 of the
+
+Finance (Supplementary Provisions) Statute No. 2 of 1994 read with Section 89 of the Finance
+
+Statute of the Southern Provincial Council No. 07 of 1990.
+
+THE POSITION OF THE PETITIONER:
+
+3. The Petitioner contended that the impugned criminal proceedings and the Notices of
+
+Assessment dated 5 December 2018 (P16(a)–(f)) are unlawful and ultra vires because the
+
+statutory preconditions for imposing a mineral tax are absent; the Petitioner’s solar evaporation
+
+manufacture of edible sea salt does not constitute “mining” or “processing” within the Mines
+
+and Minerals Act, and the statutory procedure for assessment, hearing and determination under
+
+the Finance Statute was not complied with before recovery proceedings were instituted.
+
+4. It was submitted that the statutory scheme demonstrates that mineral tax is a tax on the right to
+
+mine and therefore arises only where a lawful right to mine has been conferred by
+
+a licence issued under the Mines and Minerals Act; reliance was placed on Section 9 of the
+
+Finance (Supplementary Provisions) Statute No. 2 of 1994, Section 67 of the Mines and
+
+Minerals Act and Item 36:18 of the Ninth Schedule to the Constitution. The Petitioner further
+
+submitted that the Mines and Minerals Act’s definitions require excavation or extraction from
+
+the earth for an activity to constitute “mining” and that “processing” as defined in the Act
+
+expressly excludes refining; accordingly, the Petitioner’s diversion of sea water into man-made
+
+salterns, crystallisation by solar evaporation and subsequent mechanical refining do not fall
+
+within the Act’s definitions. The Petitioner relied on the written communication from the
+
+statutory regulator (P12(b)) which, it was submitted, expressly confirmed that salt is excluded
+
+from items requiring a licence and that licences are not necessary for processing salt; on that
+
+basis the Petitioner argued that no licence exists and the precondition for imposing mineral tax
+
+is therefore absent.
+
+5. It was further submitted that, in any event, the Respondents failed to follow the mandatory
+
+statutory procedure for assessment and recovery. The Petitioner stated that it lodged appeals
+
+4
+
+and participated in an inquiry before the Senior Assessor, submitted completed returns showing
+
+nil liability and that no written determination was issued by the Commissioner under Section
+
+79(11) nor was a formal hearing by the Commissioner fixed under Sections 79(5)–(6); the
+
+Petitioner therefore contended that it was deprived of the statutory right to a hearing and of the
+
+right to pursue further remedies (including appeal to the Review Board under Section 80), and
+
+that the institution of proceedings before the Magistrate was premature and procedurally
+
+defective. The Petitioner also submitted that the Magistrate failed to apply judicial mind to
+
+whether there were sufficient grounds to issue summons and that the Certificate of Tax in
+
+Default and the manner of instituting criminal proceedings were improper.
+
+6. It was further submitted that taxing statutes must be strictly construed in favour of the taxpayer
+
+and that the Court cannot extend the scope of a taxing statute by implication; the Petitioner
+
+relied on authorities establishing that fiscal and penal statutes are to be given a narrow
+
+construction and that any ambiguity must be resolved in favour of the individual. The Petitioner
+
+therefore urged that, because the Mines and Minerals Act conditions mineral tax on the
+
+existence of a licence and because the regulator had confirmed that no licence was required for
+
+the Petitioner’s salt operations, the imposition and recovery of mineral tax in the present
+
+circumstances is arbitrary, unlawful and should be set aside.
+
+THE POSITION OF THE RESPONDENTS:
+
+7. The Respondents submitted that,
+
+1) The Southern Provincial Council lawfully imposed a mineral tax in accordance with
+
+the constitutional and statutory framework and that the assessments and the
+
+Magistrate’s order are valid; “The Southern Provincial Council has imposed a 'Mineral
+
+Tax in terms of Section 9(1) of the Finance (Supplementary Provisions) Statute No. 02
+
+of 1994 of the Southern Provincial Council.”
+
+2) The Provincial councils have power under Article 154G and Item 36:18 of the Ninth
+
+Schedule to make statutes in respect of taxes on mineral rights subject to limits
+
+prescribed by Parliament, and that Section 67 of the Mines and Minerals Act limits such
+
+5
+
+provincial taxes to 0.5% of gross turnover, a limit which the Southern Provincial
+
+Council’s statute respects.
+
+3) The Respondents relied on the express inclusion of salt within the Mines and Minerals
+
+Act’s definition of “mineral” and on the legislative history by which the Mines and
+
+Minerals Act replaced the Salt Ordinance; and salt produced by solar evaporation falls
+
+within the Act’s regulatory ambit notwithstanding the Petitioner’s method of
+
+manufacture.
+
+4) The definitions of “mining” and “mine” in the Act must be given an expansive meaning
+
+and that the solar evaporation process adopted by the Petitioner results in naturally
+
+formed salt layers on the surface which are recovered by digging or excavation and
+
+which involve salterns prepared by excavation; accordingly, the Respondents argued
+
+that the Petitioner’s activities come within the Act’s concept of mining.
+
+5) The liability to pay mineral tax arises where the mineral is licensable under the statutory
+
+scheme (i.e., falls within the licensing/regulatory regime), and not only where a
+
+specific licence has been issued; reliance was placed on constitutional and statutory text
+
+and on prior judicial interpretation to that effect. The Respondents acknowledged that
+
+certain exemptions and regulatory practices exist (including documents pleaded to
+
+show exemptions from royalty for edible salt used for national consumption and
+
+amendments to registration fee regulations) but submitted that such policy exemptions
+
+do not negate the provincial council’s statutory power to impose mineral tax.
+
+6) On the procedural point, the Respondents relied on the record of the inquiry (R7) to
+
+show that the Petitioner was afforded a hearing under Sections 79(5) and 79(6) and that
+
+the Petitioner’s representative was informed that the notices of assessment would be
+
+confirmed; the Respondents equated that communication and the presence of the
+
+Petitioner’s representative with a determination under Section 79(11) and contended
+
+that the statutory procedure was therefore followed and that the institution of
+
+proceedings was lawful.
+
+6
+
+7) The Respondents also relied on prior authority (including a Court of Appeal decision
+
+involving similar contentions) to support the proposition that salt falls within the Mines
+
+and Minerals Act and that the provincial tax was lawfully imposed.
+
+THE QUESTIONS OF LAW:
+
+8. It can be identified that the following questions of law arise for determination:
+
+i. whether the Mines and Minerals Act and the provincial Finance Statute require an
+
+issued licence as a precondition for mineral tax;
+
+ii. whether solar evaporated sea salt and the Petitioner’s refining activity fall within the
+
+Act’s definitions of “mineral”, “mining” and “processing”;
+
+iii. the legal effect of the regulator’s letter (P12(b));
+
+iv. whether the Commissioner complied with Sections 79(5), 79(6) and 79(11); and
+
+whether the Magistrate properly exercised judicial discretion before issuing summons.
+
+9. The Petitioner has prayed for writs of Certiorari and Prohibition and related relief to quash the
+
+Notices of Assessment and the Magistrate’s order and to prevent further prosecution, while the
+
+Respondents prayed that the Petition be dismissed and that the reliefs sought in their Statement
+
+of Objections be granted.
+
+EVALUATION OF FACTS AND LAW:
+
+10. The Southern Province has been established by Article 154A of the Constitution contained in
+
+the 13th Amendment to the Constitution. Item 36:18 of the Ninth Schedule to the Constitution
+
+or the Provincial Council List has stipulated that the provincial councils have statute making
+
+powers in respect of “Taxes on mineral rights within such limits and subject to such exemptions
+
+as may be prescribed by law made by Parliament”.
+
+7
+
+11. Item 36:18 of the Ninth Schedule to the Constitution imposes a limitation that a Provincial
+
+Council’s power of taxation must be subject to limits prescribed by Parliament by law. Such
+
+limitation is found in Section 67 of the Mines and Minerals Act (as amended) which reads as
+
+follows:
+
+“The taxes on the right to mine for minerals within a province that may be imposed by
+
+the Provincial Council established for that province shall not exceed 0.5 per centum of
+
+the gross turnover value of the minerals mined in the exercise of that right”.
+
+12. The Southern Provincial Council has imposed a “Mineral Tax” in terms of Section 9(1) of the
+
+Finance (Supplementary Provisions) Statute No. 02 of 1994 of the Southern Provincial Council.
+
+The provision reads as follows:
+
+"9(1) පතල් ඛනිජ ද්‍රව්‍ය පනත යටතේ නිකුේ කරන ලද බලපත්‍රයක ත ෝ
+
+අව්‍සර පත්‍රයක බලය යටතේ පළාත ඇතුලත පිහිටි ඉඩමකින් යම් ද්‍රව්‍ය
+
+කැණීතම්, තසවීතම්, ලබාගැනීතම් ත ෝ ඉව්‍ කරතගන යාතම්
+
+අයිතිව්‍ාසිකම ලබා දී අමාතයව්‍රයා විසින් ගැසට් පත්‍රතේ පළකරන ලබන
+
+නියමයකින් නියම කරනු ලබන අනුප්‍රමාණයට ත ෝ අනුප්‍රමාණයන්ට අනුව්‍
+
+වූ, (තමකි මින් මතු " ඛනිජ බද්ද" යනුතව්‍න් ඳුන්ව්‍නු ලබන) බද්දක් එව්‍ැනි
+
+තැනැේතන්ට ලබා දී ඇති අයිතිය මත පළාේ සභාතේ තයෝජනා සම්මතයක්
+
+මගින් පනව්‍ා අයකරගත ැකිය"
+
+13. The documents P16(a) to P16(f) show that a mineral tax of 0.5 % on the gross turnover value
+
+of the minerals mined has been imposed on the Petitioner in line with the above legal provisions.
+
+The said percentages were imposed by the Chief Minister and Finance Minister of the Southern
+
+Province in Gazette No. 1240 dated 07.06.2002.
+
+8
+
+IS THE PETITIONER LIABLE TO PAY MINERAL TAX?
+
+14. The main argument of the Petitioner is that “salt” is not a mineral which falls within the ambit
+
+of the definition of a ‘mineral’ within the Mines and Minerals Act and that the process adopted
+
+by the Petitioner to manufacture salt does not fall within the ambit of the definition of ‘mining’
+
+within the Act.
+
+15. Prior to the Mines and Minerals Act coming into effect, the collection of naturally occurring
+
+salt and the manufacturing of salt by any process whatsoever has been a licensable activity
+
+under Section 3 of the Salt Ordinance: “It shall not be lawful for any person to collect or attempt
+
+to collect salt naturally formed or to manufacture or attempt to manufacture salt by any process
+
+whatsoever, except on account of Government and under the authority of a license granted by
+
+the Commissioner”.
+
+16. The long title of the Mines and Minerals Act (as amended) states that one of the Act’s
+
+objectives was to provide: “FOR THE REPEAL OF THE SALT ORDINANCE (CHAPTER
+
+211) THE RADIO ACTIVE MINERALS ACT NO. 46 OF 1968, AND THE MINES AND
+
+MINERALS LAW NO. 4 OF 1973; AND TO PROVIDE FOR MATTERS CONNECTED
+
+THEREWITH OR INCIDENTAL THERETO”.
+
+17. Therefore, it is seen that the Mines and Minerals Act has been brought in a regular structure
+
+which was not inter alia supposed to replace the regulatory structure governing salt
+
+manufacturing in the Salt Ordinance.
+
+18. The Petitioner has contended that salt is not a ‘naturally occurring substance’. However, this
+
+argument fails in the face of the definition of ‘mineral’ in the Mines and Minerals Act, which
+
+reads as follows:
+
+““mineral” means a naturally occurring substance that can be mined, whether in solid,
+
+liquid or gaseous form, in or below the surface of the soil, any ores containing such
+
+minerals and any product of such minerals derived by processing and include peat and
+
+salt but does not include hydro-carbones”
+
+9
+
+19. The Mines and Minerals Act has taken special measures to bring ‘salt’ within its regulatory
+
+regime through this definition, especially since the Mines and Minerals Act replaced the
+
+regulatory regime governing salt as contained in the Salt Ordinance. The Petitioner’s argument
+
+is that ‘salt’ cannot be a naturally occurring substance since it is manufactured using the process
+
+described in paragraph 14 of the Petition and photograph 6(e) of the counter objections.
+
+20. Nevertheless, in Lanka Salt Limited v Indrani Seneviratne, Provincial Commissioner of
+
+Revenue CA/PHC/161/2009 decided on 29.01.2016, when the Petitioner there raised the same
+
+argument, the Court has rejected such argument in the following manner:
+
+“The Court is mindful at this juncture that no scientific pronouncement should be made
+
+regarding how SALT comes to being. It is to be noted that the Southern Provincial
+
+Council has decided that the substance of salt is a mineral. Therefore, this Court cannot
+
+give any other interpretation contrary to the aforesaid interpretation”
+
+21. Thus, there is no basis to hold that salt is not a mineral which falls within the ambit of the
+
+Mines and Minerals Act.
+
+22. The Second argument of the Petitioner is that even if salt is a mineral, the process by which
+
+salt is obtained in this matter (i.e. by solar evaporation) does not constitute ‘mining’ within the
+
+meaning of the Mines and Minerals Act. If this argument is accepted, salt which is
+
+manufactured using solar evaporation method would be rendered unregulated and un-licensed
+
+under the Mines and Minerals Act. This does not seem to be the legislative intention behind
+
+introducing the Mines and Minerals Act (as amended). The legislative intent has been to enable
+
+manufacturing of salt by any process to be regulated by the Mines and Minerals Act.
+
+23. The Petitioner argued that the issuance of a mining license to engage in the manufacture of salt
+
+is a prerequisite for the Petitioner to be imposed liability under the statute to pay the Mineral
+
+Tax. The same argument was raised in Lanka Salt Ltd v Indrani Seneviratne (supra) where the
+
+Court has stated as follows: “Therefore, it is abundantly clear that the substance of SALT is
+
+categorized as a mineral and the Petitioner Appellant will be liable to pay the purported tax.”
+
+10
+
+24. It appears that this Court has taken the view that liability to pay the mineral tax would arise if
+
+the mining of a mineral was licensable, as opposed to specifically licensed. It is the licensability
+
+of the mineral which makes it liable for the payment of Mineral Tax. This is borne out by Item
+
+36:18 of the Ninth Schedule of the Provincial Council List to the Constitution which says “taxes
+
+can be imposed on mineral rights”.
+
+25. In the instant case, the Respondents have pleaded the document R2, R3 and R4 to show that an
+
+exemption has been granted from the payment of royalty in respect of ‘edible salt used for
+
+national consumption’. Thus, no license is required for the mining of edible salt. This is also
+
+reflected in the amendment made to regulation 34(2) which states that ‘registration fees shall
+
+not apply to applications in respect of edible salt used in national consumption’. It is apparent
+
+that it is for this reason that the Petitioner has not been issued a license to engage in the mining
+
+activity; however, such policy exemption granted by the 2nd respondent (Geological Survey
+
+and Mines Bureau) should not be used as a legal tool to state that the 1st respondent cannot
+
+impose mineral tax on the Petitioner in terms of Section 9 of the Act.
+
+26. I will now consider the dicta of a recent judgment delivered by Justice M. Sampath K. B.
+
+Wijeratne bearing case number SC/APPEAL/147/2018 decided on 11.06.2026. The Supreme
+
+Court affirmed the judgments delivered in both the High Court and Court of Appeal on the
+
+issue of whether or not salt falls under the definition of ‘mineral’ owing to the fact that it is not
+
+‘mined’ in the typical sense of the word. The facts and arguments of the Petitioners, both in the
+
+case referred to above and in the instant case are almost identical. Additionally, both cases
+
+considered the same questions of law,
+
+− Whether an issued licence a precondition for the levying of mineral tax according
+
+to the Mines and Minerals Act and the provincial Finance Statute
+
+− Whether salt falls under the definition of ‘mineral’ according to the Mines and
+
+Minerals Act No. 33 of 1992.
+
+27. On the first issue, His Lordship Justice M. Sampath K. B. Wijeratne held as follows:
+
+“Nevertheless, both the Court of Appeal and the High Court have arrived at the finding
+
+that ‘salt’ is a mineral upon a careful consideration of the provisions of the Mines
+
+11
+
+and Minerals Act No. 33 of 1992. It is a general practice of legislative bodies to define
+
+terms used in statutes and to place such definitions in the interpretation section. As
+
+stated by Bindra in Interpretation of Statutes (8th edn., p. 40), where a word or phrase
+
+is defined in an enactment, that meaning, and that meaning alone, must be given
+
+effect to unless it is repugnant to the context of the statute.
+
+The Court cannot indulge in speculation as to the probable or possible qualifications
+
+which might or should have been in the mind of the legislature; rather, the statute must
+
+be given effect according to its plain and ordinary meaning. In such circumstances, the
+
+erroneous observation made by the learned Judges of the Court of Appeal has not, in
+
+any event, caused prejudice to the Petitioner as the learned Judges of the Court of
+
+Appeal have interpreted the word ‘mineral’ correctly.”
+
+As it is already established that the Petitioner’s business of producing edible salt falls
+
+within the purview of “minerals within a province,” the levy of Mineral Tax on the
+
+Petitioner’s salt production was within the powers of the Southern Provincial Council.”
+
+(the emphasis was added)
+
+28. Furthermore, in relation to the second question of law, the judgment reads as follows:
+
+“At this juncture, I do not wish to examine whether the Petitioner’s enterprise is lawful
+
+or unlawful; I shall confine myself to the question of whether the Petitioner is liable to
+
+be taxed or not.
+
+Section 9(1) of the Finance (Supplementary Provisions) Statute No. 2 of 1994 of the
+
+Southern Provincial Council reads as follows:
+
+"පතල් ඛනිජ ද්‍රව්‍ය පනත යටතේ නිකුේ කරන ලද බලපත්‍රයක ත ෝ අව්‍සර පත්‍රයක
+
+බලය යටතේ පළාත ඇතුලත පිහිටි ඉඩමකින් යම් ද්‍රව්‍ය කැණීතම්
+
+තසවීතම්, ලබාගැනීතම් ත ෝ ඉව්‍ේ කරතගන යාතම් අයිතිව්‍ාසිකම් ලබාදී, අමාතයව්‍රයා
+
+විසින් ගැසට්‌ පත්‍රතයහි පළ කරනු ලබන නියමයකින් නියම කරනු ලබන අනුප්‍රමාණයට
+
+ත ෝ අනුප්‍රමාණයන්ට අනුව්‍ වූ, [තමකී මින්මතු 'ඛනිජ බද්ද' යනුතව්‍න් ඳුන්ව්‍නු ලබන]
+
+12
+
+බද්දක් එව්‍ැනි තැනැේතන්ට ලබාදී ඇති අයිතිය මත පළාේ සභාතේ තයෝජනා
+
+සම්මතයන් මගින් පනව්‍ා අයකර ගත ැකිය."
+
+Upon a plain reading of this section, it is clear that a license is not a prerequisite for
+
+the imposition of the tax; rather, it is relevant for determining the applicable tax
+
+threshold. Accordingly, the levy of tax is independent of the requirement to obtain a
+
+license, as, in tax law, even income derived from unlawful activity may be subject to
+
+taxation.” (the emphasis was added)
+
+29. Additionally, in the instant case, the Court drew its attention to the following authorities which
+
+were cited by the Petitioner:
+
+(1) Vallibel Lanka (Pvt) Limited v Director General of Customs and three others [2008] 1 Sri
+
+L. R. 219, K. Sripavan, J. held as follows:
+
+"It is the established rule in the Interpretation of statutes levying taxes and duties, not
+
+to extend the provisions of the statute by Implication, beyond the clear import of the
+
+language used or to enlarge their operation in order to embrace matters not specifically
+
+pointed out. In case of doubt, the provisions are construed most strongly against the
+
+state and in favour of the citizen. Thus, the intention to impose duties and/or taxes on
+
+imported goods must be shown by clear and unambiguous language and cannot be
+
+inferred by ambiguous words. The court cannot give a wider interpretation to section
+
+16 as claimed by the learned DSG merely because some financial loss may in certain
+
+circumstances be caused to the state".
+
+(2) Sohli Eduljee Captain (Secco Brushes Corporation) v Commissioner of Inland Revenue,
+
+1974) 77 NLR 350 in which it was held that:
+
+"Express and unambiguous language is indispensable in a statute passed for the
+
+purpose of imposing a tax In a Taxing Statute, the constructions are possible, one in
+
+favour of the assessee and the other in favour of the assessor, the Court must adopt the
+
+construction which is favourable to the assessee….”
+
+13
+
+(3) N.O.H. Hotel (Private) Limited "Amangalla" v. The Galle Municipal Council and Others,
+
+CA (PHC) 14/2021 decided on 02.08.2023:
+
+"This Court pays its minds to the trite rule of Interpretation that fiscal statutes and
+
+statutes Imposing penal or pecuniary liabilities must be strictly Interpreted and any
+
+ambiguity must be constructed in favour of the individual. As such, a narrower
+
+interpretation of statutes which impose levies is preferable and courts should not
+
+construe such statues in a manner that places a heavier burden on the citizenry and
+
+such businesses."
+
+30. In the instant case, this Court applies the following rule of interpretation which was applied in
+
+the case of SC/APPEAL/147/2018 decided on 11.06.2026:
+
+“As stated by Bindra in Interpretation of Statutes (8th edn., p. 40), where a word or
+
+phrase is defined in an enactment, that meaning, and that meaning alone, must be
+
+given effect to unless it is repugnant to the context of the statute.” (the emphasis was
+
+added)
+
+CONCLUSION:
+
+31. In the instant case, the Petitioner namely, Southern Salt Company (Pvt.) Ltd argued that
+
+statutory provisions relating to mineral extraction and mining operations apply only to salt that
+
+is mined, and not to salt that is produced through solar evaporation of seawater. However, by
+
+now, the Supreme Court has conclusively decided in SC/Appeal/147/2018 (supra) that the
+
+business of producing edible salt falls within the purview of “minerals within a province,”. thus,
+
+the levy of Mineral Tax on the Petitioner’s salt production comes within the powers of the
+
+Southern Provincial Council.
+
+14
+
+32. For the foregoing reasons, I am not inclined to grant any relief to the Petitioner. Accordingly,
+
+this application is dismissed without costs.
+
+Judge of the Court of Appeal
+
+Hon. Rohantha Abeysuriya PC, J.(P/CA) I agree.
+
+President of the Court of Appeal

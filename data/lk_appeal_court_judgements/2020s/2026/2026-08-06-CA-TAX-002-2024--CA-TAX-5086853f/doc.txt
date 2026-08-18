@@ -1,0 +1,1101 @@
+==== BLOCKS ==== 
+
+Page 1 of 25
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an appeal by way of Stated Case on a question of law for the opinion of the Court of Appeal under and in terms of section 11A of the Tax Appeals Commission Act No. 23 of 2011 (as amended).
+
+CA Case No: CA/TAX/0002/2024 Shangri-La Hotels Lanka (Pvt) Ltd.,
+
+Tax Appeals Commission No. Level 05,
+
+TAC/VAT/088/2021 No.1A, Centre Road, Galle Face,
+
+Colombo 02.
+
+CA Case No: CA/TAX/0007/2024
+
+Tax Appeals Commission No.
+
+TAC/VAT/083/2021 Appellant
+
+CA Case No: CA/TAX/0008/2024 Vs.
+
+Tax Appeals Commission No.
+
+TAC/VAT/084/2021
+
+CA Case No: CA/TAX/0009/2024 Commissioner General of Inland Revenue,
+
+Tax Appeals Commission No. Department of Inland Revenue,
+
+TAC/VAT/087/2021 Sir Chittampalam A. Gardiner Mawatha,
+
+Colombo 02.
+
+CA Case No: CA/TAX/0013/2024 Respondent
+
+Tax Appeals Commission No.
+
+TAC/VAT/085/2021
+
+Page 2 of 25
+
+Before: M.C.B.S. Morais J.
+
+&
+
+Annalingam Premashanker J.
+
+Counsel: Laknath Peiris with Isuri Peiris instructed by Abdeen Associates for the Appellant.
+
+Manohara Jayasinghe, DSG for the Respondent.
+
+Written Submissions:
+
+CA/TAX/0002/2024 By the Appellant – on 05.06.2026, 12.02.2026
+
+By the Respondent – on 05.06.2026, 21.01.2026
+
+CA/TAX/0007/2024 By the Appellant – on 05.06.2026, 17.06.2025
+
+By the Respondent – on 06.05.2026, 22.05.2025
+
+CA/TAX/0008/2024 By the Appellant – 05.06.2026, 17.06.2025
+
+By the Respondent - 26.06.2025, 22.05.2026
+
+CA/TAX/0009/2024 By the Appellant – 05.06.2026, 27.10.2025
+
+By the Respondent –25.06.2025, 27.05.2025
+
+CA/TAX/0013/2024 By the Appellant - 05.06.2026, 18.09.2025
+
+By the Respondent - 13.08.2025, 06.05.2026
+
+Page 3 of 25
+
+Argued on: 09.03.2026
+
+Decided On: 06.08.2026
+
+JUDGMENT
+
+M.C.B.S. Morais J.
+
+These are appeals by way of case stated against the determinations of the Tax Appeals
+
+Commission (TAC). The appeals in CA/TAX/0002/2024, CA/TAX/0007/2024 and
+
+CA/TAX/0009/2024 arise from the determination of TAC dated 7th of November 2023. The
+
+appeal in CA/TAX/0008/2024 arises from the determination of the TAC dated 14th of November
+
+2023, while the appeal in CA/TAX/0013/2024 arises from the determination of TAC dated 29th
+
+of November 2023.
+
+These appeals are filed under Section 11A of the Tax Appeals Commission Act No. 23 of 2011
+
+(as amended).
+
+According to the Journal entry dated 5th of June 2026, the parties have agreed to have a common
+
+judgment since the cases CA/TAX/0002/2024, CA/TAX/0007/2024, CA/TAX/0008/2024,
+
+CA/TAX/0009/2024, and CA/TAX/0009/2024 are connected.
+
+Page 4 of 25
+
+FACTUAL BACKGROUND
+
+The Shangri-La Hotels Lanka (Pvt) Limited (hereinafter will be referred to as the Appellant) is a
+
+limited liability company incorporated and domiciled in Sri Lanka and carrying on development
+
+projects. The Appellant has entered into an agreement with the Board of Investment of Sri
+
+Lanka (BOI) on 7th of February 2011, to construct and operate a development project inclusive
+
+of a luxury hotel, high quality residencies and shopping mall in Colombo, with an investment of
+
+over USD 1 billion.
+
+Accordingly, the BOI has identified this project as a strategic development project and has
+
+granted tax concessions under section 2 of the Strategic Development Act No. 14 of 2008.
+
+Further, in terms of section 3(4) of the Strategic Development Act No. 14 of 2008, the Minister
+
+of Economic Development has published an order via gazette No. 1714/3 dated 11th of July
+
+2011, to declare the said project as a strategic development project and thereby the project is
+
+identified as “project to construct a Luxury Hotel as a Mixed Use Complex including High
+
+Quality Residencies and a High-End Shopping Mall, in Fort Colombo 1, in the Western
+
+Province”.
+
+CA/TAX/02/2024
+
+The Appellant has submitted the return for the taxable period 1st of October 2016 to 31st of
+
+October 2016 (1641) and the taxable amount in dispute is Rs. 149,129,675.00 with a penalty of
+
+Rs. 149,129,675.00. The Appellant has claimed a deduction in terms of the supply of residential
+
+apartments. The said claim was rejected by the Assessor by the intimation letter dated 17th of
+
+September 2019.
+
+Accordingly, the Assessor has issued an assessment without granting those deductions by the
+
+Notice of Assessment dated 3rd of September 2019 for the reasons set out therein. The
+
+Page 5 of 25
+
+Appellant being aggrieved by the decision of the Assessor, made an appeal to the Commissioner
+
+General of Inland Revenue (hereinafter will be referred to as the Respondent). The Respondent
+
+in his determination dated 12th of October 2021 determined the appeal by upholding the
+
+assessment issued by the Assessor. The Appellant being dissatisfied with the said determination
+
+of the Respondent, made an appeal to the Tax Appeals Commission (TAC). The TAC after
+
+considering the submissions made by both parties, dismissed the appeal by the determination
+
+dated 7th of November 2023 and confirmed the determination made by the Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+“I) Whether Tax Appeals Commission has the jurisdiction to confirm the Assessment
+
+under section 9(10) of Tax Appeal Commission Act, No.23 of 2011 (as amended)?
+
+II) Did the Tax Appeals Commission err in law when it decide that effect of section
+
+16(2)(b) of Value Added Tax Act No. 20 of 2016 was not retrospective?
+
+III) Did the Tax Appeals Commission err in law when it interprets that the phrase 'if such
+
+supply has taken place prior to November 1, 2016' of section 16 (2)(b) of Value Added
+
+Tax Act No. 20 of 2016, as 'the date that has been mentioned is only to identify the period
+
+that supplies of lease or rent of residential accommodation that has taken place'?
+
+IV) In view of the facts and circumstance of the case, did the Tax Appeals Commission
+
+err in law when it arrived at the conclusion that it did?”
+
+Page 6 of 25
+
+CA/TAX/07/2024
+
+The Appellant has submitted the return for the taxable period 1st of March 2016 to 31st of March
+
+2016 (1622) and the taxable amount in dispute is Rs. 110,943,754.00 with a penalty of Rs.
+
+110,943,754.00. The Appellant has claimed a deduction in terms of the supply of residential
+
+apartments. The Assessor rejected the said claim by the intimation letter dated 17th of September
+
+2019.
+
+Accordingly, the Assessor has issued an assessment without granting those deductions by the
+
+Notice of Assessment dated 20th of September 2019 for the reasons set out in the intimation
+
+letter. The Appellant being aggrieved by the decision of the Assessor, made an appeal to the
+
+Respondent. The Respondent in his determination dated 12th of October 2021 determined the
+
+appeal by upholding the assessment issued by the Assessor. The Appellant being dissatisfied
+
+with the said determination of the Respondent, made an appeal to the Tax Appeals Commission
+
+(TAC). The TAC after considering the submissions made by both parties, dismissed the appeal
+
+by the determination dated 7th of November 2023 and confirmed the determination made by the
+
+Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+“I) Did the Tax Appeals Commission err in law when it decide that the Assessment was
+
+not time barred?
+
+II) Did the Tax Appeals Commission err in law when it decide that the Appellant 'has
+
+willfully or fraudulently failed to make a full and true disclosure of all the material facts
+
+necessary to determine the amount of tax payable' by him?
+
+Page 7 of 25
+
+III) Is the Determination Tax Appeals Commission contrary to section 33 of Value Added
+
+Tax Act, No 14 of 2002 (as amended) read together with section 2 and section 28 of
+
+Value Added Tax Act, No 14 of 2022 (as amended)?
+
+IV) Did the Tax Appeals Commission err in law when it decide that effect of section
+
+16(2)(b) of Value Added Tax Act No. 20 of 2016 was not retrospective?
+
+V) Did the Tax Appeals Commission err in law when it interprets that the phrase 'if such
+
+supply has taken place prior to November 1, 2016' of section 16 (2)(b) of Value Added
+
+Tax Act No.20 of 2016, as 'the date that has been mentioned is only to identify the period
+
+that supplies of lease or rent of residential accommodation that has taken place'?
+
+VI) In view of the facts and circumstance of the case, did the Tax Appeals Commission
+
+err in law when it arrived at the conclusion that it did?”
+
+CA/TAX/08/2024
+
+The Appellant has submitted the return for the taxable period 1st of June 2016 to 30th of June
+
+2016 (1623) and the taxable amount in dispute is Rs. 204,214,415.00 with a penalty of Rs.
+
+204,214,415.00. The Appellant has claimed a deduction in terms of the supply of residential
+
+apartments. The said claim was rejected by the Assessor by the intimation letter dated 17th of
+
+September 2019.
+
+Accordingly, the Assessor has issued an assessment without granting those deductions by the
+
+Notice of Assessment dated 27th of September 2019 for the reasons set out therein. The
+
+Appellant being aggrieved by the decision of the Assessor, made an appeal to the Commissioner
+
+General of Inland Revenue (hereinafter will be referred to as the Respondent). The Respondent
+
+in his determination dated 12th of October 2021 determined the appeal by upholding the
+
+Page 8 of 25
+
+assessment issued by the Assessor. The Appellant being dissatisfied with the said determination
+
+of the Respondent, made an appeal to the Tax Appeals Commission (TAC). The TAC after
+
+considering the submissions made by both parties, dismissed the appeal by the determination
+
+dated 14th of November 2023 and confirmed the determination made by the Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+“I) Did the Tax Appeals Commission err in law when it decide that the Assessment was
+
+not time barred?
+
+II) Did the Tax Appeals Commission err in law when it decide that the Appellant 'has
+
+willfully or fraudulently failed to make a full and true disclosure of all the material facts
+
+necessary to determine the amount of tax payable' by him?
+
+III) Is the Determination Tax Appeals Commission contrary to section 33 of Value Added
+
+Tax Act, No 14 of 2002 (as amended) read together with section 2 and section 28 of
+
+Value Added Tax Act, No 14 of 2022 (as amended)?
+
+IV) Did the Tax Appeals Commission err in law when it decide that effect of section
+
+16(2)(b) of Value Added Tax Act No. 20 of 2016 was not retrospective?
+
+V) Did the Tax Appeals Commission err in law when it interprets that the phrase 'if such
+
+supply has taken place prior to November 1, 2016' of section 16 (2)(b) of Value Added
+
+Tax Act ActNo.20 of 2016, as 'the date that has been mentioned is only to identify the
+
+period that supplies of lease or rent of residential accommodation that has taken place'?
+
+VI) In view of the facts and circumstance of the case, did the Tax Appeals Commission
+
+err in law when it arrived at the conclusion that it did?”
+
+Page 9 of 25
+
+CA/TAX/09/2024
+
+The Appellant has submitted the return for the taxable period 1st of September 2016 to 30th of
+
+September 2016 (1633) and the taxable amount in dispute is Rs. 105,042,171.00 with a penalty
+
+of Rs. 105,042,171.00. The Appellant has claimed a deduction in terms of the supply of
+
+residential apartments. The said claim was rejected by the Assessor by the intimation letter dated
+
+29th of August 2019.
+
+Accordingly, the Assessor has issued an assessment without granting those deductions by the
+
+Notice of Assessment dated 3rd of September 2019 for the reasons set out therein. The
+
+Appellant being aggrieved by the decision of the Assessor, made an appeal to the Commissioner
+
+General of Inland Revenue (hereinafter will be referred to as the Respondent). The Respondent
+
+in his determination dated 12th of October 2021 determined the appeal by upholding the
+
+assessment issued by the Assessor. The Appellant being dissatisfied with the said determination
+
+of the Respondent, made an appeal to the Tax Appeals Commission (TAC). The TAC after
+
+considering the submissions made by both parties, dismissed the appeal by the determination
+
+dated 7th of November 2023 and confirmed the determination made by the Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+“I) Whether Tax Appeals Commission has the jurisdiction to confirm the Assessment
+
+under section 9(10) of Tax Appeal Commission Act, No.23 of 2011 (as amended)?
+
+II) Did the Tax Appeals Commission err in law when it decide that effect of section
+
+16(2)(b) of Value Added Tax Act No. 20 of 2016 was not retrospective?.
+
+Page 10 of 25
+
+III) Did the Tax Appeals Commission err in law when it interprets that the phrase 'if such
+
+supply has taken place prior to November 1, 2016' of section 16 (2)(b) of Value Added
+
+Tax Act No.20 of 2016, as 'the date that has been mentioned is only to identify the period
+
+that supplies of lease or rent of residential accommodation that has taken place'?
+
+IV) In view of the facts and circumstance of the case, did the Tax Appeals Commission
+
+err in law when it arrived at the conclusion that it did?”
+
+CA/TAX/13/2024
+
+The Appellant has submitted the return for the taxable period 1st of July 2016 to 31st of July 2016
+
+(1631) and the taxable amount in dispute is Rs. 58,336,260.00 with a penalty of Rs.
+
+58,336,260.00. The Appellant has claimed a deduction in terms of the supply of residential
+
+apartments. The said claim was rejected by the Assessor by the intimation letter dated 17th of
+
+September 2019.
+
+Accordingly, the Assessor has issued an assessment without granting those deductions by the
+
+Notice of Assessment dated 20th of September 2019 for the reasons set out therein. The
+
+Appellant being aggrieved by the decision of the Assessor, made an appeal to the Commissioner
+
+General of Inland Revenue (hereinafter will be referred to as the Respondent). The Respondent
+
+in his determination dated 12th of October 2021, determined the appeal by upholding the
+
+assessment issued by the Assessor. The Appellant being dissatisfied with the said determination
+
+of the Respondent, made an appeal to the Tax Appeals Commission (TAC). The TAC after
+
+considering the submissions made by both parties, dismissed the appeal by the determination
+
+dated 29th of November 2023 and confirmed the determination made by the Respondent.
+
+Being dissatisfied with the said determination, the Appellant has requested the TAC to cause a
+
+Case Stated to the Court of Appeal on the following Questions of Law.
+
+Page 11 of 25
+
+“I) Did the Tax Appeals Commission err in law when it decide that the Assessment was
+
+not time barred?
+
+II) Did the Tax Appeals Commission err in law when it decide that the Appellant 'has
+
+willfully or fraudulently failed to make a full and true disclosure of all the material facts
+
+necessary to determine the amount of tax payable' by him?
+
+III) Is the Determination Tax Appeals Commission contrary to section 33 of Value Added
+
+Tax Act, No 14 of 2002 (as amended) read together with section 2 and section 28 of
+
+Value Added Tax Act, No 14 of 2002 (as amended)?
+
+IV) Did the Tax Appeals Commission err in law when it decide that effect of section
+
+16(2)(b) of Value Added Tax Act No. 20 of 2016 was not retrospective?
+
+V) Did the Tax Appeals Commission err in law when it interprets that the phrase 'if such
+
+supply has taken place prior to November 1, 2016' of section 16 (2)(b) of Value Added
+
+Tax Act No.20 of 2016, as 'the date that has been mentioned is only to identify the period
+
+that supplies of lease or rent of residential accommodation that has taken place'?
+
+VI) In view of the facts and circumstances of the case, did the Tax Appeals Commission
+
+err in law when it arrived at the conclusion that it did?”
+
+The substantive issue in all the above appeals are identical in nature as it concerns the issue of
+
+whether the section 16(2)(b) of the VAT (Amendment) Act No.20 of 2016 applies
+
+retrospectively to supplies of residential accommodation made prior to 1st of November 2016. As
+
+this issue goes to the very root of the assessments issued by the Respondent, it is appropriate to
+
+determine it at the outset. If this question is answered affirmatively in favor of the Appellant,
+
+little purpose would be served in considering the remaining Questions of Law. Accordingly, I
+
+Page 12 of 25
+
+shall first address the substantive issue, which is common to all five appeals, before considering
+
+the other issues raised by the Appellant.
+
+ANALYSIS
+
+It is the contention of the Appellant that the section 16(2)(b) of the VAT (Amendment ) Act
+
+No.20 of 2016 expressly refers that the supplies of residential accommodation which has taken
+
+place prior to 1st of November 2016 are exempt from VAT. On this basis, the Appellant contends
+
+that the said exemption applies to all the transactions that has occurred before the said 1st of
+
+November 2016 and therefore the said provision needs to be interpreted having retrospective
+
+effect.
+
+However, it is the Respondent’s position that the said amendment came into operation on 1st of
+
+November 2016 and cannot be given retrospective effect. Therefore, it is the Respondent's
+
+position that the Appellant is not entitled to the exemption claimed in its VAT returns. The
+
+Respondent further contends that the Appellant has not satisfied the requirement under Part II (b)
+
+item No. (xi) under the First Schedule to the VAT Act. On this basis, the Respondent claims that
+
+the section 16(2)(b) of the VAT (Amendment ) Act No.20 of 2016 does not apply retrospectively
+
+and therefore the Appellant is not entitled for the exemption provided there under.
+
+The item No. (xi) of Part II(b) under the First Schedule to the VAT Act has been amended by
+
+section 16(2)(b) of the VAT (Amendment ) Act No.20 of 2016 in the following manner;
+
+“16. The First Schedule to the principal enactment is hereby amended in PART II thereof
+
+as follows:–
+
+(2) in paragraph (b) of that PART –
+
+Page 13 of 25
+
+(b) by the repeal of item (xi) and the substitution therefore of the
+
+following:–
+
+“(xi) services being the supply, lease or rent of residential accommodation
+
+– (a) if such supply has taken place prior to November 1, 2016, other
+
+than the supply, lease or rent of residential accommodation by a person,
+
+being an enterprise which has entered into an agreement with the Board
+
+of Investment of Sri Lanka, under section 17 of the Board of Investment
+
+of Sri Lanka Law, No. 4 of 1978, on or after April 1, 2001 and the total
+
+cost of the projects which such agreement relates is not less than ten
+
+million United States Dollars or its equivalent in any other currency and
+
+the project relates exclusively to the aforesaid supply, lease or rental;
+
+(b) on or after November 1, 2016 by any person, other than any lease or
+
+rent of residential accommodation.”
+
+According to the aforesaid amendment to the Value Added Tax Act, the services of supply,
+
+lease or rental of residential accommodation is exempt from Value Added Tax where the
+
+relevant services were made prior to 1st of November 2016, provided that the following
+
+conditions are satisfied:
+
+1. The enterprise has entered into an agreement with the Board of Investment of Sri Lanka
+
+under section 17 of the Board of Investment of Sri Lanka Law, No. 4 of 1978, on or after
+
+1st of April 2001;
+
+2. The total cost of the project to which the agreement relates is not less than ten million
+
+United States Dollars or its equivalent in any other currency; and
+
+3. The project relates exclusively to the supply, lease or rental of residential
+
+accommodation.
+
+4. The said supply, should have taken place prior to 1st of November 2016.
+
+Page 14 of 25
+
+I shall now consider whether the Appellant has satisfied the above requirements.
+
+According to the letter dated 7th of February 2011, the Appellant has entered into an agreement
+
+with the Board of Investment of Sri Lanka to construct and operate a mixed development project
+
+comprising a luxury hotel, residential apartments and a shopping mall in Colombo. Further,
+
+Gazette Extraordinary No. 1714/3 dated 11th of July 2011 states that required VAT exemptions
+
+provided. Furthermore, the Appellant’s, transaction has engaged in the transaction exclusively to
+
+supply, lease or rent of residential accommodation. These facts have not been disputed from the
+
+Respondent’s end. Therefore, I am satisfied that the Appellant has complied with the first three
+
+requirements of the amendment.
+
+I shall now consider whether the Appellant has satisfied the fourth requirement, namely,
+
+whether the said supply has been taken place prior to 1st of November 2016.
+
+When considering the facts of the present case, it is evident that the disputed supplies relate to
+
+the taxable periods of May 2016, June 2016, July 2016, September 2016 and October 2016.
+
+Therefore, it can be established that the alleged supplies has taken place prior to 1st of November
+
+2016.
+
+The Respondent, however, contends that, in terms of section 1 of the Value Added Tax
+
+(Amendment) Act, No. 20 of 2016, the Act came into operation on 1st of November 2016 and
+
+that, where the Legislature intended a particular provision to operate from an earlier date, such
+
+intention would have been expressly stated in that provision. On that basis, the Respondent
+
+argues that section 16(2)(b) cannot be construed as having retrospective effect.
+
+Furthermore, the TAC in arriving at the determination dated 7th of November 2023, has held in
+
+the following manner;
+
+Page 15 of 25
+
+“When draw attention to part (a) in the Section 16(2)(b) even though it states that' if such
+
+supply has taken place prior to November 1, 2016, the said sentence is continued adding
+
+words 'other than the supply, lease or rent of residential accommodation by a person',
+
+being an enterprise which has entered into an agreement with the Board of Investment of
+
+Sri Lanka, under section 17 of the Board of Investment of Sri Lanka Law,. Therefore, it is
+
+quite clear the date that has been mentioned is only to identify the period that supplies of
+
+lease or rent of residential accommodation that has taken place', but not as the date that
+
+'the Section comes into operation'. Therefore, this provision cannot be taken as an
+
+express provision that has included a date of operation or a provision with necessary
+
+implication that has retrospective effect.
+
+On the other hand, when analyzed the language used in those Sections with retrospective
+
+effect, it is seen that the Sections 16 (1) (b) states as 'substitute in sub item (c) of item
+
+(xix) of paragraph (a) of PART II of the First Schedule for the words "(c) light weight
+
+electrical and electronic items with effect from June 1, 2010;" of the following:-
+
+"(c) light weight electrical and electronic items with effect from June 1, 2010 but prior to
+
+November 1, 2016;".
+
+Similarly the Section 16(1) (c) also states as 'by the repeal of sub-item (e) of item (xix)
+
+and the substitution therefore of the following:-
+
+"(e) telecommunication equipment with effect from January 1, 2011 but prior to May 2,
+
+2016 and for the period commencing from July 11, 2016 but ending on or before on
+
+November 1, 2016.
+
+Therefore, it can be clearly observed that, when the legislature wanted to give
+
+retrospective effect to a particular item, it has specifically mentioned in the Section itself
+
+without making any ambiguity, using the words "with effect from' at all the instances.
+
+Page 16 of 25
+
+Therefore, the Section 16 (2) (b) part (a) cannot be taken as an express provision in the
+
+Act or a provision with necessary implication that has given 'retrospective effect.
+
+In the matter SC Appeal No. 46/2016 CA Case No. CA (tax) 23/2013, Seylan Bank PLC,
+
+Vs. The Commissioner General of Inland Revenue, (Decided on 16th December 2021),
+
+the Hon Supreme Court Judge, Justice Priyantha Jayawardena PC, has stated 'the
+
+amendments made to substantive laws have a prospective effect, unless its effect has been
+
+made retrospective by express provision in the Act or by necessary implication. On the
+
+other hand, amendments made to procedural laws are presumed to have retrospective
+
+effect, unless its effect has been made prospective by express provision in the Act or by
+
+necessary implication, or such a construction is textually not possible.
+
+Thus, it has to be considered that the 'retrospective effect to a particular Section, has to
+
+be made prospective by express provision in the Act or by necessary implication. Thus, it
+
+is clear searching for the intention of the legislature in making a Section will not be
+
+sufficient, unless retrospective effect is expressly mentioned in the said Section or it is
+
+made with necessary implication.”
+
+The section 1 of the VAT (Amendment ) Act No.20 of 2016 reads as follows;
+
+“1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 20 of 2016 and
+
+shall come into operation on November 1, 2016 unless the dates on which certain
+
+provisions thereof shall come into operation are specified in such sections.”
+
+The Section 1 of the Value Added Tax (Amendment) Act, No. 20 of 2016 provides that the Act
+
+shall come into operation on 1st of November 2016, unless a different date is expressly specified
+
+in a particular provision. Thus, the general rule is that all the amendments introduced by the Act
+
+takes effect from 1st of November 2016. However,where the Legislature has expressly provided a
+
+Page 17 of 25
+
+different commencement date for a particular provision, that provision takes effect from the date
+
+so specified.
+
+In my view, the above provision merely prescribes the date on which the Amendment Act came
+
+into operation. It does not lay down any rule governing the retrospective operation of a
+
+substantive provision. Further, whether a particular provision operates retrospectively must be
+
+determined from the language of that provision, and the intention of the Legislature as disclosed
+
+therein.
+
+Furthermore, if the interpretation adopted by the Tax Appeals Commission is to be accepted,
+
+Items No. (xi)(a) and (xi)(b) of Part II of the First Schedule, as amended by section 16(2)(b) of
+
+the Value Added Tax (Amendment) Act, No. 20 of 2016, would have the same effect. However,
+
+such an interpretation cannot be sustained. Item (xi)(b) expressly applies to services provided
+
+"on or after 1st of November 2016", whereas Item (xi)(a) expressly refers to services provided
+
+prior to that date. It is a well-established principle of statutory interpretation that every word used
+
+by the Legislature must, as far as possible be given its ordinary meaning and effect and that no
+
+provision should be construed in a manner that renders another provision redundant.
+
+Accordingly, I am unable to accept the interpretation adopted by the Tax Appeals Commission.
+
+In my view, the Parliament has deliberately employed different language in Items (xi)(a) and
+
+(xi)(b) to distinguish between supplies made prior to and those made on or after 1st of November
+
+2016. To construe both provisions as having the same temporal application would defeat the
+
+clear language adopted by the Legislature. Further, the mere absence of a separate
+
+commencement date for Item (xi)(a) does not alter that position, as the scope of the provision is
+
+expressly defined by the language used therein.
+
+Accordingly, I am unable to agree with the interpretation adopted by the Respondent and
+
+accepted by the Tax Appeals Commission that section 1 precludes a retrospective operation of
+
+section 16(2)(b). The question whether section 16(2)(b) operates retrospectively must therefore
+
+Page 18 of 25
+
+be determined by reference to its own language and not by reference to section 1 of the
+
+Amendment Act.
+
+It is a well-established principle of statutory interpretation that legislation is presumed to operate
+
+prospectively. This principle is reflected in the maxim lex prospicit non respicit ( the law looks
+
+forward, not backward). Accordingly, an amendment to a substantive law is generally construed
+
+as applying only to future transactions. However, this presumption will not apply where the
+
+Legislature has expressly provided, or where it is clear by necessary implication, that the
+
+provision is to operate retrospectively. Article 75 of the Constitution empowers the Parliament to
+
+enact laws with retrospective effect. Therefore, where the language of a statute clearly
+
+demonstrates such an intention, the Court must give effect to it.
+
+N.S. Bindra in ‘Interpretation of Statutes’ (13th edition, page 503-504), states that a statute
+
+should not be given retrospective operation unless the intention of the Legislature is clearly
+
+expressed or necessarily implied;
+
+“It has been held that a statute should not be given retrospective operation unless its
+
+words are so clear, strong and imperative that no other meaning can be annexed to them,
+
+or unless the intention of the legislature could not be otherwise satisfied particularly
+
+where retrospective operation would alter the pre-existing situation of parties or affect,
+
+or interfere with their antecedent rights. The rule that laws are not to be construed as
+
+applying to cases which arose before their passage is applicable when to disregard it
+
+would impose an unexpected liability that if known might have caused those concerned to
+
+avoid it." Statutes have retrospective effect when the declared intention is clearly and
+
+unequivocally manifest from the language employed in the particular law or in the
+
+context of connected provisions. It is always a question whether the legislature has
+
+sufficiently expressed itself. One must look at the general scope and purview of the Act
+
+and the remedy the legislature intends to apply in the former state of the law and then
+
+Page 19 of 25
+
+determine what the legislature intended to do. More retrospectivity is not to be given than
+
+what can be gathered from expressed or clearly implied intention of the legislature.
+
+Acts which have the effect of impairing contracts and effect vesting rights must be
+
+strictly construed; and in interpreting such laws the courts must lean against giving
+
+retrospective effect to their provisions; unless there is something in the language of an
+
+Act showing a contrary intention. The duty and the practice of the court of justice is to
+
+presume that the Act is prospective and not retrospective. ”
+
+In applying these principles to the present case, the section 16(2)(b) read together with Item XI
+
+of the Value Added Tax (Amendment) Act, No. 20 of 2016 expressly provides that the
+
+exemption applies to services of supply, lease or rent of residential accommodations, if such
+
+services have been done prior to the 1st of November 2016 and subject to the conditions
+
+prescribed therein. Therefore in my view, the intention of the Parliament to give retrospective
+
+effect to section 16(2)(b) is unequivocally clear .
+
+Further, the Respondent's submission appears to proceed on the basis that section 1 provides, the
+
+Amendment Act to come into operation on 1st of November 2016, no provision of the Act can
+
+have retrospective effect unless its commencement date is separately specified. I am unable to
+
+agree with that proposition. Section 1 merely prescribes the date on which the Amendment Act
+
+came into operation. It does not govern the temporal application of every substantive provision
+
+contained therein.
+
+Moreover, section 1 itself provides that the general commencement date applies unless a
+
+different date is specified in a particular provision. In the present case, Item No. (xi) expressly
+
+applies to the supply, lease or rental of residential accommodation provided prior to 1st of
+
+November 2016. Accordingly, effect must be given to the specific provision rather than the
+
+Page 20 of 25
+
+general commencement provision contained in section 1 of the Value Added Tax (Amendment)
+
+Act, No. 20 of 2016 .
+
+In the case of Sri Lanka Insurance Corporation Ltd V. Commissioner General of Inland
+
+Revenue SC/CHC/APPEAL/19 decided on 19.03.2026, His Lordship A.H.M.D. Nawaz, J.
+
+reaffirmed the well-established principle that taxing statutes must be construed strictly where the
+
+language employed by the Legislature is clear and unambiguous. His Lordship observed that, in
+
+interpreting fiscal legislation, the Court must give effect to the plain words of the statute and that
+
+there is no room to imply words or to depart from the language adopted by the Parliament.
+
+“…….It is a well-settled canon of statutory construction which is affirmed by this Court
+
+that taxing provisions must be construed by reference to the plain words of the
+
+legislature. As Rowlatt J. stated in Cape Brandy Syndicate v. Inland Revenue
+
+Commissioners4, in taxation one must look simply at what is clearly said; there is no
+
+room for any intendment, no equity about a tax, and nothing is to be implied. Where a
+
+provision is reasonably capable of two alternative meanings, the courts will prefer the
+
+construction more favorable to the subject: Inland Revenue Commissioners v. Ross and
+
+Coulter5, per Lord Thankerton at page 625.
+
+This Court further notes that in Commissioner General of Inland Revenue v. Lignocell
+
+(Pvt) Ltd & Another, the Chief Justice held that in fiscal statutes the first source is the
+
+words of the statute itself, and where the meaning is manifest on the plain words, there
+
+is no room for an interpretation process. Ambiguity or doubt, where it exists, must be
+
+resolved having regard to the context and language of the statute, not by reference to
+
+the revenue’s administrative preferences.”
+
+Therefore, it is well-established principle of statutory interpretation that the taxing statues has to
+
+be interpreted strictly when the provisions of the law are clear and intention of the parliament is
+
+apparent.
+
+Page 21 of 25
+
+The issue before this Court is whether the Appellant is entitled to the exemption provided under
+
+item No. (xi) of Part II(b) under the First Schedule to the VAT Act which was amended by
+
+section 16(2)(b) of the VAT (Amendment ) Act No.20 of 2016. In determining this issue, the
+
+Court has considered whether the supplies disclosed in the VAT returns relate to the taxable
+
+periods prior to 1st of November 2016 and whether the Appellant has satisfied the conditions
+
+prescribed by the said provision. Further, in interpreting the retrospective operation of the
+
+provision, the Court must give effect to the language employed by the Parliament. Therefore,
+
+where the words of the statute are clear and the legislative intention is apparent, it is not open to
+
+the Court to read into the provision, any limitation or qualification which the Legislature has not
+
+imposed.
+
+In the present case, Item XI expressly provides an exemption to the supply, lease or rental of
+
+residential accommodation made prior to 1st of November 2016, subject to the fulfillment of
+
+the prescribed conditions. Since this court has already found that the Appellant has satisfied
+
+those conditions, I am of the view that the Appellant is entitled to the benefit of the exemption.
+
+For the foregoing reasons, I am of the view that the Tax Appeals Commission has erred in its
+
+interpretation of section 16(2)(b) of the Value Added Tax (Amendment) Act, No. 20 of 2016.
+
+Accordingly, I answer this Question of Law in favor of the Appellant.
+
+In the cases CA/TAX/07/2024, CA/TAX/08/2024 and CA/TAX/13/2024, the Appellant has also
+
+raised Question of Law No. I relating to whether the assessments are time-barred. However, in
+
+view of my findings on the substantive Questions of Law, which have been answered in favor of
+
+the Appellant and which shall result in the impugned assessments being annulled, I do not
+
+consider it necessary to determine the question relating to the limitation period of the assessment.
+
+Accordingly, I refrain from addressing the Question of Law No. I in the above three cases
+
+separately.
+
+Page 22 of 25
+
+CONCLUSION
+
+When considering the facts and the circumstances of the case, in line with the materials
+
+presented before this court, I am of the considered view that the questions of law formulated by
+
+the Appellant should be answered as set out below.
+
+CA/TAX/02/2024
+
+Question of law I – Need not be answered
+
+Question of law II - Affirmative
+
+Question of law III - Affirmative
+
+Question of law IV - Affirmative
+
+CA/TAX/07/2024
+
+Question of law I – Need not be answered
+
+Question of law II - Need not be answered
+
+Question of law III - Need not be answered
+
+Question of law IV - Affirmative
+
+Question of law V – Affirmative
+
+Question of law VI – Affirmative
+
+CA/TAX/8/2024
+
+Question of law I – Need not be answered
+
+Page 23 of 25
+
+Question of law II - Need not be answered
+
+Question of law III - Need not be answered
+
+Question of law IV - Affirmative
+
+Question of law V - Affirmative
+
+Question of law VI - Affirmative
+
+CA/TAX/9/2024
+
+Question of law I – Need not be answered
+
+Question of law II - Affirmative
+
+Question of law III - Affirmative
+
+Question of law IV - Affirmative
+
+CA/TAX/13/2024
+
+Question of law I – Need not be answered
+
+Question of law II - Need not be answered
+
+Question of law III - Need not be answered
+
+Question of law IV - Affirmative
+
+Question of law V - Affirmative
+
+Question of law VI - Affirmative
+
+Accordingly, the appeals are allowed.
+
+Page 24 of 25
+
+Since the questions of law raised by the Appellant are answered in the above manner, in the case
+
+of CA/TAX/02/2024, the determination of the TAC dated 7th of November 2023, and the
+
+determination of the Respondent dated 12th of October 2021 are overturned and the Assessment
+
+dated 3rd of September 2019 issued by the Deputy Commissioner of the Department of Inland
+
+Revenue, is hereby annulled.
+
+In the case of CA/TAX/07/2024, the determination of the TAC dated 7th of November 2023, and
+
+the determination of the Respondent dated 12th of October 2021 are overturned and the
+
+Assessment dated 20th of September 2019 issued by the Deputy Commissioner of the
+
+Department of Inland Revenue, is hereby annulled.
+
+In the case of CA/TAX/08/2024, the determination of the TAC dated 14th of November 2023,
+
+and the determination of the Respondent dated 12th of October 2021 are overturned and the
+
+Assessment dated 27th of September 2019 issued by the Deputy Commissioner of the
+
+Department of Inland Revenue, is hereby annulled.
+
+In the case of CA/TAX/09/2024, the determination of the TAC dated 7th of November 2023, and
+
+the determination of the Respondent dated 12th of October 2021 are overturned and the
+
+Assessment dated 3rd of October 2019 issued by the Deputy Commissioner of the Department of
+
+Inland Revenue, is hereby annulled.
+
+In the case of CA/TAX/31/2024, the determination of the TAC dated 29th of November 2023,
+
+and the determination of the Respondent dated 12th of October 2021 are overturned and the
+
+Assessment dated 20th of September 2019 issued by the Deputy Commissioner of the
+
+Department of Inland Revenue, is hereby annulled.
+
+Page 25 of 25
+
+The Registrar is directed to serve a copy of this judgment to the Secretary of the Tax Appeals
+
+Commission for necessary action.
+
+Judge of the Court of Appeal
+
+Annalingam Premashanker J.
+
+I agree
+
+Judge of the Court of Appeal
