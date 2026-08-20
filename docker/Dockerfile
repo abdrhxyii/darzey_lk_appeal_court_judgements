@@ -1,4 +1,5 @@
 FROM python:3.12-slim-bookworm
+LABEL org.opencontainers.image.source="https://github.com/abdrhxyii/darzey_lk_appeal_court_judgements"
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
