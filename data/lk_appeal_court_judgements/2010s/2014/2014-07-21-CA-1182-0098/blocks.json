@@ -1,0 +1,939 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      90.95,
+      397.66,
+      106.49
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      147.62,
+      178.91,
+      194.42
+    ],
+    "text": "CA DC 1182/98",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      194.28,
+      357.16,
+      276.41
+    ],
+    "text": "C. Rita Fernando No: 106, Pattiyagama, Madampe.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      276.39,
+      525.43,
+      407.81
+    ],
+    "text": "Substituted Plaintiff Appellant Vs. T. Patrick Fernando And others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      405.87,
+      411.22,
+      424.57
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.74,
+      69.47,
+      146.23,
+      86.51
+    ],
+    "text": "C.A.1182/98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.17,
+      123.7,
+      113.68,
+      140.73
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.02,
+      205.06,
+      119.68,
+      222.1
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.01,
+      327.94,
+      128.26,
+      344.98
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.68,
+      355.06,
+      138.62,
+      372.1
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.24,
+      409.54,
+      161.02,
+      426.58
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751333236694336,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.99,
+      32.17,
+      305.01,
+      46.45
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218.12,
+      69.47,
+      377.07,
+      86.51
+    ],
+    "text": "D.C.Chilaw Case No. 23176.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.969217300415039,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217.68,
+      123.16,
+      321.8,
+      141.04
+    ],
+    "text": "K.T. ChitrasiriJJ. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.825490951538086,
+      12.399999618530273,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217.65,
+      151.06,
+      338.28,
+      168.1
+    ],
+    "text": "Malinie GunaratneJJ.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.8,
+      205.3,
+      524.12,
+      222.34
+    ],
+    "text": "Substituted Plaintiff-Appellant is absent and unrepresented",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.18,
+      241.06,
+      526.96,
+      260.27
+    ],
+    "text": "N.R. Sivendran with Dushyanthi JayasuriyaJ Anushiya Raman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.04692268371582,
+      12.326884269714355,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.81,
+      264.65,
+      346.17,
+      283.3
+    ],
+    "text": "& T. Sivanandaraja for the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.399999618530273,
+      11.762723922729492,
+      12.199999809265137,
+      12.399999618530273,
+      12.600000381469727,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.52,
+      264.67,
+      484.79,
+      283.36
+    ],
+    "text": "J 3rd and 4th Defendants-",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.800099849700928,
+      8.154983520507812,
+      11.617510795593262,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.15,
+      292.18,
+      260.51,
+      309.21
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.86,
+      354.82,
+      247.65,
+      371.86
+    ],
+    "text": "21.07.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.96,
+      454.17,
+      528.16,
+      471.22
+    ],
+    "text": "When this matter was mentioned on the last date i.e. 11.07.2014 Ms.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.39374828338623,
+      12.399999618530273,
+      12.43006420135498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.36,
+      488.5,
+      529.57,
+      505.54
+    ],
+    "text": "Sudharshani Coo ray who appeared for the Substituted Appellant moved for a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.279060363769531,
+      12.399999618530273,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.64,
+      522.83,
+      529.36,
+      542.01
+    ],
+    "text": "date to consider withdrawal of this appeal. HoweverJ neither the counsel nor",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.504161834716797,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.22,
+      557.38,
+      529.9,
+      574.42
+    ],
+    "text": "the Appellant is present in Court today. When it came up on 11.07.2014J it",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.347187042236328,
+      12.399999618530273,
+      12.600000381469727,
+      12.798060417175293,
+      13.024618148803711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.51,
+      584.74,
+      527.65,
+      608.26
+    ],
+    "text": "was brought to the notice of Court that the Appellant has not made the 1st and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.156188011169434,
+      12.192462921142578,
+      12.39374828338623,
+      12.399999618530273,
+      12.568603515625,
+      12.577972412109375,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.42,
+      623.95,
+      529.21,
+      642.83
+    ],
+    "text": "2nd Defendant-Respondents as parties to this appeal. Therefore J counsel for",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.099999904632568,
+      8.2017183303833,
+      11.714607238769531,
+      12.399999618530273,
+      12.605300903320312,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.98,
+      659.86,
+      528.09,
+      676.9
+    ],
+    "text": "the respondent J submitting that the Appellant has not complied with Section",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.099999904632568,
+      12.273504257202148,
+      12.399999618530273,
+      12.43714427947998,
+      12.568603515625,
+      12.577972412109375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.35,
+      693.7,
+      527.87,
+      710.74
+    ],
+    "text": "755 of the Civil Procedure Code J moved that this appeal be dismissed.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.500100135803223,
+      12.284713745117188,
+      12.399999618530273,
+      12.568603515625,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.34,
+      727.55,
+      528.83,
+      744.59
+    ],
+    "text": "Counsel who appeared for the Appellant on the last occasion conceded that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.418585777282715,
+      12.502971649169922
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -1.8,
+      753.49,
+      19.61,
+      847.73
+    ],
+    "text": "1 I I i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      26.70009994506836,
+      33.79999923706055,
+      38.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.1,
+      35.06,
+      303.6,
+      48.4
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.07,
+      70.08,
+      528.03,
+      88.9
+    ],
+    "text": ". the 1st and 2nd Defendants have not been made parties to this appeal. The",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.439648628234863,
+      12.399999618530273,
+      12.496027946472168,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.25,
+      106.18,
+      528.12,
+      123.22
+    ],
+    "text": "Appellant has failed to send notices to those two parties of this appeal. It was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.192462921142578,
+      12.323162078857422,
+      12.399999618530273,
+      12.53635025024414,
+      12.607808113098145,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.24,
+      139.51,
+      528.2,
+      157.65
+    ],
+    "text": "borne by the registered post article receipt found~ at page 5 in the appeal",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.7478609085083,
+      12.387093544006348,
+      12.399999618530273,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.24,
+      174.59,
+      529.17,
+      191.63
+    ],
+    "text": "brief as well. It was also brought to the notice of Court on that date that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.586569786071777,
+      12.323162078857422,
+      12.399999618530273,
+      12.504161834716797,
+      12.53635025024414,
+      12.568603515625,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      207.12,
+      516.28,
+      226.19
+    ],
+    "text": "relief prayed for in the prayer to the plaint was against the 1st and the 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.439648628234863,
+      12.39374828338623,
+      12.399999618530273,
+      12.43669605255127,
+      12.605300903320312,
+      12.6393404006958,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      516.71,
+      207.12,
+      527.41,
+      218.05
+    ],
+    "text": "nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.2,
+      243.47,
+      530.05,
+      260.51
+    ],
+    "text": "Defendant-Respondents, on whom the Appellant has failed to send notices of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.192462921142578,
+      12.399999618530273,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.46,
+      277.3,
+      528.7,
+      294.34
+    ],
+    "text": "this appeal. It is mandatory to make all the parties as Respondents in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.714607238769531,
+      11.749275207519531,
+      12.399999618530273,
+      12.53635025024414,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      310.87,
+      528.1,
+      329.01
+    ],
+    "text": "notice of appeal in terms of Section 755 of the Civil procedure Code. Since",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.378681182861328,
+      12.399999618530273,
+      12.738675117492676,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.46,
+      345.94,
+      463.83,
+      362.98
+    ],
+    "text": "the Appellant has failed to do so, this appeal is dismissed with costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.192462921142578,
+      12.284966468811035,
+      12.399999618530273,
+      12.43714427947998,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.88,
+      390.87,
+      214.19,
+      407.38
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.26,
+      468.51,
+      498.6,
+      487.32
+    ],
+    "text": "UDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.330978393554688,
+      13.423259735107422,
+      13.526121139526367,
+      13.629447937011719,
+      13.771985054016113,
+      13.857007026672363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.73,
+      505.31,
+      192.15,
+      522.35
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.39,
+      540.57,
+      150.86,
+      558.85
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.41,
+      574.1,
+      498.35,
+      592.91
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.396711349487305,
+      13.423259735107422,
+      13.628207206726074,
+      13.629447937011719,
+      13.823029518127441,
+      13.838016510009766
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.57,
+      646.43,
+      95.46,
+      663.47
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.771825790405273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.32,
+      1.77,
+      609.66,
+      37.22
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.799999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      542.52,
+      100.11,
+      599.18,
+      189.75
+    ],
+    "text": "r1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      67.20010375976562
+    ]
+  }
+]

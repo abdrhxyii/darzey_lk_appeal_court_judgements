@@ -1,0 +1,471 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.5,
+      153.02
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA CA (Writ) Application No: 91/2014",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      153.0,
+      527.95,
+      218.66
+    ],
+    "text": "Osmond Chandrapala Manawadu, Baddegama Road, Gonapinuwala.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      218.64,
+      521.47,
+      415.73
+    ],
+    "text": "PETITIONER -Vs- 1. D. G. M. V. Hapuarachchi, Commissioner General of Excise, Excise Department of Sri Lanka, No.34, W. A. D. Ramanayake Mawatha, Colombo-02 And 08 others.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      413.79,
+      495.61,
+      432.49
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.12,
+      93.73,
+      165.06,
+      109.8
+    ],
+    "text": "CA 91/2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.908169746398926,
+      12.57456111907959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.17,
+      144.84,
+      136.26,
+      160.18
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.730110168457031
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.1,
+      196.44,
+      142.75,
+      211.78
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.494867324829102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.18,
+      304.2,
+      164.55,
+      319.54
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.142313003540039,
+      12.455551147460938
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.19,
+      355.08,
+      235.65,
+      371.15
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.089754104614258,
+      12.256900787353516,
+      12.494046211242676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.45,
+      94.44,
+      390.88,
+      110.51
+    ],
+    "text": "Writ Application",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.38077449798584,
+      12.993321418762207
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.63,
+      145.08,
+      381.18,
+      161.15
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.339433670043945,
+      12.455503463745117,
+      12.90978717803955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.18,
+      196.93,
+      477.06,
+      227.86
+    ],
+    "text": "Shantha Jayawardhane with Duleeka Imbuldeniya for the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.455551147460938,
+      12.552534103393555,
+      12.671073913574219,
+      12.680508613586426,
+      12.852202415466309,
+      13.185441017150879,
+      13.2702054977417,
+      13.732250213623047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.42,
+      238.2,
+      512.4,
+      253.54
+    ],
+    "text": "Manohara Jayasinghe, SC for Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.266325950622559,
+      12.206027030944824,
+      12.469161987304688,
+      13.023487091064453,
+      13.350857734680176
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.77,
+      262.21,
+      521.75,
+      278.98
+    ],
+    "text": "Namal Karunaratne for the 8 th Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.194860458374023,
+      11.5,
+      11.784139633178711,
+      12.447700500488281,
+      12.866779327392578,
+      13.343317985534668,
+      13.431025505065918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.29,
+      304.2,
+      309.18,
+      319.54
+    ],
+    "text": "06.06.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.72188663482666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.68,
+      381.24,
+      531.59,
+      396.58
+    ],
+    "text": "Learned Counsel for the petitioner makes an application to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.110400199890137,
+      12.319921493530273,
+      12.57651424407959,
+      12.618551254272461,
+      13.185441017150879,
+      13.192329406738281,
+      13.350857734680176,
+      13.47359848022461,
+      13.835329055786133
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.5,
+      408.61,
+      530.6,
+      423.95
+    ],
+    "text": "withdraw this application with liberty to pursue CA 159/14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.774462699890137,
+      12.41296100616455,
+      12.57436466217041,
+      12.852202415466309,
+      12.965652465820312,
+      13.443649291992188,
+      13.515100479125977,
+      13.953726768493652,
+      14.002554893493652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.74,
+      435.97,
+      531.62,
+      451.31
+    ],
+    "text": "which has already been filed challenging the cancellation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.232708930969238,
+      12.569608688354492,
+      12.741352081298828,
+      13.022294044494629,
+      13.230759620666504,
+      13.26461410522461,
+      13.33594799041748,
+      13.471933364868164,
+      13.878153800964355
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.96,
+      463.32,
+      170.11,
+      478.66
+    ],
+    "text": "the permit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.105745315551758,
+      13.17562484741211
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.01,
+      500.76,
+      531.33,
+      516.1
+    ],
+    "text": "Accordingly, application for withdrawal is allowed and this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.301939010620117,
+      12.838727951049805,
+      12.862085342407227,
+      12.866823196411133,
+      13.350857734680176,
+      13.556476593017578,
+      13.815408706665039,
+      14.320355415344238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.36,
+      527.64,
+      530.47,
+      542.98
+    ],
+    "text": "application for a Writ of Certiorari is dismissed without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.571712493896484,
+      12.839310646057129,
+      13.042677879333496,
+      13.14460277557373,
+      13.350857734680176,
+      13.47359848022461,
+      13.743802070617676,
+      14.182004928588867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.36,
+      555.01,
+      133.56,
+      570.35
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.47419548034668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.45,
+      619.24,
+      511.06,
+      633.5
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.97,
+      669.48,
+      116.03,
+      684.82
+    ],
+    "text": "LA/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.191555976867676
+    ]
+  }
+]

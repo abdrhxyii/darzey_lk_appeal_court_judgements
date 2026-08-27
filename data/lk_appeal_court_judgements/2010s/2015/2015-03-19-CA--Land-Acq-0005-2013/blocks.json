@@ -1,0 +1,1326 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      490.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      144.98
+    ],
+    "text": "REPUBLIC OF SRI LANKA C. A. Land Acq.05/2013",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      144.96,
+      415.36,
+      210.62
+    ],
+    "text": "Dhammika Nissanka Gunasekera No. 19, Deal Place A, Colombo 03.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      210.6,
+      513.19,
+      358.37
+    ],
+    "text": "Substituted -Appellant-Appellant -Vs- The Acquiring Officer/Divisional Secretary Greater Colombo Flood Control Project Divisional Secretariat, Sri Jayawardanepura Mw., Welikada, Rajagiriya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      358.35,
+      470.71,
+      555.43
+    ],
+    "text": "Respondent - Respondent L.H.G. Weerasekera (Chairman) W. Panditharathne (Member) M.D.E.S. Gunatilaka (Member) Members of the Land Acquisition Board of Review, No. 70,2/2, Y.M.B.A. Building, Borella, Colombo 08.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      555.29,
+      374.8,
+      571.75
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.82,
+      86.75,
+      502.08,
+      105.4
+    ],
+    "text": "C.A. Landi Acq./05/20 13 Land Acquisition Board of Review",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.380112648010254,
+      12.946165084838867,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.6,
+      110.99,
+      470.53,
+      129.4
+    ],
+    "text": "Appeal No. BRl15112003/CL",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.42,
+      159.46,
+      119.69,
+      177.87
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.59,
+      232.67,
+      127.25,
+      251.08
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.21,
+      353.86,
+      135.78,
+      372.27
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.41,
+      378.11,
+      146.08,
+      396.52
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.66,
+      426.82,
+      176.32,
+      445.23
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.14,
+      159.45,
+      298.74,
+      177.86
+    ],
+    "text": "K.T. Chitrasiri,J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.36,
+      183.94,
+      308.81,
+      202.35
+    ],
+    "text": "L.T.B. Dehideniya,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.14,
+      232.9,
+      502.7,
+      251.31
+    ],
+    "text": "Parakkrama Karunaratne with Berti Mihindukulasuriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.54,
+      257.15,
+      415.38,
+      275.56
+    ],
+    "text": "for the Substituted Appellant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.17,
+      280.9,
+      462.26,
+      299.32
+    ],
+    "text": "Anusha Fernando, S.S.C. for the 1 st Respondent-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.13,
+      305.38,
+      257.84,
+      323.79
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.36,
+      327.85,
+      506.12,
+      347.8
+    ],
+    "text": "2nd, 3rd & 4th Respondents are absent and unrepresented.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.910629272460938,
+      8.915428161621094,
+      8.966917037963867,
+      9.100000381469727,
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.41,
+      378.1,
+      257.66,
+      396.51
+    ],
+    "text": "19.03.2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.19,
+      457.94,
+      516.44,
+      477.63
+    ],
+    "text": "Both Counsel submit that the presence of the 2nd, 3rd and the 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.886474609375,
+      8.910629272460938,
+      8.915428161621094,
+      9.100000381469727,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.41,
+      491.86,
+      520.1,
+      510.27
+    ],
+    "text": "Respondents in this appeal is not required as they are only the members of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.2,
+      524.02,
+      516.05,
+      542.43
+    ],
+    "text": "the Appellate Tribunal and also due to the fact that no relief is sought from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.46,
+      556.67,
+      111.74,
+      575.08
+    ],
+    "text": "them.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.19,
+      621.22,
+      433.41,
+      639.64
+    ],
+    "text": "Heard both Counsel in support of their respective cases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.12,
+      70.19,
+      516.89,
+      88.6
+    ],
+    "text": "This is an appeal filed in terms of the provisions contained in the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.97,
+      102.81,
+      516.62,
+      121.22
+    ],
+    "text": "Acquisition Act as amended, seeking to set aside the decision/order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.44,
+      135.46,
+      516.24,
+      153.87
+    ],
+    "text": "16.09.2013 of the Land Acquisition Board of Review. In the prayer to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.19,
+      167.63,
+      519.06,
+      186.04
+    ],
+    "text": "Petition of Appeal, the Appellant also has sought that the amount of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.34,
+      200.02,
+      516.1,
+      218.43
+    ],
+    "text": "compensation awarded by the Land Acquisition Board of Review be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.85,
+      232.43,
+      516.5,
+      250.84
+    ],
+    "text": "enhanced. However, at this stage learned Counsel for the Appellant submits",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.7,
+      264.59,
+      515.33,
+      283.0
+    ],
+    "text": "that his application to have the compensation will be restricted to Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.34,
+      296.99,
+      516.47,
+      315.4
+    ],
+    "text": "50,0001- per perch and will not pursue to have the amount prayed for in the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.851716041564941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.02,
+      329.61,
+      195.51,
+      348.02
+    ],
+    "text": "prayer to the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.95,
+      394.42,
+      519.38,
+      412.83
+    ],
+    "text": "We note that an order dated 09.11.2006 had been made in respect of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.773274421691895,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.96,
+      426.83,
+      516.93,
+      445.24
+    ],
+    "text": "the adjacent land by the same Land Acquisition Board of Review by which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.72,
+      459.22,
+      515.77,
+      477.63
+    ],
+    "text": "the Board of Review has decided Rs. 50,0001- per perch as its market value.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.899999618530273,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.87,
+      491.39,
+      516.17,
+      509.8
+    ],
+    "text": "The said decision is found in paragraph 3 in page 46 of the appeal brief.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.88,
+      523.78,
+      516.54,
+      542.19
+    ],
+    "text": "The aforesaid order dated 09.11.2006 had been produced in evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.21,
+      556.42,
+      516.5,
+      574.82
+    ],
+    "text": "marked as A3a in this application when it was taken up for inquiry before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.97,
+      589.05,
+      303.2,
+      607.47
+    ],
+    "text": "the Land Acquisition Board of Review.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.87,
+      652.9,
+      516.32,
+      671.31
+    ],
+    "text": "The Land Acquisition Board of Review in this application has come",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.96,
+      684.82,
+      516.93,
+      703.23
+    ],
+    "text": "to the conclusion that such an order will not help determining the market",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.97,
+      70.19,
+      516.32,
+      88.6
+    ],
+    "text": "value of the land subjected to in this case despite it was an item of evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.88,
+      102.34,
+      515.49,
+      120.76
+    ],
+    "text": "led before the tribunal. However, we also observe that there is evidence to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.04,
+      134.99,
+      516.61,
+      153.39
+    ],
+    "text": "show that the order in that other matter had been decided upon considering",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.49,
+      167.37,
+      515.66,
+      185.78
+    ],
+    "text": "the relevant material when the market value in that application was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.89,
+      199.78,
+      518.9,
+      218.19
+    ],
+    "text": "determined by the Tribunal. Therefore, it is our view that the Board of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.69,
+      232.19,
+      515.9,
+      250.6
+    ],
+    "text": "Review has misdirected when it refused to rely upon the market value",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.76,
+      264.58,
+      515.87,
+      282.99
+    ],
+    "text": "referred to in the order dated 09.11.2006 made in the other matter. Also,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.74,
+      296.99,
+      519.06,
+      315.4
+    ],
+    "text": "we do not see any reason as to why the market value decided in respect of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.48,
+      329.14,
+      516.38,
+      347.55
+    ],
+    "text": "the adjacent land should not be accepted as the market value for the land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.06,
+      361.78,
+      516.8,
+      380.18
+    ],
+    "text": "subjected to in this case when the two decisions have been made within a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.05,
+      394.41,
+      515.75,
+      412.83
+    ],
+    "text": "short period of time. The decision as to the market value in respect of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.265209197998047,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.96,
+      426.83,
+      516.42,
+      445.24
+    ],
+    "text": "matter referred to in the document marked A3a had been decided having",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.72,
+      459.22,
+      515.69,
+      477.63
+    ],
+    "text": "taken the relevant date as 05.02.2001 whilst the relevant date in this case is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.92,
+      491.62,
+      516.02,
+      510.03
+    ],
+    "text": "24.08.2000. Furthermore, in the event, we decide not to disturb the order in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.46,
+      523.77,
+      515.99,
+      542.19
+    ],
+    "text": "this case, it will lead to absurdity since the market value in respect of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.86,
+      555.95,
+      516.07,
+      574.36
+    ],
+    "text": "adjacent land has already been accepted as the market value by the same",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.7,
+      588.59,
+      179.92,
+      607.0
+    ],
+    "text": "Board of Review.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113.9,
+      653.38,
+      519.14,
+      671.79
+    ],
+    "text": "In the circumstances, having considered the market value in respect of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.96,
+      685.31,
+      516.47,
+      703.72
+    ],
+    "text": "the adjoining land that was decided by the same Tribunal few months before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.24,
+      70.79,
+      509.97,
+      89.34
+    ],
+    "text": "the impugned decision, we set aside the order dated 16.09.2013 of the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.24,
+      103.2,
+      480.39,
+      121.75
+    ],
+    "text": "Acquisition Board of Review and substitute the following order thereto.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.61,
+      168.55,
+      112.33,
+      187.24
+    ],
+    "text": "Order",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.25,
+      200.15,
+      510.38,
+      218.7
+    ],
+    "text": "Appellant IS entitled to Rs. 50,0001- per perch as compensation",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      13.800000190734863,
+      13.82052230834961,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.3,
+      232.79,
+      513.14,
+      251.34
+    ],
+    "text": "payable for the land subjected to in this appeal which contains an extent of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.316801071166992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.86,
+      265.2,
+      510.27,
+      283.75
+    ],
+    "text": "OA-3R-03.38P (0.3122Ha.). Under Section 35 of the Land Acquisition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.802407264709473,
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.5,
+      297.59,
+      509.35,
+      316.14
+    ],
+    "text": "Act, the Appellant is also entitled to recover the interest as referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.763378143310547,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.24,
+      330.24,
+      116.26,
+      348.79
+    ],
+    "text": "therein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.46,
+      394.56,
+      444.66,
+      413.1
+    ],
+    "text": "For the aforesaid reasons, this appeal is allowed. No costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.26,
+      460.69,
+      238.66,
+      478.4
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.6,
+      524.39,
+      483.59,
+      542.94
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.68,
+      581.51,
+      192.89,
+      600.06
+    ],
+    "text": "L.T.B. Dehideniya,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.89,
+      613.91,
+      149.4,
+      632.46
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.83,
+      661.67,
+      483.83,
+      680.22
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.830827713012695,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.45,
+      688.1,
+      93.97,
+      705.32
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.936248779296875
+    ]
+  }
+]
