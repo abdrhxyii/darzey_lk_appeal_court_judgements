@@ -1,0 +1,828 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      82.34,
+      72.35,
+      532.65,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      341.68,
+      142.72
+    ],
+    "text": "SRI LANKA C.A. Writ Application No: 230/2012",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      142.7,
+      512.02,
+      213.04
+    ],
+    "text": "Wanasinghe Mudiyanselage Kapuru Banda No:96, Kodali Patana, Megodawewa.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      213.14,
+      501.34,
+      677.4
+    ],
+    "text": "Petitioner Vs. E.M.D.D. Ekanayake, Commissioner General of Lands, No:7, Gregory's Avenue, Colombo 07. I.T.A.S. Kumarihamy, Chief Management Services Assistant, For By. Commissioner of Lands Anuradhapura. E.M.M. Ekanayake, Assistant Commissioner of Lands, Anuradhapura. P.D.L. Gunaratne, Divisional Secretary, Galen bindunuwewa. Wanasinghe Mudiyanselae Nimal Herath, No: 119, Hurulu Meegahapattiya, Megodawewa. L.G.T.D.K. Somaratne, Additional Registrar of Lands, Anuradhapura. Hon. Attorney General, Attorney General Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      677.38,
+      434.47,
+      691.44
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -5.14,
+      -0.85,
+      34.89,
+      141.81
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      22.399999618530273,
+      56.599998474121094,
+      72.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      19.75,
+      18.44,
+      26.78,
+      33.83
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.94,
+      68.98,
+      252.11,
+      87.39
+    ],
+    "text": "C.A.No.230/2012 (Writ)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.78,
+      126.63,
+      358.89,
+      144.61
+    ],
+    "text": "Before K.T.Chitrasiri,J. &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250.01,
+      155.66,
+      367.41,
+      173.4
+    ],
+    "text": "L. T.B.Dehideniya,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.94,
+      184.21,
+      507.08,
+      201.96
+    ],
+    "text": "Counsel Daya Guruge with Rohitha Wimalaweera for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250.05,
+      212.77,
+      332.1,
+      230.51
+    ],
+    "text": "the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.9,
+      241.58,
+      503.37,
+      259.34
+    ],
+    "text": "Nayomi Kahawita S.C. for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.05,
+      270.15,
+      175.86,
+      287.89
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.78,
+      298.71,
+      320.34,
+      316.46
+    ],
+    "text": "Decided on 17.06.2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.409449577331543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.02,
+      355.78,
+      210.34,
+      374.19
+    ],
+    "text": "K.T.Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.27,
+      384.63,
+      538.47,
+      402.37
+    ],
+    "text": "When this matter was taken up for argument on the last date namely",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.94,
+      416.91,
+      538.49,
+      434.78
+    ],
+    "text": "13/2/2015, Learned Counsel for the petitioner submitted that there was no",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.81,
+      447.6,
+      539.14,
+      467.17
+    ],
+    "text": "nomination being made in the permit in issue, nominating the 5th respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.18,
+      481.58,
+      539.37,
+      499.33
+    ],
+    "text": "as the successor of Mudalihamy who is the grantee of the permit. Learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295,
+      14.266203880310059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.18,
+      514.0,
+      539.0,
+      531.74
+    ],
+    "text": "Counsel for the petitioner who has the original permit in his hand submits",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.29,
+      546.14,
+      536.98,
+      563.89
+    ],
+    "text": "that the permit does not indicate any nomination being made by the grantee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.69,
+      588.62,
+      538.5,
+      606.37
+    ],
+    "text": "In the circumstances, learned State Counsel agrees to have a fresh",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.69,
+      620.78,
+      539.41,
+      638.53
+    ],
+    "text": "inquiry to determine as to the successor to the land described in the grant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.52,
+      652.94,
+      539.1,
+      670.69
+    ],
+    "text": "marked as PI and P2 issued in the name of Mudalihamy. One of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.786646842956543,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.54,
+      684.34,
+      538.62,
+      702.75
+    ],
+    "text": "reliefs prayed for, in the prayer to the petition also is to have a fresh",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.88,
+      762.78,
+      599.91,
+      770.91
+    ],
+    "text": "!",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.19,
+      774.85,
+      604.2,
+      792.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -3.21,
+      18.66,
+      25.65,
+      40.42
+    ],
+    "text": "J \u2022",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.08,
+      70.98,
+      536.4,
+      89.84
+    ],
+    "text": "inquiry to determine the successor to the land referred to in the permit",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.04,
+      103.37,
+      234.8,
+      121.38
+    ],
+    "text": "issued to Mudalihamy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.8,
+      145.63,
+      536.26,
+      163.63
+    ],
+    "text": "In the circumstance, both counsel agree to have a fresh inquiry before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.61,
+      156.48,
+      602.91,
+      202.79
+    ],
+    "text": "the Divisional Secretary of Galenbedunuwawa to determine the successor I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.373068809509277,
+      33.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.65,
+      210.89,
+      535.91,
+      228.9
+    ],
+    "text": "to the grantee namely Mudalihamy in respect of the land referred to in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.03,
+      243.06,
+      536.37,
+      261.07
+    ],
+    "text": "documents marked PI and P2 and to terminate these proceedings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.763086318969727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.01,
+      275.45,
+      176.41,
+      293.46
+    ],
+    "text": "accordingly.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.28,
+      317.94,
+      536.11,
+      335.94
+    ],
+    "text": "Therefore, we make order to hold an inquiry by the Divisional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.39,
+      350.11,
+      536.81,
+      368.11
+    ],
+    "text": "Secretary, Galenbedunuwawa to determine the successor to the grantee in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.12,
+      382.49,
+      536.72,
+      400.5
+    ],
+    "text": "respect of the permit issued to Mudalihamy. Accordingly, we terminate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.373068809509277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.12,
+      415.14,
+      210.87,
+      433.15
+    ],
+    "text": "these proceedings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.26,
+      458.38,
+      283.7,
+      475.35
+    ],
+    "text": "Proceedings terminated.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.92,
+      534.07,
+      499.62,
+      552.21
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.57,
+      568.51,
+      231.38,
+      587.35
+    ],
+    "text": "L.T.B.Dehideniya, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.02,
+      602.81,
+      221.96,
+      620.82
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      273.52,
+      636.79,
+      503.75,
+      654.93
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.07,
+      671.21,
+      171.68,
+      689.22
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.05,
+      256.84,
+      600.88,
+      293.26
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      592.87,
+      293.69,
+      608.88,
+      565.03
+    ],
+    "text": "I t ,IIIf tI i II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      11.100000381469727,
+      13.0,
+      14.0,
+      15.300000190734863,
+      19.399999618530273,
+      26.799999237060547,
+      34.20009994506836,
+      40.599998474121094,
+      44.20009994506836,
+      46.79999923706055,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.89,
+      563.43,
+      601.15,
+      584.51
+    ],
+    "text": "r",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.800000190734863
+    ]
+  }
+]

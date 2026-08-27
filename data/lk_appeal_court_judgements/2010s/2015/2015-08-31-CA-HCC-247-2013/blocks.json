@@ -1,0 +1,700 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      493.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.57,
+      86.17,
+      384.55,
+      99.45
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      99.97,
+      309.05,
+      211.84
+    ],
+    "text": "C.A.247/2013 H.C. Kalutara Case No. PR 1724",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      211.94,
+      462.34,
+      240.04
+    ],
+    "text": "Priyanka Chandana Hettiarachchi",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      240.02,
+      453.58,
+      394.75
+    ],
+    "text": "Appellant Vs. Hon. Attorney General Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      394.85,
+      428.95,
+      422.97
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.62,
+      104.02,
+      139.82,
+      122.43
+    ],
+    "text": "C.A.24 7/2013",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.017843246459961,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.98,
+      138.35,
+      99.96,
+      156.76
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.15,
+      207.22,
+      107.53,
+      225.63
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.77,
+      275.88,
+      116.1,
+      294.29
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.73,
+      310.19,
+      125.92,
+      328.6
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.48,
+      344.27,
+      148.84,
+      362.68
+    ],
+    "text": "H.N.J. Perera,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.69,
+      104.5,
+      397.64,
+      122.91
+    ],
+    "text": "H.C. Kalutara Case No. PR 1724",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.870718955993652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.21,
+      138.58,
+      272.1,
+      156.99
+    ],
+    "text": "H.N.J. Perera,J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.98,
+      172.9,
+      309.72,
+      191.31
+    ],
+    "text": "K.K. Wickramasinghe,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.97,
+      207.45,
+      438.17,
+      225.86
+    ],
+    "text": "Dr. Ranjit Fernando for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.75,
+      241.77,
+      376.36,
+      260.18
+    ],
+    "text": "Shanil Kularatne,S.S.C. for the A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.12,
+      310.19,
+      233.83,
+      328.6
+    ],
+    "text": "31.08.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.42,
+      387.22,
+      532.28,
+      405.63
+    ],
+    "text": "Counsel for the Accused Appellant informs Court that he will confine this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.66,
+      419.62,
+      533.27,
+      438.03
+    ],
+    "text": "appeal to the sentence imposed on the accused-appellant by the learned High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.71,
+      452.02,
+      532.75,
+      470.43
+    ],
+    "text": "Judge. There was no animosity between the parties at the time of the incident and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.51,
+      484.17,
+      533.27,
+      502.58
+    ],
+    "text": "that they were very young people at that time and at the same time the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.54,
+      516.58,
+      532.29,
+      534.99
+    ],
+    "text": "has no previous convictions and the fact that he is now 45 years of age and has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.595332145690918,
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.52,
+      548.99,
+      532.44,
+      567.4
+    ],
+    "text": "three children and the fact that he is not contesting the conviction in this case be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.92,
+      581.14,
+      532.04,
+      599.56
+    ],
+    "text": "considered and that the sentence imposed by the learned High Court Judge be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.711868286132812,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.78,
+      613.78,
+      175.16,
+      632.19
+    ],
+    "text": "reduced in this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.65,
+      70.47,
+      538.26,
+      88.21
+    ],
+    "text": "At this stage learned counsel for the respondent leaves the matter of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.871665000915527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.21,
+      102.88,
+      535.33,
+      120.62
+    ],
+    "text": "sentencing in the hands of the Court and inform that the evidence in this case does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.266203880310059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.79,
+      135.26,
+      514.35,
+      153.01
+    ],
+    "text": "disclose that there was animosity between the parties at the time of the incident.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.3,
+      220.0,
+      535.79,
+      237.74
+    ],
+    "text": "Considering the facts and submissions made by Counsel for the Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.339739799499512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.4,
+      252.38,
+      535.5,
+      270.13
+    ],
+    "text": "Appellant we set aside the term of imprisonment imposed by the learned High",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.55,
+      284.78,
+      535.16,
+      302.53
+    ],
+    "text": "Court Judge on the Accused Appellant and imposed a term of 08 years Rigorous",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.266203880310059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.59,
+      317.18,
+      535.47,
+      334.93
+    ],
+    "text": "Imprisonment on the Accused Appellant. The fine imposed by the learned High",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.52,
+      349.82,
+      459.21,
+      367.57
+    ],
+    "text": "Court Judge and the sentence imposed in lieu of the said fine to stand.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.39,
+      392.32,
+      538.02,
+      410.06
+    ],
+    "text": "We further direct that the sentence to be effective from the date of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.871665000915527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.55,
+      424.72,
+      126.36,
+      442.46
+    ],
+    "text": "conviction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.45,
+      466.94,
+      460.12,
+      484.69
+    ],
+    "text": "Subject to the variation of the sentence, the appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      279.04,
+      551.91,
+      508.79,
+      569.65
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.315940856933594
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.38,
+      586.23,
+      203.02,
+      603.97
+    ],
+    "text": "K.K. Wickramasinghe,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.36,
+      620.79,
+      139.03,
+      638.53
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      279.29,
+      654.39,
+      508.74,
+      672.13
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.315940856933594
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.78,
+      688.71,
+      83.69,
+      706.45
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  }
+]

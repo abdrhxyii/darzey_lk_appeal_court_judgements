@@ -1,0 +1,1906 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -3.34,
+      2.07,
+      25.02,
+      73.08
+    ],
+    "text": "i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727,
+      51.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -1.7,
+      58.08,
+      8.42,
+      86.56
+    ],
+    "text": "~ I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.6102495193481445,
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.63,
+      188.62,
+      12.59,
+      215.7
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.1,
+      232.46,
+      14.91,
+      273.6
+    ],
+    "text": "1 I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.5,
+      20.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.11,
+      279.43,
+      15.15,
+      307.87
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.70009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.91,
+      35.53,
+      306.93,
+      49.81
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.44,
+      144.3,
+      536.01,
+      162.99
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.61,
+      163.03,
+      413.32,
+      181.72
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.37,
+      219.71,
+      424.75,
+      238.12
+    ],
+    "text": "1. M.M.Karunathilaka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031554222106934,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.29,
+      248.27,
+      474.91,
+      266.68
+    ],
+    "text": "Aludeniya, Hemmathagama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.2,
+      295.54,
+      428.98,
+      313.95
+    ],
+    "text": "2. M.M.Dharmadasa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.622052192687988,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.13,
+      324.1,
+      481.91,
+      342.51
+    ],
+    "text": "Aludeniya, Hemmathagama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.83,
+      382.15,
+      495.89,
+      400.84
+    ],
+    "text": "Defendant-Appellants.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.76,
+      411.17,
+      215.01,
+      429.87
+    ],
+    "text": "C.A.No.956/97 (F)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.64,
+      439.74,
+      252.34,
+      458.43
+    ],
+    "text": "D.C.Kegalle No.20851L .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.82,
+      496.18,
+      430.96,
+      514.59
+    ],
+    "text": "M.M.Dingiribanda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.85,
+      524.99,
+      485.47,
+      543.4
+    ],
+    "text": "Aludeniya, Hemmathagama,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.08,
+      553.55,
+      403.79,
+      571.97
+    ],
+    "text": "And 04 others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.5,
+      611.58,
+      491.51,
+      630.27
+    ],
+    "text": "Plaintiff-Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.3,
+      143.32,
+      214.75,
+      161.2
+    ],
+    "text": "C.A. No.956/97(F)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.91,
+      198.29,
+      145.16,
+      216.16
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.31,
+      277.25,
+      152.37,
+      295.13
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.42,
+      382.12,
+      170.62,
+      400.0
+    ],
+    "text": "Argued on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.39,
+      434.93,
+      171.82,
+      452.81
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.39,
+      461.07,
+      211.9,
+      478.95
+    ],
+    "text": "M.M.A.Gaffoor, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.98,
+      36.02,
+      306.48,
+      49.36
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.62,
+      143.81,
+      449.68,
+      161.69
+    ],
+    "text": "D.C. No.KegaIle No.20851L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.62,
+      198.29,
+      431.96,
+      216.17
+    ],
+    "text": "Deepali Wijesundara,J. &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.62,
+      224.43,
+      389.41,
+      242.31
+    ],
+    "text": "M.M.A.Gaffoor,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.16,
+      275.68,
+      495.27,
+      294.4
+    ],
+    "text": "Sudharshani Coory for the 1 st and 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.62,
+      303.16,
+      414.56,
+      321.04
+    ],
+    "text": "Defendant-Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.86,
+      329.56,
+      528.56,
+      347.43
+    ],
+    "text": "Respondents are absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.89,
+      382.12,
+      350.6,
+      400.0
+    ],
+    "text": "11.02.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.09,
+      434.93,
+      350.08,
+      452.8
+    ],
+    "text": "21.05.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.49,
+      494.09,
+      540.47,
+      513.04
+    ],
+    "text": "1 st and 2nd Defendant-Appellants filed this appeal seeking to set aside",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.41,
+      527.8,
+      539.91,
+      545.68
+    ],
+    "text": "the judgment dated 02/10/1997 of the learned District Judge of Kegalle.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.399999618530273,
+      14.188972473144531,
+      14.31973648071289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.62,
+      558.65,
+      540.38,
+      577.6
+    ],
+    "text": "Being aggrieved by the said order the 1 st and 2nd defendant- appellants filed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.88,
+      592.6,
+      321.41,
+      610.49
+    ],
+    "text": "this action on the following grounds:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.428719520568848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.29,
+      634.84,
+      543.86,
+      652.72
+    ],
+    "text": "i)The Plaintiff-Respondent filed this action in the District Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.1,
+      667.0,
+      541.07,
+      684.88
+    ],
+    "text": "Kegalle and stated that they are the lawful owners of the land called",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.31973648071289
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.75,
+      34.95,
+      304.85,
+      49.35
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.12,
+      85.68,
+      538.18,
+      104.23
+    ],
+    "text": "'Palle Kumbura\" and the Western boundary of the said land belonging",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.04,
+      117.83,
+      469.21,
+      136.38
+    ],
+    "text": "to the Defendants and between the said to land is a stream.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.69,
+      160.31,
+      538.08,
+      178.85
+    ],
+    "text": "ii) After floods and heavy rains in the area, the steam was dislocated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.44,
+      192.71,
+      537.28,
+      211.26
+    ],
+    "text": "and a part of the land belonging to the plaintiff s had been annexed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.05,
+      225.36,
+      537.71,
+      243.91
+    ],
+    "text": "the defendant's land is depicted as lots I and 2 of the plan No.I58",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.68,
+      257.75,
+      240.74,
+      276.3
+    ],
+    "text": "dated 17/0811979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.68,
+      300.0,
+      537.51,
+      318.55
+    ],
+    "text": "iii) Although the plaintiff asked permission of the Defendants to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.57,
+      332.39,
+      538.03,
+      350.94
+    ],
+    "text": "possess the said land which has been annexed to the lands of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.73,
+      364.81,
+      340.94,
+      383.35
+    ],
+    "text": "Defendants, the defendants refused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.1,
+      449.76,
+      538.63,
+      468.31
+    ],
+    "text": "At the trial the following issues were raised on behalf of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.99,
+      482.64,
+      195.75,
+      501.18
+    ],
+    "text": "Plaintiffs:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.4,
+      524.86,
+      539.36,
+      543.42
+    ],
+    "text": "i)Is the Plaintiff entitled to the land called ' PoIle Lodanatha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.7,
+      557.03,
+      519.45,
+      575.58
+    ],
+    "text": "Kumbura\" as per the Deeds mentioned in paragraph 2 of the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.12,
+      599.27,
+      539.35,
+      617.82
+    ],
+    "text": "ii) Is land called \"Pinagolle\" which is on the western boundary of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.12,
+      631.91,
+      486.94,
+      650.45
+    ],
+    "text": "land called \"Palle Lokantha Kumbra' belong to the 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      486.36,
+      630.64,
+      529.74,
+      650.46
+    ],
+    "text": "st to 6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      529.4,
+      630.24,
+      538.26,
+      642.19
+    ],
+    "text": "th",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.599620819091797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.17,
+      664.07,
+      208.68,
+      682.62
+    ],
+    "text": "Defendants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      299.24,
+      34.75,
+      306.96,
+      48.49
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.04,
+      84.86,
+      541.0,
+      103.53
+    ],
+    "text": "iii) Due to heavy rains during 1978 did boundary, which is a stream",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.976280212402344,
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.02,
+      117.0,
+      540.54,
+      135.68
+    ],
+    "text": "existing between \" Palle Lodantha Kumbura\" and land called \"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.62,
+      149.66,
+      253.37,
+      168.33
+    ],
+    "text": "Pinnagolle\" charge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.04,
+      191.88,
+      541.03,
+      210.56
+    ],
+    "text": "iv) Due to the said change, did an extent of 19 perches from the land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.71147632598877,
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.01,
+      224.3,
+      540.37,
+      242.97
+    ],
+    "text": "of Palle Kokantha Kumbura \" belonging to the plaintiff, attached to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.976280212402344,
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.88,
+      256.94,
+      458.02,
+      275.61
+    ],
+    "text": "the land belonging to the Defendants called PinnagoIle?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.15,
+      299.41,
+      543.44,
+      318.09
+    ],
+    "text": "v)Js the said land in extent of 19 purches belonging to the plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.71147632598877,
+      14.0,
+      14.503158569335938
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.27,
+      331.58,
+      541.79,
+      350.25
+    ],
+    "text": "attached to the Defendants land, depicted as lots 1 and 2 of in Plan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      14.503158569335938
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.98,
+      363.98,
+      360.0,
+      382.65
+    ],
+    "text": "No.MI58/A made by M.B. Ranatunga",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.39,
+      406.45,
+      541.51,
+      425.13
+    ],
+    "text": "vi) Have the Plaintiffs prescribed to the land in extent of 19 perches",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.84792423248291,
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.42,
+      439.08,
+      541.18,
+      457.76
+    ],
+    "text": "belonging to the Defendants land , depicted as lots 1 stand 2 of in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.943486213684082,
+      14.0,
+      14.503158569335938,
+      15.67486572265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.34,
+      471.49,
+      541.99,
+      490.16
+    ],
+    "text": "Plan No. M158/A made by M.B.Ranatunga, after being in possession",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.73,
+      503.66,
+      338.0,
+      522.33
+    ],
+    "text": "of the land for more than 10 years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.573657989501953,
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.85,
+      545.88,
+      541.53,
+      564.56
+    ],
+    "text": "vii) Accordingly what relief can the Plaintiffs obtain as per prayer to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.83,
+      578.52,
+      199.68,
+      597.19
+    ],
+    "text": "the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.81,
+      662.52,
+      538.77,
+      681.2
+    ],
+    "text": "At the trial the several persons gave evidence on behalf of the plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.1,
+      694.45,
+      541.34,
+      713.12
+    ],
+    "text": "respondent and the surveyor who drew plan No. M 158 and M 158 A and the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.889060974121094,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      296.49,
+      35.28,
+      304.51,
+      49.56
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.86,
+      85.23,
+      537.47,
+      104.04
+    ],
+    "text": "plaintiff himself had given evidence. The plaintiffs have close their case making",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.97,
+      117.38,
+      537.29,
+      136.19
+    ],
+    "text": "in evidence \"Pe I\" to \"Pe 10\" . The I st defendant -appellant gave evidence and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      14.026105880737305,
+      14.100000381469727,
+      14.313680648803711
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.58,
+      150.02,
+      537.12,
+      168.83
+    ],
+    "text": "marked in evidence VI to V2. He says that the earlier position taken up by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.892117500305176,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.61,
+      182.43,
+      537.48,
+      201.25
+    ],
+    "text": "plaintiffs in this action changed course as the this action came two wards the end",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.07337474822998,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.18,
+      215.07,
+      537.11,
+      233.88
+    ],
+    "text": "of trial. Although the plaintiffs instituted this action stating to Court that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.419432640075684
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.94,
+      247.46,
+      537.11,
+      266.27
+    ],
+    "text": "defendant had encorached to a portion of the land on the Plaintiffs land, later it was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.026105880737305,
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.83,
+      279.63,
+      537.12,
+      298.45
+    ],
+    "text": "revealed that western boundary of the Plaintiff s land was washed away duet 0 the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.77,
+      312.02,
+      537.26,
+      330.83
+    ],
+    "text": "Defendants removing a \"Erabudu Tree\" which was kept to stop the erosion due",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.8,
+      344.66,
+      537.19,
+      363.47
+    ],
+    "text": "to heavy rains. He further submitted that Ranatunga Surveyor based his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.13,
+      377.06,
+      537.17,
+      395.88
+    ],
+    "text": "superimposition on a Plan made by Charles Gerdinand, however Plan P3 is said to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.849321365356445,
+      14.076129913330078,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.11,
+      409.24,
+      537.86,
+      428.05
+    ],
+    "text": "be from a Final Partition Decree but this Final Partition Decree has not been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.11,
+      441.62,
+      527.01,
+      460.44
+    ],
+    "text": "produced. Therefore it is submitted that the said plan No.P3 has not been proved.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.076129913330078,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.69,
+      484.35,
+      537.85,
+      503.16
+    ],
+    "text": "He further submitted that although the plaintiffs attempt to show that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.59,
+      516.75,
+      537.72,
+      535.56
+    ],
+    "text": "plaintiff s land has been washed away due to the defendant removing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.53,
+      549.15,
+      538.19,
+      567.96
+    ],
+    "text": "\"Erabudu Tree\", there is no evidence to show that such action was done by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.076129913330078,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.73,
+      581.06,
+      537.92,
+      599.87
+    ],
+    "text": "Defendant, as he vehemently denies having removed the \"Erabudu Tree \". He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.07337474822998,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.09,
+      613.47,
+      538.61,
+      632.29
+    ],
+    "text": "submitted that the land of the Plaintiffs' was washed away due to heavy rains and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.02,
+      645.86,
+      538.44,
+      664.67
+    ],
+    "text": "not due to any act of the Defendants. The fact has not been considered by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.39,
+      677.78,
+      538.31,
+      696.59
+    ],
+    "text": "learned District Judge at all. He says that there is not an iota of evidence, that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.076129913330078,
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      298.91,
+      35.02,
+      306.79,
+      49.03
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.17,
+      85.2,
+      539.76,
+      103.75
+    ],
+    "text": "Defendants had ever encroached on to the land of the plaintiffs. In fact the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.16,
+      117.59,
+      539.71,
+      136.14
+    ],
+    "text": "District Judge has not considered the fact that the plaintiff has cut a portion of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.316801071166992
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.65,
+      150.24,
+      542.29,
+      168.83
+    ],
+    "text": "Defendants land to stop the erosion. It is stated that the witnesses of the plaintiff",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.411137580871582,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.83,
+      182.64,
+      539.22,
+      201.19
+    ],
+    "text": "are all biased witnesses and therefore their evidence cannot be accepted as true.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.69,
+      215.03,
+      539.92,
+      233.58
+    ],
+    "text": "And that the erosion that took place is due to an act of nature and the defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.82,
+      247.47,
+      540.05,
+      266.44
+    ],
+    "text": "are not in any way responsible for the said incident. It is also stated that as it has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.206124305725098,
+      14.411137580871582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.7,
+      280.08,
+      540.21,
+      298.63
+    ],
+    "text": "not been proved that the defendants were in any way responsible for the erosion, it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.31,
+      312.47,
+      540.75,
+      331.01
+    ],
+    "text": "is unfair for the plaintiffs to pray for costs from the Defendants and the Judgment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.29,
+      344.88,
+      540.64,
+      363.43
+    ],
+    "text": "of the District Judge of Mawanella be set aside and the appeal should be allowed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.3,
+      377.51,
+      415.59,
+      396.06
+    ],
+    "text": "and prayer to the answer of the Defendant should be allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.17,
+      420.0,
+      541.37,
+      438.55
+    ],
+    "text": "For the aforesaid reasons, we set aside the order of the order learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.37,
+      452.63,
+      431.94,
+      471.18
+    ],
+    "text": "Judge dated 02/1 0/1997 and the appeal is allowed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.85738468170166,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248.36,
+      537.79,
+      493.48,
+      556.63
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.09,
+      580.07,
+      201.83,
+      598.62
+    ],
+    "text": "Deepali Wi jesundara,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.74,
+      622.51,
+      494.25,
+      641.35
+    ],
+    "text": "I agree. JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.59,
+      664.98,
+      98.96,
+      682.99
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  }
+]

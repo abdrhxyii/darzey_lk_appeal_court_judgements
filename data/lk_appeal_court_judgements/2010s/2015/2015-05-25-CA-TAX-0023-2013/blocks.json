@@ -1,0 +1,3336 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      324.43,
+      29.33,
+      332.02,
+      41.83
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.21,
+      62.85,
+      489.54,
+      80.72
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRAIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      203.08,
+      85.88,
+      453.65,
+      103.75
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.13,
+      139.59,
+      230.83,
+      153.99
+    ],
+    "text": "CA (TAX) 23/2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      10.906425476074219
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.18,
+      402.52,
+      173.57,
+      417.75
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.34,
+      478.35,
+      180.53,
+      493.58
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.21,
+      554.43,
+      192.62,
+      569.66
+    ],
+    "text": "Argued on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      402.38,
+      292.07,
+      416.78
+    ],
+    "text": ": K.T. Chitrasiri J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      213.29,
+      427.57,
+      310.55,
+      441.98
+    ],
+    "text": "L.T.B. Dehideniya J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.84,
+      164.78,
+      397.24,
+      179.18
+    ],
+    "text": "Seylan Bank PLC,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.44,
+      190.46,
+      447.39,
+      204.86
+    ],
+    "text": "90, Galle Road, Colombo 03.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.3,
+      216.28,
+      361.08,
+      231.51
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.3,
+      241.59,
+      327.72,
+      255.99
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.23,
+      266.78,
+      516.73,
+      281.18
+    ],
+    "text": "The Commissioner General of Inland",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.49846363067627
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.51,
+      286.46,
+      516.47,
+      300.86
+    ],
+    "text": "Revenue, Department of Inland Revenue,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.756861686706543
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.6,
+      305.9,
+      516.62,
+      320.3
+    ],
+    "text": "Sir Chittampalam A Gardiner Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.46,
+      325.81,
+      371.91,
+      340.22
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.02,
+      351.63,
+      372.99,
+      366.86
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      477.98,
+      493.08,
+      492.38
+    ],
+    "text": ": K.N. Gunasekara with Sheranka Madanay for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      213.07,
+      503.66,
+      385.94,
+      518.06
+    ],
+    "text": "P. Nawana, DSG for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.799300193786621,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.45,
+      553.58,
+      395.69,
+      567.98
+    ],
+    "text": ": 02.03.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.46,
+      579.06,
+      404.33,
+      594.39
+    ],
+    "text": "Written Submissions of the Appellant on : 01.04.2015",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.0,
+      11.347511291503906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.46,
+      603.69,
+      406.46,
+      619.34
+    ],
+    "text": "Written Submissions of the Respondent on: 02.04.2015",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.0,
+      11.300000190734863,
+      11.347511291503906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.44,
+      629.18,
+      395.97,
+      645.26
+    ],
+    "text": "Decided on : 25.05.2105",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.1,
+      29.12,
+      327.23,
+      41.79
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.86,
+      62.33,
+      237.89,
+      77.71
+    ],
+    "text": "L.T.B. Dehideniya J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.58,
+      112.77,
+      512.48,
+      127.71
+    ],
+    "text": "This is an appeal from the Tax Appeal Commission. The Commission has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.8,
+      132.44,
+      512.49,
+      147.39
+    ],
+    "text": "formulated six questions of law on which this Court is expected to express the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.063922882080078,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.57,
+      152.37,
+      512.99,
+      167.31
+    ],
+    "text": "opinion. Out of the said questions the first question is being in time bar, the Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.054758071899414,
+      11.199999809265137,
+      11.57564926147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.65,
+      172.03,
+      512.48,
+      186.98
+    ],
+    "text": "was of the view that it should express its opinion on the said question before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.088191986083984,
+      11.199999809265137,
+      11.841763496398926
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.57,
+      191.96,
+      512.36,
+      206.9
+    ],
+    "text": "considering the rest of the questions. Accordingly, we heard the counsels on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.189695358276367,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.52,
+      211.4,
+      500.62,
+      226.34
+    ],
+    "text": "said issue and on directions of the Court tendered their written submissions too.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.09,
+      236.83,
+      435.7,
+      251.77
+    ],
+    "text": "The Tax Appeal Commission formulated the question as follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.81,
+      262.28,
+      512.06,
+      277.22
+    ],
+    "text": "1. Was the assessment for the year 20071 2008 dated 26.03.2010 issued",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.328664779663086,
+      10.523897171020508,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.89,
+      282.2,
+      512.0,
+      297.15
+    ],
+    "text": "against the appellant time barred in terms of Section 163 (5)(a) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.07555866241455,
+      11.199999809265137,
+      11.57564926147461,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168.17,
+      301.88,
+      457.07,
+      316.83
+    ],
+    "text": "Inland Revenue Act, as applicable to such year of assessment?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.1,
+      327.57,
+      512.22,
+      342.51
+    ],
+    "text": "The year of assessment related to this case is the financial year of 2007/08. The",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.063922882080078,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.09,
+      345.65,
+      510.58,
+      361.95
+    ],
+    "text": "assessee bank submitted the tax return for the said financial year on 30th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.413936138153076,
+      11.159677505493164,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.71,
+      366.69,
+      512.01,
+      381.63
+    ],
+    "text": "September 2008. Parties do not dispute that the return was submitted within the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.122783660888672,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.29,
+      386.36,
+      512.19,
+      401.31
+    ],
+    "text": "stipulated time period. The assessor did not accept the return on certain aspects",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.1,
+      406.03,
+      511.91,
+      420.98
+    ],
+    "text": "and acted under section 163 of the Act, send an assessment against the assessee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.07555866241455,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.22,
+      425.71,
+      511.32,
+      440.66
+    ],
+    "text": "bank, after considering the statements and records submitted with the return, on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.189695358276367,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.89,
+      444.05,
+      511.49,
+      460.58
+    ],
+    "text": "26th March 2010. There is no dispute as to the date it was sent but the issue is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.063922882080078,
+      11.088191986083984,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.94,
+      465.32,
+      511.64,
+      480.26
+    ],
+    "text": "whether that date comes within the time period prescribed by section 163 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.9859037399292,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.36,
+      485.01,
+      230.09,
+      499.95
+    ],
+    "text": "Inland Revenue Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.43,
+      509.97,
+      511.57,
+      524.91
+    ],
+    "text": "Under section 106 of the Inland Revenue Act No 10 of 2006, the assessee had to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.969171524047852,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.28,
+      529.63,
+      511.25,
+      544.58
+    ],
+    "text": "submit his or its tax return on or before the 30 of September of that financial year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.189695358276367,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.86,
+      549.08,
+      511.99,
+      564.02
+    ],
+    "text": "The Inland Revenue Amendment Act No. 19 of 2009 has extended this period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.969171524047852,
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.08,
+      566.69,
+      511.52,
+      583.7
+    ],
+    "text": "and allowed the assessee to send the return on or before the 30th of November.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      11.199999809265137,
+      11.57564926147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.86,
+      588.68,
+      321.08,
+      603.63
+    ],
+    "text": "The amended section 106 (l) reads thus;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.164544105529785,
+      11.199999809265137,
+      11.466123580932617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168.04,
+      614.68,
+      512.91,
+      628.48
+    ],
+    "text": "106. (1) Every person who is chargeable with income tax under this Act",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.800000190734863,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.21,
+      634.12,
+      515.87,
+      647.92
+    ],
+    "text": "for any year of assessment shall, on or before the thirtieth day of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.403526306152344,
+      12.298210144042969,
+      12.434136390686035
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.38,
+      653.32,
+      510.89,
+      667.12
+    ],
+    "text": "November immediately succeeding the end of that year of assessment,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.376937866210938,
+      12.298210144042969,
+      12.434136390686035
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.2,
+      672.76,
+      512.01,
+      686.56
+    ],
+    "text": "furnish to an Assessor, either in writing or by electronic means, a return",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.193902015686035,
+      11.277327537536621,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.86,
+      692.2,
+      511.56,
+      706.0
+    ],
+    "text": "in such form and containing such particulars as may be specified by the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.195416450500488,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.09,
+      732.67,
+      605.21,
+      787.63
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      40.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      322.93,
+      29.36,
+      330.05,
+      42.03
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.37,
+      59.72,
+      519.71,
+      77.99
+    ],
+    "text": "Commissioner General, of his income, and if he has a child, the income of",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.404806137084961,
+      11.5,
+      12.406566619873047,
+      12.543643951416016,
+      14.31103801727295
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.68,
+      82.42,
+      222.1,
+      96.47
+    ],
+    "text": "such child.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.98,
+      107.82,
+      515.35,
+      122.63
+    ],
+    "text": "The assessee had submitted the tax return to the Commissioner General before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.82,
+      127.5,
+      515.13,
+      142.31
+    ],
+    "text": "the amendment came in to existences, within the period allowed in the original",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.005295753479004,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.82,
+      146.23,
+      157.72,
+      161.03
+    ],
+    "text": "Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.74,
+      172.15,
+      514.68,
+      186.96
+    ],
+    "text": "The Amendment Act No 19 of 2009 has amended the section 163 by allowing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.920092582702637,
+      11.02600383758545,
+      11.100000381469727,
+      11.788779258728027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.73,
+      192.06,
+      515.03,
+      206.87
+    ],
+    "text": "assessor additional six months to send out the assessment if he does not accept",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.506699562072754
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.56,
+      211.74,
+      514.68,
+      226.55
+    ],
+    "text": "the return submitted by the assessee. The amended section 163 (5) (a) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.02600383758545,
+      11.100000381469727,
+      11.523857116699219
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.76,
+      231.18,
+      259.53,
+      245.99
+    ],
+    "text": "Inland Revenue Act reads;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.36,
+      257.35,
+      514.13,
+      272.16
+    ],
+    "text": "163. (5) Subject to the provisions of section 72, no assessment of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.629217147827148,
+      10.895822525024414,
+      11.100000381469727,
+      11.29252815246582,
+      11.5,
+      12.406566619873047,
+      12.543643951416016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.5,
+      277.78,
+      467.19,
+      291.82
+    ],
+    "text": "income tax payable under this Act by any person or partnership-",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204.99,
+      302.98,
+      515.73,
+      317.03
+    ],
+    "text": "(a) who or which has made a return of his own income on or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.93470573425293,
+      11.46484661102295,
+      11.488043785095215,
+      11.5,
+      12.543643951416016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.67,
+      322.65,
+      514.81,
+      336.7
+    ],
+    "text": "before the thirtieth day of November of the year of assessment",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.5,
+      12.406566619873047,
+      12.543643951416016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.62,
+      342.34,
+      514.24,
+      356.39
+    ],
+    "text": "immediately succeeding that year of assessment, shall be made",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.43094253540039,
+      11.5,
+      12.67928409576416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.44,
+      362.25,
+      518.35,
+      376.3
+    ],
+    "text": "after the expiry of two years from the end of that year of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.456367492675781,
+      11.5,
+      12.543643951416016,
+      12.813444137573242
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.2,
+      381.93,
+      300.45,
+      395.98
+    ],
+    "text": "assessment; and",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.02,
+      406.62,
+      514.16,
+      421.43
+    ],
+    "text": "The Appellant's argument is that this amendment does not apply to his case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.13,
+      426.06,
+      513.95,
+      440.87
+    ],
+    "text": "because he had to submit the return before the amendment and therefore, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.9,
+      445.74,
+      513.94,
+      460.55
+    ],
+    "text": "principal enactment as it was then should apply to the assessor too. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.85,
+      465.17,
+      513.81,
+      479.99
+    ],
+    "text": "Appellant's contention is that the assessor has to send the assessment within",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.0,
+      485.11,
+      514.33,
+      499.91
+    ],
+    "text": "eighteen months as the law stood prior to the amendment. He further argues that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.63,
+      504.54,
+      513.82,
+      519.35
+    ],
+    "text": "the assessor cannot avail himself the benefit of the amendment where the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.657071113586426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.85,
+      522.94,
+      514.37,
+      539.27
+    ],
+    "text": "Appellant could not. His argument is that the assessment dated 26th March 20 I 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.27,
+      543.9,
+      199.82,
+      558.71
+    ],
+    "text": "is time bared.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.78,
+      569.1,
+      513.96,
+      583.91
+    ],
+    "text": "The Respondent's argument is two folded. One argument is that the amendment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.01,
+      588.54,
+      513.97,
+      603.35
+    ],
+    "text": "came in to force within the eighteen months period where the assessor was entitle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.005295753479004,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.86,
+      607.99,
+      513.7,
+      622.8
+    ],
+    "text": "to send the assessment against the assessee and therefore the extension of time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.523857116699219
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.14,
+      627.42,
+      513.84,
+      642.23
+    ],
+    "text": "period is applicable. The other argument is that the time period is allowed for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.02,
+      647.1,
+      513.72,
+      661.91
+    ],
+    "text": "assessor to send the assessment is a procedural law and any change in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.005295753479004,
+      11.014420509338379,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.9,
+      666.3,
+      490.9,
+      681.11
+    ],
+    "text": "procedural law can be considered as an amendment with retrospective effect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.63,
+      691.74,
+      513.47,
+      706.55
+    ],
+    "text": "Article 75 of the Constitution empowers the Parliament to enact laws with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.907785415649414,
+      11.100000381469727,
+      11.657071113586426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.1,
+      711.43,
+      313.87,
+      726.24
+    ],
+    "text": "retrospective effect. The Article reads;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      309.57,
+      38.21,
+      317.16,
+      50.71
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.02,
+      71.95,
+      504.01,
+      85.87
+    ],
+    "text": "75. Parliament shall have power to make laws, including laws having",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.783056259155273,
+      11.24332332611084,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.1,
+      91.39,
+      502.52,
+      105.31
+    ],
+    "text": "retrospective effect and repealing or amending any provision of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.352506637573242
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.41,
+      110.83,
+      425.4,
+      124.74
+    ],
+    "text": "Constitution, or adding any provision to the Constitution:",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.66,
+      136.27,
+      390.18,
+      150.19
+    ],
+    "text": "Provided that Parliament shall not make any law-",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.75,
+      161.95,
+      503.48,
+      175.87
+    ],
+    "text": "(a) suspending the operation of the Constitution or any part",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.9998779296875,
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209.61,
+      181.39,
+      261.87,
+      195.3
+    ],
+    "text": "thereof, or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.51,
+      207.07,
+      502.18,
+      220.99
+    ],
+    "text": "(b) repealing the Constitution as a whole unless such law also",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.755948066711426,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209.18,
+      226.51,
+      390.52,
+      240.43
+    ],
+    "text": "enacts a new Constitution to replace it.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.221349716186523,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.03,
+      251.21,
+      502.37,
+      265.88
+    ],
+    "text": "There is no doubt that the legislature can enact any amendment to the Inland",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.964693069458008,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.31,
+      270.89,
+      503.03,
+      285.56
+    ],
+    "text": "Revenue Act with or without retrospective effect. The Court has to consider",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.08,
+      290.57,
+      416.15,
+      305.24
+    ],
+    "text": "whether there is a retrospective effect or not in the amendment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.955610275268555,
+      10.964693069458008,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.86,
+      316.01,
+      502.11,
+      330.68
+    ],
+    "text": "Article 80 Sub Article (1) of the Constitution says that a bill passed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.07,
+      335.93,
+      481.78,
+      350.6
+    ],
+    "text": "Parliament will become a law when the certificate of the Speaker is endorsed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.32,
+      361.76,
+      502.7,
+      375.79
+    ],
+    "text": "80. (1) Subject to the provisions of paragraph (2) of this Article, a Bill",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      11.24332332611084,
+      11.259939193725586,
+      11.399999618530273,
+      12.489032745361328,
+      12.757611274719238
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.39,
+      381.8,
+      501.68,
+      395.72
+    ],
+    "text": "passed by Parliament shall become law when the certificate of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.94,
+      401.24,
+      291.54,
+      415.16
+    ],
+    "text": "Speaker is endorsed thereon.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.56,
+      426.32,
+      205.62,
+      440.19
+    ],
+    "text": "(2) ........ .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.504178047180176
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.56,
+      451.53,
+      202.93,
+      465.4
+    ],
+    "text": "(3) ....... ..",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.022757530212402,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.55,
+      476.34,
+      501.87,
+      491.01
+    ],
+    "text": "The Inland Revenue (Amendment) Act No.19 of 2009 was endorsed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.92,
+      496.01,
+      501.87,
+      510.68
+    ],
+    "text": "Speaker on 31 5t March 2009. Therefore, the amendment act became a law of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.036075115203857,
+      10.396759033203125,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.53,
+      515.69,
+      501.88,
+      530.36
+    ],
+    "text": "country from that date. As per section 27 (6) of the said Amendment Act, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.53,
+      535.12,
+      500.85,
+      549.8
+    ],
+    "text": "amendment brought in to the section 163 of the principal enactment is in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.788312911987305,
+      10.887372970581055,
+      10.955610275268555,
+      10.964693069458008,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.53,
+      553.18,
+      503.87,
+      569.48
+    ],
+    "text": "operation from 15t of April 2009. Therefore, the law of the country from the 15t of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.209841728210449,
+      11.0,
+      11.471830368041992,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.62,
+      574.01,
+      501.41,
+      588.68
+    ],
+    "text": "April 2009 in relation to sending an assessment to the assessee by the assessor is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.955610275268555,
+      10.964693069458008,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.37,
+      593.69,
+      501.2,
+      608.36
+    ],
+    "text": "the amended section 163 of the of the Inland Revenue Act. Accordingly,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.797740936279297,
+      11.0,
+      11.604443550109863,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.03,
+      613.37,
+      502.0,
+      628.04
+    ],
+    "text": "irrespective of whether the assessee had to submit the tax return on or before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.75,
+      631.24,
+      501.88,
+      647.72
+    ],
+    "text": "30th September 2009 or 30th November 2009, the assessor can send the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      7.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.77,
+      652.48,
+      504.11,
+      667.16
+    ],
+    "text": "assessment to the assessee within two years immediately succeeding that year of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.471830368041992
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.77,
+      672.41,
+      178.63,
+      687.08
+    ],
+    "text": "assessment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.07,
+      694.84,
+      501.9,
+      711.08
+    ],
+    "text": "Bindra's Interpretation of Statutes 10th edition page 19 says that \"the primary and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.413936138153076,
+      10.734086036682129,
+      11.0,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.77,
+      715.85,
+      501.87,
+      730.53
+    ],
+    "text": "foremost task of a Court in interpreting a statute is to ascertain the intention of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.955610275268555,
+      10.964693069458008,
+      11.0,
+      11.471830368041992,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      309.94,
+      35.54,
+      317.44,
+      48.88
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.71,
+      65.41,
+      502.94,
+      84.37
+    ],
+    "text": "legislature, actual or imputed\". Maxwell on The Interpretation of Statutes 1 i h",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      11.0,
+      11.735556602478027,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.2,
+      88.49,
+      502.3,
+      103.16
+    ],
+    "text": "edition page I says that \"a document which is presented to it as a statute is an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.767134666442871,
+      10.964693069458008,
+      10.98529052734375,
+      11.0,
+      11.339995384216309
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.21,
+      108.17,
+      503.28,
+      122.84
+    ],
+    "text": "authentic expression of the legislature's will, the function of a Court is to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.964693069458008,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.47,
+      127.85,
+      503.09,
+      142.52
+    ],
+    "text": "interpret that document according to the intent of them that made it\". The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.23,
+      147.78,
+      505.31,
+      162.45
+    ],
+    "text": "legislature has expressed its intention clearly in the Amendment Act No. 19 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.734086036682129,
+      10.955610275268555,
+      11.0,
+      11.471830368041992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.01,
+      167.46,
+      502.79,
+      182.13
+    ],
+    "text": "2009. The preamble the act says that it is an Act to amend the Inland Revenue",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.964693069458008,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.05,
+      187.37,
+      502.86,
+      202.04
+    ],
+    "text": "Act No. 10 of 2006. On the other hand the Parliament has expressed its intention",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.8707914352417,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.96,
+      206.8,
+      502.72,
+      221.48
+    ],
+    "text": "as to how the enactment should come into force. As per section 27 (6) the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.24,
+      226.48,
+      503.32,
+      241.16
+    ],
+    "text": "intention of the legislature is to amend the section 163 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.964693069458008,
+      10.976223945617676,
+      11.0,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.82,
+      244.37,
+      503.05,
+      260.84
+    ],
+    "text": "with effect from 1st of Apri12009. That is to change the law with effect from that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      266.09,
+      502.94,
+      280.76
+    ],
+    "text": "date. Therefore, the Appellant's argument that the principal enactment (without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      286.02,
+      503.12,
+      300.69
+    ],
+    "text": "amendment) shall apply to his case because he has acted on the Principal Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      305.7,
+      216.34,
+      320.37
+    ],
+    "text": "cannot be accepted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.58,
+      331.14,
+      502.71,
+      345.81
+    ],
+    "text": "At this stage it is necessary to note that section 163 of the principal enactment has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.976223945617676,
+      10.988744735717773,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.85,
+      350.81,
+      502.08,
+      365.48
+    ],
+    "text": "been further amended by Inland Revenue Amendment Acts Nos. 22 of 2011, 18",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.734086036682129,
+      11.0,
+      11.471830368041992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.72,
+      370.26,
+      502.48,
+      384.93
+    ],
+    "text": "of 2013 and 8 of 2014. The two year period given to the assessor to send the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      389.94,
+      505.16,
+      404.61
+    ],
+    "text": "assessment against the assessee was to start from the end of the year of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.49,
+      409.61,
+      502.51,
+      424.28
+    ],
+    "text": "assessment originally, which is the 31st of March, every year. This date (the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.767134666442871,
+      11.0,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.92,
+      429.54,
+      505.16,
+      444.21
+    ],
+    "text": "starting day of the period) has been further pushed down to the thirtieth day of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.41,
+      449.21,
+      502.3,
+      463.88
+    ],
+    "text": "November of the immediately succeeding year of assessment by the said Act No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.604443550109863,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.53,
+      468.89,
+      179.07,
+      483.56
+    ],
+    "text": "220f2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.302199363708496
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.82,
+      493.61,
+      502.34,
+      508.28
+    ],
+    "text": "As I have pointed out earlier, the Speaker has endorsed the bill on 31 st March",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      10.532672882080078,
+      10.994348526000977,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.53,
+      513.29,
+      502.51,
+      527.96
+    ],
+    "text": "2009. As per section 27(6) of the Amendment Act, section 163 of the principal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.976223945617676,
+      11.0,
+      11.604443550109863,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.49,
+      531.17,
+      502.66,
+      547.65
+    ],
+    "text": "enactment is amended from 1st of April 2009. The amended section does not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.0,
+      11.337618827819824
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      552.65,
+      502.11,
+      567.4
+    ],
+    "text": "apply retrospect. It operates only from the date specified in it. The law of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.788312911987305,
+      10.84830379486084,
+      10.974871635437012,
+      11.0,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.49,
+      572.08,
+      502.93,
+      586.76
+    ],
+    "text": "country has changed from that date. Therefore, from that date onwards, the new",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.75,
+      592.26,
+      198.3,
+      606.93
+    ],
+    "text": "law shall apply.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.51,
+      616.96,
+      502.64,
+      631.72
+    ],
+    "text": "The section 163 (5) of the Inland Revenue Act is a procedural law. It regulates",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.964693069458008,
+      11.0,
+      11.183964729309082,
+      11.471830368041992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.57,
+      636.4,
+      502.47,
+      651.08
+    ],
+    "text": "the procedure of sending an assessment against the assessee by an assessor in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.955610275268555,
+      11.0,
+      11.604443550109863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.72,
+      655.6,
+      502.34,
+      670.28
+    ],
+    "text": "event that the tax return send by the assessee is not accepted by the assessor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.767134666442871,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.02,
+      675.04,
+      501.96,
+      689.72
+    ],
+    "text": "Even if the amendment has a retrospective effect, it applies, if the amendment is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.56588363647461,
+      11.0,
+      11.454750061035156
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      694.73,
+      444.16,
+      709.4
+    ],
+    "text": "only on procedural law. No party can have vested right on procedure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      317.4,
+      30.48,
+      324.75,
+      43.55
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.95,
+      61.0,
+      452.23,
+      79.44
+    ],
+    "text": "Maxwell on The Interpretation of Statutes I i h edition page 222 says;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.199999809265137,
+      11.70946216583252,
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166.57,
+      90.2,
+      509.69,
+      104.12
+    ],
+    "text": "The presumption against retrospective construction has no application to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.24332332611084,
+      11.29996109008789,
+      11.391897201538086,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.98,
+      109.87,
+      509.18,
+      123.79
+    ],
+    "text": "enactments which affect only the procedure and practice of courts. No",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.144588470458984,
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.02,
+      129.55,
+      514.27,
+      143.47
+    ],
+    "text": "person has a vested right in any course of procedure, but only the right of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.489032745361328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.02,
+      148.99,
+      510.99,
+      162.91
+    ],
+    "text": "prosecution or defence in the manner prescribed for the time being, by or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.327116966247559,
+      11.381134033203125,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.3,
+      165.28,
+      510.36,
+      183.29
+    ],
+    "text": "for the Court in which he sues, and if an Act of Parliament alters that",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.327116966247559,
+      11.355111122131348,
+      11.399999618530273,
+      11.54028606414795,
+      12.624035835266113,
+      14.406150817871094
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.79,
+      188.58,
+      508.76,
+      202.51
+    ],
+    "text": "mode of procedure, he can only proceed according to the altered mode.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.355111122131348,
+      11.3873929977417,
+      11.399999618530273,
+      12.489032745361328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.29,
+      208.28,
+      510.11,
+      222.2
+    ],
+    "text": "Alterations in the form of procedure are always retrospective, unless",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.364895820617676,
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.72,
+      228.19,
+      438.1,
+      242.12
+    ],
+    "text": "there is some good reason or other why they should not be.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.141008377075195,
+      11.367403030395508,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.23,
+      252.69,
+      509.11,
+      267.63
+    ],
+    "text": "Brindra at page 1469 refers to Grander v. Lucas [1878] 3 AC 582 p.603 and cites;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.010700225830078,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.23,
+      275.45,
+      510.14,
+      293.46
+    ],
+    "text": "It is perfectly settled that if legislature intended to frame a new procedure",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      14.204634666442871
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.7,
+      298.52,
+      509.76,
+      312.44
+    ],
+    "text": "that instead of proceeding in this form or that, you should proceed in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.159309387207031,
+      11.399999618530273,
+      12.489032745361328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.52,
+      318.2,
+      509.73,
+      332.12
+    ],
+    "text": "another and a different way, clearly then bygone transactions are to be",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.076767921447754,
+      11.381134033203125,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.4,
+      337.87,
+      509.84,
+      351.79
+    ],
+    "text": "sued and enforced according to the new form of procedure. Alteration in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.327116966247559,
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.46,
+      357.79,
+      510.97,
+      371.71
+    ],
+    "text": "the form of procedure are always retrospective, unless there is some good",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.624035835266113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.53,
+      377.48,
+      348.58,
+      391.4
+    ],
+    "text": "reason or other why they should not be.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.141008377075195,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.7,
+      401.97,
+      300.11,
+      416.91
+    ],
+    "text": "Then he goes to explain the citation;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.23,
+      424.72,
+      508.82,
+      442.73
+    ],
+    "text": "In other words, if a statute deals merely with the procedure in an action,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      14.000265121459961
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.52,
+      447.79,
+      510.2,
+      461.71
+    ],
+    "text": "and does not affect the righties, the new procedure will prima facie apply",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.364895820617676,
+      11.399999618530273,
+      11.43155574798584
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.46,
+      467.23,
+      510.31,
+      481.15
+    ],
+    "text": "to all such proceedings as well as future. No party has a vested right to a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.24332332611084,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.54,
+      487.14,
+      509.78,
+      501.07
+    ],
+    "text": "particular procedure or to a particular forum. All procedural laws are",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.24332332611084,
+      11.399999618530273,
+      11.417786598205566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.53,
+      506.59,
+      508.72,
+      520.51
+    ],
+    "text": "retrospective, unless the legislature expressly says that they are not.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.333958625793457,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.22,
+      526.27,
+      509.28,
+      540.19
+    ],
+    "text": "Hence, when a suit of or proceeding comes onfor hearing or disposal, the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.364895820617676,
+      11.399999618530273,
+      11.631450653076172,
+      12.489032745361328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.54,
+      545.95,
+      408.85,
+      559.87
+    ],
+    "text": "procedural law inforce at that time must be applied.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.381134033203125,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.02,
+      569.97,
+      510.05,
+      584.91
+    ],
+    "text": "Accordingly, the Appellant cannot rely on the legal principal of retrospective",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.70946216583252
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.17,
+      589.63,
+      510.32,
+      604.58
+    ],
+    "text": "effect of a statute and succeed in the defence of the time bar as to the assessment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.054758071899414,
+      11.199999809265137,
+      11.70946216583252,
+      11.841763496398926
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.36,
+      609.31,
+      326.39,
+      624.26
+    ],
+    "text": "sent against the Appellant by the assessor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.24,
+      634.28,
+      509.85,
+      649.22
+    ],
+    "text": "For the foregoing reasons, this Court is of the opinion that the assessment made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.063922882080078,
+      11.199999809265137,
+      11.841763496398926
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.41,
+      652.6,
+      509.83,
+      668.43
+    ],
+    "text": "for the year 2007/2008 dated 26th March 2010 and which issued against the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      10.5,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.26,
+      673.64,
+      263.68,
+      688.58
+    ],
+    "text": "Appellant, is not time bared.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      317.9,
+      26.85,
+      325.1,
+      39.66
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131.96,
+      60.72,
+      509.7,
+      75.0
+    ],
+    "text": "We fix the matter for further argument on rest of the questions oflaw formulated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.297658920288086,
+      11.574420928955078
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131.05,
+      77.76,
+      282.03,
+      92.04
+    ],
+    "text": "by the Tax Appeal Commission.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.77583122253418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      336.18,
+      132.48,
+      472.56,
+      146.76
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.574420928955078
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.05,
+      153.4,
+      213.47,
+      168.63
+    ],
+    "text": "K.T.Chitrasiri J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      163.61,
+      179.04,
+      199.99,
+      193.32
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  }
+]

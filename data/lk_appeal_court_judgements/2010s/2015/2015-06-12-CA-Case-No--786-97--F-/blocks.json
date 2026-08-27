@@ -1,0 +1,4012 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      121.17,
+      68.45,
+      490.32,
+      86.9
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.74199390411377,
+      12.836710929870605,
+      12.893632888793945,
+      12.914556503295898,
+      13.027626037597656,
+      13.152514457702637,
+      13.277843475341797,
+      13.322073936462402
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      228.94,
+      89.57,
+      382.16,
+      108.02
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.6422758102417,
+      12.812992095947266,
+      12.836710929870605,
+      13.00827407836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.93,
+      151.44,
+      475.01,
+      167.38
+    ],
+    "text": "Hiniduma Uyanage Nandawathie",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.84,
+      193.2,
+      416.41,
+      209.14
+    ],
+    "text": "of Mabotuwana Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.68,
+      234.96,
+      374.41,
+      250.9
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      363.12,
+      277.0,
+      409.64,
+      292.7
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.59,
+      317.66,
+      220.94,
+      334.22
+    ],
+    "text": "C A Case No. 786/97 (F)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.18583869934082,
+      11.23180866241455,
+      11.399999618530273,
+      11.550604820251465,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.79,
+      353.95,
+      455.32,
+      377.43
+    ],
+    "text": "o C Galle Cse No.l0092/P 1. Samarasinghe Vidanagama",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.02074146270752,
+      11.399999618530273,
+      11.59168815612793,
+      11.600000381469727,
+      17.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.49,
+      401.76,
+      472.39,
+      417.7
+    ],
+    "text": "Ariyasena of Mabotuwana Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.68,
+      443.76,
+      374.41,
+      459.7
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.11,
+      485.76,
+      449.89,
+      501.7
+    ],
+    "text": "2. Piyadasa Sooriarachchi of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.38388729095459,
+      11.600000381469727,
+      12.320899963378906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.29,
+      527.28,
+      373.67,
+      543.22
+    ],
+    "text": "\"Samanpaya\",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.42,
+      568.8,
+      432.02,
+      584.73
+    ],
+    "text": "No.48, Wewelwala Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.67,
+      610.8,
+      405.65,
+      626.74
+    ],
+    "text": "Kitulampitiya, Galle.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.3,
+      652.08,
+      430.81,
+      668.02
+    ],
+    "text": "3. Mallaperuma Tantrige",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.3951416015625,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.21,
+      693.12,
+      417.12,
+      709.06
+    ],
+    "text": "Ananda of Polkanatta,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.11,
+      735.66,
+      309.7,
+      748.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.16,
+      68.88,
+      374.64,
+      84.82
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.92,
+      110.88,
+      498.66,
+      126.82
+    ],
+    "text": "4. N.T.S. Wijesekara of Imbulanagoda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.415178298950195,
+      11.492148399353027,
+      11.600000381469727,
+      12.189091682434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.19,
+      152.64,
+      422.66,
+      168.58
+    ],
+    "text": "Kanatta, Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      329.04,
+      194.68,
+      395.15,
+      210.38
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.95,
+      236.44,
+      375.0,
+      252.14
+    ],
+    "text": "Now between",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.414191246032715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.69,
+      294.24,
+      474.8,
+      310.18
+    ],
+    "text": "Hiniduma Liyanage Nandawathie",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.36,
+      336.0,
+      415.66,
+      351.94
+    ],
+    "text": "of Mabotuwana Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.561586380004883,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.2,
+      378.0,
+      373.68,
+      393.94
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      328.32,
+      420.27,
+      431.14,
+      435.97
+    ],
+    "text": "Plaintiff Appellant",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.36,
+      503.17,
+      454.33,
+      519.25
+    ],
+    "text": "1. Samarasinghe Vidanagama",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.421381950378418,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.77,
+      545.28,
+      471.67,
+      561.22
+    ],
+    "text": "Ariyasena of Mabotuwana Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.72,
+      586.81,
+      373.45,
+      602.75
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.91,
+      628.32,
+      448.36,
+      644.26
+    ],
+    "text": "2. Piyadasa Sooriarachchi of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.38388729095459,
+      11.600000381469727,
+      12.189091682434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.09,
+      669.6,
+      372.47,
+      685.54
+    ],
+    "text": "\"Samanpaya\",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.98,
+      711.13,
+      430.57,
+      727.07
+    ],
+    "text": "No.48, Wewelwala Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.18,
+      735.68,
+      307.3,
+      748.35
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      297.11,
+      68.77,
+      407.02,
+      84.85
+    ],
+    "text": "Kitulampitiya, Galle.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.75,
+      110.53,
+      432.2,
+      126.61
+    ],
+    "text": "3. Mallaperuma Tantrige",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.28410816192627,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.17,
+      152.53,
+      418.06,
+      168.61
+    ],
+    "text": "Ananda of Polkanatta,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.972428321838379
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.12,
+      194.3,
+      375.56,
+      210.38
+    ],
+    "text": "Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.88,
+      236.3,
+      499.59,
+      252.38
+    ],
+    "text": "4. N.T.S. Wijesekara of Imbulanagoda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.464275360107422,
+      11.541577339172363,
+      11.699999809265137,
+      12.241518020629883
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.15,
+      278.06,
+      423.32,
+      294.14
+    ],
+    "text": "Kanatta, Wanduramba.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      329.74,
+      319.47,
+      470.25,
+      336.41
+    ],
+    "text": "Defendants Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.092296600341797,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.21,
+      401.5,
+      469.7,
+      419.56
+    ],
+    "text": "BEFORE P.W.D.C. JAYATHILAKE, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.182308197021484,
+      11.508252143859863,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.33,
+      501.34,
+      472.93,
+      519.5
+    ],
+    "text": "COUNSEL Rohan Sahabandu PC with",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.63029956817627,
+      11.470136642456055,
+      11.699999809265137,
+      11.836898803710938
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      328.77,
+      544.93,
+      489.18,
+      561.01
+    ],
+    "text": "Diloka Perera for the Plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.878783226013184
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      328.09,
+      586.46,
+      386.12,
+      602.53
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      328.28,
+      628.45,
+      502.69,
+      644.53
+    ],
+    "text": "W.P.l.D. Weerawardena for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.971206665039062
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      328.29,
+      669.5,
+      458.42,
+      685.57
+    ],
+    "text": "Defendant Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.13,
+      735.44,
+      307.26,
+      748.11
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.05,
+      68.69,
+      390.92,
+      85.43
+    ],
+    "text": "ARGUED ON 03.07.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.732160568237305,
+      11.848037719726562,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.51,
+      151.98,
+      390.88,
+      168.7
+    ],
+    "text": "DECIDED ON 12.06.2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.586164474487305,
+      11.76311206817627,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.22,
+      274.01,
+      247.85,
+      294.24
+    ],
+    "text": "PoWoDoCo Jayathilake, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.049509048461914,
+      14.100000381469727,
+      14.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.96,
+      445.02,
+      519.25,
+      461.51
+    ],
+    "text": "This is a partition action filed seeking to terminate the co-ownership of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.96660327911377,
+      12.0,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.73,
+      475.23,
+      519.52,
+      493.9
+    ],
+    "text": "Plaintiff and 1st and 2nd Defendants. The learned District Judge in her judgment",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.317343711853027,
+      8.399999618530273,
+      11.856947898864746,
+      11.944421768188477,
+      11.971967697143555,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.64,
+      509.81,
+      519.48,
+      526.3
+    ],
+    "text": "dated 12.08.1997 has stated that the Plaintiff has proved the Plaintiff's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.77,
+      541.98,
+      519.25,
+      558.47
+    ],
+    "text": "pedigree by submitting marked documents P1 to P15. But at the conclusion the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.185240745544434,
+      11.701641082763672,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.46,
+      572.42,
+      518.58,
+      590.62
+    ],
+    "text": "trial judge has dismissed the Plaintiffs case and declared that the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      11.65689468383789,
+      11.669961929321289,
+      12.0,
+      12.103899955749512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.97,
+      606.3,
+      518.67,
+      622.79
+    ],
+    "text": "Defendant had acquired the prescriptive title to the entire land. This is an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.691073417663574,
+      11.749229431152344,
+      11.932610511779785,
+      11.96660327911377,
+      12.0,
+      12.046111106872559,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.87,
+      638.69,
+      519.99,
+      655.18
+    ],
+    "text": "appeal filed by the Plaintiff Appellant against the said judgment moving for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.97081470489502,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.89,
+      670.61,
+      518.92,
+      687.1
+    ],
+    "text": "setting aside the judgment of the District Court and to decide the case in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.718754768371582,
+      11.976527214050293,
+      12.0,
+      12.26198959350586,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.73,
+      702.54,
+      210.28,
+      719.03
+    ],
+    "text": "favour of the Plaintiff.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.68,
+      735.89,
+      307.65,
+      748.29
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.44,
+      68.69,
+      520.34,
+      85.18
+    ],
+    "text": "The subject matter of the case is the land called Pitiduwa Kumbura situated at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.558218002319336,
+      11.718754768371582,
+      11.930800437927246,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.95,
+      101.1,
+      519.67,
+      117.59
+    ],
+    "text": "Waduramba in extent of ten Kurunies paddy sowing. The contest of the trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.930800437927246,
+      11.976527214050293,
+      12.0,
+      12.26198959350586,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.99,
+      131.44,
+      520.51,
+      150.23
+    ],
+    "text": "was between the Plaintiff and the 1st Defendant. The main issue was whether",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.592644691467285,
+      11.91192626953125,
+      11.930800437927246,
+      11.944421768188477,
+      11.982586860656738,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.7,
+      165.66,
+      518.95,
+      182.15
+    ],
+    "text": "the undivided rights of the parties to the land in question should be divided as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.854720115661621,
+      11.976527214050293,
+      12.0,
+      12.26198959350586,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.49,
+      196.0,
+      519.88,
+      214.3
+    ],
+    "text": "per the pedigree shown in the plaint or whether the 1st Defendant's",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.592644691467285,
+      12.0,
+      12.013392448425293
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.25,
+      230.22,
+      519.65,
+      246.71
+    ],
+    "text": "predecessor had acquired prescriptive title to the land. The Plaintiff's position",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.930800437927246,
+      11.932610511779785,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.99,
+      262.86,
+      519.11,
+      279.35
+    ],
+    "text": "was that the original owner of the corpus was David Dias Abeygunawardana.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.685734748840332,
+      11.982586860656738,
+      12.0,
+      12.03794002532959,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.45,
+      295.25,
+      520.41,
+      311.74
+    ],
+    "text": "His title devolved to his wife and seven children. The said widow alienated her",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.700461387634277,
+      11.856947898864746,
+      11.858060836791992,
+      11.944421768188477,
+      11.97081470489502,
+      12.0,
+      12.046111106872559,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.49,
+      327.41,
+      519.72,
+      343.9
+    ],
+    "text": "undivided half share to the said seven children and thereby seven children",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.25,
+      359.57,
+      519.72,
+      376.06
+    ],
+    "text": "became entitled to 1/7 share each. Out of them two children died issueless",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.996699333190918,
+      12.0,
+      12.07958698272705,
+      12.189553260803223,
+      12.26198959350586,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.12,
+      391.97,
+      519.41,
+      408.46
+    ],
+    "text": "and then remaining five children became entitled by inheritance to 1/5 share",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.944421768188477,
+      12.0,
+      12.07958698272705,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.11,
+      424.38,
+      210.58,
+      440.87
+    ],
+    "text": "each from the corpus.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943215370178223,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.92,
+      466.13,
+      519.5,
+      482.62
+    ],
+    "text": "The Plaintiff has shown the devolution of title in his pedigree as per the deeds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.669961929321289,
+      11.856947898864746,
+      11.858060836791992,
+      11.976527214050293,
+      12.0,
+      12.046111106872559,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.35,
+      498.29,
+      520.07,
+      514.78
+    ],
+    "text": "attested subsequent to the said inheritance. The Plaintiff has become entitled",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      11.930800437927246,
+      11.97081470489502,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.94,
+      528.64,
+      519.79,
+      547.43
+    ],
+    "text": "to undivided 5050/7200 shares the 1st Defendant 1825/7200 shares and also",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.980484962463379,
+      12.0,
+      12.433808326721191
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.94,
+      563.33,
+      117.94,
+      579.82
+    ],
+    "text": "the 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.93,
+      561.61,
+      285.45,
+      579.82
+    ],
+    "text": "nd Defendant 225/7200 shares.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.72039270401001,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.92,
+      602.56,
+      520.93,
+      621.1
+    ],
+    "text": "The 1st Defendant in his statement of claim dated 06.09.1990 has accepted the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.592644691467285,
+      11.83319091796875,
+      11.858060836791992,
+      11.930800437927246,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.73,
+      636.78,
+      520.13,
+      653.27
+    ],
+    "text": "pedigree of the Plaintiff and the undivided shares shown to him in the plaint.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.944421768188477,
+      12.0,
+      12.30082893371582,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.92,
+      668.7,
+      520.02,
+      685.19
+    ],
+    "text": "However he has moved that the tenant cultivator namely Samarasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751884460449219,
+      11.90436840057373,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.48,
+      700.37,
+      520.31,
+      716.86
+    ],
+    "text": "Vidhana Gamage Akmon who was occupying the entire land be made a party.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.854720115661621,
+      11.982586860656738,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      301.54,
+      735.87,
+      309.04,
+      749.21
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.01,
+      67.5,
+      518.99,
+      83.99
+    ],
+    "text": "Accordingly said Akmon has been added as the 4th Defendant. The 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.480920791625977,
+      11.58482551574707,
+      11.669961929321289,
+      11.856947898864746,
+      11.900235176086426,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.45,
+      100.38,
+      520.48,
+      116.87
+    ],
+    "text": "Defendant filed a statement of claim taking up the position that one Hector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.906132698059082,
+      12.0,
+      12.03794002532959,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.44,
+      132.77,
+      520.5,
+      149.26
+    ],
+    "text": "Emmanuel Dias Abeygunawardana was the owner of the entire land and that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751935958862305,
+      11.91192626953125,
+      12.0,
+      12.03794002532959,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.7,
+      164.69,
+      519.3,
+      181.18
+    ],
+    "text": "the 4th Defendant was his tenant cultivator from 08.01.1963. The position he",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.58482551574707,
+      11.78711223602295,
+      11.858060836791992,
+      11.917437553405762,
+      11.982586860656738,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.26,
+      197.33,
+      520.43,
+      213.82
+    ],
+    "text": "has taken was that Hector Emmanuel Dias transferred the land to one Hector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751884460449219,
+      11.751935958862305,
+      11.982586860656738,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.23,
+      223.87,
+      518.97,
+      245.99
+    ],
+    "text": "Bernard Dias in 1969 and said Hector Bernard transferred the land to the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.856826782226562,
+      11.751935958862305,
+      11.899999618530273,
+      11.97081470489502,
+      11.976527214050293,
+      12.0,
+      12.011279106140137,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.45,
+      256.02,
+      520.56,
+      278.14
+    ],
+    "text": "Defendant in 1984. The 1st Defendant transferred the land to one Peiris in 1985",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.637475967407227,
+      11.856947898864746,
+      11.899999618530273,
+      11.903099060058594,
+      11.976527214050293,
+      12.0,
+      12.011279106140137,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.12,
+      288.43,
+      518.98,
+      310.55
+    ],
+    "text": "and got it re-transferred in his name in 1986. The 1st Defendant has filed an",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.856826782226562,
+      11.751884460449219,
+      11.807404518127441,
+      11.858060836791992,
+      11.899999618530273,
+      11.930800437927246,
+      11.944421768188477,
+      11.976527214050293,
+      12.0,
+      12.589948654174805
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.11,
+      326.46,
+      519.19,
+      342.95
+    ],
+    "text": "amended statement of claim along with the 4th Defendant. In his amended",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.480920791625977,
+      11.961638450622559,
+      11.974573135375977,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.89,
+      358.85,
+      520.41,
+      375.34
+    ],
+    "text": "statement he took up the position that he had possessed the land exclusively",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90436840057373,
+      11.908148765563965,
+      11.932610511779785,
+      12.0,
+      12.02497386932373,
+      12.103899955749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.7,
+      391.02,
+      520.32,
+      407.51
+    ],
+    "text": "through his tenant cultivator as the land had been occupied by the tenant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.932610511779785,
+      11.961638450622559,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.1,
+      422.69,
+      245.26,
+      439.18
+    ],
+    "text": "cultivator the 4th Defendant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.480920791625977,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.01,
+      464.93,
+      519.1,
+      481.42
+    ],
+    "text": "Accordingly the main issue of the case had been whether Hector Emmanuel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.718754768371582,
+      11.90562915802002,
+      11.932610511779785,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.49,
+      496.06,
+      518.2,
+      513.82
+    ],
+    "text": "had become sole owner of the subject matter by prescription. The 2nd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.504347801208496,
+      11.930800437927246,
+      11.932610511779785,
+      11.944320678710938,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.45,
+      529.74,
+      519.8,
+      546.23
+    ],
+    "text": "Defendant has given evidence for the Plaintiff's case and marked notary deeds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.65689468383789,
+      11.669961929321289,
+      11.944421768188477,
+      12.0,
+      12.123712539672852
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.36,
+      561.9,
+      520.2,
+      578.39
+    ],
+    "text": "disclosed in the Plaintiff's pedigree. He has admitted that Hector had given the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.620499610900879,
+      11.669961929321289,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.34,
+      594.3,
+      519.29,
+      610.79
+    ],
+    "text": "entire subject matter on a lease which was marked as 1 V 1 to Ovinis and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.944421768188477,
+      11.97352123260498,
+      11.982586860656738,
+      12.0,
+      12.433808326721191
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.68,
+      626.22,
+      521.15,
+      642.71
+    ],
+    "text": "Uraneris and he has stated that he himself had got a lease from Hector after",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      11.90436840057373,
+      11.932610511779785,
+      11.97352123260498,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.95,
+      657.89,
+      520.8,
+      674.38
+    ],
+    "text": "the expiration of said lease. While denying the 4th Defendant as the tenant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.480920791625977,
+      11.900235176086426,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      301.32,
+      734.88,
+      308.67,
+      747.95
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.1,
+      67.74,
+      520.29,
+      84.23
+    ],
+    "text": "cultivator he took up the position that the 4th defendant was only the farmer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.655830383300781,
+      11.90436840057373,
+      11.982586860656738,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.99,
+      100.62,
+      233.97,
+      117.11
+    ],
+    "text": "who cultivated under him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.01,
+      141.89,
+      520.57,
+      158.38
+    ],
+    "text": "Admittedly the 4th Defendant is the farmer who cultivated the subject matter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.655830383300781,
+      11.166288375854492,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.74,
+      174.53,
+      519.68,
+      191.02
+    ],
+    "text": "from 1963. According to him he took over cultivation of the paddy field from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90436840057373,
+      12.0,
+      12.02497386932373,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.44,
+      206.94,
+      518.77,
+      223.43
+    ],
+    "text": "Hector Dias Abeygunawardhana. He gave paddy as the rent to said Hector Dias.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.620499610900879,
+      11.751935958862305,
+      11.774991035461426,
+      11.960836410522461,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.92,
+      238.85,
+      519.43,
+      255.34
+    ],
+    "text": "The 4th Defendant has testified that Piyadasa Sooriyaarachchi who gave",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.578179359436035,
+      11.669961929321289,
+      11.919881820678711,
+      11.930800437927246,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.1,
+      271.5,
+      520.5,
+      287.99
+    ],
+    "text": "evidence for the Plaintiffs case had never possessed this land. As he knew that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.390786170959473,
+      11.65689468383789,
+      11.90436840057373,
+      11.935174942016602,
+      12.0,
+      12.03794002532959,
+      12.123712539672852
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.49,
+      303.65,
+      519.39,
+      320.14
+    ],
+    "text": "nobody else had possessed this land except Hector Dias he recommended his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751935958862305,
+      11.90436840057373,
+      11.932610511779785,
+      11.935174942016602,
+      11.961638450622559,
+      11.981535911560059,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.13,
+      333.76,
+      259.72,
+      352.3
+    ],
+    "text": "son the 1st Defendant to buy it.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.99489974975586,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.92,
+      377.81,
+      519.97,
+      394.3
+    ],
+    "text": "The learned trial judge has come to the conclusion that according to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      11.930800437927246,
+      12.0,
+      12.03794002532959,
+      12.166397094726562,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.11,
+      410.21,
+      520.35,
+      426.7
+    ],
+    "text": "evidence revealed Hector Dias had possessed this land not as a co-owner but",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.685734748840332,
+      11.932610511779785,
+      11.962140083312988,
+      12.0,
+      12.047755241394043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.93,
+      442.37,
+      519.31,
+      458.86
+    ],
+    "text": "the sole owner. Therefore he has acquired the prescriptive rights to the land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      11.90436840057373,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.11,
+      472.72,
+      401.74,
+      491.26
+    ],
+    "text": "and those rights had been devolved on the 1st Defendant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.932610511779785,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.92,
+      516.3,
+      520.28,
+      532.79
+    ],
+    "text": "The learned President's Counsel for the Plaintiff Appellant made the following",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.930800437927246,
+      12.0,
+      12.030112266540527
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.61,
+      548.46,
+      161.49,
+      564.95
+    ],
+    "text": "submissions.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.16,
+      590.45,
+      519.57,
+      606.94
+    ],
+    "text": "The Plaintiffs position was that the land was owned by David Dias and his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751935958862305,
+      11.858060836791992,
+      11.91192626953125,
+      11.930800437927246,
+      11.982586860656738,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.97,
+      622.37,
+      520.45,
+      638.86
+    ],
+    "text": "rights were devolved to the parties as shown in the pedigree. The claim of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.976527214050293,
+      12.0,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.8,
+      652.25,
+      519.58,
+      670.79
+    ],
+    "text": "1st Defendant was that the land was possessed solely by Hector Emmanuel",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.592644691467285,
+      11.962140083312988,
+      11.982586860656738,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.71,
+      684.4,
+      520.86,
+      702.94
+    ],
+    "text": "who transferred to his son Hector Bernard from whom the 1st Defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.592644691467285,
+      11.858060836791992,
+      11.915703773498535,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      301.56,
+      735.53,
+      309.07,
+      747.89
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.17,
+      68.46,
+      519.52,
+      84.95
+    ],
+    "text": "obtained the title. But on the pedigree pleaded by the Plaintiff, Hector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.48,
+      100.61,
+      518.17,
+      117.1
+    ],
+    "text": "Emmanuel was one of the children of David Dias. The President's Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.774991035461426,
+      11.930800437927246,
+      11.982586860656738,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.41,
+      127.01,
+      519.48,
+      149.5
+    ],
+    "text": "submits that Hector Bernard has transferred to the 1st Defendant what he got",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.991036415100098,
+      11.751884460449219,
+      11.78711223602295,
+      12.0,
+      12.005497932434082,
+      12.03794002532959,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.25,
+      165.17,
+      519.25,
+      181.66
+    ],
+    "text": "from Hector Bernard in deed No. 345 which is marked as P3. Accordingly the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.412781715393066,
+      11.558218002319336,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.97,
+      197.57,
+      519.52,
+      214.06
+    ],
+    "text": "Plaintiff's position is what has been transferred was the share that Hector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.751884460449219,
+      11.91192626953125,
+      12.0,
+      12.103899955749512
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.72,
+      229.98,
+      519.47,
+      246.47
+    ],
+    "text": "Emmanuel owned according to the pedigree. He further submits as Hector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.516301155090332,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.96,
+      262.13,
+      520.51,
+      278.62
+    ],
+    "text": "Emmanuel had been a co-owner, the mere statement of the 4th Defendant of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.134217262268066,
+      11.932610511779785,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.65,
+      294.54,
+      519.4,
+      311.03
+    ],
+    "text": "saying that he gave pravani to Hector Emmanuel does not prove prescriptive",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.78711223602295,
+      12.0,
+      12.03794002532959,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.01,
+      326.94,
+      519.33,
+      343.43
+    ],
+    "text": "position. The learned District Judge has not examined the position of capacity",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751884460449219,
+      11.971967697143555,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.77,
+      358.85,
+      519.19,
+      375.34
+    ],
+    "text": "in which Hector Emmanuel possessed the land through the 4th Defendant,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.233201026916504,
+      11.935174942016602,
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.65,
+      391.01,
+      518.97,
+      407.5
+    ],
+    "text": "submits the learned counsel. Was it on the basis of being a co-owner or,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.80445671081543,
+      11.882474899291992,
+      12.0,
+      12.131974220275879,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.86,
+      423.41,
+      518.78,
+      439.9
+    ],
+    "text": "collecting rent on behalf of others, is a question that was not even addressed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.91192626953125,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      456.29,
+      303.92,
+      472.78
+    ],
+    "text": "by the learned District Judge he argues.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90436840057373,
+      11.924714088439941,
+      11.944320678710938,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.32,
+      497.57,
+      519.83,
+      514.06
+    ],
+    "text": "\"Adverse possession means a possession unaccompanied by payment of rent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.37,
+      529.97,
+      519.97,
+      546.46
+    ],
+    "text": "or produce or performance of service or duty or by any other act by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.013392448425293,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.49,
+      561.89,
+      520.53,
+      578.38
+    ],
+    "text": "possessor from which an acknowledgement of a right existing in another",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.573573112487793,
+      11.976527214050293,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.73,
+      594.06,
+      520.57,
+      610.55
+    ],
+    "text": "person would fairly and naturally be inferred. This principle similarly applies to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.854720115661621,
+      11.944421768188477,
+      11.96660327911377,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.61,
+      626.21,
+      516.76,
+      642.7
+    ],
+    "text": "one co-owner's prescription against all other co-owners in the context of co-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.6,
+      658.61,
+      520.49,
+      675.1
+    ],
+    "text": "ownership\" argues the learned counsel for the respondent by citing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.123712539672852
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      301.27,
+      734.87,
+      308.62,
+      747.94
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.92,
+      67.45,
+      520.01,
+      85.43
+    ],
+    "text": "Thilakarathna Vs Bastian Casel . Learned counsel emphasized three principles",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      11.302637100219727,
+      11.493563652038574,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.36,
+      101.33,
+      502.55,
+      117.82
+    ],
+    "text": "of law applied to interpret the word \"Adverse\" by Bertrem J in the said case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      11.798813819885254,
+      12.0,
+      12.26198959350586,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.63,
+      142.85,
+      519.05,
+      159.34
+    ],
+    "text": "1. Every co-owner has a right to possess and enjoy the whole property and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.669961929321289,
+      11.740800857543945,
+      11.848190307617188,
+      11.944421768188477,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.43,
+      183.18,
+      520.43,
+      199.67
+    ],
+    "text": "every part of it, the possession of one co-owner in that capacity is in law",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.976527214050293,
+      12.0,
+      12.03794002532959,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.02,
+      223.73,
+      238.48,
+      240.22
+    ],
+    "text": "the possession of all.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.67,
+      264.05,
+      519.18,
+      280.54
+    ],
+    "text": "2. Where the circumstances are such that a man's possession may be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.416566848754883,
+      11.73793888092041,
+      11.920334815979004,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.81,
+      304.38,
+      520.57,
+      320.87
+    ],
+    "text": "referable either to an unlawful act or to a lawful title, he is presumed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.558218002319336,
+      11.573573112487793,
+      11.90436840057373,
+      12.0,
+      12.143245697021484,
+      12.166397094726562,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.81,
+      344.69,
+      317.79,
+      361.18
+    ],
+    "text": "possess by virtue of the lawful title.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.848190307617188,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.63,
+      385.01,
+      521.17,
+      401.5
+    ],
+    "text": "3. A person who has entered into a possession of land in one capacity, it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.427861213684082,
+      11.669961929321289,
+      11.976527214050293,
+      12.0,
+      12.363106727600098,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.81,
+      425.57,
+      431.46,
+      442.06
+    ],
+    "text": "presumed to continue to possess it in the same capacity.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.883585929870605,
+      11.976527214050293,
+      12.0,
+      12.166397094726562,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.16,
+      475.25,
+      520.43,
+      491.74
+    ],
+    "text": "The possession in this present case did not confine to a mere word as there",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.718754768371582,
+      11.930800437927246,
+      11.976527214050293,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.71,
+      505.61,
+      520.26,
+      524.15
+    ],
+    "text": "were so many documentary proofs to prove 1st Defendant's prescriptive title,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.632729530334473,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.61,
+      539.82,
+      519.8,
+      556.31
+    ],
+    "text": "submits the learned counsel. The documents mentioned by the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.930800437927246,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.81,
+      572.22,
+      520.21,
+      588.71
+    ],
+    "text": "counsel for the respondent are 1 V 1 to 1 V 3 which are lease agreements.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.030112266540527,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.4,
+      604.14,
+      520.0,
+      620.63
+    ],
+    "text": "These lease agreements are evidence to the fact that Hector Emmanuel has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751884460449219,
+      11.943065643310547,
+      11.97352123260498,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.85,
+      636.29,
+      519.89,
+      652.78
+    ],
+    "text": "given the subject matter on lease to farmers who cultivated from 1945. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.856947898864746,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.84,
+      668.21,
+      520.93,
+      684.7
+    ],
+    "text": "document V 4 is the agro identity card of 4th Defendant which shows that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.895544052124023,
+      11.699999809265137,
+      11.749229431152344,
+      12.0,
+      12.03794002532959,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.81,
+      735.36,
+      309.16,
+      748.43
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.49,
+      68.21,
+      518.88,
+      84.7
+    ],
+    "text": "4th Defendant had been the tenant cultivator, and H.A.D. Abeygunawardhana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.812746047973633,
+      11.932610511779785,
+      11.961638450622559,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.01,
+      101.09,
+      321.47,
+      117.58
+    ],
+    "text": "had been the owner of the subject matter.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.932610511779785,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.53,
+      142.85,
+      519.34,
+      159.34
+    ],
+    "text": "As stated earlier Hector Emmanuel was a co-owner by inheritance. Therefore",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.390786170959473,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.77,
+      175.02,
+      518.69,
+      191.51
+    ],
+    "text": "he had to acquire the prescriptive title in order to become the sole owner. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.856947898864746,
+      11.90436840057373,
+      11.932610511779785,
+      12.0,
+      12.114404678344727,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.01,
+      207.18,
+      518.52,
+      223.67
+    ],
+    "text": "position how a co-owner can acquire the prescriptive title has been discussed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.732672691345215,
+      11.83319091796875,
+      12.0,
+      12.020731925964355
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.77,
+      239.33,
+      519.36,
+      255.82
+    ],
+    "text": "in a series of judgments. It is mentioned earlier that three principles laid down",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      12.0,
+      12.03794002532959,
+      12.53152847290039
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.77,
+      271.73,
+      519.72,
+      288.22
+    ],
+    "text": "in Corea Vs Appuhamr applicable in interpreting the word adverse. A necessity",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.735494613647461,
+      11.699999809265137,
+      11.881196975708008,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.88,
+      303.09,
+      517.2,
+      320.63
+    ],
+    "text": "of a special sort of adverse position has been discussed in Aodiris Vs Mendis3,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.100000381469727,
+      10.85153579711914,
+      11.699999809265137,
+      11.751884460449219,
+      11.976527214050293,
+      12.0,
+      12.12494945526123,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.53,
+      335.68,
+      519.54,
+      352.78
+    ],
+    "text": "William Singho Appuhamy Vs Ran Naide4\u2022 It has been held in JUliyana Hamine",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900100231170654,
+      10.85153579711914,
+      11.463254928588867,
+      11.669961929321289,
+      11.699999809265137,
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.6,
+      367.89,
+      519.02,
+      384.94
+    ],
+    "text": "Vs Don Thomas5 that when a witness giving evidence of prospective states \"I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.100000381469727,
+      10.735494613647461,
+      11.699999809265137,
+      12.0,
+      12.03794002532959,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.25,
+      400.85,
+      519.63,
+      417.34
+    ],
+    "text": "possessed\" or \"We possessed\" the court shouldn't insist on those words being",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.013392448425293
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.11,
+      432.21,
+      519.0,
+      449.27
+    ],
+    "text": "explained and exemplified. De Silva J in Abdul Majeed Vs Umma Zaneera6 has",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      10.735494613647461,
+      11.470309257507324,
+      11.669961929321289,
+      11.699999809265137,
+      11.889541625976562,
+      12.0,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.7,
+      465.41,
+      518.92,
+      481.9
+    ],
+    "text": "taken up the view that long continued possession along the property owned in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.976527214050293,
+      12.0,
+      12.03794002532959
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.1,
+      497.57,
+      520.42,
+      514.06
+    ],
+    "text": "common is not sufficient to draw an assumption of ouster. It is relevant to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.558218002319336,
+      11.691073417663574,
+      12.0,
+      12.166397094726562,
+      12.26198959350586,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.34,
+      529.97,
+      246.01,
+      546.46
+    ],
+    "text": "consider the matters such as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14202880859375,
+      11.859325408935547,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.41,
+      571.5,
+      312.9,
+      587.99
+    ],
+    "text": "a) Income divided from the property.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.479042053222656,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.78,
+      612.05,
+      267.26,
+      628.54
+    ],
+    "text": "b) The value of the property.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.688302040100098,
+      11.930800437927246,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.64,
+      651.89,
+      520.81,
+      668.38
+    ],
+    "text": "c) The relationship of the co-owners and where they reside in relation to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.34402084350586,
+      11.930800437927246,
+      11.944421768188477,
+      12.0,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      124.26,
+      691.73,
+      283.82,
+      708.22
+    ],
+    "text": "the situation of the property.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      298.92,
+      734.14,
+      311.74,
+      748.15
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.17,
+      68.69,
+      431.53,
+      85.18
+    ],
+    "text": "d) Document executed on the basis of exclusive ownership.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.83724594116211,
+      11.909005165100098,
+      11.938392639160156,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.41,
+      151.01,
+      519.95,
+      167.5
+    ],
+    "text": "In the instant case long continued possession of Hector Emmanuel is evident",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.558218002319336,
+      11.646441459655762,
+      11.65689468383789,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      183.42,
+      519.23,
+      199.91
+    ],
+    "text": "by the lease agreements entered by him with different farmers at several",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.7,
+      215.81,
+      519.97,
+      232.3
+    ],
+    "text": "times. It appears that in those deeds Hector Emmanuel has acted as the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.751884460449219,
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.11,
+      247.98,
+      519.97,
+      264.47
+    ],
+    "text": "exclusive owner. There is no explanation in the Plaintiffs case in regard to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.718754768371582,
+      11.90436840057373,
+      11.976527214050293,
+      12.0,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.35,
+      280.13,
+      519.81,
+      296.62
+    ],
+    "text": "execution of those deeds by Hector Emmanuel on the basis of exclusive",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.938392639160156,
+      11.944320678710938,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.13,
+      310.17,
+      519.9,
+      328.79
+    ],
+    "text": "ownership. The only questionable point is the filing of the 1st Defendant's",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.36394214630127,
+      11.930800437927246,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.13,
+      344.69,
+      519.97,
+      361.18
+    ],
+    "text": "original statement of claim accepting his undivided share shown by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.961638450622559,
+      12.0,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.69,
+      377.1,
+      519.52,
+      393.59
+    ],
+    "text": "Plaintiff. But how it had happened has not been disclosed as the Plaintiff has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.398158073425293,
+      11.751884460449219,
+      11.932610511779785,
+      12.0,
+      12.047755241394043,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.49,
+      406.88,
+      519.31,
+      425.99
+    ],
+    "text": "not taken any interest to call the 1st Defendant to get that matter clarified. In",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.646441459655762,
+      11.998700141906738,
+      12.0,
+      12.30082893371582
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.7,
+      441.66,
+      519.39,
+      458.15
+    ],
+    "text": "the circumstance as the documentary evidence has become cogent evidence in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.751884460449219,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.99,
+      471.69,
+      521.47,
+      490.55
+    ],
+    "text": "favour of the 1st Defendant to claim the devolution of prescriptive title of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.0,
+      12.166397094726562,
+      12.26198959350586,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.68,
+      506.22,
+      520.72,
+      522.71
+    ],
+    "text": "Hector Emmanuel. When there is documentary evidence that one co-owner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.23475456237793
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.5,
+      538.61,
+      520.49,
+      555.1
+    ],
+    "text": "has possessed the whole land acting as the sole owner and claim prescriptive",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.64870834350586,
+      12.0,
+      12.03729248046875,
+      12.074519157409668
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.18,
+      570.78,
+      520.57,
+      587.27
+    ],
+    "text": "title, other co-owners claiming co-ownership shall have an acceptable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.104693412780762,
+      12.133705139160156
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.35,
+      602.93,
+      520.22,
+      619.42
+    ],
+    "text": "explanation sufficient to rebut the irresistible inference of adverse",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.074519157409668,
+      12.53152847290039,
+      12.565428733825684
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.73,
+      635.09,
+      156.28,
+      651.58
+    ],
+    "text": "possession.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.87,
+      676.37,
+      520.71,
+      692.86
+    ],
+    "text": "I am of the view that the trial court, has no alternative other than accepting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.751884460449219,
+      11.95235538482666,
+      12.0,
+      12.03794002532959,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.42,
+      708.29,
+      520.77,
+      724.78
+    ],
+    "text": "the fact that long continued possession of Hector Emmanuel was in the nature",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.976527214050293,
+      11.982586860656738,
+      12.0,
+      12.03794002532959,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      298.99,
+      735.9,
+      311.72,
+      748.4
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.36,
+      68.22,
+      520.0,
+      84.71
+    ],
+    "text": "of adverse possession which had resulted to terminate the co-ownership by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.932610511779785,
+      11.944320678710938,
+      12.0,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.23,
+      100.61,
+      520.72,
+      117.1
+    ],
+    "text": "way of prescription. I therefore see no reason to interfere with the judgment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.674999237060547,
+      12.0,
+      12.166397094726562,
+      12.53152847290039
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.36,
+      133.01,
+      371.03,
+      149.5
+    ],
+    "text": "of the District Judge and as such dismiss the appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.859325408935547,
+      11.944421768188477,
+      11.971967697143555,
+      12.0,
+      12.397467613220215
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.83,
+      175.24,
+      187.84,
+      190.68
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.426069259643555
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      260.08,
+      215.2,
+      491.42,
+      232.94
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.44985580444336,
+      13.540427207946777
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.0,
+      614.44,
+      165.83,
+      624.71
+    ],
+    "text": "1. (21 NLR 12)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.386206150054932,
+      7.500100135803223,
+      7.589962005615234,
+      7.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.97,
+      632.7,
+      166.16,
+      641.85
+    ],
+    "text": "2. (l5NLR65)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.16684627532959,
+      7.863305568695068
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.67,
+      649.25,
+      169.78,
+      659.52
+    ],
+    "text": "3. (13 NLR 309)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.500100135803223,
+      7.589962005615234,
+      7.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.94,
+      666.69,
+      163.86,
+      676.43
+    ],
+    "text": "4. (1 CWR 92)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.973589897155762,
+      7.340246677398682,
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.15,
+      683.57,
+      169.94,
+      693.84
+    ],
+    "text": "5. (59 NLR 546)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.181545734405518,
+      7.500100135803223,
+      7.589962005615234,
+      7.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.42,
+      701.11,
+      170.02,
+      711.14
+    ],
+    "text": "6. (61 NLR 361)",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.562095642089844,
+      7.199999809265137,
+      7.500100135803223,
+      7.6499528884887695
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      299.88,
+      734.76,
+      312.24,
+      748.9
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.537113189697266
+    ]
+  }
+]
