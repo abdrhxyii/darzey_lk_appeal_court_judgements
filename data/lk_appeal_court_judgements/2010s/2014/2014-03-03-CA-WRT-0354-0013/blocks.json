@@ -1,0 +1,418 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.24,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      165.38
+    ],
+    "text": "REPUBLIC OF SRI LANKA Writ Application No: 354/13",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      165.36,
+      448.6,
+      247.46
+    ],
+    "text": "Wickramasingha Mudiyanselage Sameera Lakshan Disanayake No.3, Wijayanayake Mawatha, Police Scheme, Ehaliyagoda.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      247.47,
+      488.95,
+      411.65
+    ],
+    "text": "Petitioner Vs. Sabaragamuwa University of Sri Lanka, P.O. Box02, Belihuloya. And 47 Others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      411.65,
+      410.8,
+      428.11
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.5,
+      32.72,
+      310.5,
+      48.73
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.74,
+      100.63,
+      268.22,
+      118.77
+    ],
+    "text": "C.A. Writ Appln.No. 354/2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.56672191619873,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.34,
+      132.55,
+      127.38,
+      150.69
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.5,
+      180.31,
+      134.94,
+      198.45
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.34,
+      260.72,
+      153.9,
+      294.69
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.58,
+      132.55,
+      331.38,
+      166.77
+    ],
+    "text": "Anil Goonerathne, J & Malinie Gunarathne, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.445067405700684,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.22,
+      180.55,
+      484.74,
+      198.69
+    ],
+    "text": "Nuwan Sanjeewa Bopage with Lahiru Walgama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.74,
+      196.39,
+      295.85,
+      214.54
+    ],
+    "text": "for the petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.23,
+      228.8,
+      382.03,
+      246.94
+    ],
+    "text": "Nayomi Kahawita, S.C. for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.74,
+      276.55,
+      264.61,
+      294.69
+    ],
+    "text": "03.03.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.05,
+      306.24,
+      260.28,
+      326.92
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.098705291748047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.13,
+      356.96,
+      204.97,
+      375.1
+    ],
+    "text": "Anil Goonerathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.445067405700684,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.6,
+      404.96,
+      523.05,
+      423.1
+    ],
+    "text": "Learned Counsel for the petitioner moves to withdraw this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.25,
+      429.44,
+      522.08,
+      447.58
+    ],
+    "text": "application. Application for withdrawal is allowed. Application IS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.27,
+      453.91,
+      213.9,
+      472.05
+    ],
+    "text": "dismissed. No. costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.8,
+      467.52,
+      503.31,
+      528.7
+    ],
+    "text": "G;yf~:) JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      29.35466766357422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.86,
+      534.79,
+      220.09,
+      552.93
+    ],
+    "text": "Malinie Gunarathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.445067405700684,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.34,
+      566.96,
+      206.1,
+      585.1
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.55,
+      599.35,
+      496.17,
+      617.5
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.65,
+      664.15,
+      118.72,
+      682.29
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  }
+]

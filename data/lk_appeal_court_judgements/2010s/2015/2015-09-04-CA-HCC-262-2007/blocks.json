@@ -1,0 +1,3905 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      531.05,
+      35.65,
+      539.14,
+      48.98
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      66.92,
+      61.97,
+      547.38,
+      81.66
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.550139427185059,
+      13.6322603225708,
+      13.66903018951416,
+      13.717277526855469,
+      13.78243350982666,
+      13.833645820617676,
+      14.027810096740723,
+      14.029439926147461,
+      14.11971378326416
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.85,
+      411.1,
+      180.13,
+      435.15
+    ],
+    "text": "CN262/2007",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      19.70009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.7,
+      446.5,
+      223.04,
+      462.78
+    ],
+    "text": "HC Colombo No. B 1621/2006",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.090760231018066,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      261.23,
+      94.61,
+      334.59,
+      114.3
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.39063549041748,
+      13.816630363464355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.87,
+      158.74,
+      553.64,
+      206.95
+    ],
+    "text": "In the matter of an Appeal in terms of Section 331 of the Criminal Procedure Act No. 15 of 1979",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.090760231018066,
+      12.142866134643555,
+      12.199999809265137,
+      12.221031188964844,
+      12.238289833068848,
+      12.318524360656738,
+      12.33183765411377
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.77,
+      242.74,
+      553.4,
+      306.78
+    ],
+    "text": "Commission to Investigate Allegations of Bribery or Corruption, No.36, Malalasekara Mw, Colombo 07.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.221031188964844,
+      12.49566650390625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      439.31,
+      306.59,
+      534.65,
+      322.87
+    ],
+    "text": "COMPLAINANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.93,
+      334.23,
+      341.31,
+      349.84
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.19282054901123
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.64,
+      372.15,
+      534.95,
+      387.76
+    ],
+    "text": "Illukpitiyage Jayantha Darmasiri Illukpitiya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      472.3,
+      417.22,
+      533.18,
+      433.5
+    ],
+    "text": "ACCUSED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.59,
+      446.75,
+      410.67,
+      463.03
+    ],
+    "text": "and now between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.209896087646484
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.88,
+      484.71,
+      534.97,
+      500.32
+    ],
+    "text": "Illukpitiyage Jayantha Darmasiri Illukpitiya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.5,
+      505.12,
+      389.73,
+      520.73
+    ],
+    "text": "\"Susiri Villa\",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.64,
+      526.23,
+      396.37,
+      541.84
+    ],
+    "text": "Ihala Kosgama,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.92,
+      547.11,
+      369.21,
+      562.72
+    ],
+    "text": "Kosgama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.7,
+      609.74,
+      337.18,
+      625.35
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      426.94,
+      567.47,
+      564.78,
+      583.75
+    ],
+    "text": "ACCUSED-APPELLANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.6,
+      635.68,
+      552.74,
+      651.29
+    ],
+    "text": "Commission to Investigate Allegations of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.66,
+      656.32,
+      429.65,
+      671.93
+    ],
+    "text": "Bribery or Corruption,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.75,
+      676.71,
+      446.48,
+      692.32
+    ],
+    "text": "No.36, Malalasekara Mw,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.82,
+      697.36,
+      383.59,
+      712.97
+    ],
+    "text": "Colombo 07.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      389.87,
+      717.7,
+      564.37,
+      733.98
+    ],
+    "text": "COMPLINENT - RESPONDENT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.81,
+      49.35,
+      601.68,
+      86.46
+    ],
+    "text": "fI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.699999809265137,
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.29,
+      88.03,
+      599.72,
+      110.38
+    ],
+    "text": "fI",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.58,
+      150.34,
+      603.6,
+      299.63
+    ],
+    "text": "1!I!! I !: !! !II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      7.800099849700928,
+      10.300000190734863,
+      10.399999618530273,
+      11.100000381469727,
+      11.399999618530273,
+      12.699999809265137,
+      13.300000190734863,
+      14.600000381469727,
+      17.600000381469727,
+      19.20009994506836,
+      23.399999618530273,
+      30.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.54,
+      458.31,
+      605.94,
+      535.26
+    ],
+    "text": "fJf II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.199999809265137,
+      12.800000190734863,
+      14.0,
+      16.299999237060547,
+      41.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.07,
+      618.36,
+      601.09,
+      641.59
+    ],
+    "text": "! 1I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.900099992752075,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      593.64,
+      646.63,
+      604.95,
+      756.35
+    ],
+    "text": "tIi I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      15.600000381469727,
+      17.20009994506836,
+      38.90010070800781,
+      39.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.64,
+      61.47,
+      440.71,
+      79.9
+    ],
+    "text": "Before Vijith K. Malalgoda PC J (P/CA) &",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.604633331298828,
+      11.800000190734863,
+      12.100000381469727,
+      12.600000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.89,
+      90.63,
+      360.9,
+      106.97
+    ],
+    "text": "H.C.J Madawala J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.81,
+      116.42,
+      425.61,
+      134.85
+    ],
+    "text": "Counsel: Anil Silva PC with Nandana Perera for the Accused-Appellant",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.62,
+      140.07,
+      286.62,
+      155.68
+    ],
+    "text": "Shanil Kularatne SSC for the AG",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.97,
+      202.73,
+      202.43,
+      220.74
+    ],
+    "text": "Argued On: 09.07.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.34,
+      227.22,
+      192.83,
+      245.23
+    ],
+    "text": "Order On: 04.09.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      531.06,
+      35.78,
+      538.56,
+      49.12
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.14,
+      297.27,
+      538.3,
+      312.88
+    ],
+    "text": "The Accused- Appellant along with another person by name V.V.c. Gunawardena was indicted",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.487265586853027,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.0,
+      325.35,
+      538.32,
+      340.96
+    ],
+    "text": "before the High Court of Colombo by the Commissioner General of Bribery and Corruption on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.21,
+      351.44,
+      538.37,
+      368.56
+    ],
+    "text": "three counts. The 1st and 2nd counts of said indictment referred to two charges under section 16B",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.690674304962158,
+      7.900100231170654,
+      11.690596580505371,
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.37,
+      380.78,
+      538.19,
+      396.4
+    ],
+    "text": "and 19C of the Bribery Act for solicitation of Rs. 6000/- from one Kollure Appuhamilage Nimal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.19,
+      406.88,
+      538.41,
+      424.0
+    ],
+    "text": "Padmasiri against the 1st accused namely V.V.c. Gunawardena. The 3rd count of the said",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.708578586578369,
+      7.900100231170654,
+      11.487265586853027,
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.13,
+      436.22,
+      538.12,
+      451.84
+    ],
+    "text": "indictment referred to a charge of accepting a gratification of Rs. 6000/- from the said Kollure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.69084644317627,
+      11.699999809265137,
+      11.83121395111084,
+      11.96798038482666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.99,
+      464.32,
+      538.45,
+      479.93
+    ],
+    "text": "Appuhamilage Nimal Padmasiri an offence punishable under section 19C of Bribery Act against",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.45,
+      492.15,
+      185.04,
+      507.76
+    ],
+    "text": "the Accused- Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.99,
+      530.06,
+      538.28,
+      545.68
+    ],
+    "text": "At the conclusion of the said trial the Learned High Court Judge had acquitted the 1st Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.14,
+      557.67,
+      537.94,
+      573.28
+    ],
+    "text": "on both counts against him and convicted the Accused-Appellant and sentenced him for four",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.23,
+      585.27,
+      538.29,
+      600.88
+    ],
+    "text": "years rigorous impressments with a fine of Rs. 5000/- in default one year imprisonment and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.36,
+      612.87,
+      456.32,
+      628.48
+    ],
+    "text": "additional forfeiture of Rs. 6000/- with a default term of one year imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.43,
+      650.56,
+      538.61,
+      666.16
+    ],
+    "text": "Being dissatisfied with the said conviction and sentence the Accused- Appellant had preferred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.44,
+      678.39,
+      126.42,
+      694.0
+    ],
+    "text": "this Appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.13,
+      715.6,
+      392.83,
+      731.21
+    ],
+    "text": "The prosecution version of this case can be summarized as follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.651850700378418,
+      11.699999809265137,
+      11.83121395111084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      530.76,
+      34.61,
+      538.41,
+      48.22
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.9,
+      60.02,
+      537.93,
+      75.49
+    ],
+    "text": "The virtual complainant of this case Kollure Appuhamilage Nimal Padmasiri is a resident from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.12,
+      88.11,
+      538.02,
+      103.58
+    ],
+    "text": "Gothatuwa, Angoda. On the day in question he had gone to the Ministry of Environment in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.96,
+      115.93,
+      538.56,
+      131.41
+    ],
+    "text": "Kosswatta and when he was returning home in his bicycle, at Ambagaha Junction he noticed a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.74,
+      143.79,
+      538.58,
+      159.26
+    ],
+    "text": "yellow colored van parked by the side of the road. He saw his wife inside the van and on making",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.91,
+      171.37,
+      538.08,
+      186.85
+    ],
+    "text": "inquiries he got to know that his wife had been taken in to custody by the officers of Angoda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.71,
+      198.99,
+      537.65,
+      214.46
+    ],
+    "text": "Police station. He went direct to the Angoda Police Station and met the Accused- Appellant who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.5,
+      226.81,
+      332.06,
+      242.29
+    ],
+    "text": "was a Police Sergeant attach to Angoda Police Station.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.71,
+      264.75,
+      537.87,
+      280.22
+    ],
+    "text": "He questioned the Accused-Appellant as to why his wife was arrested without arrack and at that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.591697692871094,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.84,
+      292.57,
+      537.25,
+      308.05
+    ],
+    "text": "stage the Accused- Appellant told him that he has to pay arrears Rs. 3000/- and another Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.62,
+      320.42,
+      520.44,
+      335.89
+    ],
+    "text": "3000/-for the current month and all together Rs. 6000/- was demanded from the complainant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.65,
+      357.0,
+      537.74,
+      373.58
+    ],
+    "text": "The position taken up by the virtual complainant was that he has to pay Rs. 3000/- to the 1st and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.400100231170654,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.93,
+      384.76,
+      535.12,
+      401.42
+    ],
+    "text": "2nd accused every month to engage in his illicit arrack business. He promised to bring Rs. 6000/-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022982120513916,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.74,
+      413.54,
+      538.13,
+      429.01
+    ],
+    "text": "within two or three days and he was asked to come to courts on the following day to bail out his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.75,
+      441.62,
+      91.97,
+      457.09
+    ],
+    "text": "wife.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.95,
+      479.54,
+      538.56,
+      495.01
+    ],
+    "text": "He was further informed by the Accused-Appellant that he (the Accused-Appellant) will enter a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.591697692871094,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.74,
+      507.13,
+      538.08,
+      522.61
+    ],
+    "text": "wrong date in the books maintain at the Police Station and that his wife will get discharge once",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.95,
+      535.23,
+      282.08,
+      550.7
+    ],
+    "text": "Rs. 6000/- is paid to the Accused-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.9,
+      572.67,
+      538.29,
+      588.14
+    ],
+    "text": "The following day he got his wife bailed out and went to a pawning centre in order to raise some",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.98,
+      600.5,
+      538.98,
+      615.97
+    ],
+    "text": "money by pawning some jewellery to pay the Accused -Appellant. The person at the pawning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.13,
+      628.34,
+      395.86,
+      643.81
+    ],
+    "text": "center directed him to the Bribery Department to lodge a complaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.98,
+      665.3,
+      538.89,
+      680.77
+    ],
+    "text": "At the High Court trial in addition to the virtual complaint his wife Pdmalatha, Investigation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.12,
+      692.9,
+      538.84,
+      708.37
+    ],
+    "text": "Officer Senewirathne Bandara who acted as the decoy and Chief Inspector of Police Wasantha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.99,
+      720.98,
+      188.63,
+      736.45
+    ],
+    "text": "were called as witnesses.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      530.36,
+      34.5,
+      538.09,
+      48.24
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.9,
+      60.5,
+      459.7,
+      75.97
+    ],
+    "text": "The virtual complainant in his evidence did not refer to any solicitation by the 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      459.31,
+      60.5,
+      538.61,
+      75.97
+    ],
+    "text": "st accused, even",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.21,
+      88.34,
+      537.9,
+      103.81
+    ],
+    "text": "though there are two counts of solicitation one under section 16B of the Bribery Act and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.89,
+      115.93,
+      537.65,
+      131.41
+    ],
+    "text": "other under section 19C of the Bribery Act. In the absence of any evidence with regard to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.08,
+      144.02,
+      167.88,
+      159.49
+    ],
+    "text": "solicitation by the 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.71,
+      143.8,
+      530.76,
+      159.49
+    ],
+    "text": "st accused, the Learned High Court Judge had correct! y acquitted the 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      530.35,
+      144.3,
+      537.12,
+      152.81
+    ],
+    "text": "st",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.12,
+      170.0,
+      537.64,
+      187.34
+    ],
+    "text": "accused. Learned Counsel for the 2nd Accused-Appellant challenged the evidence given by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.690674304962158,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.72,
+      199.69,
+      538.1,
+      215.17
+    ],
+    "text": "virtual complainant, Kollure Appuhamilage Nimal Padmasiri and Kodagoda Gamage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.95,
+      227.31,
+      521.43,
+      242.78
+    ],
+    "text": "Padmalatha wife of the virtual complainant based on contradiction mark per say and inter say.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.75,
+      264.98,
+      538.59,
+      280.46
+    ],
+    "text": "According to the evidence of Padmasiri, he went to the Ministry of Environment in that morning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.78,
+      292.63,
+      492.78,
+      308.64
+    ],
+    "text": "but a contradiction was marked as 2Dl with his police statement to the effect; (page 56)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.150604248046875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.72,
+      522.98,
+      558.16,
+      538.45
+    ],
+    "text": "Following contradiction was marked from the statement of Padmalatha during her evidence (page 75)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      530.73,
+      35.04,
+      538.76,
+      49.32
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.98,
+      60.05,
+      538.04,
+      75.8
+    ],
+    "text": "with regard to the search carried out by police at her residence, following contradiction was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.775825500488281,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.98,
+      88.14,
+      208.02,
+      103.88
+    ],
+    "text": "marked as 2.D.3 (at page 75)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.41,
+      317.8,
+      538.2,
+      333.55
+    ],
+    "text": "The following omission was also marked by the defence during the evidence of Padmalatha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.019018173217773
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.62,
+      345.4,
+      113.71,
+      361.15
+    ],
+    "text": "(page 76)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.73,
+      565.0,
+      535.05,
+      580.75
+    ],
+    "text": "Whilst referring to the above contradictions and omissions, the counsel for the Accused-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.74,
+      592.6,
+      538.29,
+      608.35
+    ],
+    "text": "Appellant took up the position that the two lay witnesses had deviated from their police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.83,
+      620.2,
+      538.0,
+      635.95
+    ],
+    "text": "statements before the High Court in order to corroborate each other and therefore the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.65,
+      648.05,
+      440.87,
+      663.8
+    ],
+    "text": "contradictions and omissions are important and it goes to the root of the case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.740449905395508,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.83,
+      685.24,
+      538.71,
+      700.99
+    ],
+    "text": "When the defence was called, PC14119 Sujith Priyantha was summoned to give evidence as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.701539039611816,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.13,
+      711.65,
+      537.67,
+      728.99
+    ],
+    "text": "defence witness, According to his evidence, on 5th July 2002 a police party consist of IP Nevil de",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      10.95703125,
+      11.638647079467773,
+      11.740449905395508,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.78,
+      740.21,
+      537.9,
+      755.96
+    ],
+    "text": "Silva Sub Inspector Gunawardana (2st Accused) PS 12327 PCC 19334, 38859, RPC11815,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.6,
+      386.16,
+      603.75,
+      447.87
+    ],
+    "text": "i 1Il",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      18.299999237060547,
+      18.899999618530273,
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.81,
+      470.77,
+      601.51,
+      498.53
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      20.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.44,
+      505.66,
+      601.5,
+      572.04
+    ],
+    "text": "f it I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.900100231170654,
+      9.100000381469727,
+      10.5,
+      18.899999618530273,
+      29.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.18,
+      566.87,
+      602.47,
+      674.62
+    ],
+    "text": "~ !l f It f",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.2768144607543945,
+      10.5,
+      12.0,
+      12.399999618530273,
+      15.600000381469727,
+      16.600000381469727,
+      28.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.87,
+      687.89,
+      608.88,
+      819.78
+    ],
+    "text": "II I,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      30.399999618530273,
+      38.79999923706055,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      593.91,
+      804.23,
+      601.36,
+      822.65
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      529.55,
+      34.53,
+      537.43,
+      48.54
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.06,
+      60.5,
+      536.77,
+      75.97
+    ],
+    "text": "police assistants 480 and 2634 had conducted a raid at No 657/l Elhena - Gothatuwa and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.666857719421387
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.16,
+      88.35,
+      537.52,
+      103.82
+    ],
+    "text": "arrested a woman into custody, but PC324341 Ilukpitiya was not a member of the said raiding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.06,
+      116.42,
+      94.73,
+      131.89
+    ],
+    "text": "party.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.02,
+      154.09,
+      537.61,
+      169.57
+    ],
+    "text": "According to the evidence of Senevirathne Bandara the decoy, the transaction took place at a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.16,
+      180.89,
+      537.09,
+      197.42
+    ],
+    "text": "communication and he was listening to the dialog between the complainant and the 2nd Accused.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.072267055511475,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.79,
+      208.5,
+      536.96,
+      225.01
+    ],
+    "text": "At that time the complainant informed the 2nd Accused that he brought the Rs. 6000/- which was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.072267055511475,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.17,
+      237.38,
+      537.16,
+      252.85
+    ],
+    "text": "demanded and when money was handed over, he specifically said that out of Rs 6000/-, Rs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.21,
+      264.18,
+      537.34,
+      280.7
+    ],
+    "text": "2000/- for the Accused, Rs 2000/- for Gunawardena and balance 2000/- for Udaya. 2nd Accused",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.189191818237305,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.25,
+      292.81,
+      537.45,
+      308.28
+    ],
+    "text": "took the money and put it inside his trouser pocket and went out from the communication. At",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.26,
+      320.45,
+      537.54,
+      336.93
+    ],
+    "text": "that stage the witness had signaled IP Wasantha who was stationed outside the communication",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.097811698913574,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.16,
+      346.63,
+      535.57,
+      364.77
+    ],
+    "text": "and IP Wasantha had arrested the 2nd Accused. When IP Wasantha tried to arrest the 2nd",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.561388969421387,
+      7.817821502685547,
+      10.961653709411621,
+      11.23237133026123,
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.26,
+      376.59,
+      241.24,
+      392.06
+    ],
+    "text": "Accused, he threw the money away.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.14,
+      414.02,
+      538.83,
+      429.49
+    ],
+    "text": "Witness Wasantha, who was the Chief Investigation Officer, had corroborated the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.49,
+      442.1,
+      484.04,
+      457.57
+    ],
+    "text": "the decoy and confirmed the fact that the arrest took place outside the communication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.21,
+      480.02,
+      536.49,
+      495.49
+    ],
+    "text": "However, the complainant had given a different interpretation to the raid. According to him he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.506977081298828,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.41,
+      506.81,
+      537.11,
+      523.09
+    ],
+    "text": "contacted the 2nd Accused and informed him that he had come with the money and waiting for",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.189191818237305,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.5,
+      535.21,
+      537.2,
+      550.69
+    ],
+    "text": "him at the communication. At that stage the decoy too was inside the communication. When the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.46,
+      561.19,
+      537.27,
+      578.29
+    ],
+    "text": "2nd Accused came inside, he informed the accused that he brought the money and counted it and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.817821502685547,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.19,
+      589.03,
+      537.9,
+      606.13
+    ],
+    "text": "gave it to the 2nd Accused. 2nd Accused informed him \"if you want you can even sell arrack on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.817821502685547,
+      11.600000381469727,
+      12.019031524658203
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.49,
+      618.26,
+      537.67,
+      633.74
+    ],
+    "text": "the road now\" and put the money inside his trouser pocket. At that stage the decoy who was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.65,
+      644.47,
+      537.87,
+      661.57
+    ],
+    "text": "inside the communication, held the 2nd Accused from his collar and the 2nd Accused put some",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.690674304962158,
+      7.817821502685547,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.64,
+      673.46,
+      537.05,
+      688.93
+    ],
+    "text": "currency notes inside his mouth and threw the balance away. When the money was thrown, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.68,
+      700.02,
+      537.46,
+      716.3
+    ],
+    "text": "2nd Accused was near the door step of the communication and the rest of the police officers were",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.072267055511475,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.84,
+      728.67,
+      265.6,
+      744.14
+    ],
+    "text": "standing just outside the communication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.39,
+      -2.79,
+      600.39,
+      21.94
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      592.11,
+      30.63,
+      610.9,
+      156.28
+    ],
+    "text": "f II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.199999809265137,
+      28.299999237060547,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.59,
+      131.99,
+      601.73,
+      189.0
+    ],
+    "text": "t,I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      20.0,
+      22.100000381469727,
+      23.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.34,
+      399.11,
+      600.99,
+      414.31
+    ],
+    "text": "!",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.96,
+      437.75,
+      602.16,
+      473.33
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.12,
+      465.54,
+      600.29,
+      486.15
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.76,
+      488.76,
+      602.95,
+      597.24
+    ],
+    "text": "fI I !f ! ! i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      10.5,
+      12.399999618530273,
+      13.0,
+      14.600000381469727,
+      16.399999618530273,
+      21.799999237060547,
+      22.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.84,
+      590.63,
+      602.23,
+      664.66
+    ],
+    "text": "~ I f I f III",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.015967845916748,
+      5.099999904632568,
+      8.800000190734863,
+      9.100000381469727,
+      12.399999618530273,
+      13.0,
+      16.299999237060547,
+      17.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.84,
+      659.17,
+      600.37,
+      685.99
+    ],
+    "text": "i. t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.863642692565918,
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.88,
+      689.51,
+      602.07,
+      766.82
+    ],
+    "text": "t!! \\t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.900099992752075,
+      16.299999237060547,
+      18.0,
+      20.600000381469727,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.44,
+      756.83,
+      600.61,
+      780.87
+    ],
+    "text": "f!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.400100231170654,
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -1.9,
+      -2.97,
+      35.69,
+      107.32
+    ],
+    "text": "i I ! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      13.699999809265137,
+      15.899999618530273,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -1.3,
+      81.36,
+      24.39,
+      245.71
+    ],
+    "text": "I I t I I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      12.699999809265137,
+      15.800000190734863,
+      23.399999618530273,
+      38.40010070800781,
+      39.0,
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      530.98,
+      35.19,
+      539.24,
+      48.79
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.6,
+      60.26,
+      538.52,
+      75.73
+    ],
+    "text": "Complainant does not corroborate the decoy on the fact that, there was specific reference by him",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.22,
+      88.11,
+      538.73,
+      103.61
+    ],
+    "text": "with regard to whom the money should go. It is also observed by this court that there is a major",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.602072715759277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.36,
+      115.69,
+      538.24,
+      131.16
+    ],
+    "text": "contradiction between the complainant and the decoy as to who arrested the Accused and where",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.99,
+      143.34,
+      538.36,
+      159.82
+    ],
+    "text": "was the arrest took place. According to the decoy and IP Wasantha, the arrest took place outside",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.097811698913574,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.22,
+      170.93,
+      537.96,
+      187.41
+    ],
+    "text": "the communication by IP Wasantha but according to the complainant, the arrest took place inside",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.097811698913574,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.21,
+      199.23,
+      537.67,
+      214.7
+    ],
+    "text": "the communication by the decoy. This position is further confirmed by Lorita Shyamalie the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.09,
+      226.82,
+      538.19,
+      242.29
+    ],
+    "text": "sales personal at the communication, to the effect that a group of persons had taken a man away",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.88,
+      254.67,
+      538.46,
+      270.14
+    ],
+    "text": "from the communication, and later she was informed by them that they are from Bribery",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.97,
+      282.25,
+      127.81,
+      297.73
+    ],
+    "text": "Department.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.02,
+      318.79,
+      536.88,
+      335.65
+    ],
+    "text": "Court further observes that none of the police officers in their evidence had referred to the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.817821502685547,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.98,
+      347.79,
+      538.15,
+      363.26
+    ],
+    "text": "Accused putting some money inside his mouth and when witness Wasantha was specially",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.88,
+      374.23,
+      537.96,
+      391.09
+    ],
+    "text": "questioned on this, (at page 107) his answer was that the 2nd Accused tried to throw the money",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.690674304962158,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.13,
+      403.47,
+      95.97,
+      418.94
+    ],
+    "text": "away.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.95,
+      441.13,
+      537.92,
+      456.61
+    ],
+    "text": "Both Accused preferred to make dock statements when they were called upon for their defences.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.3,
+      467.36,
+      538.34,
+      484.45
+    ],
+    "text": "1st Accused denied taking part in any raid at the complainants' house along with the 2nd Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.817821502685547,
+      7.900100231170654,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.12,
+      496.82,
+      537.54,
+      512.29
+    ],
+    "text": "and in fact he had assisted his Officer in Change on this day. Since he conducted few raids at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.89,
+      524.9,
+      443.09,
+      540.37
+    ],
+    "text": "complainants' house before, the complainant was not in good terms with him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.88,
+      562.34,
+      537.63,
+      577.82
+    ],
+    "text": "The second Accused in his dock statement took up the position that, he went to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.11,
+      589.94,
+      537.98,
+      605.41
+    ],
+    "text": "communication on that day to meet a person who volunteered to provide some information and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.12,
+      617.53,
+      537.77,
+      633.01
+    ],
+    "text": "after meeting the complainant, he informed the complainant that he will pass the information to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.506977081298828,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.22,
+      645.38,
+      537.8,
+      660.85
+    ],
+    "text": "the relevant officers and when he tried to come back, some money was forced to him. When he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.506977081298828,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.21,
+      672.97,
+      374.0,
+      688.45
+    ],
+    "text": "threw the money away, he was arrested by the bribery officials.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      593.91,
+      380.65,
+      606.75,
+      444.13
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      596.11,
+      425.99,
+      601.31,
+      450.93
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.70009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.79,
+      498.16,
+      600.58,
+      511.0
+    ],
+    "text": "! >",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.199999809265137,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.13,
+      514.84,
+      604.86,
+      668.41
+    ],
+    "text": "1I! II j t i I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      7.500100135803223,
+      8.0,
+      9.100000381469727,
+      11.800000190734863,
+      13.800000190734863,
+      29.0,
+      33.79999923706055,
+      38.599998474121094
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.8,
+      654.61,
+      599.2,
+      666.7
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.12,
+      681.89,
+      604.91,
+      758.88
+    ],
+    "text": "II,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      29.70009994506836,
+      30.899999618530273,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.58,
+      748.03,
+      603.13,
+      795.63
+    ],
+    "text": "i Ii \u00a3",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      10.699999809265137,
+      15.0,
+      22.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -2.34,
+      9.37,
+      29.8,
+      88.79
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      57.79999923706055
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -1.54,
+      82.05,
+      14.64,
+      165.18
+    ],
+    "text": "I , I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.100000381469727,
+      28.600000381469727,
+      29.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -1.29,
+      155.53,
+      14.85,
+      337.1
+    ],
+    "text": "I I I I I 1 I I I I i i i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.900100231170654,
+      7.199999809265137,
+      8.699999809265137,
+      10.100000381469727,
+      13.699999809265137,
+      15.899999618530273,
+      17.100000381469727,
+      17.899999618530273,
+      20.5,
+      28.600000381469727,
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -0.77,
+      371.1,
+      10.25,
+      434.2
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.600000381469727,
+      18.70009994506836,
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      530.46,
+      34.13,
+      538.11,
+      47.74
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.18,
+      60.24,
+      537.97,
+      75.44
+    ],
+    "text": "Learned Counsel for the Accused -Appellant whilst referring to the judgment, submitted that, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.378329277038574,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.94,
+      88.3,
+      537.85,
+      103.51
+    ],
+    "text": "Learned High Court Judge had failed to consider the defence version and to evaluate the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.12,
+      115.91,
+      184.14,
+      131.12
+    ],
+    "text": "evidence led in the trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.93,
+      153.92,
+      539.67,
+      169.45
+    ],
+    "text": "In the case Chandradasa V. Queen 72 NLR 160 the court of Criminal Appeal concluded, that \"It",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.638372421264648,
+      11.678546905517578,
+      11.762341499328613,
+      12.199999809265137,
+      12.31733512878418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.14,
+      181.68,
+      537.41,
+      196.88
+    ],
+    "text": "is the duty of a Trial Judge to place a defence, however weak and insubstantial it may appear to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.378329277038574,
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.77,
+      209.51,
+      264.08,
+      224.71
+    ],
+    "text": "be, fairly and adequately before the jury.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.93,
+      247.18,
+      538.43,
+      262.39
+    ],
+    "text": "Even though the present case is not a jury trial, we observe that, the Learned Trial Judge has a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.88,
+      275.02,
+      538.4,
+      290.23
+    ],
+    "text": "duty to consider the defence case, however it is weak, before coming to a conclusion. He should",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.74,
+      302.86,
+      537.22,
+      318.07
+    ],
+    "text": "have at least rejected the defence case giving reasons for his rejection. In the present case he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.88,
+      330.7,
+      537.17,
+      345.91
+    ],
+    "text": "acknowledges the evidence of the defence witness PC 14119 Sujith Priyantha but failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.378329277038574,
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.64,
+      358.31,
+      537.72,
+      373.51
+    ],
+    "text": "evaluate the said evidence, with the rest of the defence case and accept or reject the defence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.74,
+      386.16,
+      195.81,
+      401.36
+    ],
+    "text": "version, given to this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.66,
+      424.08,
+      538.07,
+      439.37
+    ],
+    "text": "\"In the case of Moses Vs State 1999(3) SLR page 401 His Lordship Justice Hector Yapa",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.41324234008789,
+      12.07902717590332,
+      12.096863746643066,
+      12.114198684692383,
+      12.199999809265137,
+      12.31396770477295
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.74,
+      452.15,
+      537.56,
+      467.36
+    ],
+    "text": "remarked, \"a duty is cast on the Judges to give reasons for their decisions as their decisions are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.680986404418945
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.85,
+      479.76,
+      248.27,
+      494.96
+    ],
+    "text": "subject to review by Superior Court\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.66,
+      517.43,
+      538.07,
+      532.63
+    ],
+    "text": "The trial judge, in the present case has not only failed to give reasons for his decision but also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.85,
+      545.26,
+      348.51,
+      560.47
+    ],
+    "text": "failed to give reasons for the rejection of the defence case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.62,
+      582.94,
+      537.49,
+      598.15
+    ],
+    "text": "As pointed out by me earlier, there are contradictions and omissions produced at the trial and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.18,
+      610.78,
+      539.87,
+      625.99
+    ],
+    "text": "Learned Trial Judge had failed to consider the contradictions per say with regard to evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.97,
+      638.16,
+      538.13,
+      653.36
+    ],
+    "text": "the two lay witnesses and contradiction inter say between the complainant and the official",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.74,
+      665.76,
+      537.66,
+      680.96
+    ],
+    "text": "witnesses, in addition to his failure to give reasons for his decision and failure to give reasons for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.378329277038574,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.97,
+      693.12,
+      225.87,
+      708.32
+    ],
+    "text": "the rejection of the defence case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.16,
+      730.55,
+      538.47,
+      745.76
+    ],
+    "text": "I am not in favour of ordering a retrial in the present case for the reason that as I have concluded",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.14,
+      758.16,
+      538.12,
+      773.36
+    ],
+    "text": "earlier, some of the contradictions and omissions produced during the trial goes to the root of this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      594.16,
+      353.96,
+      602.47,
+      434.14
+    ],
+    "text": "I!II t I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      10.199999809265137,
+      12.399999618530273,
+      15.600000381469727,
+      17.899999618530273,
+      28.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      596.4,
+      460.71,
+      600.99,
+      482.72
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      594.74,
+      497.17,
+      604.11,
+      629.27
+    ],
+    "text": "l f!IIiI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.300000190734863,
+      14.0,
+      16.600000381469727,
+      21.799999237060547,
+      28.600000381469727,
+      33.70009994506836
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      38.95,
+      19.16,
+      45.98,
+      34.55
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      530.52,
+      36.01,
+      538.69,
+      49.48
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.13,
+      61.23,
+      538.02,
+      76.7
+    ],
+    "text": "case. I further conclude that the contradictions I have pointed out between the evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.14,
+      89.05,
+      538.36,
+      104.53
+    ],
+    "text": "official witnesses and the lay witness, creates a reasonable doubt on the trap laid by the officers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.88,
+      116.9,
+      537.55,
+      132.37
+    ],
+    "text": "of the Bribery Commission. For the reasons discussed above the appeal is allowed and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      144.75,
+      388.41,
+      160.22
+    ],
+    "text": "conviction and the sentence on the Accused-Appellant is set aside.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      322.1,
+      224.23,
+      513.66,
+      238.96
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.12690258026123,
+      10.222023963928223,
+      10.296283721923828,
+      10.357209205627441,
+      10.38872241973877,
+      10.454278945922852
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.41,
+      255.46,
+      180.83,
+      273.46
+    ],
+    "text": "H.C.J. MADAWALA,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.435441017150879,
+      12.672884941101074
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      178.08,
+      292.19,
+      222.09,
+      308.71
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      323.95,
+      317.82,
+      493.75,
+      332.55
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.12690258026123,
+      10.222023963928223,
+      10.290982246398926,
+      10.292282104492188,
+      10.296283721923828,
+      10.490498542785645
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.74,
+      420.74,
+      347.54,
+      436.21
+    ],
+    "text": "Appeal allowed and the conviction and sentence set aside.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      595.9,
+      163.05,
+      603.8,
+      205.2
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      31.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      594.87,
+      205.65,
+      602.93,
+      317.31
+    ],
+    "text": "I [l I I I 1I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      6.500100135803223,
+      8.5,
+      9.399999618530273,
+      11.100000381469727,
+      13.899999618530273,
+      19.399999618530273,
+      29.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      594.64,
+      366.2,
+      602.59,
+      405.5
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      595.2,
+      414.2,
+      600.59,
+      440.08
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      594.59,
+      477.99,
+      605.49,
+      678.16
+    ],
+    "text": "IrtI[II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      15.0,
+      22.399999618530273,
+      38.29999923706055,
+      38.599998474121094,
+      39.20009994506836
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      595.61,
+      677.58,
+      600.55,
+      694.52
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  }
+]

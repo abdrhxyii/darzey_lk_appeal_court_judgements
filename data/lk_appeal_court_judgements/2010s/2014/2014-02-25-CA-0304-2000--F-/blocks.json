@@ -1,0 +1,912 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      74.78,
+      126.17,
+      524.13,
+      150.13
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.03,
+      146.32,
+      462.42,
+      170.29
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.59,
+      273.44,
+      225.41,
+      306.26
+    ],
+    "text": "C.A. No. 304 12000 F D.C. Balapitiya No. 2401RE",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.37919807434082,
+      12.699999809265137,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.42,
+      203.13,
+      432.43,
+      256.59
+    ],
+    "text": "Mohamed Bari, No. 20, Malwatta Road, Dehiwala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      425.23,
+      273.2,
+      475.3,
+      290.41
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.86,
+      305.12,
+      371.35,
+      322.33
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.18,
+      336.09,
+      477.32,
+      371.53
+    ],
+    "text": "Associated Hotel Company Ltd, No. 263, Galle Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.71,
+      372.57,
+      364.26,
+      389.78
+    ],
+    "text": "Colombo 3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820505142211914,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.61,
+      390.58,
+      482.68,
+      423.37
+    ],
+    "text": "Defendant AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.927321434020996
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.02,
+      440.25,
+      432.79,
+      493.7
+    ],
+    "text": "Mohamed Bari, No. 20, Malwatta Road, Dehiwala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      390.18,
+      494.48,
+      495.8,
+      511.69
+    ],
+    "text": "Plaintiff Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.9,
+      525.92,
+      478.36,
+      579.61
+    ],
+    "text": "Associated Hotel Company Ltd, No. 263, Galle Road, Colombo 3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      386.8,
+      580.4,
+      515.52,
+      597.6
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.05,
+      612.24,
+      427.59,
+      630.39
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.37,
+      645.93,
+      433.63,
+      698.91
+    ],
+    "text": "Mohamed Bari, No. 20, Malwatta Road, Dehiwala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.5,
+      715.29,
+      504.99,
+      732.5
+    ],
+    "text": "Plaintiff Petitioner-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      11.67,
+      32.38,
+      24.46,
+      63.99
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.66,
+      286.62,
+      121.83,
+      303.56
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.58,
+      333.66,
+      132.32,
+      350.6
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.66,
+      428.22,
+      153.35,
+      445.16
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.871689796447754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.94,
+      475.74,
+      229.68,
+      492.68
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.752093315124512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.47,
+      70.49,
+      301.64,
+      85.6
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.69,
+      106.15,
+      366.24,
+      123.09
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.94,
+      137.35,
+      474.97,
+      190.76
+    ],
+    "text": "Associated Hotel Company Ltd, No. 263, Galle Road, Colombo 3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.747013092041016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      329.45,
+      207.41,
+      527.13,
+      224.35
+    ],
+    "text": "Defendant Respondent-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.9,
+      286.38,
+      438.0,
+      303.32
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.736198425292969,
+      12.746563911437988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.1,
+      333.66,
+      516.34,
+      350.6
+    ],
+    "text": "Plaintiff Petitioner Appellant - Absent and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.15,
+      357.18,
+      358.14,
+      374.12
+    ],
+    "text": "unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.09,
+      380.94,
+      525.52,
+      397.88
+    ],
+    "text": "Defendant Respondent-Respondent- Absent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.27,
+      404.71,
+      381.66,
+      421.66
+    ],
+    "text": "and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.08,
+      428.22,
+      342.9,
+      445.16
+    ],
+    "text": "25.02.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.69,
+      523.02,
+      524.85,
+      539.96
+    ],
+    "text": "The present appeal has been preferred by the Plaintiff Petitioner-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.808634757995605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.7,
+      546.78,
+      528.84,
+      563.72
+    ],
+    "text": "Appellant (hereinafter referred to as the Appellant) from the order of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.555158615112305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.13,
+      570.55,
+      322.41,
+      587.49
+    ],
+    "text": "District Judge of Balapitiya dated 06.06.2000.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.555158615112305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.53,
+      617.83,
+      524.91,
+      634.77
+    ],
+    "text": "The Appellant instituted an action against the Defendant Respondent-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.15,
+      641.58,
+      528.69,
+      658.52
+    ],
+    "text": "Respondent in the District Court of Balapitiya seeking inter alia a declaration as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.555158615112305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.22,
+      664.86,
+      528.95,
+      681.8
+    ],
+    "text": "prayed for in prayer' a' of the plaint. On the date of trial the Appellant was absent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.783028602600098,
+      13.227831840515137,
+      13.396738052368164,
+      13.555158615112305,
+      13.684863090515137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.58,
+      688.38,
+      528.63,
+      705.32
+    ],
+    "text": "in Court. The Counsel for the Appellant had informed Court that he had no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.82,
+      711.91,
+      529.06,
+      728.85
+    ],
+    "text": "instructions to appear and prosecute the case. Thereafter the learned trial Judge had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.13,
+      51.23,
+      24.8,
+      60.29
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.599999904632568
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.3,
+      69.62,
+      310.0,
+      85.09
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.47,
+      104.44,
+      536.4,
+      122.32
+    ],
+    "text": "dismissed the action of the Appellant. Thereafter the Appellant had made an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.46,
+      127.97,
+      536.39,
+      145.85
+    ],
+    "text": "application to vacate the said order of dismissal of the action. The Respondent had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.44,
+      151.71,
+      536.59,
+      169.6
+    ],
+    "text": "filed a statement of objection to the said application. After an inquiry the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.32,
+      175.24,
+      535.77,
+      193.12
+    ],
+    "text": "District judge has dismissed the said Application of the Appellant. This appeal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.46,
+      199.0,
+      197.64,
+      216.88
+    ],
+    "text": "against the said order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.1,
+      246.27,
+      536.68,
+      264.16
+    ],
+    "text": "I have carefully considered the impugned order of the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.51,
+      270.28,
+      536.66,
+      288.15
+    ],
+    "text": "Judge and the evidence adduced at the inquiry. When I consider the said evidence I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.69,
+      293.8,
+      536.71,
+      311.68
+    ],
+    "text": "am of the view that the learned trial judge has come to a right conclusion after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.71,
+      317.57,
+      300.82,
+      335.45
+    ],
+    "text": "evaluating the evidence led before court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.35,
+      364.85,
+      536.78,
+      382.72
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.47,
+      388.61,
+      536.3,
+      406.49
+    ],
+    "text": "order of the learned District Judge dated 06.06.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.7,
+      412.11,
+      285.68,
+      430.0
+    ],
+    "text": "appeal of the Appellant without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.92,
+      461.1,
+      246.2,
+      477.34
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      357.52,
+      506.92,
+      520.17,
+      524.8
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293,
+      14.05694580078125
+    ]
+  }
+]

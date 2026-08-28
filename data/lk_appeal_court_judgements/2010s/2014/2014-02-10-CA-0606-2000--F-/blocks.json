@@ -1,0 +1,1255 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -5.19,
+      -5.2,
+      21.83,
+      136.27
+    ],
+    "text": "I 1 I ! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0,
+      16.20009994506836,
+      24.399999618530273,
+      47.20009994506836,
+      48.599998474121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.21,
+      72.61,
+      307.3,
+      85.94
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.62,
+      106.59,
+      528.01,
+      130.42
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.87,
+      126.76,
+      466.56,
+      150.59
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.82,
+      278.65,
+      197.78,
+      296.26
+    ],
+    "text": "C.A. No. 606 /2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.522754669189453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.89,
+      309.85,
+      235.95,
+      327.46
+    ],
+    "text": "D.C. Kandy No. 19704/ MR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.297886848449707,
+      13.459057807922363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.78,
+      183.14,
+      397.23,
+      248.02
+    ],
+    "text": "Bank of Ceylon, Central Office, York Street, Colombo 1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      460.74,
+      261.62,
+      510.78,
+      279.23
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      390.45,
+      293.77,
+      411.18,
+      311.38
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.32,
+      340.57,
+      464.94,
+      437.15
+    ],
+    "text": "1. G.P.P. Wijegunawardena, Aladeniya, Werallagama. 2. M.C.M. Ramzan, No. 121, Walgampaya, Danture.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.17,
+      499.22,
+      465.45,
+      516.67
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.968511581420898,
+      12.99130916595459,
+      13.125666618347168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.7,
+      545.77,
+      433.0,
+      595.06
+    ],
+    "text": "M.C.M. Ramzan, No. 121, Walgampaya, Danture.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      461.7,
+      450.49,
+      526.89,
+      468.1
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.59,
+      592.09,
+      528.73,
+      609.7
+    ],
+    "text": "2 nd Defendant Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.37,
+      624.97,
+      374.46,
+      642.58
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.7,
+      655.94,
+      398.91,
+      720.83
+    ],
+    "text": "Bank of Ceylon, Central Office, York Street, Colombo 1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.199999809265137,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      416.34,
+      718.1,
+      532.75,
+      735.71
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.61,
+      555.35,
+      604.0,
+      586.95
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.82,
+      216.42,
+      123.89,
+      234.43
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.98,
+      263.93,
+      134.05,
+      281.94
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.85,
+      358.5,
+      151.86,
+      376.51
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.82,
+      382.5,
+      154.98,
+      400.51
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.34,
+      429.78,
+      232.83,
+      447.79
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.38,
+      72.02,
+      302.88,
+      85.36
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.06,
+      106.01,
+      453.11,
+      124.02
+    ],
+    "text": "G.P.P. Wijgegunawardena,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.05,
+      121.86,
+      383.21,
+      155.48
+    ],
+    "text": "Aladeniya, Werallagama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.61,
+      168.66,
+      495.74,
+      186.68
+    ],
+    "text": "1 st Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.42,
+      216.42,
+      419.79,
+      234.43
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.14,
+      263.93,
+      527.4,
+      281.94
+    ],
+    "text": "Defendant Appellant- Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.85,
+      287.46,
+      505.42,
+      305.47
+    ],
+    "text": "M.N. Kanishka de Silva SC for the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.42,
+      311.22,
+      326.54,
+      329.23
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.81,
+      358.5,
+      319.85,
+      376.51
+    ],
+    "text": "18.11.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.81,
+      382.25,
+      320.37,
+      400.26
+    ],
+    "text": "10.02.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.68,
+      476.81,
+      530.47,
+      494.82
+    ],
+    "text": "The Plaintiff Respondent (hereinafter referred to as the Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.73,
+      500.02,
+      533.46,
+      518.58
+    ],
+    "text": "instituted the said action against the 1 st and 2nd Defendants in the District Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.3,
+      524.33,
+      530.0,
+      542.34
+    ],
+    "text": "Kandy seeking to recover a sum ofRs. 142,462/- and the interest as prayed for in",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      13.362247467041016,
+      13.5,
+      13.737903594970703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.38,
+      547.85,
+      530.13,
+      565.86
+    ],
+    "text": "prayer 'a' to the plaint. The case had been heard Ex Parte against the 1 st Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      13.5,
+      13.847380638122559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.48,
+      571.3,
+      530.35,
+      589.87
+    ],
+    "text": "The 2nd Defendant Appellant (hereinafter referred to as the Appellant) has filed an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.71,
+      595.61,
+      392.61,
+      613.62
+    ],
+    "text": "answer praying for a dismissal of the Respondent's action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.33,
+      642.65,
+      530.98,
+      660.66
+    ],
+    "text": "The case proceeded to trial on 14 issues. After trial the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.054241180419922,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.56,
+      666.17,
+      530.38,
+      684.18
+    ],
+    "text": "Additional District Judge has delivered a judgment in favour of the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.78,
+      689.7,
+      531.48,
+      707.71
+    ],
+    "text": "Being aggrieved by the said judgment dated 28.08.2000 the Appellant has appealed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.81,
+      713.46,
+      140.46,
+      731.47
+    ],
+    "text": "to this court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      24.53,
+      57.8,
+      28.66,
+      65.14
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.68,
+      72.46,
+      306.56,
+      86.47
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.97,
+      130.81,
+      533.22,
+      148.42
+    ],
+    "text": "The Respondent has closed his case leading the evidence of one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.22,
+      154.33,
+      533.37,
+      171.94
+    ],
+    "text": "witness with the documents produced marked P 1 to P 4. The Appellant has not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.98,
+      178.1,
+      533.22,
+      195.71
+    ],
+    "text": "raised any objection to the said documents. The Appellant has closed his case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.01,
+      202.1,
+      533.44,
+      219.71
+    ],
+    "text": "without leading any evidence. The Appellant's contention was that the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.99,
+      225.86,
+      533.31,
+      243.47
+    ],
+    "text": "has not proved his case and the admittance of documents P 2 and P 3 as evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.23,
+      249.38,
+      150.78,
+      266.99
+    ],
+    "text": "was unlawful.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.01,
+      296.89,
+      533.04,
+      314.5
+    ],
+    "text": "It seems that the Appellant, who had not raised any objection to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.32,
+      320.42,
+      533.37,
+      338.03
+    ],
+    "text": "said documents P 2 and P 3 at the trial, has made an attempt to challenge the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.11,
+      344.17,
+      533.47,
+      361.78
+    ],
+    "text": "documents. It is well settled law that a party who fails to object to a document at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.2,
+      367.93,
+      533.31,
+      385.54
+    ],
+    "text": "the time of producing such document in evidence such party is not entitled to take",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.24,
+      391.7,
+      322.83,
+      409.31
+    ],
+    "text": "up any objection to such document in appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.96,
+      429.14,
+      533.69,
+      446.75
+    ],
+    "text": "In the case of Cinemas Limited Vs. Sounderarajan [1998] 2 SLR 16 it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.044989585876465,
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.46,
+      452.89,
+      533.78,
+      470.5
+    ],
+    "text": "was held that \"In a civil case when a document is tendered the opposing party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.23470401763916
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.78,
+      476.65,
+      533.57,
+      494.26
+    ],
+    "text": "should immediately object to the document. Where the opposing party fails to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.59,
+      500.17,
+      533.66,
+      517.78
+    ],
+    "text": "object, the trial judge has to admit the document unless the document is forbidden",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.74,
+      523.93,
+      533.31,
+      541.54
+    ],
+    "text": "by law to be received and no objection can be taken in appeal - S. 154 CPC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.952479362487793,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.8,
+      547.7,
+      157.24,
+      565.31
+    ],
+    "text": "(explanation). \"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.47,
+      585.37,
+      534.41,
+      602.98
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.82,
+      608.89,
+      534.17,
+      626.5
+    ],
+    "text": "judgement of the learned Additional District Judge dated 28.08.2000. Therefore I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.08,
+      632.89,
+      330.13,
+      650.5
+    ],
+    "text": "dismiss the appeal of the Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.04,
+      681.28,
+      243.57,
+      697.4
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      354.87,
+      726.26,
+      517.88,
+      743.88
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.06,
+      29.94,
+      602.79,
+      83.32
+    ],
+    "text": "1I [ f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.900100231170654,
+      10.600000381469727,
+      16.799999237060547,
+      18.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      592.15,
+      98.59,
+      594.4,
+      104.78
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.500100135803223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.99,
+      109.59,
+      602.71,
+      145.86
+    ],
+    "text": "t I : ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.699999809265137,
+      12.0,
+      19.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      592.57,
+      144.89,
+      599.8,
+      162.76
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.04,
+      185.69,
+      599.27,
+      215.57
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      22.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.51,
+      212.77,
+      602.67,
+      270.51
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.0,
+      28.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.15,
+      289.67,
+      603.21,
+      368.4
+    ],
+    "text": "~ [ l !l",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.2731857299804688,
+      16.299999237060547,
+      17.600000381469727,
+      18.20009994506836,
+      18.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.62,
+      422.14,
+      599.54,
+      436.57
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.23,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      149.06
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (Writ) Application No. 186/2012",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      148.92,
+      441.88,
+      214.7
+    ],
+    "text": "Nagananda Kodituwakku 99, Subadrarama Road Nugegoda",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      214.68,
+      525.55,
+      690.7
+    ],
+    "text": "PETITIONER Vs. 1. D.S.P. Senarathna Controller Import and Export Import and Export Control Department No 75 1/3, Hemas Building, York Street, Colombo 01. 2. Neville Goonewardena The Director General of Customs Customs House, 40, Main Street, Colombo 11. 3. S H Hemachandra Registrar of Motor Vehicles, Department of Motor Traffic, 341, Alvitigala Road, Colombo 5 4. J H Kodikara The Director of Customs (Declarations) Customs House, 40, Main Street, Colombo 11 5. The Attorney General Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      690.68,
+      459.19,
+      707.13
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -0.85,
+      4.74,
+      14.83,
+      30.57
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.33,
+      50.96,
+      29.7,
+      197.22
+    ],
+    "text": "1 l J I 1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.399999618530273,
+      12.199999809265137,
+      13.0,
+      20.20009994506836,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      411.68,
+      71.28,
+      496.27,
+      88.46
+    ],
+    "text": "CA186/2012",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.252729415893555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.12,
+      123.06,
+      364.93,
+      140.89
+    ],
+    "text": "Before Anil Goonerathne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.700349807739258,
+      12.78605842590332,
+      12.955921173095703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.38,
+      149.69,
+      421.57,
+      167.28
+    ],
+    "text": "W.M.M. Malinie Gunaratne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.71763801574707,
+      12.85525131225586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.81,
+      202.25,
+      436.99,
+      219.84
+    ],
+    "text": "Counsel Chula Bandara for the Petitioner.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.616358757019043,
+      13.001520156860352,
+      13.067468643188477,
+      13.113733291625977,
+      13.217034339904785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.94,
+      228.99,
+      429.5,
+      245.66
+    ],
+    "text": "Nawas DSG for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.585408210754395,
+      12.742938995361328,
+      12.832138061523438,
+      13.067468643188477
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.46,
+      255.06,
+      150.02,
+      272.65
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.91,
+      281.45,
+      312.79,
+      299.04
+    ],
+    "text": "Decided on 10.02.2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.01728630065918,
+      13.32983684539795,
+      13.414169311523438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.46,
+      334.49,
+      219.49,
+      352.08
+    ],
+    "text": "Anil Goonerathne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.725624084472656,
+      12.992677688598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.3,
+      387.64,
+      533.88,
+      404.31
+    ],
+    "text": "Counsel for the petitioner moves to withdraw this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.507197380065918,
+      12.667034149169922,
+      12.678229331970215,
+      12.85238265991211,
+      12.863757133483887,
+      12.913801193237305,
+      13.067468643188477,
+      13.100715637207031
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.94,
+      416.19,
+      510.93,
+      432.86
+    ],
+    "text": "Application for withdrawal is allowed. Application dismissed. No costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.41627025604248,
+      12.5,
+      12.583471298217773,
+      12.629181861877441,
+      12.737003326416016,
+      12.876481056213379,
+      12.8765287399292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.69,
+      533.46,
+      276.37,
+      551.05
+    ],
+    "text": "W.M.M. Malinie Gunaratne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.784716606140137,
+      12.85525131225586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.12,
+      560.19,
+      592.57,
+      597.66
+    ],
+    "text": "I agree N.~_",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.680201530456543,
+      37.89112854003906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.32,
+      612.65,
+      494.46,
+      630.24
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.716938972473145,
+      12.821765899658203,
+      13.0650053024292,
+      13.330689430236816,
+      13.952853202819824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.98,
+      666.03,
+      118.41,
+      682.7
+    ],
+    "text": "Na/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.092889785766602
+    ]
+  }
+]

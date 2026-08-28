@@ -1,0 +1,493 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      183.62
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA Case No: CA (PHC) APN : 148/2011 HC of Badulla Case No: 06/2011 MC of Badulla Case No: 96479",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Cambria,Italic",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      183.48,
+      316.1,
+      232.82
+    ],
+    "text": "The Officer in Charge (H.Q.I) Police Station, Badulla.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      232.8,
+      515.71,
+      364.13
+    ],
+    "text": "Complainant Vs. (12) Welle Kankanamlage Chamila Suranga alias Sudu Sagara Ganga Para, Anthalawa, Hali Ela. (Presently in the Remand Prison)",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      364.11,
+      370.6,
+      491.95
+    ],
+    "text": "12th Accused And Wanniarachchige Don Chamila Inoka, No; 186/1A, Mihira Mawatha, Makuludoowa, Piliyandala.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      491.93,
+      329.8,
+      606.82
+    ],
+    "text": "Petitioner Vs. 1. The Officer in Charge (H.Q.I) Police Station, Badulla.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      606.8,
+      382.0,
+      688.9
+    ],
+    "text": "Complainant Respondent 2. The Hon Attorney Genera! Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      701.36,
+      296.42,
+      717.81
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.62,
+      69.09,
+      510.32,
+      85.99
+    ],
+    "text": "C.A. (PHC) APN No.148/11 H.C.Badulla Bail No.06/2011",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.408222198486328,
+      12.506500244140625,
+      13.200246810913086,
+      13.206021308898926
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.46,
+      120.36,
+      342.23,
+      138.31
+    ],
+    "text": "Before A.W.A.Salam,J. and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.383076667785645,
+      12.747705459594727,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.8,
+      147.82,
+      339.69,
+      164.72
+    ],
+    "text": "Sunil pYjapakshe,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.356644630432129,
+      12.800996780395508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.14,
+      173.4,
+      471.65,
+      190.87
+    ],
+    "text": "Counsel Dharmasena Vidyaratne for the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.13824462890625,
+      13.168869018554688,
+      13.466328620910645,
+      13.488052368164062
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219.33,
+      199.57,
+      472.49,
+      217.04
+    ],
+    "text": "Anoopa de Silva SSC for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.135353088378906,
+      13.195253372192383,
+      13.287951469421387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.77,
+      225.72,
+      142.45,
+      243.19
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.51497745513916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.22,
+      252.13,
+      290.29,
+      269.6
+    ],
+    "text": "Decided on 18.02.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.797769546508789,
+      13.100000381469727,
+      13.19301986694336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.54,
+      305.25,
+      168.44,
+      322.15
+    ],
+    "text": "A. W .A.Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.51893138885498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.9,
+      368.76,
+      529.83,
+      386.23
+    ],
+    "text": "Counsel for the petitioner heard in support of the application to vary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.110795974731445,
+      13.127421379089355,
+      13.129218101501465,
+      13.168869018554688,
+      13.377412796020508,
+      13.436869621276855,
+      13.451826095581055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.77,
+      397.32,
+      529.48,
+      414.79
+    ],
+    "text": "the terms of the bail condition. As the circumstances relating to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.15050220489502,
+      13.197834968566895,
+      13.287951469421387,
+      13.350455284118652,
+      13.377412796020508,
+      13.396201133728027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.66,
+      425.41,
+      529.27,
+      442.88
+    ],
+    "text": "application can be looked into by the learned High Court Judge, we direct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.124427795410156,
+      13.212566375732422,
+      13.295639038085938,
+      13.377412796020508,
+      13.388571739196777,
+      13.422187805175781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.77,
+      453.72,
+      528.97,
+      471.19
+    ],
+    "text": "the High Court Judge to look into the application to vary the condition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.110795974731445,
+      13.151698112487793,
+      13.247371673583984,
+      13.287951469421387,
+      13.377412796020508,
+      13.532219886779785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.54,
+      482.04,
+      529.47,
+      499.51
+    ],
+    "text": "relating to the accused having report to the police and make an appropriate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.184725761413574,
+      13.196842193603516,
+      13.265997886657715,
+      13.287951469421387,
+      13.330718040466309,
+      13.356979370117188,
+      13.590709686279297,
+      13.627384185791016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.43,
+      510.84,
+      339.34,
+      528.31
+    ],
+    "text": "order, if an application is made to that effect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.305882453918457,
+      13.627384185791016,
+      13.687286376953125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.73,
+      587.73,
+      514.84,
+      604.63
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.291159629821777,
+      12.297460556030273,
+      12.298750877380371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.36,
+      665.01,
+      197.36,
+      681.91
+    ],
+    "text": "Sunil Raiapakshe,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.641221046447754,
+      12.753159523010254
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.47,
+      701.73,
+      510.63,
+      719.35
+    ],
+    "text": "I agree. JUDGE OF THE COURT OFAPPEAL",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.291159629821777,
+      12.297460556030273,
+      12.298750877380371,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.51,
+      741.02,
+      102.32,
+      757.56
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.895355224609375
+    ]
+  }
+]
