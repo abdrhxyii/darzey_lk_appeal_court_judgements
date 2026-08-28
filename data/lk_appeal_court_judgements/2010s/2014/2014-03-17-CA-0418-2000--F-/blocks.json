@@ -1,0 +1,812 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      295.37,
+      69.97,
+      303.46,
+      83.3
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.26,
+      104.1,
+      524.61,
+      128.06
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.26,
+      124.25,
+      462.6,
+      148.21
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.22,
+      260.15,
+      194.02,
+      277.49
+    ],
+    "text": "C.A. No. 418/2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.551117897033691
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.06,
+      291.83,
+      262.12,
+      309.17
+    ],
+    "text": "D.C. Nuwara Eliya No. 1580 / MS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.94,
+      180.95,
+      422.37,
+      198.29
+    ],
+    "text": "D. M. Kumarasinghe,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.06,
+      196.78,
+      409.7,
+      229.96
+    ],
+    "text": "127/6, Police Lane, Nuwara Eliya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      386.85,
+      275.98,
+      407.66,
+      293.32
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.36,
+      323.02,
+      452.99,
+      387.64
+    ],
+    "text": "1. Mahinda Seneviratne, 2. Bandula Seneviratne, Both of 'Samanpaya', Godagama, Mawanella.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.648189544677734,
+      13.0,
+      13.714324951171875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.29,
+      449.42,
+      460.67,
+      467.7
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.84,
+      480.7,
+      453.48,
+      545.32
+    ],
+    "text": "1. Mahinda Seneviratne, 2. Bandula Seneviratne, Both of ' Sam an pay a', Godagama, Mawanella.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.258927345275879,
+      13.0,
+      13.234289169311523,
+      13.714324951171875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      457.15,
+      243.83,
+      507.21,
+      261.17
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      457.86,
+      401.74,
+      523.37,
+      419.08
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      408.42,
+      559.41,
+      531.42,
+      576.76
+    ],
+    "text": "Defendant Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      352.29,
+      591.58,
+      370.07,
+      608.92
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.38,
+      622.79,
+      424.08,
+      640.13
+    ],
+    "text": "D. M. Kumarasinghe,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.5,
+      638.38,
+      411.38,
+      671.56
+    ],
+    "text": "127/6, Police Lane, Nuwaraeliya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.49,
+      701.01,
+      528.72,
+      718.36
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.26,
+      102.76,
+      125.38,
+      120.64
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.18,
+      150.52,
+      143.01,
+      168.39
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.53,
+      221.56,
+      152.94,
+      239.44
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.5,
+      245.08,
+      156.3,
+      262.96
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.53,
+      292.61,
+      233.21,
+      310.49
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.8,
+      69.0,
+      304.89,
+      82.33
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.62,
+      103.0,
+      420.41,
+      120.88
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.58,
+      150.52,
+      530.56,
+      168.4
+    ],
+    "text": "Defendant Appellants-Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.6,
+      174.05,
+      468.51,
+      191.93
+    ],
+    "text": "Sandamal Rajapaksa for the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.63,
+      197.81,
+      327.78,
+      215.68
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.74,
+      221.32,
+      325.18,
+      239.2
+    ],
+    "text": "03.03.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.61,
+      245.08,
+      325.46,
+      262.95
+    ],
+    "text": "17.03.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.64,
+      339.89,
+      531.66,
+      357.77
+    ],
+    "text": "The Plaintiff Respondent (hereinafter referred to as the Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.69,
+      363.63,
+      531.56,
+      381.51
+    ],
+    "text": "instituted the said action against the Defendant Appellants (hereinafter referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.44,
+      387.39,
+      532.04,
+      405.28
+    ],
+    "text": "as the Appellants) in the District Court of Nuwara Eliya seeking to recover a sum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.67,
+      411.17,
+      336.5,
+      429.05
+    ],
+    "text": "ofRs. 40,0001- and the interest accrued thereon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.399999618530273,
+      13.431063652038574
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.63,
+      457.97,
+      532.02,
+      475.85
+    ],
+    "text": "Since the said case had been instituted under chapter 53 of the Civil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.143648147583008,
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.5,
+      481.97,
+      532.42,
+      499.85
+    ],
+    "text": "Procedure Code the Appellants have filed a statement of objections seeking leave",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.79,
+      505.47,
+      532.62,
+      523.35
+    ],
+    "text": "to appear and defend the case. The learned District Judge, by order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.96,
+      529.24,
+      532.22,
+      547.12
+    ],
+    "text": "21.06.2000, has allowed to file an answer upon a payment of Rs 40,0001 to the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.9,
+      553.01,
+      532.68,
+      570.89
+    ],
+    "text": "credit of the case. Being aggrieved by the said order the Appellants have appealed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.77,
+      576.75,
+      141.7,
+      594.63
+    ],
+    "text": "to this court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.79,
+      623.79,
+      532.46,
+      641.68
+    ],
+    "text": "I have carefully considered the said statement of objections and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.41,
+      647.32,
+      533.1,
+      665.2
+    ],
+    "text": "impugned order. I am of the view that the learned District Judge has come to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.04,
+      671.08,
+      165.09,
+      688.95
+    ],
+    "text": "right conclusion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.44,
+      68.62,
+      306.32,
+      82.63
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.13,
+      102.82,
+      533.41,
+      121.79
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.986995697021484,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.1,
+      126.51,
+      533.06,
+      144.4
+    ],
+    "text": "order of the learned District Judge dated 21.06.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.86,
+      150.52,
+      269.5,
+      168.4
+    ],
+    "text": "appeal of the Appellants with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.08,
+      199.6,
+      242.34,
+      215.71
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      353.92,
+      245.08,
+      516.86,
+      262.96
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  }
+]

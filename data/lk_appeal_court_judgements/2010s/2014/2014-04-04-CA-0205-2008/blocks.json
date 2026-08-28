@@ -1,0 +1,5601 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      2.71,
+      -13.45,
+      34.74,
+      65.69
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      24.16,
+      -2.48,
+      62.65,
+      28.71
+    ],
+    "text": ". . -,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      8.600000381469727,
+      20.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      4.38,
+      49.48,
+      21.48,
+      77.65
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      24.21,
+      4.66,
+      57.02,
+      66.49
+    ],
+    "text": "\" ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.7000999450683594,
+      45.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      5.28,
+      71.76,
+      9.6,
+      78.66
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.4530301094055176
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.38,
+      32.95,
+      307.38,
+      48.96
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.04,
+      94.17,
+      517.18,
+      113.14
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.38,
+      118.42,
+      392.7,
+      137.39
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.6,
+      166.74,
+      427.81,
+      184.75
+    ],
+    "text": "The Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.82,
+      191.22,
+      377.36,
+      209.23
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.68,
+      215.7,
+      322.0,
+      233.7
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.86,
+      239.94,
+      458.76,
+      257.95
+    ],
+    "text": "Iddagodage Sarath Kumara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.68,
+      264.19,
+      353.01,
+      282.2
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.89,
+      288.66,
+      320.11,
+      306.67
+    ],
+    "text": "Court of Appeal Case No. C.A. 205/2008",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.5,
+      312.89,
+      273.81,
+      330.9
+    ],
+    "text": "H.C. Colombo Case No. 9698/98",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.99,
+      532.01,
+      124.34,
+      550.02
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.15,
+      580.73,
+      131.89,
+      598.74
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.26,
+      653.46,
+      146.54,
+      671.47
+    ],
+    "text": "Argued on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.93,
+      361.37,
+      413.02,
+      379.38
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.09,
+      385.86,
+      459.28,
+      403.87
+    ],
+    "text": "Iddagodage Sarath Kumara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.16,
+      410.09,
+      413.93,
+      428.1
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.92,
+      434.81,
+      322.6,
+      452.82
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.07,
+      458.82,
+      428.28,
+      476.83
+    ],
+    "text": "The Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.89,
+      483.06,
+      371.41,
+      501.07
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.21,
+      531.78,
+      322.26,
+      549.82
+    ],
+    "text": "Sarath De Abrew ,J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.93,
+      556.01,
+      283.59,
+      574.02
+    ],
+    "text": "H.NJ. Perera,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.742718696594238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.97,
+      580.26,
+      441.12,
+      598.27
+    ],
+    "text": "Amila Palliyage for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.7,
+      604.26,
+      512.09,
+      622.27
+    ],
+    "text": "Haripriya Jayasundera, D.S.G. for the Attorney-General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.4,
+      652.98,
+      350.07,
+      670.99
+    ],
+    "text": "23.04.2012 and 08.05.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.71,
+      701.22,
+      204.79,
+      719.23
+    ],
+    "text": "Written Submissions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.25,
+      32.53,
+      307.55,
+      49.07
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.4,
+      69.47,
+      456.78,
+      87.88
+    ],
+    "text": "Tendered on 27.06.2012,31.07.2012 and 18.12.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.97,
+      118.18,
+      295.33,
+      136.59
+    ],
+    "text": "Decided on 04.04.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.51,
+      142.42,
+      196.32,
+      160.83
+    ],
+    "text": "Sarath De Abrew,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.16,
+      189.83,
+      520.54,
+      209.56
+    ],
+    "text": "The Accused-Appellant and one W.P. Prasanna Perera alias Alli (2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      13.67654800415039,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.25,
+      223.54,
+      521.63,
+      241.95
+    ],
+    "text": "Accused) were indicted in the High Court of Colombo for committing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.25,
+      255.94,
+      521.8,
+      274.35
+    ],
+    "text": "murder of Managamage Anura Wickramanayake on 02.01.1994 with one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.99,
+      288.35,
+      522.43,
+      306.76
+    ],
+    "text": "Patapedige Athula Devendra who is now deceased, punishable under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.28,
+      320.75,
+      522.57,
+      339.17
+    ],
+    "text": "Section 296 read with Section 32 of the Penal Code. After trial without a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.42,
+      352.06,
+      521.98,
+      371.79
+    ],
+    "text": "jury, the learned trial Judge acquitted the 2nd Accused and convicted the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.24,
+      386.03,
+      522.44,
+      404.44
+    ],
+    "text": "Accused-Appellant and imposed the death sentence on 11.01.2008. Being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.37,
+      418.43,
+      521.73,
+      436.84
+    ],
+    "text": "aggrieved of the conviction and sentence, the Appellant had preferred this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.15,
+      450.83,
+      200.26,
+      469.24
+    ],
+    "text": "appeal to this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.02,
+      483.22,
+      522.01,
+      501.63
+    ],
+    "text": "At the hearing of the appeal the learned counsel for the Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.27,
+      515.37,
+      457.68,
+      533.79
+    ],
+    "text": "urged the following grounds of appeal on behalf of the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.26,
+      547.78,
+      521.61,
+      566.19
+    ],
+    "text": "1). The learned trial Judge had erred in law by failing to consider the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.524295806884766,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.99,
+      580.43,
+      522.39,
+      598.84
+    ],
+    "text": "vital omission marked by the defence on the evidence of prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.13,
+      612.83,
+      521.51,
+      631.24
+    ],
+    "text": "eye-witness, Nimashi at the trial in relation to her evidence at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.02,
+      644.98,
+      522.37,
+      663.39
+    ],
+    "text": "non-summary inquiry and thereby misdirected himself by placing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.28,
+      677.15,
+      271.6,
+      695.56
+    ],
+    "text": "reliance on her credibility.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23.15,
+      43.37,
+      48.02,
+      62.61
+    ],
+    "text": ": .11",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      11.276769638061523,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.66,
+      33.52,
+      307.43,
+      49.13
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.68,
+      69.46,
+      522.1,
+      87.87
+    ],
+    "text": "2) The learned trial Judge had failed to consider the evidence in favour",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.38,
+      102.11,
+      206.6,
+      120.52
+    ],
+    "text": "of the accused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.6,
+      134.26,
+      521.86,
+      152.67
+    ],
+    "text": "3) The learned trial Judge's findings in the Judgment are contrary to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.36,
+      166.68,
+      302.38,
+      185.09
+    ],
+    "text": "evidence adduced before Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.46,
+      199.31,
+      521.35,
+      217.73
+    ],
+    "text": "4) The learned trial Judge had erred In law by attaching VICarIOUS",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.648927688598633,
+      12.402153968811035,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.64,
+      231.7,
+      476.23,
+      250.11
+    ],
+    "text": "liability and convicting the appellant under common intention.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155.91,
+      296.5,
+      525.54,
+      314.91
+    ],
+    "text": "The facts briefly are as follows as elicited from the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.61683464050293,
+      13.770719528198242,
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.24,
+      328.9,
+      522.04,
+      347.31
+    ],
+    "text": "the main prosecution witnesses, Ajantha Malkanthi, Sandya Kumari",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.63,
+      361.55,
+      522.26,
+      379.96
+    ],
+    "text": "and Sudheera Nimashi. The deceased Anura Wickramanayake was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.49,
+      393.95,
+      525.62,
+      412.36
+    ],
+    "text": "the husband of witness Ajantha Malkanthi who were all residents of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.46,
+      426.35,
+      522.77,
+      444.76
+    ],
+    "text": "Kotahena. On 01.01.1994 they have gone with their friends and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.48,
+      458.74,
+      521.65,
+      477.15
+    ],
+    "text": "relatives to the Galle Face Green in a van to celebrate the new year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.7,
+      491.14,
+      522.49,
+      509.55
+    ],
+    "text": "While they were returning well past midnight in the van driven by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.73,
+      523.29,
+      522.69,
+      541.71
+    ],
+    "text": "Ajantha's brother-in-law, Ranjith Ganegoda around 1.30 A.M, an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.86,
+      555.7,
+      522.76,
+      574.11
+    ],
+    "text": "argument had had occurred between Ranjith and his wife who had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.85,
+      588.1,
+      522.74,
+      606.51
+    ],
+    "text": "attempted to get off from the vehicle. At this point, Ranjith who was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.93211841583252
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.88,
+      620.5,
+      523.02,
+      638.91
+    ],
+    "text": "driving the van, had stopped it near the laundry at Bloemendhal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.93,
+      652.67,
+      522.83,
+      671.08
+    ],
+    "text": "Road, Kotahena. Ranjith had alighted and dealt a blow on his wife",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.11,
+      685.06,
+      522.46,
+      703.47
+    ],
+    "text": "at which point the children inside the van had started crying. Due to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      298.28,
+      33.86,
+      307.2,
+      48.56
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.0,
+      67.58,
+      520.78,
+      87.64
+    ],
+    "text": "the commotion, the accused appellant, Sarath, along with the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.964280128479004,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.38,
+      101.86,
+      521.91,
+      120.27
+    ],
+    "text": "accused, AlIi and others had arrived at the scene. The appellant,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.5,
+      134.26,
+      521.87,
+      152.67
+    ],
+    "text": "Sarath had uttered obscenities whereupon one Samantha who was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.37,
+      166.68,
+      521.66,
+      185.09
+    ],
+    "text": "among the party in the van had dealt a blow on the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.17,
+      199.07,
+      522.42,
+      217.48
+    ],
+    "text": "Thereafter the appellant had run back towards the laundry and had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.27,
+      231.48,
+      522.0,
+      249.89
+    ],
+    "text": "returned with one Athula Devendra who had died before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.41,
+      263.87,
+      521.99,
+      282.28
+    ],
+    "text": "indictment was framed. According to witness Sandya Kumari the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.38,
+      296.27,
+      522.69,
+      314.68
+    ],
+    "text": "appellant Sarath was armed with a manna knife while Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.2,
+      328.68,
+      340.55,
+      347.08
+    ],
+    "text": "Devendra was armed with a kris knife.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.72,
+      393.7,
+      521.73,
+      412.12
+    ],
+    "text": "Witnesses Ajantha,Sandya and Nimashi have testified as to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.26,
+      426.1,
+      522.41,
+      444.51
+    ],
+    "text": "what they witnessed of the second stage of the drama from different",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.39,
+      458.5,
+      521.64,
+      476.91
+    ],
+    "text": "angles. Witness Ajantha had requested Athula Devendra and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.15,
+      490.65,
+      522.57,
+      509.07
+    ],
+    "text": "appellant not to interfere as this was a family dispute. Thereafter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.99,
+      523.31,
+      522.58,
+      541.72
+    ],
+    "text": "Athula and the appellant had gone towards the van which was parked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.23,
+      555.7,
+      163.53,
+      574.11
+    ],
+    "text": "nearby.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.37,
+      620.25,
+      522.08,
+      638.67
+    ],
+    "text": "The van had been parked near the boutique called \"Majeed\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.14,
+      652.66,
+      521.52,
+      671.07
+    ],
+    "text": "close to the laundry. The street lights were burning at the time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.14,
+      684.34,
+      522.71,
+      702.75
+    ],
+    "text": "enabling clear identification. The appellant Sarath and Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      24.57,
+      27.51,
+      54.05,
+      63.79
+    ],
+    "text": ": ..",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      26.371685028076172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      298.4,
+      34.17,
+      306.88,
+      49.25
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.97,
+      69.7,
+      521.81,
+      88.11
+    ],
+    "text": "Devendra were known to witness Ajantha Malkanthi even before this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.41,
+      102.11,
+      521.73,
+      120.52
+    ],
+    "text": "incident. Thereafter witness Ajantha had noticed her husband the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.14,
+      134.5,
+      521.83,
+      152.91
+    ],
+    "text": "deceased fallen on the ground near Bloemendhal Road about 100",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.700793266296387,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.78,
+      166.91,
+      522.46,
+      185.32
+    ],
+    "text": "yards away from where the van was parked. She had noticed Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.01,
+      199.53,
+      522.27,
+      217.94
+    ],
+    "text": "near her fallen husband and had heard witness Sandya shouting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.02,
+      230.46,
+      514.57,
+      250.74
+    ],
+    "text": "\"er\u00a7eDo) e;en\". She had failed to notice the appellant Sarath nearby.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.129512786865234,
+      15.048999786376953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.72,
+      296.74,
+      522.24,
+      315.15
+    ],
+    "text": "Witness Sandya Kumari too had joined the Galle Face trip party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.02,
+      329.15,
+      521.39,
+      347.57
+    ],
+    "text": "with her husband and two sons and was a friend of the deceased party.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.01,
+      361.54,
+      522.02,
+      379.95
+    ],
+    "text": "After the van stopped near the laundry and the shop called \"Majeed\",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.99,
+      394.17,
+      521.98,
+      412.58
+    ],
+    "text": "while those who came in the van were attempting to resolve the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.13,
+      426.82,
+      521.83,
+      445.24
+    ],
+    "text": "dispute between husband Ranjith and wife Kanthi, a crowd of male",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.78,
+      459.22,
+      522.48,
+      477.63
+    ],
+    "text": "youngsters had approached them from Bloemendhal Road to Wasala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.74,
+      491.37,
+      522.06,
+      509.78
+    ],
+    "text": "Road, among whom was the accused-appellant Sarath. There had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.07,
+      523.77,
+      522.0,
+      542.19
+    ],
+    "text": "been a heated exchange of words between this crowd and the party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.04,
+      555.93,
+      522.47,
+      574.34
+    ],
+    "text": "who came in the van. The appellant and the others had run up Wasala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.98,
+      588.34,
+      522.56,
+      606.74
+    ],
+    "text": "Road and the appellant had woken up Athula Devendra and brought",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.02,
+      620.97,
+      521.82,
+      639.38
+    ],
+    "text": "him to the scene. Witness Ajantha too had walked towards them",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.12,
+      653.14,
+      522.21,
+      671.55
+    ],
+    "text": "followed by witness Sandya. Ajantha had implored the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.49,
+      684.02,
+      523.31,
+      703.76
+    ],
+    "text": "Sarath not to create a problem stating\" ~e:D ere5@cs5 ~e(5){9e:D",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.850728511810303,
+      6.999199867248535,
+      12.069586753845215,
+      13.800000190734863,
+      14.480949401855469
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      32.68,
+      32.3,
+      50.26,
+      70.77
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      47.85,
+      -0.8,
+      61.77,
+      29.64
+    ],
+    "text": ". - ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      12.399999618530273,
+      20.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295.78,
+      33.97,
+      304.4,
+      49.31
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.4,
+      70.04,
+      519.16,
+      88.32
+    ],
+    "text": "gCS;)\u00ae;)G5~ \" At this stage witness Sandya had observed that the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.167962074279785,
+      11.0,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.27,
+      102.68,
+      518.83,
+      120.95
+    ],
+    "text": "appellant Sarath was armed with a manna knife while Athula was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.15,
+      135.09,
+      519.68,
+      153.37
+    ],
+    "text": "having a kris knife in his hand. They had walked towards the Majeed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.17,
+      167.48,
+      519.51,
+      185.75
+    ],
+    "text": "boutique where the van was parked. The deceased Anura was about",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.4,
+      199.88,
+      519.14,
+      218.16
+    ],
+    "text": "15 feet away from the witness. Suddenly witness Sandya has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.150583267211914,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.27,
+      232.3,
+      519.17,
+      250.57
+    ],
+    "text": "discovered that her two sons were missing and she called out to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.29,
+      264.68,
+      519.29,
+      282.96
+    ],
+    "text": "deceased Anura to help locate them. The deceased had gone towards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.13,
+      297.32,
+      519.31,
+      315.6
+    ],
+    "text": "Bloemendhal Road in search of the children followed by witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.63,
+      329.72,
+      163.75,
+      348.0
+    ],
+    "text": "Sandya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.52,
+      386.37,
+      519.02,
+      404.65
+    ],
+    "text": "Thereafter witness Sandya had seen Athula chasing after the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.26,
+      418.77,
+      519.82,
+      437.05
+    ],
+    "text": "deceased Anura and repeatedly stabbing him when the latter fell on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.11,
+      451.16,
+      519.74,
+      469.44
+    ],
+    "text": "the ground inspite of her shouting\" q~~O) ~O)\". She had not",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.905908584594727,
+      9.898417472839355,
+      13.699999809265137,
+      13.891215324401855,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.37,
+      485.25,
+      351.55,
+      503.53
+    ],
+    "text": "noticed the appellant Sarath at that stage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153.06,
+      549.8,
+      519.82,
+      568.08
+    ],
+    "text": "Witness Sudheera Nimashi, elder daughter of the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.37,
+      582.2,
+      519.39,
+      600.48
+    ],
+    "text": "Anura and witness Ajantha, was only 10 years old at the time of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.427438735961914,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.76,
+      614.6,
+      519.39,
+      632.88
+    ],
+    "text": "incident. According to Nimashi, after the van stopped near the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.33,
+      646.77,
+      519.13,
+      665.05
+    ],
+    "text": "Majeed boutique, she and her younger sister alighted from the van,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.61,
+      678.69,
+      520.27,
+      696.97
+    ],
+    "text": "while her father the deceased went out and sat on the pavement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      18.87,
+      16.88,
+      25.1,
+      25.67
+    ],
+    "text": "'.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.859184741973877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      292.2,
+      34.35,
+      300.9,
+      49.82
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.91,
+      70.28,
+      515.37,
+      88.56
+    ],
+    "text": "opposite the boutique. There was a crowd of people among whom",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.78,
+      102.92,
+      516.27,
+      121.2
+    ],
+    "text": "was the appellant Sarath. She had seen the appellant approaching her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.88,
+      135.34,
+      516.24,
+      153.61
+    ],
+    "text": "father the deceased and dealing a blow on her falter's head with a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.76,
+      167.97,
+      515.54,
+      186.25
+    ],
+    "text": "manna knife. Thereupon the deceased had started running down",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.73,
+      200.14,
+      515.48,
+      218.41
+    ],
+    "text": "Bloemendhal Road chased by Athula Devendra. Witness Nimashi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.65,
+      232.53,
+      515.69,
+      250.8
+    ],
+    "text": "and her sister had also run after their father. While they were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.77,
+      264.93,
+      516.3,
+      283.2
+    ],
+    "text": "watching, she had seen the deceased falling down whereupon Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.54,
+      297.34,
+      515.89,
+      315.62
+    ],
+    "text": "had repeatedly stabbed him with a knife. At that point she could not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.53,
+      329.72,
+      516.12,
+      348.0
+    ],
+    "text": "remember whether the appellant Sarath was present. Thereafter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.53,
+      362.37,
+      515.54,
+      380.65
+    ],
+    "text": "witness Sandya and Nimashi's mother Ajantha had approached the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.83,
+      395.01,
+      516.05,
+      413.28
+    ],
+    "text": "scene and the deceased was rushed to the hospital in a three-wheeler",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.51,
+      427.41,
+      515.8,
+      445.68
+    ],
+    "text": "where he was pronounced dead. Witness Nimashi was the only",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.65,
+      459.56,
+      515.55,
+      477.84
+    ],
+    "text": "eyewitness who testified as to the accused-appellant attacking the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.68,
+      491.96,
+      256.28,
+      510.24
+    ],
+    "text": "deceased with a weapon.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      148.53,
+      556.52,
+      516.02,
+      574.8
+    ],
+    "text": "At the trial, other than the aforesaid main witnesses Ajantha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      597.15,
+      553.66,
+      599.51,
+      565.34
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.5,
+      588.92,
+      515.92,
+      607.2
+    ],
+    "text": "Malkanthi, Sandya Kumari and Sudheera Nimashi, the prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.56,
+      621.56,
+      515.67,
+      639.84
+    ],
+    "text": "has led the evidence of the doctor who performed the post-mortem",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.65,
+      653.72,
+      516.11,
+      671.99
+    ],
+    "text": "examination followed by police witnesses who conducted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.91,
+      685.64,
+      515.59,
+      703.92
+    ],
+    "text": "investigations then attached to the Kotahena Police. The kris knife",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      0.98,
+      -5.03,
+      13.03,
+      28.09
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      1.69,
+      21.11,
+      13.04,
+      42.88
+    ],
+    "text": "~ {",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.6712939739227295,
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      2.97,
+      39.05,
+      9.86,
+      60.19
+    ],
+    "text": "1 I !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      8.100000381469727,
+      8.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      2.52,
+      56.48,
+      15.53,
+      108.65
+    ],
+    "text": "i ! ! \\ 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.400100231170654,
+      7.800099849700928,
+      11.600000381469727,
+      23.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      1.56,
+      123.96,
+      12.17,
+      194.72
+    ],
+    "text": ", 1 I 1 ! I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.100000381469727,
+      10.0,
+      11.5,
+      16.899999618530273,
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      1.16,
+      193.19,
+      7.7,
+      228.16
+    ],
+    "text": "~ 1 4 , !",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.339663028717041,
+      5.699999809265137,
+      7.800099849700928,
+      8.600000381469727,
+      11.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      1.69,
+      221.27,
+      7.74,
+      235.7
+    ],
+    "text": "~ ,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.880000114440918,
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      0.72,
+      224.69,
+      16.96,
+      264.81
+    ],
+    "text": "~' ;",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.2768399715423584,
+      29.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -0.63,
+      260.39,
+      26.28,
+      410.94
+    ],
+    "text": "~ ! ! , I l I I I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.9436023235321045,
+      12.699999809265137,
+      15.600000381469727,
+      19.100000381469727,
+      19.20009994506836,
+      21.100000381469727,
+      26.70009994506836,
+      48.40010070800781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -0.66,
+      400.92,
+      26.12,
+      587.67
+    ],
+    "text": "J I I I f I I I !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.500100135803223,
+      12.399999618530273,
+      15.199999809265137,
+      15.300000190734863,
+      18.5,
+      32.5,
+      40.29999923706055,
+      41.0,
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      0.12,
+      599.8,
+      21.69,
+      708.79
+    ],
+    "text": "I I I I I I I !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.900100231170654,
+      6.800099849700928,
+      7.500100135803223,
+      8.300000190734863,
+      17.20009994506836,
+      18.20009994506836,
+      19.299999237060547,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      295.0,
+      34.56,
+      303.55,
+      49.76
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      31.92,
+      50.72,
+      39.4,
+      57.05
+    ],
+    "text": "~ .",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.1059916019439697,
+      4.599999904632568
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.52,
+      70.52,
+      517.92,
+      88.8
+    ],
+    "text": "(P3) had been recovered from the scene itself while a manna knife",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.52,
+      102.92,
+      518.2,
+      121.2
+    ],
+    "text": "(PS) had been recovered subsequent to a Section 27 Evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.3,
+      135.08,
+      369.95,
+      153.36
+    ],
+    "text": "Ordinance statement from Athula Devendra.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.13,
+      200.13,
+      517.99,
+      218.41
+    ],
+    "text": "After the closure of the prosecution case the learned trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.11,
+      232.29,
+      517.34,
+      250.56
+    ],
+    "text": "Judge had called for the defence. The case record indicates that the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.3,
+      263.51,
+      518.26,
+      283.2
+    ],
+    "text": "accused appellant had chosen to be silent while the 2nd accused had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.18,
+      297.34,
+      468.14,
+      315.61
+    ],
+    "text": "made a brief exculpatory dock statement denying complicity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.34,
+      362.13,
+      514.58,
+      380.41
+    ],
+    "text": "I have perused the entirety of the Information Book extracts, non-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.47,
+      394.52,
+      518.15,
+      412.8
+    ],
+    "text": "summary and trial proceedings, the judgment of the learned trial Judge and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.52,
+      426.92,
+      518.51,
+      445.2
+    ],
+    "text": "finally the extensive written submissions and case law authorities submitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.22,
+      459.57,
+      518.18,
+      477.85
+    ],
+    "text": "by both parties at the hearing of the appeal. It is now left to consider the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      13.737335205078125,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.47,
+      491.97,
+      414.22,
+      510.25
+    ],
+    "text": "several grounds of appeal urged on behalf of the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.08,
+      556.52,
+      518.65,
+      574.8
+    ],
+    "text": "The main ground of appeal was that the learned trial Judge had erred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.77,
+      588.92,
+      518.26,
+      607.2
+    ],
+    "text": "in law by failing to consider the vital omission marked by the defence in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.49,
+      621.08,
+      518.26,
+      639.36
+    ],
+    "text": "evidence of the prosecution eye-witness Nimashi to the effect that she had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.53,
+      653.24,
+      518.9,
+      671.52
+    ],
+    "text": "failed to mention at the non-summary inquiry that she saw the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.56,
+      685.64,
+      518.47,
+      703.92
+    ],
+    "text": "attacking her father with a manna knife (Page 122 of the Record). A perusal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      293.63,
+      33.72,
+      302.26,
+      49.06
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.58,
+      70.04,
+      516.87,
+      88.32
+    ],
+    "text": "of the judgment of the learned trial Judge, on the contrary, indicates that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.6,
+      102.45,
+      520.02,
+      120.73
+    ],
+    "text": "learned trial Judge had extensively and explicitly considered the impact of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.2,
+      135.08,
+      517.42,
+      153.36
+    ],
+    "text": "this omission (Pages 235-241 of the Record) on her credibility and had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.34,
+      167.48,
+      516.87,
+      185.76
+    ],
+    "text": "arrived at a finding that this omission by itself would not affect the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.34,
+      199.65,
+      517.74,
+      217.93
+    ],
+    "text": "credibility of a witness of the tender age of 10 years in the light of the other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.427438735961914,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.34,
+      232.04,
+      520.02,
+      250.32
+    ],
+    "text": "evidence led at the trial. Due weight should be attached to the opinion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.2,
+      264.45,
+      517.26,
+      282.73
+    ],
+    "text": "the trial Judge unless it could be shown that the trial Judge has drawn",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.35,
+      296.61,
+      394.81,
+      314.88
+    ],
+    "text": "improper inferences from specific facts that are proved.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.18,
+      361.88,
+      517.82,
+      380.16
+    ],
+    "text": "Further, in reviewing the veracity of a witness, the Appellate Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.21,
+      394.3,
+      517.22,
+      412.57
+    ],
+    "text": "may employ certain rules and guidelines to elicit the truth as the Appellate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.17,
+      426.69,
+      517.13,
+      444.97
+    ],
+    "text": "Judges do not have the benefit of observing and questioning the witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.35,
+      459.08,
+      517.23,
+      477.36
+    ],
+    "text": "first-hand. One such rule is to delve in to the police statement of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.46,
+      491.48,
+      517.82,
+      509.76
+    ],
+    "text": "witness, not to use if as substantive evidence but to bolster a proper",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.469915390014648
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.35,
+      523.64,
+      516.39,
+      541.92
+    ],
+    "text": "inference as to the credit-worthiness of a witness, as enunciated by F.N.D.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.16,
+      556.04,
+      517.2,
+      574.32
+    ],
+    "text": "Jayasuriya J in Keerthi Bandara vs Attorney General (2002) (2 SLR 245 at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.27,
+      588.69,
+      517.11,
+      606.97
+    ],
+    "text": "page 261). In the instant case a perusal of the police statement of witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.3,
+      620.85,
+      516.84,
+      639.12
+    ],
+    "text": "Nimashi clearly indicates that she had explicitly mentioned witnessing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.31,
+      653.0,
+      517.76,
+      671.28
+    ],
+    "text": "appellant Sarath attacking her father with a weapon like a manna knife. A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.5,
+      684.92,
+      517.23,
+      703.2
+    ],
+    "text": "perusal of her evidence at the non-summary inquiry also indicate that she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      -1.82,
+      15.43,
+      15.55,
+      107.89
+    ],
+    "text": "f 1 I 1 1 I j J",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      3.0,
+      6.800099849700928,
+      6.900100231170654,
+      9.0,
+      9.100000381469727,
+      10.399999618530273,
+      19.100000381469727,
+      29.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      289.29,
+      34.31,
+      302.6,
+      49.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.339991569519043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.3,
+      70.26,
+      514.98,
+      88.27
+    ],
+    "text": "had testified that the appellant had attacked her father on the head while",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.37,
+      102.41,
+      514.68,
+      120.42
+    ],
+    "text": "seated before the boutique which is consistent with her evidence at the trial,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.18,
+      135.06,
+      515.34,
+      153.07
+    ],
+    "text": "even though she had omitted to mention the use of a weapon like a manna",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.05,
+      167.46,
+      514.95,
+      185.47
+    ],
+    "text": "knife. Evidence of Sandya Kumari (Page 100 of the Record) corroborates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.81,
+      199.61,
+      401.65,
+      217.62
+    ],
+    "text": "the fact that the appellant was armed with a manna knife.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.95,
+      264.65,
+      514.66,
+      282.66
+    ],
+    "text": "Therefore the evidence of Nimashi at the trial that she saw the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.93,
+      297.07,
+      515.37,
+      315.08
+    ],
+    "text": "appellant attacking her father with a manna knife cannot be construed a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.18,
+      329.45,
+      515.15,
+      347.46
+    ],
+    "text": "deliberate concoction. Evidence must be weighed and the evidence of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.37,
+      361.85,
+      514.65,
+      379.86
+    ],
+    "text": "solitary witness, where her testimonial trustworthiness is not impeached,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.95,
+      394.5,
+      514.59,
+      412.51
+    ],
+    "text": "could be acted upon by Court. Sumanasena Vs. Attorney General (1999) (3)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.55,
+      426.89,
+      132.23,
+      444.9
+    ],
+    "text": "SLR 137.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.99,
+      459.29,
+      514.91,
+      477.3
+    ],
+    "text": "In view of the above, the failure of the learned trial Judge to act on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955,
+      14.373068809509277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.87,
+      491.7,
+      515.37,
+      509.72
+    ],
+    "text": "purported omission in the evidence of Nimashi at the non-summary inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.06,
+      523.85,
+      514.9,
+      541.86
+    ],
+    "text": "has not prejudiced the substantial rights of the appellant. Accordingly, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.05,
+      556.49,
+      272.83,
+      574.51
+    ],
+    "text": "main ground of appeal should fail.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.96,
+      619.44,
+      514.21,
+      638.35
+    ],
+    "text": "The 2nd, 3rd and 4th grounds of appeal revolve on the question as to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.496930122375488,
+      8.869302749633789,
+      8.995047569274902,
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.28,
+      653.21,
+      515.32,
+      671.23
+    ],
+    "text": "the correctness and justification based on the evidence of the appellant being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.44,
+      685.38,
+      515.45,
+      703.39
+    ],
+    "text": "convicted of the charge of murder on the basis of acting in common",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.39,
+      321.87,
+      601.28,
+      346.05
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.600000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.84,
+      402.14,
+      600.98,
+      422.02
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.85,
+      467.05,
+      600.63,
+      485.74
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.28,
+      495.52,
+      602.98,
+      537.02
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      30.20009994506836
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.51,
+      541.67,
+      600.31,
+      560.17
+    ],
+    "text": "fi",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.500100135803223,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.04,
+      599.97,
+      605.39,
+      649.86
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      37.40010070800781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      595.35,
+      660.34,
+      601.0,
+      731.45
+    ],
+    "text": "t,I,,,",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.399999618530273,
+      16.299999237060547,
+      17.299999237060547,
+      18.5,
+      19.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      -0.22,
+      -6.18,
+      18.42,
+      37.66
+    ],
+    "text": "1 -I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.0,
+      20.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      0.98,
+      113.67,
+      10.21,
+      136.47
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      -0.92,
+      156.88,
+      16.51,
+      210.25
+    ],
+    "text": "J 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.70009994506836,
+      20.899999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      -1.83,
+      218.38,
+      25.19,
+      418.68
+    ],
+    "text": "J I j I , i I i i I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      12.100000381469727,
+      14.600000381469727,
+      18.20009994506836,
+      20.399999618530273,
+      20.5,
+      21.100000381469727,
+      23.299999237060547,
+      41.599998474121094,
+      48.599998474121094
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      -0.8,
+      411.36,
+      18.25,
+      553.08
+    ],
+    "text": "J I I I I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      18.5,
+      22.100000381469727,
+      28.299999237060547,
+      28.600000381469727,
+      34.099998474121094
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      -0.32,
+      576.95,
+      15.69,
+      616.52
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      291.26,
+      34.04,
+      302.99,
+      48.98
+    ],
+    "text": "11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.54982852935791
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.36,
+      70.04,
+      517.05,
+      88.32
+    ],
+    "text": "intention with Athula Devendra in causing the death of the deceased. A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.02,
+      102.45,
+      517.06,
+      120.73
+    ],
+    "text": "perusal of the judgment clearly indicates that the learned trial Judge had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.34,
+      134.84,
+      517.03,
+      153.12
+    ],
+    "text": "come to a finding that the appellant was acting in furtherance of a common",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.36,
+      167.25,
+      516.92,
+      185.53
+    ],
+    "text": "intention with Athula Devendra in causing the death of the deceased. (Pages",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.18,
+      199.4,
+      216.41,
+      217.68
+    ],
+    "text": "254-259 of the Record).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.7,
+      263.28,
+      517.33,
+      282.24
+    ],
+    "text": "Based on the 2nd, 3rd and 4th grounds of appeal, it was the contention",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.227253913879395,
+      12.540644645690918,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.1,
+      296.84,
+      517.33,
+      315.12
+    ],
+    "text": "of the appellant that the learned trial Judge had erred in law by convicting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.94,
+      329.26,
+      466.65,
+      347.53
+    ],
+    "text": "the appellant under common intention due to the following reasons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96.08,
+      361.88,
+      517.27,
+      380.17
+    ],
+    "text": "a) The evidence of Ajantha Malkanthi and Sandya Kumari clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.86,
+      394.04,
+      517.15,
+      412.32
+    ],
+    "text": "established that the appellant Sarath did not chase after the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.1,
+      426.44,
+      475.73,
+      444.72
+    ],
+    "text": "and was not present at the point Athula Devendra inflicted fatal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.36,
+      458.86,
+      289.01,
+      477.13
+    ],
+    "text": "injuries on the fallen deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96.26,
+      491.0,
+      517.17,
+      509.28
+    ],
+    "text": "b) The learned trial Judge failed to consider in favour of the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699349403381348,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.96,
+      523.42,
+      517.78,
+      541.69
+    ],
+    "text": "that no weapon was recovered from his possession and the manna",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.97,
+      556.04,
+      517.5,
+      574.33
+    ],
+    "text": "knife (P5) too had been recovered from the possession of Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.94,
+      588.44,
+      359.97,
+      606.72
+    ],
+    "text": "Devendra found under the bed in his room.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      96.35,
+      620.6,
+      517.15,
+      638.88
+    ],
+    "text": "c) The learned trial Judge had incorrectly stated in the judgment (Page",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.674375534057617,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.39,
+      641.82,
+      601.5,
+      671.04
+    ],
+    "text": "235 of the Record) that witness Sandya Kumari had testified that she i",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633,
+      16.899999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      597.33,
+      730.14,
+      601.99,
+      749.38
+    ],
+    "text": "Ir",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.199999809265137,
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      597.05,
+      786.93,
+      600.22,
+      802.6
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      -0.27,
+      88.54,
+      29.03,
+      164.63
+    ],
+    "text": "I ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      31.600000381469727,
+      52.70009994506836
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      -1.22,
+      174.45,
+      20.58,
+      355.7
+    ],
+    "text": "1 J 1 f 1 f 1 i ! I , j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      10.100000381469727,
+      11.5,
+      12.100000381469727,
+      13.399999618530273,
+      13.600000381469727,
+      14.199999809265137,
+      15.100000381469727,
+      17.0,
+      21.299999237060547,
+      23.399999618530273,
+      38.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      -1.46,
+      354.47,
+      22.95,
+      480.18
+    ],
+    "text": "~ 1 I I I I i I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.379589080810547,
+      8.800000190734863,
+      11.100000381469727,
+      12.0,
+      15.899999618530273,
+      27.299999237060547,
+      30.899999618530273,
+      43.90010070800781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      291.27,
+      34.16,
+      304.72,
+      49.69
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.729867935180664
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.28,
+      70.05,
+      516.79,
+      88.33
+    ],
+    "text": "saw the appellant too chasing after the deceased with a manna knife,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      113.99,
+      102.44,
+      321.22,
+      120.72
+    ],
+    "text": "which was contrary to her evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.11,
+      134.85,
+      517.08,
+      153.13
+    ],
+    "text": "d) There was no evidence of pre-arrangement or participatory presence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.694149017333984,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      113.85,
+      167.24,
+      517.17,
+      185.52
+    ],
+    "text": "of the appellant along with Athula Devendra leading to a necessary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.11,
+      199.65,
+      516.63,
+      217.93
+    ],
+    "text": "inference of sharing of common intention to cause harm to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      113.87,
+      232.52,
+      171.11,
+      250.8
+    ],
+    "text": "deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.86,
+      264.68,
+      516.88,
+      282.96
+    ],
+    "text": "On a perusal of the evidence led at the trial, other than with regard to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.88,
+      297.08,
+      517.08,
+      315.36
+    ],
+    "text": "contention c) above, I am inclined to conclude that the learned trial Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.17,
+      329.25,
+      520.1,
+      347.53
+    ],
+    "text": "did not misdirect himself in convicting the appellant on the basis of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.1,
+      361.88,
+      350.74,
+      380.16
+    ],
+    "text": "common intention for the following reasons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.1,
+      394.3,
+      517.39,
+      412.57
+    ],
+    "text": "a) When the van stopped near the laundry, the appellant had come with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.1,
+      426.93,
+      517.15,
+      445.21
+    ],
+    "text": "others and uttered obscenities whereupon he was dealt a blow by one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.46,
+      459.33,
+      296.55,
+      477.61
+    ],
+    "text": "Samantha who came in the van.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.26,
+      491.48,
+      517.75,
+      509.76
+    ],
+    "text": "b) The appellant had run towards the laundry and returned with Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699349403381348,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      113.93,
+      523.65,
+      513.76,
+      541.93
+    ],
+    "text": "Devendra both wielding knives, leading to the inference of pre-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.11,
+      556.29,
+      161.58,
+      574.56
+    ],
+    "text": "concert.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.1,
+      588.44,
+      517.06,
+      606.72
+    ],
+    "text": "c) When they were requested to move away as this was a family dispute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      113.98,
+      620.84,
+      516.99,
+      639.12
+    ],
+    "text": "they had walked past the parked van in the direction where the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.12,
+      653.26,
+      407.38,
+      671.53
+    ],
+    "text": "deceased was seated opposite the Majeed boutique.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      597.3,
+      729.35,
+      600.75,
+      753.23
+    ],
+    "text": ",i,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      10.5,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.71,
+      7.62,
+      73.77,
+      35.92
+    ],
+    "text": "-.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      20.600000381469727
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      289.55,
+      34.21,
+      302.23,
+      49.55
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.11510944366455
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.43,
+      70.05,
+      514.72,
+      88.33
+    ],
+    "text": "d) Thereupon the appellant has drawn first blood by attacking the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.45,
+      102.45,
+      442.27,
+      120.73
+    ],
+    "text": "deceased with the manna knife, in the presence of Athula.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.41,
+      135.09,
+      515.06,
+      153.36
+    ],
+    "text": "e) Thereafter Athula Devendra had taken over simultaneously and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.2,
+      167.25,
+      515.53,
+      185.53
+    ],
+    "text": "chased after the deceased and dealt fatal stab blows in furtherance of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.19,
+      199.64,
+      515.04,
+      217.92
+    ],
+    "text": "common murderous intention. Gnanapala and Nissanka V s. Attorney",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.483285903930664,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.18,
+      232.06,
+      310.49,
+      250.33
+    ],
+    "text": "General (C.A. No. 107-108/1997).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.29,
+      264.45,
+      515.52,
+      282.89
+    ],
+    "text": "f) The fact that the manna knife (PS) apparently used by the appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.07,
+      296.84,
+      515.42,
+      315.12
+    ],
+    "text": "was recovered from the possession of Athula Devendra under his bed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.05,
+      329.48,
+      514.39,
+      347.76
+    ],
+    "text": "too could be construed that they were acting in concert subsequent to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.04,
+      361.88,
+      191.28,
+      380.16
+    ],
+    "text": "the event too.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.2,
+      394.28,
+      515.83,
+      412.56
+    ],
+    "text": "The very fact that it was the appellant who brought in Athula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.26,
+      426.44,
+      515.08,
+      444.71
+    ],
+    "text": "Devendra, the fact that both were armed and finally the fact that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.44,
+      458.84,
+      514.82,
+      477.11
+    ],
+    "text": "appellant attacked the deceased first, to my mind, was sufficient to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.42,
+      491.25,
+      514.39,
+      509.53
+    ],
+    "text": "establish a meeting of the minds and a sharing of a common intention to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.3,
+      523.65,
+      515.58,
+      541.93
+    ],
+    "text": "harm the deceased, from which point the thread of vicarious liability",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.53,
+      556.05,
+      515.71,
+      574.33
+    ],
+    "text": "would run to bind the action of one to the other Once a participatory",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.34,
+      588.2,
+      515.21,
+      606.48
+    ],
+    "text": "presence in furtherance of a common intention is established at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.68,
+      620.6,
+      515.76,
+      638.88
+    ],
+    "text": "commencement of an incident, there is no requirement that both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.59,
+      652.76,
+      516.09,
+      671.04
+    ],
+    "text": "perpetrators should be physically present at the culmination of the event",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      94.8,
+      684.68,
+      516.46,
+      702.96
+    ],
+    "text": "unless it could be shown by some overt act that one perpetrator",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      -3.1,
+      138.69,
+      25.26,
+      217.8
+    ],
+    "text": "1 f I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      13.600000381469727,
+      51.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      -3.04,
+      212.34,
+      13.06,
+      282.67
+    ],
+    "text": "J i I I ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      13.0,
+      19.100000381469727,
+      25.0,
+      32.20009994506836
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      21.88,
+      30.99,
+      40.84,
+      65.61
+    ],
+    "text": ". '..",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.904911041259766,
+      25.20009994506836
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      289.05,
+      34.08,
+      302.36,
+      49.28
+    ],
+    "text": "14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.339991569519043
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.95,
+      69.94,
+      516.7,
+      88.35
+    ],
+    "text": "deliberately withdraw from the situation to disengage and detach himself",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      94.42,
+      102.34,
+      514.94,
+      120.75
+    ],
+    "text": "from vicarious liability. Therefore, the fact that the appellant, after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.96,
+      134.76,
+      514.96,
+      153.17
+    ],
+    "text": "attacking the deceased with the manna knife, was not physically present",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.73,
+      167.38,
+      514.21,
+      185.79
+    ],
+    "text": "alongside when Athula stabbed the deceased would not absolve the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.72,
+      199.79,
+      480.65,
+      218.21
+    ],
+    "text": "appellant from incurring vicarious liability on the actions of Athula.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      148.05,
+      296.98,
+      514.7,
+      315.4
+    ],
+    "text": "A minute perusal of the Information Book Extracts would have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.8,
+      329.14,
+      515.15,
+      347.55
+    ],
+    "text": "thrown further light of previous enmity and evidence of motive between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.8,
+      361.79,
+      514.64,
+      380.2
+    ],
+    "text": "the deceased and the perpetrators, which the prosecuting State Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.86,
+      394.41,
+      514.85,
+      412.82
+    ],
+    "text": "had failed to grasp and lead at the trial, which would have perhaps",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.98,
+      426.82,
+      512.43,
+      445.22
+    ],
+    "text": "answered the pertinent question why the assailants attacked the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      148.49,
+      523.54,
+      515.33,
+      541.95
+    ],
+    "text": "In view of the above I am of the view that the Appellate Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      94.35,
+      555.95,
+      514.67,
+      574.36
+    ],
+    "text": "should not interfere with the conviction under Article 137 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.789496421813965,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      94.18,
+      588.57,
+      515.28,
+      606.98
+    ],
+    "text": "Constitution. Accordingly, I affirm the conviction and sentence imposed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      94.34,
+      621.21,
+      374.51,
+      639.62
+    ],
+    "text": "by the learned trial Judge and dismiss the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      288.34,
+      34.58,
+      301.33,
+      50.05
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.302022933959961
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      147.33,
+      70.77,
+      254.42,
+      89.05
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      256.96,
+      135.8,
+      487.28,
+      154.08
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      75.05,
+      167.97,
+      166.47,
+      186.25
+    ],
+    "text": "H.NJ. Perera,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.796957015991211
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      111.26,
+      200.61,
+      153.14,
+      218.88
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      257.2,
+      265.17,
+      487.52,
+      283.45
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      593.16,
+      315.62,
+      603.95,
+      417.11
+    ],
+    "text": "; ( II !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0,
+      12.0,
+      14.600000381469727,
+      15.100000381469727,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      595.69,
+      415.33,
+      600.25,
+      437.86
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      596.01,
+      432.95,
+      601.67,
+      486.11
+    ],
+    "text": "~ t fff",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.5272653102874756,
+      10.0,
+      11.399999618530273,
+      13.5,
+      14.699999809265137
+    ]
+  }
+]

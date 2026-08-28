@@ -1,0 +1,913 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      297.25,
+      71.3,
+      304.75,
+      84.64
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.66,
+      105.64,
+      526.05,
+      129.47
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.43,
+      125.78,
+      464.64,
+      149.62
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.14,
+      243.01,
+      196.02,
+      260.48
+    ],
+    "text": "C.A. No. 434 /2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.518465995788574
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.74,
+      274.68,
+      232.02,
+      292.16
+    ],
+    "text": "D.C. Ratnapura No. 7657 / P",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.22,
+      164.28,
+      512.44,
+      197.6
+    ],
+    "text": "Kariyawasam Thawalama Gamage Chandrapala Wijewardena,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.7,
+      195.72,
+      415.86,
+      229.04
+    ],
+    "text": "'Wijaya Sevana', Wakwella, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.52,
+      259.32,
+      409.29,
+      276.79
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.68,
+      290.52,
+      442.61,
+      355.28
+    ],
+    "text": "1. U. A. Ratnapala, 2. A. K. Piyadasa, Both of Pathak ada, Nivithigala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69674301147461,
+      12.967530250549316,
+      13.100000381469727,
+      13.766971588134766
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.82,
+      227.4,
+      508.87,
+      244.87
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.85,
+      353.4,
+      514.66,
+      402.56
+    ],
+    "text": "3. Gangulvitiye linarathana Thero, Sri Sadhdharmaramaya, Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.097749710083008,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      459.3,
+      400.93,
+      524.77,
+      418.4
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.97,
+      432.85,
+      462.11,
+      451.13
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.86,
+      463.81,
+      512.88,
+      497.12
+    ],
+    "text": "Kariyawasam Thawalama Gamage Chandrapala Wijewardena,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.42,
+      495.47,
+      416.58,
+      528.78
+    ],
+    "text": "'Wijaya Sevana', Wakwella, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.98,
+      527.16,
+      518.94,
+      544.63
+    ],
+    "text": "Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.73,
+      559.09,
+      371.43,
+      576.56
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.16,
+      590.04,
+      515.66,
+      701.83
+    ],
+    "text": "1. U. A. Ratnapala, 2. A. K. Piyadasa, Both of Pathakada, Nivithigala. 3. Gangulvitiye linarathana Thero, Sri Sadhdharmaramaya, Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69674301147461,
+      12.967530250549316,
+      12.988374710083008,
+      13.097749710083008,
+      13.100000381469727,
+      13.766971588134766
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      389.22,
+      715.57,
+      523.39,
+      733.04
+    ],
+    "text": "Defendant Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.26,
+      604.51,
+      602.08,
+      669.81
+    ],
+    "text": "Iii,i ; i ;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.900099992752075,
+      4.900100231170654,
+      5.500100135803223,
+      5.900100231170654,
+      11.5,
+      13.0,
+      17.899999618530273,
+      19.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.55,
+      763.91,
+      600.72,
+      779.57
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      598.09,
+      801.37,
+      603.98,
+      830.5
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      21.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.9,
+      152.92,
+      122.31,
+      170.8
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.3,
+      200.45,
+      139.86,
+      218.33
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.69,
+      271.72,
+      149.34,
+      289.6
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.66,
+      295.25,
+      153.18,
+      313.13
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.18,
+      342.52,
+      229.61,
+      360.41
+    ],
+    "text": "UPAL Y ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.46,
+      71.29,
+      301.48,
+      85.57
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.26,
+      153.16,
+      416.57,
+      171.04
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.98,
+      200.69,
+      509.96,
+      218.57
+    ],
+    "text": "Plaintiff Appellant-Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.25,
+      224.45,
+      516.14,
+      242.32
+    ],
+    "text": "Anurudhdha Darmaratne with Indika Jayatissa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.15,
+      247.95,
+      429.71,
+      265.83
+    ],
+    "text": "for the Defendant Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.96,
+      271.72,
+      321.63,
+      289.6
+    ],
+    "text": "24.01.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.96,
+      295.25,
+      321.63,
+      313.13
+    ],
+    "text": "28.04.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.28,
+      390.04,
+      528.39,
+      407.92
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.32,
+      413.81,
+      528.54,
+      431.69
+    ],
+    "text": "instituted the said action against the Defendant Respondents (hereinafter referred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.92,
+      437.31,
+      527.94,
+      455.2
+    ],
+    "text": "to as the Respondents) in the District Court of Ratnapura seeking a judgment to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.98,
+      461.09,
+      377.47,
+      478.97
+    ],
+    "text": "partition the land described in the schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.14,
+      508.13,
+      529.0,
+      526.01
+    ],
+    "text": "The 3 rd Defendant Respondent has filed a statement of claim praying",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.202095031738281,
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.53,
+      532.13,
+      529.05,
+      550.01
+    ],
+    "text": "for a dismissal of the Appellant's action and for a declaration to the land described",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.54,
+      556.13,
+      224.1,
+      574.0
+    ],
+    "text": "in the schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.98,
+      603.16,
+      529.02,
+      621.04
+    ],
+    "text": "After the framing of issues the learned District Judge has dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.43,
+      626.68,
+      529.27,
+      644.55
+    ],
+    "text": "the Appellant's action on the basis that the land in suit was subject to a charitable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.68,
+      650.45,
+      528.98,
+      668.33
+    ],
+    "text": "trust. Being aggrieved by the said order dated 13.07.2000 the Appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.78,
+      674.19,
+      194.14,
+      692.07
+    ],
+    "text": "appealed to this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.07,
+      802.25,
+      606.33,
+      841.87
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      29.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.4,
+      71.5,
+      307.28,
+      85.51
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.92,
+      105.89,
+      532.67,
+      123.77
+    ],
+    "text": "The Appellant has set out several grounds of appeal in paragraph 08",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.314125061035156,
+      13.399999618530273,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.3,
+      129.4,
+      533.75,
+      147.28
+    ],
+    "text": "of the petition of appeal. But the Appellant has not shown due diligence in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.22,
+      153.16,
+      204.97,
+      171.03
+    ],
+    "text": "prosecuting this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.18,
+      200.69,
+      534.37,
+      218.56
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.78,
+      224.45,
+      534.26,
+      242.33
+    ],
+    "text": "order of the learned District Judge dated 13.07.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.54,
+      248.21,
+      265.76,
+      266.09
+    ],
+    "text": "appeal of the Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.52,
+      297.28,
+      244.05,
+      313.39
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.36,
+      342.76,
+      518.3,
+      360.64
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  }
+]

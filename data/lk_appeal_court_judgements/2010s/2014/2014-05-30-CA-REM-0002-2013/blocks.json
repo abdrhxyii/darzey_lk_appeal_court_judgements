@@ -1,0 +1,586 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      103.82,
+      72.47,
+      511.71,
+      88.01
+    ],
+    "text": "THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      399.46,
+      182.42
+    ],
+    "text": "REPUBLIC OF SRI LANKA. CA/ REM/02/2013 H.C. Colombo Action in Rem 12/2011",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      182.4,
+      476.83,
+      264.53
+    ],
+    "text": "Colombo Commercial Fertilizers Ltd., Head Office, Hunupitiya, Wattala.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      264.51,
+      518.35,
+      461.47
+    ],
+    "text": "PLAINTIFF Vs. Motor Vessel \"SCI Mumbai\" [Scheduled to arrive in the Port of Colombo] Shipping Corporation of India Ltd 245, Madame Cama Road, Mumbai - 400021 India",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      470.17,
+      408.79,
+      491.27
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.28,
+      -12.43,
+      24.13,
+      52.83
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      47.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.02,
+      42.96,
+      21.05,
+      235.29
+    ],
+    "text": "J i 1 1 I I i ! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      11.600000381469727,
+      15.600000381469727,
+      16.899999618530273,
+      21.0,
+      26.100000381469727,
+      30.20009994506836,
+      38.599998474121094,
+      41.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.49,
+      228.41,
+      7.46,
+      257.84
+    ],
+    "text": "I I j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.5,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.28,
+      273.88,
+      24.13,
+      367.24
+    ],
+    "text": "J j I 1 I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.399999618530273,
+      11.800000190734863,
+      17.5,
+      47.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.29,
+      71.28,
+      229.62,
+      86.96
+    ],
+    "text": "CAl REM/02/2013",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.100299835205078
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.47,
+      96.74,
+      181.13,
+      112.21
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.64,
+      164.18,
+      190.36,
+      179.65
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.26,
+      233.78,
+      208.79,
+      263.18
+    ],
+    "text": "ARGUED & DECIDED ON",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.26,
+      314.04,
+      270.05,
+      330.11
+    ],
+    "text": "ANIL GOONERA TNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.38,
+      71.17,
+      473.83,
+      87.24
+    ],
+    "text": "H.C. Colombo Action in Rem 12/2011",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.42,
+      96.74,
+      419.6,
+      112.21
+    ],
+    "text": "ANIL GOONERA TNE, 1. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      10.910124778747559,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.63,
+      117.39,
+      422.63,
+      132.86
+    ],
+    "text": "MAUNIE GUNARA TNE, 1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.910124778747559,
+      11.600000381469727,
+      11.74608039855957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.56,
+      164.18,
+      513.86,
+      193.57
+    ],
+    "text": "Chandaka Jayasundera with Rehan Almeida and Vishmi Fernando for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.63,
+      205.94,
+      511.5,
+      235.33
+    ],
+    "text": "Shibly Aziz PC with Dushantha de Silva for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.78,
+      247.71,
+      337.41,
+      263.18
+    ],
+    "text": "30.05.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.08,
+      365.78,
+      534.06,
+      381.25
+    ],
+    "text": "Counsel on either side indicate to Court that in the connected",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.5,
+      393.86,
+      533.47,
+      409.33
+    ],
+    "text": "revision application bearing No. CA (PHC) APN 47/2000 the judgment was",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.4,
+      421.45,
+      534.0,
+      436.93
+    ],
+    "text": "delivered in favour of the petitioner. In view of the above, learned Counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.5,
+      449.06,
+      533.79,
+      464.54
+    ],
+    "text": "the appellant moves to withdraw this appeal. Application for withdrawal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.65,
+      477.38,
+      332.84,
+      492.85
+    ],
+    "text": "allowed. Appeal is dismissed. No costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.96,
+      579.48,
+      285.44,
+      595.55
+    ],
+    "text": "MALINIE GUNARA TNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.39,
+      605.29,
+      243.79,
+      620.77
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.65,
+      656.98,
+      524.46,
+      673.07
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.4,
+      683.13,
+      154.58,
+      698.66
+    ],
+    "text": "TW",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.386072158813477
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.06,
+      345.52,
+      602.48,
+      397.03
+    ],
+    "text": "i!II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.199999809265137,
+      18.5,
+      19.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.57,
+      472.92,
+      601.32,
+      491.47
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.81,
+      564.97,
+      599.73,
+      574.45
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.900100231170654
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.51,
+      624.84,
+      602.49,
+      668.7
+    ],
+    "text": "ft",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5,
+      17.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.48,
+      675.57,
+      600.98,
+      689.58
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  }
+]

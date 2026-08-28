@@ -1,0 +1,582 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.06,
+      332.32,
+      189.02
+    ],
+    "text": ". Case No: CA/BRA/01/2005 Board of Review Application No: BRA - 533",
+    "fonts": [
+      "Arial",
+      "Cambria",
+      "Cambria,Bold",
+      "Cambria,Italic"
+    ],
+    "sizes": [
+      2.5199999809265137,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      189.0,
+      328.24,
+      254.66
+    ],
+    "text": "SCA - 199",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      254.67,
+      535.87,
+      320.45
+    ],
+    "text": "Lyceum International School (Private) Limited, 3/1, Raymond Road, Nugegoda.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      320.31,
+      505.15,
+      468.19
+    ],
+    "text": "APPELLANT -Vs- Commissioner General of Inland Revenue, Department of Inland Revenue, Inland Revenue Building, Sir Chittampalam A Gardiner Mawatha, Colombo 02.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      468.05,
+      415.96,
+      484.51
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.71,
+      69.26,
+      199.14,
+      85.8
+    ],
+    "text": "C.A. No. BRA/01/2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.121796607971191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.52,
+      120.91,
+      113.26,
+      139.75
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.51196575164795
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.21,
+      195.32,
+      120.68,
+      214.16
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.35641860961914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.86,
+      256.33,
+      126.12,
+      272.74
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.31,
+      279.56,
+      141.35,
+      298.4
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.11666202545166,
+      13.453056335449219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.27,
+      122.53,
+      370.74,
+      139.07
+    ],
+    "text": "Sisira J. de Abrew J. (P / CAl",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.377679824829102,
+      12.378931045532227,
+      12.399999618530273,
+      12.540602684020996,
+      12.779589653015137,
+      12.8879976272583,
+      13.386971473693848,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.46,
+      153.73,
+      347.81,
+      170.27
+    ],
+    "text": "P.W.D.C. Jayathilaka J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.15934944152832,
+      13.386971473693848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.05,
+      196.7,
+      385.08,
+      213.24
+    ],
+    "text": "Shivaji Felix for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.594966888427734,
+      12.621275901794434,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.53,
+      221.17,
+      476.08,
+      237.71
+    ],
+    "text": "Arjuna Obeysekara DSG. for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.823226928710938,
+      12.908426284790039,
+      12.944829940795898,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.96,
+      280.81,
+      274.25,
+      297.22
+    ],
+    "text": "29.04.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.923782348632812
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.16,
+      356.09,
+      233.62,
+      375.05
+    ],
+    "text": "Sisira J. de Abrew J. (P I CAl",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.522180557250977,
+      12.73346996307373,
+      12.769152641296387,
+      12.979795455932617,
+      13.123209953308105,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.06,
+      396.37,
+      534.44,
+      412.91
+    ],
+    "text": "Both Counsel submit that the joint motion including terms of settlement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597674369812012,
+      12.785798072814941,
+      12.797866821289062,
+      12.830574035644531,
+      12.895451545715332,
+      12.942243576049805,
+      12.986719131469727,
+      13.015093803405762,
+      13.083322525024414,
+      13.184296607971191,
+      13.451791763305664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.34,
+      424.7,
+      476.17,
+      441.24
+    ],
+    "text": "has been filed. Parties are directed to comply with terms of settlement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.45706844329834,
+      12.704022407531738,
+      12.733903884887695,
+      12.752246856689453,
+      12.772990226745605,
+      12.825209617614746,
+      12.86536693572998,
+      12.971672058105469,
+      13.03618049621582,
+      13.063308715820312,
+      13.230535507202148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.46,
+      476.37,
+      256.74,
+      492.12
+    ],
+    "text": "Proceedings are tenninated",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.167036056518555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.7,
+      552.37,
+      487.41,
+      568.91
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.41873550415039,
+      12.538278579711914,
+      12.72084903717041
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.78,
+      591.01,
+      201.99,
+      607.55
+    ],
+    "text": "P.W.D.C. Jayathilaka J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.181991577148438,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.51,
+      615.26,
+      135.94,
+      631.8
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.679352760314941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.2,
+      639.26,
+      460.67,
+      655.8
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.479544639587402,
+      12.630949020385742,
+      12.72084903717041,
+      12.841248512268066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.7,
+      678.13,
+      86.33,
+      694.67
+    ],
+    "text": "CN/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.850950241088867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.56,
+      502.86,
+      599.84,
+      514.12
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.81,
+      604.57,
+      601.59,
+      623.26
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.48,
+      653.42,
+      600.59,
+      667.09
+    ],
+    "text": "l",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.8,
+      696.53,
+      601.94,
+      717.01
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.57,
+      743.49,
+      602.14,
+      768.02
+    ],
+    "text": "Jf",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.02,
+      791.86,
+      600.47,
+      824.39
+    ],
+    "text": "I!f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      11.199999809265137,
+      12.399999618530273
+    ]
+  }
+]

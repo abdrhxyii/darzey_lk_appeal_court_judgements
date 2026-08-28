@@ -1,0 +1,512 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.86,
+      72.47,
+      542.65,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      359.74,
+      177.5
+    ],
+    "text": "OF SRI LANKA Writ Application No: 368/13",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      177.48,
+      527.35,
+      226.7
+    ],
+    "text": "Awaradeniyage Suranga Viraj Mutukumarana No: 45,Temple Road, Ihala Harabadda,Dela",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      227.0,
+      488.95,
+      371.33
+    ],
+    "text": "Petitioner -Vs- Sabaragamuwa University of Sri Lanka, P.O. Box 02, Belihuloya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      383.67,
+      339.64,
+      400.13
+    ],
+    "text": "And 47 others",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      412.61,
+      410.8,
+      429.07
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.45,
+      112.67,
+      133.8,
+      129.7
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.38,
+      176.75,
+      141.28,
+      193.78
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.72,
+      262.19,
+      162.18,
+      279.22
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      368.5,
+      71.16,
+      494.32,
+      88.19
+    ],
+    "text": "CA 368/2013 WRIT",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.62123966217041
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.95,
+      112.94,
+      403.2,
+      129.48
+    ],
+    "text": "Sisira J. de Abrew, J (PjCA) &",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.309218406677246,
+      12.399999618530273,
+      12.434850692749023,
+      12.779589653015137,
+      12.8879976272583,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.38,
+      134.06,
+      371.43,
+      150.6
+    ],
+    "text": "P.W.D.C. Jayathilaka, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.020428657531738,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.26,
+      176.53,
+      515.65,
+      193.07
+    ],
+    "text": "Nuwan S. Bopage for the Petitioner with Lalith N.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.954756736755371,
+      12.399999618530273,
+      12.424825668334961,
+      12.636003494262695,
+      12.72703742980957,
+      12.752246856689453,
+      12.83936595916748,
+      12.928055763244629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.06,
+      197.89,
+      302.62,
+      214.43
+    ],
+    "text": "Gunarathna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.13879108428955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.25,
+      219.01,
+      473.21,
+      235.55
+    ],
+    "text": "N. Unamboowe DSG for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.217556953430176,
+      12.399999618530273,
+      12.534965515136719,
+      12.696114540100098,
+      12.837868690490723,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.06,
+      261.95,
+      294.13,
+      278.23
+    ],
+    "text": "04.04.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.85155200958252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.57,
+      304.92,
+      274.57,
+      321.95
+    ],
+    "text": "SISIRA J. DE ABREW, J (PICA)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.809900283813477,
+      12.300000190734863,
+      12.480278968811035,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.69,
+      334.69,
+      534.65,
+      351.23
+    ],
+    "text": "Learned counsel appearing for the petitioner makes an application to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.45706844329834,
+      12.724454879760742,
+      12.768037796020508,
+      12.800869941711426,
+      12.953018188476562,
+      12.992685317993164,
+      13.015093803405762,
+      13.081948280334473,
+      13.372096061706543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.5,
+      356.06,
+      534.37,
+      372.6
+    ],
+    "text": "withdraw the petition reserving his rights to file a fresh application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.601119041442871,
+      12.649930953979492,
+      12.723723411560059,
+      12.777503967285156,
+      12.79660701751709,
+      12.808859825134277,
+      12.889488220214844,
+      12.938985824584961,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.26,
+      377.42,
+      302.34,
+      393.96
+    ],
+    "text": "Application for withdrawal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.406448364257812,
+      12.455723762512207,
+      12.55582046508789,
+      12.711780548095703,
+      12.848392486572266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.94,
+      413.18,
+      313.85,
+      429.72
+    ],
+    "text": "Petition is accordingly dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.579352378845215,
+      12.711780548095703,
+      12.720458984375,
+      12.7998046875
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.7,
+      448.21,
+      399.31,
+      464.75
+    ],
+    "text": "Petitioner is at liberty to file a fresh application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.601119041442871,
+      12.71119499206543,
+      12.711780548095703,
+      12.72703742980957,
+      12.73964786529541,
+      12.7440767288208,
+      13.575666427612305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.59,
+      547.56,
+      480.99,
+      564.59
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.425658226013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.15,
+      583.55,
+      233.4,
+      600.58
+    ],
+    "text": "P.W.D.C. Jayathilaka, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.84832763671875,
+      13.070186614990234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.39,
+      613.57,
+      123.58,
+      630.11
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.49176025390625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.65,
+      676.43,
+      450.99,
+      693.46
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.349052429199219,
+      12.425658226013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.9,
+      698.05,
+      114.0,
+      714.59
+    ],
+    "text": "KRLj-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.444071769714355
+    ]
+  }
+]

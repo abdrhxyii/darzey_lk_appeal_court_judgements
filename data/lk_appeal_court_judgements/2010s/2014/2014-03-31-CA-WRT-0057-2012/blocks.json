@@ -1,0 +1,2408 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -1.82,
+      254.96,
+      20.09,
+      367.45
+    ],
+    "text": ", I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      31.600000381469727,
+      35.099998474121094,
+      39.40010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -1.14,
+      364.33,
+      13.71,
+      410.55
+    ],
+    "text": "1 I. 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.36699914932251,
+      17.399999618530273,
+      18.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.43,
+      101.54,
+      518.95,
+      115.72
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.721186637878418,
+      9.841651916503906,
+      9.935811996459961,
+      9.969393730163574,
+      9.981268882751465,
+      10.006879806518555,
+      10.0169095993042,
+      10.094704627990723,
+      10.221299171447754,
+      10.289344787597656,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.26,
+      356.6,
+      166.65,
+      370.75
+    ],
+    "text": "C.A 57/2012 (Writ)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.886760711669922,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.68,
+      187.64,
+      487.62,
+      201.79
+    ],
+    "text": "1. M. D. Sanjaya Asanka Somasiri",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.808838844299316,
+      10.300000190734863,
+      10.315937995910645,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.58,
+      204.2,
+      483.88,
+      218.35
+    ],
+    "text": "M. D. Dhanushka Samanpriya",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.671632766723633,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.58,
+      220.52,
+      444.59,
+      234.67
+    ],
+    "text": "H. D. Chandrawathie.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.671632766723633,
+      9.860158920288086,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.09,
+      253.64,
+      437.71,
+      267.79
+    ],
+    "text": "All of No. 21/106/6,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.58,
+      269.73,
+      473.95,
+      283.88
+    ],
+    "text": "Dadagamuwa, Weyangoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.35,
+      334.57,
+      406.11,
+      348.75
+    ],
+    "text": "PETITIONERS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.160809516906738
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.83,
+      378.31,
+      373.58,
+      391.09
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.68,
+      419.96,
+      507.21,
+      434.11
+    ],
+    "text": "1. Commissioner General of Agrarian",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.5,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.57,
+      436.28,
+      408.04,
+      450.43
+    ],
+    "text": "Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.33,
+      453.08,
+      524.88,
+      467.23
+    ],
+    "text": "Department of Agrarian Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.61,
+      469.65,
+      465.94,
+      483.8
+    ],
+    "text": "P. O. Box 537, Colombo 7.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.222042083740234,
+      9.862508773803711,
+      9.975746154785156,
+      10.27947998046875,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.48,
+      502.52,
+      512.25,
+      516.67
+    ],
+    "text": "2. Assistant Commissioner of Agrarian",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.954298973083496,
+      10.300000190734863,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.57,
+      519.08,
+      410.39,
+      533.23
+    ],
+    "text": "Development,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.09,
+      535.4,
+      488.4,
+      549.55
+    ],
+    "text": "Agrarian Development Office,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.355450630187988
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.95,
+      551.49,
+      478.08,
+      565.64
+    ],
+    "text": "Sri Bodhiya Road, Gampaha.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.177825927734375,
+      10.287442207336426,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.09,
+      584.84,
+      408.44,
+      598.47
+    ],
+    "text": "And 7 others.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.59,
+      649.69,
+      414.81,
+      663.87
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.092918395996094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      529.54,
+      66.18,
+      537.79,
+      80.85
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -3.74,
+      3.91,
+      23.0,
+      106.53
+    ],
+    "text": "1 I i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      22.70009994506836,
+      25.399999618530273,
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.75,
+      100.65,
+      115.35,
+      114.94
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.008687973022461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.1,
+      166.65,
+      122.57,
+      180.94
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.134664535522461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.05,
+      282.57,
+      137.12,
+      296.86
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.290877342224121,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.06,
+      331.77,
+      137.96,
+      346.06
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.140358924865723,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.4,
+      398.06,
+      151.67,
+      412.54
+    ],
+    "text": "GOONERATNE J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.333587646484375,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.57,
+      100.98,
+      279.89,
+      115.73
+    ],
+    "text": "Anil Gooneratne J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.524576187133789,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.05,
+      118.18,
+      279.14,
+      132.47
+    ],
+    "text": "Malinie Gunaratne J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.962401390075684,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.56,
+      167.62,
+      348.17,
+      181.91
+    ],
+    "text": "Dr. Sunil Cooray for the Petitioners",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.47607135772705
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.58,
+      199.29,
+      454.89,
+      215.09
+    ],
+    "text": "N. D. B. Unamboowe D.S.G for the 1st & 2nd Respondents",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.418630599975586,
+      9.4296293258667,
+      9.856339454650879,
+      10.01175308227539,
+      10.037947654724121,
+      10.399999618530273,
+      10.569223403930664,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.81,
+      233.86,
+      463.75,
+      248.15
+    ],
+    "text": "Wijedasa Rajapakse P.C, with Dasun Nagasena and Rasitha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.439176559448242
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.06,
+      246.63,
+      323.35,
+      265.46
+    ],
+    "text": "For the 3rd to i h Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.276009559631348,
+      7.400100231170654,
+      10.399999618530273,
+      10.54419994354248,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.78,
+      282.62,
+      234.24,
+      297.02
+    ],
+    "text": "21.01.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.23,
+      332.06,
+      234.16,
+      346.46
+    ],
+    "text": "31.03.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.822227478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      527.69,
+      67.85,
+      535.94,
+      82.52
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.56,
+      480.66,
+      535.48,
+      497.29
+    ],
+    "text": "The Petitioners in this Writ Application have sought a Writ of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.304325103759766,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.9,
+      514.27,
+      533.73,
+      530.9
+    ],
+    "text": "Certiorari to quash the orders referred to in sub para (c ) of the prayer to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.980005264282227,
+      12.100000381469727,
+      12.124725341796875,
+      12.216984748840332,
+      12.35197639465332,
+      12.485508918762207,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.33,
+      546.87,
+      534.01,
+      564.46
+    ],
+    "text": "petition marked P10 & Pll. This application relates to obstructions of a roadway",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.934062004089355,
+      12.100000381469727,
+      12.485508918762207,
+      12.716780662536621,
+      12.800000190734863,
+      13.4856595993042
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.71,
+      580.74,
+      534.12,
+      597.37
+    ],
+    "text": "across the land described in schedules 1 & 2 of the petition, which road leads to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.216984748840332,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.09,
+      614.1,
+      533.01,
+      630.73
+    ],
+    "text": "paddy field and to a Ikamatha' by erecting barbed wire fence. A complaint was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.35197639465332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.85,
+      643.47,
+      533.15,
+      664.9
+    ],
+    "text": "made by 3rd to ih Respondents against the Petitioners. Complaint is produced",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      11.606277465820312,
+      12.100000381469727,
+      12.35197639465332,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.85,
+      680.1,
+      533.46,
+      696.73
+    ],
+    "text": "marked P4. The body of the petition refer, as to how the Petitioners derived title",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.550838470458984,
+      11.572031021118164,
+      12.100000381469727,
+      12.124725341796875,
+      12.197110176086426,
+      12.485508918762207,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.42,
+      812.4,
+      601.77,
+      845.52
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      528.83,
+      65.96,
+      537.23,
+      80.9
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.62,
+      100.78,
+      536.65,
+      117.68
+    ],
+    "text": "to the lands described in the petition. (paras I, 2, 6, 7 & 8) . There is also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.043577194213867,
+      12.046079635620117,
+      12.086955070495605,
+      12.125309944152832,
+      12.199999809265137,
+      12.271166801452637,
+      12.300000190734863,
+      12.45363998413086,
+      13.716622352600098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.17,
+      134.14,
+      507.49,
+      151.04
+    ],
+    "text": "reference to certain deeds marked PI, P2, P5 and plan P3, by the Petitioners.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.43686580657959,
+      11.736544609069824,
+      11.826485633850098,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.54,
+      167.48,
+      537.58,
+      184.39
+    ],
+    "text": "One of the points raised in the petition and as submitted to this court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.793417930603027,
+      12.2972993850708,
+      12.300000190734863,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.92,
+      201.09,
+      536.69,
+      217.99
+    ],
+    "text": "by learned counsel for the Petitioner was that deeds 2752 (PI) and 5282 (C) does",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.368409156799316,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.68,
+      234.46,
+      536.79,
+      251.36
+    ],
+    "text": "not show or describe any such roadway or (kamatha' in its schedules. Both deeds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.251705169677734,
+      12.2972993850708,
+      12.300000190734863,
+      12.363387107849121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.31,
+      267.8,
+      536.7,
+      284.71
+    ],
+    "text": "attested on or about 1979 and 1960. Another point stressed is that the (kamatha'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.300000190734863,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.69,
+      301.41,
+      535.89,
+      318.31
+    ],
+    "text": "has not been registered in terms of Act No. 46 of 2000 in the list of Agrarian",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.125309944152832,
+      12.2972993850708,
+      12.300000190734863,
+      12.55147933959961,
+      12.68720531463623,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.42,
+      334.77,
+      146.66,
+      351.67
+    ],
+    "text": "Lands. The 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.163745880126953,
+      12.227234840393066,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.73,
+      332.67,
+      535.69,
+      351.67
+    ],
+    "text": "nd Respondnet held an inquiry under Section 90(1) of the Agrarian",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      12.07071304321289,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.4,
+      368.37,
+      536.52,
+      385.27
+    ],
+    "text": "Development Act No. 46 of 2000 on the dates mentioned in the petition. At the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.243570327758789,
+      12.286643028259277,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.82,
+      401.73,
+      535.78,
+      418.63
+    ],
+    "text": "conclusion of leading oral evidence it is pleaded that a sight inspection was held",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.273371696472168,
+      12.300000190734863,
+      12.386743545532227,
+      12.516691207885742,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.96,
+      433.48,
+      535.2,
+      451.99
+    ],
+    "text": "by the 2nd Respondent. The inspection report is marked and produced P9. In para",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      11.64590835571289,
+      11.701803207397461,
+      11.958354949951172,
+      12.265351295471191,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.62,
+      468.7,
+      536.74,
+      485.6
+    ],
+    "text": "22 of the petition several grounds are included on which the Petitioners relies to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.077436447143555,
+      12.300000190734863,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.96,
+      502.29,
+      215.45,
+      519.19
+    ],
+    "text": "issue a Writ of Certiorari.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.27883243560791,
+      12.300000190734863,
+      12.405596733093262,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.71,
+      535.42,
+      535.93,
+      552.32
+    ],
+    "text": "However before I proceed to consider the position of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.91,
+      568.76,
+      443.13,
+      585.67
+    ],
+    "text": "Respondents the following sections of the above Statute is noted.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.32,
+      601.89,
+      335.55,
+      618.8
+    ],
+    "text": "Section 90(1) of Act No. 46 of 2000 reads thus:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.243570327758789,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.73,
+      635.48,
+      536.2,
+      649.63
+    ],
+    "text": "Where a complaint is made to the Commissioner General by any owner cultivator or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.300000190734863,
+      10.333745002746582,
+      10.401153564453125,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.38,
+      656.84,
+      535.52,
+      670.99
+    ],
+    "text": "occupier of agricultural land that any person is interfering with or attempting to interfere with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.300000190734863,
+      10.326865196228027,
+      10.333993911743164,
+      10.378748893737793,
+      10.388867378234863,
+      10.456954002380371,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.95,
+      677.96,
+      535.63,
+      692.11
+    ],
+    "text": "the cultivation rights, threshing rights, rights of using a threshing floor, the right of removing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.37,
+      699.09,
+      535.96,
+      713.24
+    ],
+    "text": "agricultural produce or the right to the use of an agricultural road of such owner cultivator or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.266043663024902,
+      10.275520324707031,
+      10.300000190734863,
+      10.333745002746582,
+      10.360124588012695,
+      10.378748893737793,
+      10.414117813110352,
+      10.57585620880127,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -1.22,
+      806.98,
+      14.61,
+      842.93
+    ],
+    "text": "1 J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      526.53,
+      65.93,
+      534.95,
+      79.81
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.9,
+      100.54,
+      535.13,
+      114.97
+    ],
+    "text": "occupier, the Commissioner-General after inquiry may if he is satisfied that such interference or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.343128204345703,
+      10.5,
+      10.623770713806152,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.65,
+      122.39,
+      533.74,
+      136.82
+    ],
+    "text": "attempted interference will result in damage or loss of crop or livestock, issue an order on such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.384565353393555,
+      10.394166946411133,
+      10.5,
+      10.609182357788086,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.04,
+      143.98,
+      534.43,
+      158.41
+    ],
+    "text": "person cultivator or occupier requiring him to comply with such directions as may be specified",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.052253723144531,
+      10.299995422363281,
+      10.5,
+      10.609182357788086,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.8,
+      165.1,
+      344.97,
+      179.53
+    ],
+    "text": "in such order necessary for the protection of such rights;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.44545841217041,
+      10.5,
+      10.619915962219238,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.04,
+      208.07,
+      534.24,
+      222.5
+    ],
+    "text": "Provided that an order under this section shall not be made for the eviction of any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.416366577148438,
+      10.5,
+      10.557990074157715,
+      10.619915962219238,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.8,
+      229.42,
+      241.23,
+      243.85
+    ],
+    "text": "person from such agricultural land:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.04,
+      272.86,
+      534.23,
+      287.29
+    ],
+    "text": "Provided further that an order issued under subsection (1) shall not prejudice the right",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.486441612243652,
+      10.5,
+      10.54470443725586,
+      10.557990074157715,
+      10.63419246673584
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.99,
+      294.47,
+      533.99,
+      308.9
+    ],
+    "text": "title or interest of such person, cultivator or occupier to such land, crop or livestock in respect",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.44545841217041,
+      10.5,
+      10.540371894836426,
+      10.609182357788086,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.42,
+      315.59,
+      210.93,
+      330.02
+    ],
+    "text": "of which such order is made.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.28,
+      368.5,
+      534.72,
+      387.28
+    ],
+    "text": "The position of the 1st & 2nd Respondents as gathered from the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.218533515930176,
+      11.793417930603027,
+      12.300000190734863,
+      12.55147933959961,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.28,
+      403.65,
+      534.89,
+      420.55
+    ],
+    "text": "material contained in the objections and submissions of learned Deputy Solicitor",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.09,
+      430.57,
+      533.28,
+      455.78
+    ],
+    "text": "General was that the 3rd to t h Respondents had given evidence at the inquiry and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.203962326049805,
+      8.399999618530273,
+      12.236686706542969,
+      12.246885299682617,
+      12.300000190734863,
+      12.386743545532227,
+      12.45363998413086,
+      18.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.91,
+      470.62,
+      534.37,
+      487.52
+    ],
+    "text": "according to the oral testimony there is evidence of the use of the roadway to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.895188331604004,
+      12.225122451782227,
+      12.300000190734863,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.12,
+      503.96,
+      533.84,
+      520.87
+    ],
+    "text": "'kamatha' in question. It is the position of these Respondents that by usage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.189251899719238,
+      12.2972993850708,
+      12.300000190734863,
+      12.386743545532227,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.53,
+      537.34,
+      534.13,
+      554.24
+    ],
+    "text": "farmers would be entitled to the roadway. There is no denial of the fact that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.001989364624023,
+      12.300000190734863,
+      12.386743545532227,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.52,
+      570.69,
+      534.43,
+      587.59
+    ],
+    "text": "village had no register. There is also reference to a contradiction of the Petitioners",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.300000190734863,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.55,
+      604.05,
+      533.69,
+      620.95
+    ],
+    "text": "witnesses (RS a). Site inspection was also held (R11) and both parties have signed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.447561264038086,
+      12.07779312133789,
+      12.224720001220703,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.5,
+      637.17,
+      534.73,
+      654.07
+    ],
+    "text": "the report. There is also a sketch produced marked R12. This enables court to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      11.96873950958252,
+      12.300000190734863,
+      12.317538261413574
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.52,
+      669.81,
+      534.88,
+      686.71
+    ],
+    "text": "visualize the disputed area. Parties were also requested to settle the issue but",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.27883243560791,
+      12.300000190734863,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.5,
+      703.64,
+      326.82,
+      720.55
+    ],
+    "text": "there had been no consensus between them.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      523.05,
+      66.65,
+      531.3,
+      81.32
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.64,
+      98.89,
+      531.35,
+      117.91
+    ],
+    "text": "The position of learned President's Counsel for 3rd to ih Respondents",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.597845077514648,
+      12.281462669372559,
+      12.300000190734863,
+      12.461736679077148,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.66,
+      132.99,
+      530.89,
+      151.27
+    ],
+    "text": "is that it is based on oral testimony before the inquiring officer (2nd Respondent)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      11.505115509033203,
+      11.701803207397461,
+      11.964319229125977,
+      12.286643028259277,
+      12.300000190734863,
+      12.386743545532227,
+      12.516691207885742
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.03,
+      167.98,
+      531.41,
+      184.88
+    ],
+    "text": "and his clinets are entitled to the use of the roadway to the 'kamatha' in question,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.063170433044434,
+      12.2972993850708,
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.04,
+      201.32,
+      530.38,
+      218.23
+    ],
+    "text": "owing to long years of user. These Respondents have raised an objection based",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.186223983764648,
+      12.215208053588867,
+      12.276076316833496,
+      12.300000190734863,
+      12.317538261413574,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.8,
+      234.69,
+      231.3,
+      251.59
+    ],
+    "text": "on laches in their objections.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2972993850708,
+      12.300000190734863,
+      12.328167915344238
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.16,
+      268.52,
+      531.7,
+      285.43
+    ],
+    "text": "The main object of the above section 90(1) of Act No. 46 of 2000 is to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.300000190734863,
+      12.45363998413086,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.16,
+      301.89,
+      532.05,
+      318.79
+    ],
+    "text": "prevent any interference with cultivation rights. It has nothing to do with title nor",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.300000190734863,
+      12.324824333190918,
+      12.45363998413086,
+      12.485698699951172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.43,
+      335.26,
+      530.09,
+      352.16
+    ],
+    "text": "will it entitle the authorities concerned to make an order for eviction. The idea",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.07071304321289,
+      12.227234840393066,
+      12.300000190734863,
+      12.45363998413086,
+      12.461736679077148,
+      12.516691207885742
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.92,
+      368.86,
+      531.37,
+      385.76
+    ],
+    "text": "being to preserve agricultural usages as a right to use threshing floor, right to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.144415855407715,
+      12.253361701965332,
+      12.300000190734863,
+      12.317538261413574,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.69,
+      402.21,
+      530.76,
+      419.11
+    ],
+    "text": "remove agriculture produce, right to use agricultural road etc. to enable the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.144415855407715,
+      12.300000190734863,
+      12.45363998413086,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.16,
+      435.33,
+      529.66,
+      452.23
+    ],
+    "text": "farmers to get the maximum benefit on such matters without any hindrance. An",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.004910469055176,
+      12.251705169677734,
+      12.286643028259277,
+      12.300000190734863,
+      12.317538261413574,
+      12.421549797058105
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.07,
+      468.7,
+      530.5,
+      485.6
+    ],
+    "text": "agricultural usage of using or a right to threshing floor is a right enjoyed by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.236787796020508,
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.94,
+      502.52,
+      504.48,
+      519.43
+    ],
+    "text": "farmers over the years for a very long time in our country as traced in history.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.125309944152832,
+      12.300000190734863,
+      12.461736679077148
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.2,
+      535.89,
+      518.05,
+      552.79
+    ],
+    "text": "The Petitioners rely on several grounds as pleaded in para 22 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.077436447143555,
+      12.125309944152832,
+      12.286643028259277,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.2,
+      569.01,
+      530.83,
+      585.91
+    ],
+    "text": "petition. This court is of the view that the several grounds urged would not entitle",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.300000190734863,
+      12.386743545532227,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.67,
+      602.13,
+      518.66,
+      619.03
+    ],
+    "text": "the Petitioners to seek a Writ of Certiorari in the manner pleaded therein. The 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.227234840393066,
+      12.2972993850708,
+      12.300000190734863,
+      12.405596733093262,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      518.49,
+      600.03,
+      528.88,
+      611.02
+    ],
+    "text": "nd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.39,
+      635.49,
+      530.33,
+      652.39
+    ],
+    "text": "Respondent would be entitled to arrive at a decision based on oral testimony,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.11906909942627,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.09,
+      668.37,
+      530.41,
+      685.27
+    ],
+    "text": "since the governing statute merely contemplate not to disturb agricultural rights",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.2,
+      701.26,
+      530.38,
+      718.16
+    ],
+    "text": "maintained for a fairly long period of time. An absence of a roadway in the plans",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.107950210571289,
+      12.2972993850708,
+      12.300000190734863,
+      12.461736679077148,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      525.47,
+      65.91,
+      533.57,
+      80.31
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.04,
+      100.53,
+      533.23,
+      117.43
+    ],
+    "text": "produced or the deeds referred to cannot be considered in the circumstances and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.001989364624023,
+      12.125309944152832,
+      12.300000190734863,
+      12.424222946166992,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.04,
+      134.13,
+      534.09,
+      151.03
+    ],
+    "text": "in the context of the case since title to the property is not an issue. Primary aspect",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.050213813781738,
+      12.07071304321289,
+      12.2972993850708,
+      12.300000190734863,
+      12.33360481262207,
+      12.363387107849121,
+      12.45363998413086,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.82,
+      167.98,
+      534.72,
+      184.88
+    ],
+    "text": "is the usage which could be decided on oral and or documentary evidence, other",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.11906909942627,
+      12.236787796020508,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.27,
+      199.71,
+      532.48,
+      218.23
+    ],
+    "text": "than by deeds or plans. As such there is no error on the face of the record. The 2nd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      11.701803207397461,
+      11.756230354309082,
+      12.227234840393066,
+      12.251705169677734,
+      12.286643028259277,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.75,
+      234.69,
+      534.25,
+      251.59
+    ],
+    "text": "Respondent has made arrangements or given an opportunity for both parties to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.07071304321289,
+      12.143200874328613,
+      12.300000190734863,
+      12.317538261413574,
+      12.461736679077148
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      268.06,
+      533.64,
+      284.96
+    ],
+    "text": "present each others' case. A fair hearing had been granted, in order to achieve",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.110135078430176,
+      12.2972993850708,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.26,
+      301.66,
+      533.89,
+      318.56
+    ],
+    "text": "the purpose of the statute. A site inspection was also done at the close of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      335.26,
+      533.15,
+      352.16
+    ],
+    "text": "inquiry. I cannot act on unfounded baseless allegations and issue the writ prayed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.27883243560791,
+      12.300000190734863,
+      12.567100524902344
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.29,
+      368.61,
+      459.76,
+      385.51
+    ],
+    "text": "for in these proceedings, writs being discretionary remedies of court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.368409156799316,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.56,
+      401.73,
+      533.64,
+      418.63
+    ],
+    "text": "Therefore I reject the application for a Writ of Certiorari and dismiss",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.368409156799316,
+      12.405596733093262,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.02,
+      435.81,
+      245.59,
+      452.71
+    ],
+    "text": "this applications without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.45581340789795
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.65,
+      469.42,
+      268.33,
+      486.32
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      353.45,
+      536.2,
+      516.97,
+      549.94
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.519716262817383,
+      9.614416122436523,
+      9.759918212890625,
+      9.847944259643555,
+      9.889084815979004,
+      9.961626052856445
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.29,
+      565.3,
+      204.92,
+      579.59
+    ],
+    "text": "W.M.M. Malinie Gunaratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.412941932678223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212.35,
+      593.37,
+      249.38,
+      607.66
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      353.69,
+      654.52,
+      517.21,
+      668.26
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.614416122436523,
+      9.759918212890625,
+      9.847944259643555,
+      9.889084815979004,
+      9.961626052856445
+    ]
+  }
+]

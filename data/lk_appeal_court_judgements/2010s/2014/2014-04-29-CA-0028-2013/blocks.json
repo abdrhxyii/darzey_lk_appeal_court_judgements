@@ -1,0 +1,507 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.86,
+      72.47,
+      542.65,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      359.74,
+      177.5
+    ],
+    "text": "OF SRI LANKA C.A. No: 28/2013 H.C Gampaha Case No: 19/03.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      177.48,
+      466.99,
+      210.38
+    ],
+    "text": "P.A. Chandana Anura Gunawardena",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      210.56,
+      445.12,
+      362.33
+    ],
+    "text": "Petitioner -Vs- Hon. Attorney General Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      364.71,
+      410.8,
+      381.17
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.38,
+      69.74,
+      185.34,
+      87.05
+    ],
+    "text": "C.A. No: 28/2013",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      13.870833396911621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.46,
+      126.61,
+      99.38,
+      143.15
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.62,
+      183.25,
+      110.7,
+      199.79
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.779443740844727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.94,
+      244.22,
+      128.28,
+      260.76
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.512786865234375,
+      12.947799682617188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.26,
+      300.62,
+      184.59,
+      317.93
+    ],
+    "text": "Anil Gooneratne. J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.564732551574707,
+      12.820686340332031,
+      13.032028198242188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.37,
+      69.5,
+      512.14,
+      86.81
+    ],
+    "text": "H.C Gampaha Case No: 19/03.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.718392372131348,
+      12.75641918182373,
+      13.576403617858887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.98,
+      126.59,
+      361.22,
+      157.78
+    ],
+    "text": "ANIL GOONERATNE,J. & SUNIL RAJAPAKSHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.22,
+      183.02,
+      457.85,
+      215.88
+    ],
+    "text": "Amila Palliyage for the Accused-Appellant. Shenaka Wijesinghe D.S.G for the State.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.403899192810059,
+      12.533432006835938,
+      12.544902801513672,
+      12.549152374267578,
+      12.629721641540527,
+      12.823033332824707,
+      13.015093803405762,
+      13.208398818969727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.88,
+      244.18,
+      279.23,
+      260.46
+    ],
+    "text": "29.04.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.78445053100586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.84,
+      272.68,
+      239.87,
+      290.41
+    ],
+    "text": "******",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.02,
+      342.86,
+      535.14,
+      359.4
+    ],
+    "text": "At this stage Learned Counsel appeanng for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.644685745239258,
+      12.800773620605469,
+      12.877361297607422,
+      12.925178527832031,
+      12.976306915283203,
+      13.015093803405762,
+      13.199289321899414
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.73,
+      364.46,
+      534.9,
+      381.0
+    ],
+    "text": "makes an application to withdraw the appeal. The application for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.601119041442871,
+      12.72177505493164,
+      12.757787704467773,
+      12.795493125915527,
+      12.819068908691406,
+      12.84037971496582,
+      12.890113830566406,
+      12.957180976867676,
+      13.015093803405762,
+      13.372096061706543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.5,
+      386.05,
+      402.41,
+      402.59
+    ],
+    "text": "withdrawal of the appeal is allowed. Appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.438390731811523,
+      12.564804077148438,
+      12.597674369812012,
+      12.73064136505127,
+      12.7998046875,
+      12.877939224243164,
+      12.97754955291748,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269.29,
+      430.79,
+      460.45,
+      466.19
+    ],
+    "text": "63J2~.Q~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      24.52583885192871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.17,
+      470.75,
+      468.23,
+      487.78
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.349052429199219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.8,
+      527.9,
+      186.77,
+      545.21
+    ],
+    "text": "Sunil Rajapakshe.J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.759408950805664,
+      12.909008979797363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.91,
+      555.97,
+      145.45,
+      572.51
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.536646842956543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.65,
+      586.79,
+      507.57,
+      629.62
+    ],
+    "text": "~ ~,. ~ ~ ~ t/V'--r--JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.214089393615723,
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.425658226013184,
+      13.248093605041504,
+      14.655729293823242,
+      15.598154067993164,
+      16.137235641479492,
+      23.06998062133789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.45,
+      669.35,
+      87.66,
+      684.55
+    ],
+    "text": "Vkg/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.6,
+      326.63,
+      601.34,
+      370.68
+    ],
+    "text": "[ i!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.599999904632568,
+      16.299999237060547,
+      20.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.55,
+      360.08,
+      601.55,
+      384.81
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.67,
+      417.38,
+      602.48,
+      485.88
+    ],
+    "text": "III}i !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.400100231170654,
+      8.800000190734863,
+      9.100000381469727,
+      15.600000381469727,
+      16.0,
+      19.5
+    ]
+  }
+]

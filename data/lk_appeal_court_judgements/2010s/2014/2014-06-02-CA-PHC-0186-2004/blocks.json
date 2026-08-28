@@ -1,0 +1,607 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      436.76,
+      150.14
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA C.A. (PHC) No. 186/2004",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      162.6,
+      267.26,
+      179.06
+    ],
+    "text": "PHC Kurunegala Case No. 09/03",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      191.52,
+      398.92,
+      207.98
+    ],
+    "text": "C.M. Nandawathie",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      220.32,
+      344.44,
+      236.78
+    ],
+    "text": "Ukwatte,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      249.27,
+      381.52,
+      265.73
+    ],
+    "text": "Mawathagama,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      278.07,
+      356.8,
+      294.53
+    ],
+    "text": "Pothuhera.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      306.99,
+      426.16,
+      323.45
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      335.91,
+      309.74,
+      352.37
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      364.71,
+      424.6,
+      381.17
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      393.63,
+      481.15,
+      410.09
+    ],
+    "text": "Attorney General\u2019s Department,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      422.57,
+      365.92,
+      439.03
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      451.37,
+      440.44,
+      467.83
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.77,
+      111.39,
+      495.72,
+      130.06
+    ],
+    "text": "C.A. (PHC) No. 186/2004 PHC KUrunegala Case No. 09/03",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.899999618530273,
+      13.300000190734863,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.62,
+      159.19,
+      126.66,
+      177.33
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.78,
+      207.43,
+      133.94,
+      225.57
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.38,
+      272.23,
+      152.94,
+      306.21
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.65,
+      159.73,
+      356.17,
+      194.61
+    ],
+    "text": "A.W.A. Salam, J (PICA) & Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.0,
+      13.100000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.62,
+      207.67,
+      415.39,
+      225.81
+    ],
+    "text": "Buddhika Gamage for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.65,
+      239.83,
+      397.69,
+      257.98
+    ],
+    "text": "Anoopa de Silva, S.S.C., for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.78,
+      288.07,
+      263.65,
+      306.21
+    ],
+    "text": "02.06.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.99,
+      318.48,
+      253.9,
+      343.62
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.41,
+      353.0,
+      237.59,
+      371.49
+    ],
+    "text": "A.W.A. Salam, J. (PICA)",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.82,
+      400.63,
+      522.56,
+      418.77
+    ],
+    "text": "Counsel for the Appellant moves to have this appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.41,
+      424.63,
+      523.01,
+      442.78
+    ],
+    "text": "withdrawn reserving his right to file a revision application. Application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.52,
+      449.11,
+      439.11,
+      467.26
+    ],
+    "text": "for withdrawal is allowed subject to the reservation made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.434796333312988,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.7,
+      497.59,
+      263.29,
+      515.74
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.63,
+      553.75,
+      505.05,
+      571.89
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.0,
+      586.89,
+      214.53,
+      605.86
+    ],
+    "text": "Sunil Rajapakshe, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.62,
+      619.03,
+      205.09,
+      637.17
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.6,
+      650.96,
+      459.78,
+      669.1
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.93,
+      699.43,
+      118.0,
+      717.57
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.38,
+      538.17,
+      601.99,
+      563.67
+    ],
+    "text": "!I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.79,
+      574.51,
+      600.9,
+      589.9
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.35,
+      663.17,
+      602.2,
+      701.82
+    ],
+    "text": "II,I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.100000381469727,
+      16.299999237060547,
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.94,
+      701.03,
+      602.21,
+      739.21
+    ],
+    "text": "&I!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.699999809265137,
+      10.100000381469727,
+      11.100000381469727,
+      15.300000190734863
+    ]
+  }
+]

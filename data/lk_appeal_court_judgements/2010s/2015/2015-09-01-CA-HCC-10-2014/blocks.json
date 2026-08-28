@@ -1,0 +1,3387 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      80.95,
+      62.43,
+      517.62,
+      83.86
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.945625305175781,
+      15.124967575073242,
+      15.186058044433594,
+      15.353706359863281,
+      15.362796783447266,
+      15.38278865814209,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.18,
+      85.94,
+      389.77,
+      107.37
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.340941429138184,
+      14.85070514678955,
+      15.18610954284668,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.15,
+      474.33,
+      105.6,
+      488.62
+    ],
+    "text": "C. A. No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.793038368225098,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.28,
+      497.85,
+      172.57,
+      512.14
+    ],
+    "text": "H. C. Badulla Case No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.793038368225098,
+      10.322460174560547,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.84,
+      473.28,
+      269.74,
+      488.48
+    ],
+    "text": "CA/10/2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      205.39,
+      496.55,
+      273.71,
+      511.75
+    ],
+    "text": "HC 140/2008",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.589810371398926,
+      11.557512283325195
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      352.04,
+      148.65,
+      522.77,
+      162.94
+    ],
+    "text": "In the matter of an Appeal against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.325281143188477,
+      10.367148399353027,
+      10.399999618530273,
+      10.60012435913086,
+      10.624330520629883,
+      10.896116256713867
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.61,
+      172.65,
+      518.45,
+      186.94
+    ],
+    "text": "An order of the High Court under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.413290977478027,
+      10.544742584228516,
+      10.547257423400879,
+      11.028225898742676
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.47,
+      196.17,
+      511.8,
+      210.46
+    ],
+    "text": "Sec. 331 of the Code of Criminal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.21826171875,
+      10.399999618530273,
+      10.544742584228516,
+      11.028225898742676,
+      11.158723831176758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.84,
+      220.17,
+      503.19,
+      234.46
+    ],
+    "text": "Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.896116256713867
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.21,
+      291.46,
+      486.38,
+      321.34
+    ],
+    "text": "SadasivamAmbalagan alias Chandran,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.36,
+      330.82,
+      472.32,
+      345.11
+    ],
+    "text": "New Bogambara Prison,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.519562721252441
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.12,
+      354.57,
+      402.82,
+      368.86
+    ],
+    "text": "Dumbara,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.36,
+      378.33,
+      400.61,
+      392.62
+    ],
+    "text": "Pallekele,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.38,
+      401.85,
+      407.18,
+      416.14
+    ],
+    "text": "Kundasale.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      424.09,
+      425.61,
+      521.54,
+      439.9
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.85,
+      536.44,
+      363.75,
+      560.71
+    ],
+    "text": "v.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.887642860412598
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.81,
+      591.46,
+      489.78,
+      605.75
+    ],
+    "text": "ThetHon. Attorney General,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.591143608093262
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.13,
+      615.21,
+      513.32,
+      629.5
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.562185287475586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.0,
+      638.74,
+      416.84,
+      653.03
+    ],
+    "text": ". Colombo 12.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      424.56,
+      662.5,
+      488.22,
+      676.79
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      527.93,
+      724.21,
+      536.02,
+      737.54
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      14.24,
+      -14.66,
+      51.28,
+      16.95
+    ],
+    "text": "\"\"\" . ..,.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.41747760772705,
+      16.139984130859375,
+      23.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      33.54,
+      14.07,
+      35.71,
+      19.35
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      3.900099992752075
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.79,
+      64.11,
+      307.28,
+      79.51
+    ],
+    "text": "BEFORE H. N. J. Perera, J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.207464218139648,
+      10.593419075012207,
+      10.699999809265137,
+      10.899999618530273,
+      10.937421798706055,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.51,
+      87.78,
+      333.57,
+      102.56
+    ],
+    "text": "K. K. Wickremasinghe, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.074836730957031,
+      10.217731475830078,
+      10.699999809265137,
+      10.937421798706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.61,
+      135.62,
+      528.97,
+      150.79
+    ],
+    "text": "COUNSEL N. A. Chandana Sri Nissanka (Assigned Counsel), for the Accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.318395614624023,
+      10.360979080200195,
+      10.44055461883545,
+      10.483356475830078,
+      10.699999809265137,
+      10.776476860046387,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.01,
+      159.37,
+      263.18,
+      174.07
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.86,
+      183.13,
+      466.62,
+      197.84
+    ],
+    "text": "Sudharshana de Silva, SSC for the Attorney General.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.589972496032715,
+      10.699999809265137,
+      10.776476860046387,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.05,
+      230.07,
+      290.58,
+      245.59
+    ],
+    "text": "ARGUED ON 9th of June 2015",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      10.527814865112305,
+      10.613752365112305,
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      277.83,
+      286.59,
+      293.12
+    ],
+    "text": "WRITTEN SUBMITIONS 8th of July 2015",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      10.639328002929688,
+      10.699999809265137,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.81,
+      324.48,
+      326.82,
+      340.15
+    ],
+    "text": "DECIDED ON 01st of September 2015",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      10.431480407714844,
+      10.613752365112305,
+      10.699999809265137,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.84,
+      420.18,
+      200.08,
+      434.96
+    ],
+    "text": "K. K. WICKREMASINGHE, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.074836730957031,
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.02,
+      466.58,
+      539.17,
+      559.51
+    ],
+    "text": "In this case the accused appellant, herein after referred to as the 'appellant', was indicted at the High Court of Badulla for having committed the death of Shanmugam Sri Murugan on or about 11.01.2007 and thereby for committing an offence punishable under sec. 296 of the Penal Code. This case was tried by the Judge without a Jury as requested by the appellant. At the end of the trial, the appellant was convicted of murder and sentenced to death on 12.02.2014.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.273603439331055,
+      10.528576850891113,
+      10.588872909545898,
+      10.589631080627441,
+      10.591954231262207,
+      10.621210098266602,
+      10.678678512573242,
+      10.699999809265137,
+      10.7037992477417,
+      10.713690757751465,
+      10.755406379699707,
+      10.776476860046387,
+      10.83958911895752,
+      10.856603622436523,
+      10.858623504638672,
+      10.9070463180542,
+      10.966042518615723,
+      10.999070167541504,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.77,
+      591.85,
+      355.74,
+      606.55
+    ],
+    "text": "This appeal is against the said conviction and the sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699999809265137,
+      10.776476860046387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.85,
+      638.4,
+      387.65,
+      653.11
+    ],
+    "text": "According to the appellant, the grounds for appeal are as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.273603439331055,
+      10.699999809265137,
+      10.814190864562988,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.22,
+      662.17,
+      537.37,
+      676.87
+    ],
+    "text": "1) The evidence of the two prosecution lay witnesses could not be believed and therefore it is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.673868179321289,
+      10.699999809265137,
+      10.817256927490234,
+      11.006558418273926,
+      11.026226997375488,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.11,
+      678.98,
+      316.16,
+      693.68
+    ],
+    "text": "not safe to base a conviction on their evidence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.667149543762207,
+      10.699999809265137,
+      10.817256927490234,
+      10.853104591369629,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      529.38,
+      725.74,
+      537.26,
+      739.75
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.38,
+      -14.11,
+      44.4,
+      14.7
+    ],
+    "text": "~_. ;T. , ;,.,\"\"' :','",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7011406421661377,
+      5.300099849700928,
+      9.245479583740234,
+      10.300000190734863,
+      21.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.27,
+      15.21,
+      23.69,
+      48.15
+    ],
+    "text": "I\" . ! J",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.0,
+      16.20009994506836,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.44,
+      61.21,
+      536.92,
+      75.91
+    ],
+    "text": "2) The learned High Court Judge had failed to give the benefit of the plea of sudden fight to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.410123825073242,
+      10.699999809265137,
+      10.776476860046387,
+      10.831491470336914,
+      11.052155494689941,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.47,
+      78.01,
+      149.56,
+      92.71
+    ],
+    "text": "the appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.856603622436523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.57,
+      112.09,
+      535.91,
+      126.79
+    ],
+    "text": "According to the prosecution, the son of the deceased who was an eye witness and who was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.588872909545898,
+      10.699150085449219,
+      10.699999809265137,
+      10.776476860046387,
+      10.831491470336914,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.27,
+      129.37,
+      536.81,
+      144.07
+    ],
+    "text": "the first witness for the prosecution said that, on the date of the incident, the deceased had not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.734992980957031,
+      10.776476860046387,
+      10.814190864562988,
+      10.831936836242676,
+      10.856603622436523,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.22,
+      146.18,
+      536.03,
+      160.88
+    ],
+    "text": "gone to work (he was a labourer of an estate). Both the father (the deceased) and the son (the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.588872909545898,
+      10.634800910949707,
+      10.699999809265137,
+      10.72576904296875,
+      10.770666122436523,
+      10.776476860046387,
+      11.09896183013916,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.43,
+      163.45,
+      535.91,
+      178.15
+    ],
+    "text": "\u2022 witness) had gone to town to buy some goods as the mother of the witness, who was abroad at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.699999809265137,
+      10.776476860046387,
+      10.781142234802246,
+      10.803598403930664,
+      10.966042518615723,
+      11.09896183013916,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.03,
+      180.5,
+      535.49,
+      195.2
+    ],
+    "text": "that time, ha.d sent them some money. The deceased had arrived home at about 2pm.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.13667106628418,
+      10.699999809265137,
+      10.729459762573242,
+      10.745353698730469,
+      10.986075401306152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.37,
+      197.53,
+      535.49,
+      212.23
+    ],
+    "text": "(According to his evidence it seems that this witness had come home before the deceased- Vide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.921262741088867,
+      10.966042518615723,
+      11.23354721069336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.11,
+      214.33,
+      165.91,
+      229.03
+    ],
+    "text": "page 37 of the brief.)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.856603622436523,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.29,
+      248.65,
+      535.48,
+      263.36
+    ],
+    "text": "The appellant was a neighbor of the deceased and was living in the second house from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.73,
+      265.69,
+      535.62,
+      280.39
+    ],
+    "text": "deceased's house in the same set of adjoining houses ('Ieima'). At the time of the incident the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.782134056091309,
+      10.786599159240723,
+      10.856603622436523,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.5,
+      282.73,
+      534.88,
+      297.44
+    ],
+    "text": "deceased was having lunch in his house. When he was having lunch, the appellant had scolded",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.07,
+      299.53,
+      535.75,
+      314.23
+    ],
+    "text": "the deceased in filth and had broken the glass of the front window of the deceased's house by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.778462409973145,
+      10.856603622436523,
+      10.895218849182129,
+      10.93614387512207,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.39,
+      316.57,
+      535.19,
+      331.27
+    ],
+    "text": "punching. Then the deceased had come out and asked the reason for scolding him in that way",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.790467262268066,
+      10.906752586364746,
+      10.999070167541504
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.25,
+      333.37,
+      173.46,
+      348.07
+    ],
+    "text": "and breaking the glass.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.686091423034668,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.87,
+      367.45,
+      534.65,
+      382.15
+    ],
+    "text": "However, as specifically stated by this eye witness, both the deceased and the appellant were",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.273603439331055,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.77,
+      384.49,
+      535.09,
+      399.19
+    ],
+    "text": "drunk at that time and this was the normal behavior of the appellant. The appellant used to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.786599159240723,
+      10.834060668945312,
+      10.856061935424805,
+      10.966042518615723,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.76,
+      401.53,
+      533.97,
+      416.23
+    ],
+    "text": "come to the deceased's place and scold the deceased in filth for no reason (vide pages 31 and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.731404304504395,
+      10.776476860046387,
+      10.999070167541504,
+      11.230308532714844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.76,
+      418.33,
+      137.79,
+      433.03
+    ],
+    "text": "32 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.93614387512207,
+      11.318523406982422
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.61,
+      452.66,
+      533.74,
+      467.36
+    ],
+    "text": "When the deceased had come out from the house the appellant had dragged him to an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.47314453125,
+      10.699999809265137,
+      10.752670288085938,
+      10.776476860046387,
+      10.802558898925781,
+      10.906752586364746,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.77,
+      469.7,
+      534.94,
+      484.4
+    ],
+    "text": "abandoned toilet-pit (depth- about six feet), which was in front of the appellant's house (about",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.800577163696289,
+      10.895218849182129,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.11,
+      486.73,
+      534.32,
+      501.43
+    ],
+    "text": "twenty-five feet away from the deceased's house), and pushed him into it. After pushing him",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.747295379638672,
+      10.752421379089355,
+      10.776476860046387,
+      10.789128303527832,
+      10.815773963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.66,
+      503.53,
+      534.66,
+      518.23
+    ],
+    "text": "into the toilet-pit, the appellant had hit him with a pipe and then he had dealt a blow on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.7037992477417,
+      10.837862014770508,
+      10.926600456237793,
+      10.93614387512207,
+      10.946314811706543
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.67,
+      520.57,
+      534.9,
+      535.28
+    ],
+    "text": "head of the deceased with a club. At the same time the second witness had also come near the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.713991165161133,
+      10.727813720703125,
+      10.776476860046387,
+      11.318523406982422
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.11,
+      537.61,
+      534.08,
+      552.31
+    ],
+    "text": "toilet-pit to save the deceased. The appellant had pushed her into the toilet-pit as well.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.699999809265137,
+      10.770368576049805,
+      10.776476860046387,
+      10.789128303527832,
+      10.950370788574219,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.63,
+      554.42,
+      534.41,
+      569.12
+    ],
+    "text": "However, the appellant had taken her out from the toilet pit saying that he will not assault her.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.79849624633789,
+      10.802558898925781,
+      10.807411193847656,
+      10.817256927490234,
+      10.906752586364746,
+      10.921262741088867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.85,
+      571.45,
+      535.14,
+      586.15
+    ],
+    "text": "Then the appellant had prevented others from coming to rescue the deceased by shouting for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.802558898925781,
+      10.856603622436523,
+      10.9070463180542,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.53,
+      588.49,
+      534.7,
+      603.19
+    ],
+    "text": "about ten minutes. At that time he was armed with a club a'1d a knife. Then some neighbors",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.410996437072754,
+      10.675822257995605,
+      10.699999809265137,
+      10.772653579711914,
+      10.776476860046387,
+      10.837862014770508,
+      10.84506607055664,
+      10.921262741088867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.05,
+      605.53,
+      534.01,
+      620.23
+    ],
+    "text": "and the grandmother of the witness (mother of the deceased) had come to save the deceased.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.666397094726562,
+      10.699999809265137,
+      10.744407653808594,
+      10.856603622436523,
+      11.09896183013916,
+      11.186155319213867,
+      11.318523406982422
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.03,
+      622.57,
+      534.18,
+      637.27
+    ],
+    "text": "So the appellant had run inside his house and then he had fled through the window of his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.319068908691406,
+      10.699999809265137,
+      10.776476860046387,
+      10.778462409973145,
+      10.93614387512207,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.19,
+      639.85,
+      92.73,
+      654.55
+    ],
+    "text": "house.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      525.72,
+      723.1,
+      533.6,
+      737.11
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.62,
+      54.37,
+      600.07,
+      66.46
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.38,
+      82.71,
+      601.99,
+      105.52
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.31,
+      136.3,
+      600.48,
+      169.6
+    ],
+    "text": "!f!!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      8.800000190734863,
+      8.899999618530273,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.28,
+      209.61,
+      601.78,
+      231.87
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.04,
+      272.67,
+      602.19,
+      304.31
+    ],
+    "text": "fJ!'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.598569393157959,
+      10.300000190734863,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.66,
+      350.42,
+      601.27,
+      387.31
+    ],
+    "text": "IIi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.100000381469727,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.82,
+      400.22,
+      600.07,
+      427.55
+    ],
+    "text": "!i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.75,
+      447.25,
+      600.81,
+      467.32
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.57,
+      489.57,
+      599.74,
+      505.24
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.1,
+      538.88,
+      603.88,
+      604.04
+    ],
+    "text": "III",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.899999618530273,
+      21.5,
+      28.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.86,
+      618.37,
+      604.11,
+      694.55
+    ],
+    "text": "III",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.600000381469727,
+      28.0,
+      28.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.74,
+      707.43,
+      600.55,
+      726.26
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.76,
+      739.8,
+      604.54,
+      795.44
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      21.100000381469727,
+      31.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.21,
+      64.81,
+      538.48,
+      79.51
+    ],
+    "text": "The neighbors had taken the deceased out from the toilet-pit and one of the deceased's friends",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.74007511138916,
+      10.74520492553711,
+      10.747295379638672,
+      10.776476860046387,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.8,
+      81.85,
+      538.28,
+      96.55
+    ],
+    "text": "had taken him to the hospital at about 5pm. The deceased had died after about five days from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.23,
+      98.89,
+      307.72,
+      113.6
+    ],
+    "text": "the incident after being admitted to the hospital.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.700400352478027,
+      10.776476860046387,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.21,
+      132.73,
+      538.26,
+      147.43
+    ],
+    "text": "Two omissions of this witness's evidence were drawn to the attention of the Court by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.052155494689941,
+      11.09896183013916,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.56,
+      150.02,
+      538.38,
+      164.72
+    ],
+    "text": "learned Counsel for the Appellant. One is that the witness had failed to mention that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699999809265137,
+      10.790467262268066,
+      10.814190864562988,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.15,
+      167.05,
+      538.38,
+      181.75
+    ],
+    "text": "\u2022 deceased was dragged by the appellant to the toilet-pit to the police. The other one is that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699150085449219,
+      10.699999809265137,
+      10.724471092224121,
+      10.74007511138916,
+      10.771113395690918,
+      10.776476860046387,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.52,
+      184.09,
+      538.29,
+      198.79
+    ],
+    "text": "witness had f~iled to mention that the appellant was the person who took the second witness",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.1657819747924805,
+      10.699999809265137,
+      10.7252197265625,
+      10.856061935424805,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.42,
+      200.9,
+      242.46,
+      215.6
+    ],
+    "text": "out from the toilet-pit to the police.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.709695816040039,
+      10.82630443572998,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.05,
+      235.21,
+      538.26,
+      249.92
+    ],
+    "text": "According to the evidence of the second witness, who was a neighbor and also a relative of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.831491470336914,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.42,
+      251.78,
+      535.25,
+      266.48
+    ],
+    "text": "deceased, she had seen both the deceased and the appellant coming home together by a three-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.69694995880127,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.05,
+      269.05,
+      537.38,
+      283.75
+    ],
+    "text": "wheeler at about 2pm on the day of the incident. Both of them were drunk. The appellant had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.71,
+      286.09,
+      537.46,
+      300.79
+    ],
+    "text": "got down near a shop and the deceased had got down near his house. Then while she was in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.634800910949707,
+      10.699150085449219,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.31,
+      302.9,
+      537.97,
+      317.6
+    ],
+    "text": "her house she had heard the wife and the daughter of the appellant shouting saying \"don't hit,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.837664604187012,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.93,
+      319.93,
+      537.25,
+      334.63
+    ],
+    "text": "don't hit ... \" So she had come out to see what was happening. Then she had seen the deceased",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.080145835876465,
+      10.101777076721191,
+      10.634800910949707,
+      10.699999809265137,
+      10.733746528625488,
+      10.770666122436523,
+      10.820125579833984,
+      10.82630443572998,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.83,
+      336.73,
+      538.68,
+      351.43
+    ],
+    "text": "being beaten and the appellant dragging the deceased to the toilet-pit and pushing him into it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.74007511138916,
+      10.776476860046387,
+      10.966042518615723,
+      11.006558418273926
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.61,
+      353.53,
+      536.87,
+      368.23
+    ],
+    "text": "(vide page 47 of the brief). At that time the appellant was armed with a club. When she was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.634800910949707,
+      10.699150085449219,
+      10.699999809265137,
+      10.713991165161133,
+      10.776476860046387,
+      10.786599159240723,
+      10.790467262268066,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.47,
+      370.81,
+      538.03,
+      385.51
+    ],
+    "text": "shouting and crying, the appellant had pushed her also into the toilet-pit. As stated by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.325651168823242,
+      10.699999809265137,
+      10.719781875610352,
+      10.776476860046387
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.56,
+      387.61,
+      537.68,
+      402.31
+    ],
+    "text": "witness, the deceased had tried to come out from the tOilet-pit but, finally he had stayed inside",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.747295379638672,
+      10.906752586364746,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.27,
+      404.65,
+      537.74,
+      419.35
+    ],
+    "text": "the toilet-pit calmly as he was drunk and he had realized that he can't come out. However, this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.675822257995605,
+      10.699999809265137,
+      10.709695816040039,
+      10.776476860046387,
+      10.856061935424805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.56,
+      421.69,
+      538.14,
+      436.4
+    ],
+    "text": "witness had not fallen into the pit alone she was pushed but, she was clinging to the legs of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.679380416870117,
+      10.699999809265137,
+      10.776476860046387,
+      10.817256927490234,
+      10.916558265686035,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.69,
+      438.49,
+      537.56,
+      453.19
+    ],
+    "text": "appellant and shouting for help. Then the appellant himself had taken her out from the pit (vide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.79849624633789,
+      10.814190864562988,
+      10.906752586364746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.83,
+      455.53,
+      537.3,
+      470.23
+    ],
+    "text": "page 48 of the brief). Just after the appellant took her out from the pit, the deceased had also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.700400352478027,
+      10.747295379638672,
+      10.776476860046387,
+      10.78396987915039,
+      10.82630443572998,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.27,
+      472.57,
+      537.01,
+      487.28
+    ],
+    "text": "tried to come out and at that time the appellant had given a blow to the head of the deceased",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.7037992477417,
+      10.727813720703125,
+      10.776476860046387,
+      10.82630443572998,
+      10.856061935424805,
+      10.966042518615723,
+      11.09896183013916,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.56,
+      489.61,
+      489.75,
+      504.31
+    ],
+    "text": "with the club. Then thereafter, the deceased had fallen into the pit and became silent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.719781875610352,
+      10.776080131530762,
+      10.903858184814453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.01,
+      540.49,
+      539.18,
+      601.75
+    ],
+    "text": "The evidence of the second witness corroborates the evidence given by the first witness. It also supports the statements of the first witness which were brought in to the notice of the Court as omissions. The first witness had also given an explanation regarding the omissions and it was carefully considered and analysed by the learned Trial Judge (vide pages 100, 112 and 113 of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.588872909545898,
+      10.699150085449219,
+      10.699999809265137,
+      10.776476860046387,
+      10.966042518615723,
+      11.006558418273926,
+      11.026517868041992,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.01,
+      596.54,
+      538.24,
+      694.63
+    ],
+    "text": "* the brief). His position was that he was not fluent in Sinhalese at that time and his statement was translated by his uncle to the police at the same time (vide pages 39 and 40 of the brief.). The learned Trial Judge had accepted this explanation and held that considering the young age of the witness (he was only about fifteen years of age at that time) and the fact that it is corroborated by the evidence given by the second witness this evidence could be accepted beyond reasonable doubt (vide pages 112 and 113 of the brief). Therefore there is no proper",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.53111743927002,
+      10.600992202758789,
+      10.608256340026855,
+      10.699150085449219,
+      10.699999809265137,
+      10.70004940032959,
+      10.727813720703125,
+      10.768778800964355,
+      10.776476860046387,
+      10.786599159240723,
+      10.790467262268066,
+      10.817256927490234,
+      10.856061935424805,
+      10.921262741088867,
+      11.006558418273926,
+      11.052155494689941,
+      11.09896183013916,
+      11.186155319213867,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      528.93,
+      725.94,
+      537.35,
+      739.82
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -2.53,
+      -17.62,
+      28.55,
+      59.18
+    ],
+    "text": "I ..",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.247039794921875,
+      55.90010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.63,
+      164.6,
+      59.66,
+      179.99
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61.8,
+      63.14,
+      538.73,
+      92.95
+    ],
+    "text": "grounds to say that the evidence of these two witnesses cannot be believed or they are not credible witnesses.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.590691566467285,
+      10.699999809265137,
+      10.7252197265625,
+      10.734992980957031,
+      10.856061935424805,
+      10.966042518615723,
+      10.96784782409668,
+      11.026226997375488,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.91,
+      126.25,
+      538.2,
+      203.67
+    ],
+    "text": "Furthermore, it has to be noted that the testimonial trustworthiness of a witness is a matter for the Trial Judge and the considered finding of a Trial Judge will not be disturbed by an Appellate Court lightly. This was held in the case of Fradd v. Brown and Company 20 NLR 282. In that case, the Privy Council held that \"In reality the case, ... , largely depended upon the truth or falsity of statements that were made by the witnesses for the plaintiffs and defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.350027084350586,
+      10.354108810424805,
+      10.588872909545898,
+      10.589631080627441,
+      10.613046646118164,
+      10.631278991699219,
+      10.699999809265137,
+      10.724471092224121,
+      10.751923561096191,
+      10.7748384475708,
+      10.776476860046387,
+      10.814190864562988,
+      10.856061935424805,
+      10.898900985717773,
+      10.939176559448242,
+      10.966042518615723,
+      11.186155319213867,
+      11.506651878356934,
+      11.567010879516602,
+      11.793159484863281,
+      12.100000381469727,
+      12.866708755493164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.65,
+      203.49,
+      537.39,
+      266.55
+    ],
+    "text": "respectively .... It is rare that a decision of a Judge so expressed, so explicit, upon a point of fact purely, is over-ruled by a Court of Appeal, because Courts of Appeal recognize the priceless advantage which a Judge of first instance has in matters of that kind, as contrasted with any Judge of a Court of Appeal, who can only learn from paper or from narrative of those who were",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.669698715209961,
+      11.711203575134277,
+      11.783459663391113,
+      11.911430358886719,
+      12.074522972106934,
+      12.097550392150879,
+      12.100000381469727,
+      12.726101875305176,
+      12.866708755493164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.7,
+      267.6,
+      539.57,
+      297.5
+    ],
+    "text": "present. It is very rare, in questions of veracity so direct and so specific as these, a Court of Appeal will over-rule a Judge of first instance.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.783459663391113,
+      11.840058326721191,
+      11.911430358886719,
+      12.017770767211914,
+      12.097550392150879,
+      12.100000381469727,
+      12.866708755493164,
+      13.005843162536621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.24,
+      325.63,
+      538.49,
+      423.26
+    ],
+    "text": "This was also held in the case of State of Uttar Pradesh v. M. K. Anthony (1984) sa 236/ (1985) CRI. L. 1. 493 at 498/499 and it was cited by Justice Sisira de Abrew in the case of Oliver Dayananda Kalansuriya alias Raja v. Republic of Sri Lanka CA 28/2009 (13.02.2013). There it was held that \"While appreciating the evidence of a witness, the approach must be whether the evidence of the witness read as whole appears to have ring of truth. Once that impression is formed, it is undoubtedly necessary for the court to scrutinize the evidence more particularly",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.799890518188477,
+      10.589631080627441,
+      10.699999809265137,
+      10.831491470336914,
+      10.856061935424805,
+      10.879217147827148,
+      11.151881217956543,
+      11.178511619567871,
+      11.186155319213867,
+      11.23354721069336,
+      11.247251510620117,
+      11.300000190734863,
+      11.399999618530273,
+      11.580517768859863,
+      11.65851879119873,
+      11.711203575134277,
+      11.711504936218262,
+      11.758171081542969,
+      11.854948043823242,
+      12.050849914550781,
+      12.100000381469727,
+      12.107547760009766,
+      12.137541770935059,
+      12.138289451599121,
+      12.22569751739502,
+      12.638086318969727,
+      12.726101875305176,
+      12.866708755493164,
+      13.005843162536621,
+      17.461759567260742
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.46,
+      424.08,
+      537.95,
+      642.15
+    ],
+    "text": "keeping in view the deficiencies, drawbacks and infirmities pointed out in the evidence as a whole and evaluate them to find out whether it is against the general tenor of the evidence given by the witness and whether the earlier evaluation of the evidence is shaken as to tender it unworthy of belief Minor discrepancies on trivial matters not touching the core of the case, hyper-technical approach by taking sentences torn out of context here or there from the evidence, attaching importance to some technical error committed by the investigating officer not going to the root of the matter would not ordinarily permit rejection of the evidence as a whole. If the court before whom the witness gives evidence had the opportunity to form the opinion about the general tenor of evidence given by the witness, the appellate court which had not this benefit will have to attach due weight to the appreciation of evidence by the trial court unless there are reasons weighty and formidable it would not be proper to reject the evidence on the ground of minor variations or infirmities in the matter d/ trivial details. Even honest and truthful witness may differ in some details unrelated to the main incident because power of observation, retention and reproduction differ with individuals.\"",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.831491470336914,
+      11.669698715209961,
+      11.711203575134277,
+      11.840058326721191,
+      11.911430358886719,
+      11.97384262084961,
+      12.026426315307617,
+      12.100000381469727,
+      12.135000228881836,
+      12.222579002380371,
+      12.239791870117188,
+      12.726101875305176,
+      12.866708755493164,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      526.45,
+      725.95,
+      534.12,
+      738.59
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      597.57,
+      418.58,
+      600.29,
+      436.42
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      597.64,
+      465.53,
+      599.67,
+      479.54
+    ],
+    "text": "i!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      598.18,
+      721.44,
+      600.87,
+      734.77
+    ],
+    "text": "~}",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.535444498062134,
+      5.599999904632568
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.67,
+      166.99,
+      64.7,
+      182.38
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.76,
+      66.5,
+      539.75,
+      253.03
+    ],
+    "text": "Prosecution had also led the evidence of the police officers who conducted the inquiry with regard to this incident and who visited the scene and the JMO who gave evidence on the post mortem report prepared by another JMO. According to the police officers the appellant was absconding after the incident and had surrendered to the Passara police station on 22.01.2007 with a Lawyer (vide pages 73 and 77 of the brief). However, they had further stated that they had visited the scene of the crime some days later (13.01.2007) from the'day of the incident and it was a relative of the deceased (Periyasami Umaya) who gave them the club (which was marked as Pl in this case). Furthermore, she had brought it from her house and handed it over to the police saying that it was the club which the appellant used to assault the deceased (vide pages 72 and 78 of the brief). They have not found any marks of a fight except the broken window and the glass pieces at the crime scene as they have visited the crime scene two days later from the incident (also the first complaint was made on 13.01.2007).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.273603439331055,
+      10.611282348632812,
+      10.611534118652344,
+      10.628561019897461,
+      10.657364845275879,
+      10.672815322875977,
+      10.696449279785156,
+      10.699999809265137,
+      10.713991165161133,
+      10.724471092224121,
+      10.7252197265625,
+      10.74515438079834,
+      10.747295379638672,
+      10.7748384475708,
+      10.776476860046387,
+      10.790467262268066,
+      10.792351722717285,
+      10.79458236694336,
+      10.812063217163086,
+      10.817256927490234,
+      10.831491470336914,
+      10.966042518615723,
+      11.006558418273926,
+      11.052155494689941,
+      11.186155319213867,
+      11.23354721069336,
+      11.318805694580078
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.21,
+      285.85,
+      539.08,
+      331.75
+    ],
+    "text": "The doctor who gave evidence on the post mortem report was of the opinion that the injury to the head was in fact necessarily fatal as the deceased had died even after giving medical attention (vide page 64, 66 and 67 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.699999809265137,
+      10.700400352478027,
+      10.705498695373535,
+      10.717735290527344,
+      10.831491470336914,
+      10.856061935424805,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.8,
+      364.57,
+      539.0,
+      519.67
+    ],
+    "text": "After the conclusion of the prosecution's case, the defence had not called any witnesses on behalf of the appellant but the appellant had made a dock statement. His position was that most of the times the deceased used to consume arrack in the early morning and also he usually sold arrack in his house. On the day of the incident the deceased was shouting after consuming arrack and he had scolded a small child who was in the appellant's house. Then the appellant had asked the deceased not to scold the child. Thereafter the deceased had come with a knife and the appellant had pushed the deceased away. The deceased fell into the toilet-pit. Then thereafter, the people who were around had given a bath to the deceased and taken him to the hospital. According to him he had not pushed the deceased with an intention to kill him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.47314453125,
+      10.509249687194824,
+      10.54512882232666,
+      10.667049407958984,
+      10.675822257995605,
+      10.691145896911621,
+      10.697249412536621,
+      10.699150085449219,
+      10.699999809265137,
+      10.700599670410156,
+      10.719781875610352,
+      10.776080131530762,
+      10.776476860046387,
+      10.784913063049316,
+      10.790467262268066,
+      10.817256927490234,
+      10.898900985717773,
+      10.966042518615723,
+      11.052155494689941,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.45,
+      552.25,
+      538.93,
+      628.88
+    ],
+    "text": "As I've mentioned above, the second ground for appeal was that the learned High Court Judge had failed to give the benefit of the plea of sudden fight to the \"appellant. However, it has to be mentioned that the Learned Trial Judge had considered in detail/adequately whether the appellant could be afforded any benefit either under plea of {(rave and sudden provocation or sudden fight (vide pages 104, 108, 109, 111 and 112 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.215218544006348,
+      10.543861389160156,
+      10.631278991699219,
+      10.66313648223877,
+      10.699999809265137,
+      10.706947326660156,
+      10.776476860046387,
+      10.831491470336914,
+      10.83958911895752,
+      10.856061935424805,
+      10.9070463180542,
+      10.921262741088867,
+      11.052155494689941,
+      11.09896183013916,
+      11.186155319213867,
+      11.23354721069336
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.93,
+      657.86,
+      540.25,
+      691.58
+    ],
+    "text": "Exception four to the sec.294 of the Penal Code states that \"Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.790467262268066,
+      10.839638710021973,
+      11.052155494689941,
+      11.09896183013916,
+      11.669698715209961,
+      11.711203575134277,
+      12.100000381469727,
+      12.135000228881836,
+      12.726101875305176,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      529.58,
+      728.03,
+      537.5,
+      741.08
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -2.4,
+      1.67,
+      1.44,
+      45.17
+    ],
+    "text": "I",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      11.559929847717285
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      8.65,
+      1.67,
+      44.94,
+      13.67
+    ],
+    "text": "\"~~r'",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -0.95,
+      33.89,
+      20.64,
+      48.53
+    ],
+    "text": "~ \\",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.5272653102874756,
+      6.199999809265137,
+      6.599999904632568
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -3.82,
+      93.16,
+      33.77,
+      186.04
+    ],
+    "text": ", I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.91,
+      164.11,
+      58.94,
+      179.5
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60.65,
+      61.09,
+      537.08,
+      92.49
+    ],
+    "text": "quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner.\"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.572853088378906,
+      11.899999618530273,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59.08,
+      125.77,
+      537.29,
+      328.15
+    ],
+    "text": "For a moment if we think that the whole incident happened as a result of a sudden fight in the way that the appellant explained, the behaviour of the appellant should be the behaviour of a reasonable person who faced such kind of a situation. However, according to the evidence for the prosecution it is so clear that the appellant assaulted the deceased with the club while he was inside the toilet-pit which was about six feet in depth. Would this be the actual behaviour of a reasonable man before whom a person came running with a knife and then who pushed the assailant into a toilet-pit about six feet in depth, in order to defend himself from stabbing? It is obvious that a reasonable man would have pushed the assailant away but, assaulting a person who is already crammed in such kind of a deep pit would have never been the usual behaviour of a reasonable man. That act of the appellant can be considered as cruel and unusual. It appears he had taken an undue advantage from the situation. Therefore, even if this incident happened as a result of a sudden fight the appellant cannot be afforded any benefit under the ground of a sudden fight.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.160552024841309,
+      10.273603439331055,
+      10.354108810424805,
+      10.47314453125,
+      10.506754875183105,
+      10.613853454589844,
+      10.643349647521973,
+      10.699150085449219,
+      10.699999809265137,
+      10.715639114379883,
+      10.74580192565918,
+      10.747295379638672,
+      10.749783515930176,
+      10.756550788879395,
+      10.770368576049805,
+      10.776080131530762,
+      10.776476860046387,
+      10.790467262268066,
+      10.79849624633789,
+      10.800577163696289,
+      10.812409400939941,
+      10.814190864562988,
+      10.856061935424805,
+      10.856603622436523,
+      10.921262741088867,
+      10.966042518615723,
+      11.006558418273926,
+      11.052155494689941,
+      11.09896183013916,
+      11.186155319213867,
+      11.23354721069336,
+      11.318523406982422,
+      11.455992698669434
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.44,
+      360.97,
+      536.2,
+      454.16
+    ],
+    "text": "However, in this case the learned Counsel for the appellant in cross examination of the lay witnesses had put the position that there was a sudden fight but, both of them had rejected it (vide pages 44 and 51 of the brief). The learned Trial Judge had also decided that there is no available evidence of a sudden fight (vide page 112 of the brief). Furthermore, the police had observed broken window and glass pieces in front of the deceased's house. That also corroborates the version of the first witness.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.650334358215332,
+      10.699999809265137,
+      10.729459762573242,
+      10.74515438079834,
+      10.776476860046387,
+      10.78496265411377,
+      10.790467262268066,
+      10.856061935424805,
+      10.856603622436523,
+      10.895218849182129,
+      11.052155494689941,
+      11.090378761291504,
+      11.186155319213867,
+      11.23354721069336,
+      11.318523406982422
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.01,
+      486.73,
+      535.57,
+      610.63
+    ],
+    "text": "The evidence given by the JMO also establishes the version of the lay witnesses. According to the JMO, the abrasions noticed on the front of the deceased's body (on his stomach, chest, right hand and the right leg) could have been caused by the deceased being dragged on the ground or when he was falling in to the toilet-pit, but the injury on his head, which caused his death, cannot be caused merely by falling on the ground or in to such kind of a pit (vide page 68 of the brief). His opinion was that it had been caused by a force imposed by a heavy blunt weapon (vide page 65 of the brief) and it could have been caused by the club found by the police from the crime scene, as it was heavy, blunt and matchetJ with his description (vide page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.273603439331055,
+      10.600992202758789,
+      10.699999809265137,
+      10.712343215942383,
+      10.747295379638672,
+      10.776080131530762,
+      10.776476860046387,
+      10.784913063049316,
+      10.841662406921387,
+      10.903858184814453,
+      10.921262741088867,
+      10.966042518615723,
+      10.96784782409668,
+      11.09896183013916,
+      11.186155319213867,
+      11.23354721069336
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.19,
+      612.01,
+      137.75,
+      626.71
+    ],
+    "text": "66 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57.77,
+      658.82,
+      535.9,
+      704.47
+    ],
+    "text": "The subsequent conduct of the appellant, armed with a knife and a club and not allowing anyone to take the deceased for medical attention, also militates against the appellant. It confirms the cruel and unusual behaviour of the appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776080131530762,
+      10.776476860046387,
+      10.817256927490234,
+      10.9070463180542,
+      10.966042518615723,
+      11.026517868041992,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      526.45,
+      724.27,
+      534.18,
+      738.01
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.35,
+      103.1,
+      603.44,
+      255.3
+    ],
+    "text": "i II,III!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.400100231170654,
+      10.899999618530273,
+      13.0,
+      13.699999809265137,
+      19.5,
+      24.70009994506836,
+      28.600000381469727,
+      29.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.84,
+      252.96,
+      603.79,
+      368.82
+    ],
+    "text": "~ IIII !I,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.718064069747925,
+      5.500100135803223,
+      13.0,
+      14.699999809265137,
+      16.899999618530273,
+      22.399999618530273,
+      24.70009994506836,
+      28.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      596.61,
+      362.89,
+      601.75,
+      390.49
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      18.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      597.09,
+      436.21,
+      600.34,
+      461.5
+    ],
+    "text": "fi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      597.42,
+      535.26,
+      600.82,
+      555.61
+    ],
+    "text": "(i",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.800099849700928,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      57.3,
+      88.57,
+      541.28,
+      244.19
+    ],
+    "text": "When we analyze the entire evidence before us, it is evident that the prosecution had a strong prima facie case against the appellant but the appellant was unable to create a reasonable doubt in the prosecution case. The dock statement given by the appellant does not explain how the deceased received the necessarily fatal injury on his head, the reason for his subsequent unusual conduct and the reason for absconding after the incident. In the case of lIangati/aka \u2022 and Others v. The Republic of Sri Lanka 1984 2 SLLR 38, the Supreme Court has held that Ifwhere a strong prima facie case has been made out against an accused and when it is in his own power to offer evidence, if such exists, in explanation of such suspicious circumstances which would show them to be fallacious and explicable consistently with his innocence it would justify the conclusion that the evidence so suppressed or not adduced would operate adversely",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.452896118164062,
+      10.528576850891113,
+      10.613046646118164,
+      10.624634742736816,
+      10.678678512573242,
+      10.699999809265137,
+      10.700400352478027,
+      10.702898979187012,
+      10.78957462310791,
+      10.790467262268066,
+      10.814190864562988,
+      10.817256927490234,
+      10.856603622436523,
+      10.966042518615723,
+      11.006558418273926,
+      11.052155494689941,
+      11.199999809265137,
+      11.280426025390625,
+      11.51911449432373,
+      11.621376991271973,
+      11.662710189819336,
+      12.0,
+      12.006248474121094,
+      12.013742446899414,
+      12.182708740234375,
+      12.529661178588867,
+      12.673405647277832,
+      12.813430786132812
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.33,
+      245.06,
+      540.09,
+      275.36
+    ],
+    "text": "to his interests./I This presumption is also recognized under the sec. 114(f) of the Evidence Ordinance.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.550150871276855,
+      10.699999809265137,
+      11.052155494689941,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.96,
+      307.94,
+      539.78,
+      369.43
+    ],
+    "text": "Considering all above, it is conspicuous that there is no proper ground to disregard the evidence given by the witnesses for the prosecution and there is no any admissible evidence of a sudden fight. And it is very much clear from the well-considered judgment given by the learned Trial Judge that the he had carefully analyzed each and every fact of this case and the applicable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.963233947753906,
+      10.160552024841309,
+      10.354108810424805,
+      10.589631080627441,
+      10.699999809265137,
+      10.7748384475708,
+      10.814190864562988,
+      10.856061935424805,
+      10.966042518615723,
+      11.006558418273926,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.8,
+      370.09,
+      254.85,
+      384.79
+    ],
+    "text": "laws, before coming to his conclusion.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.21,
+      417.61,
+      419.34,
+      432.31
+    ],
+    "text": "Therefore, based on all above, I affirm the conviction and the sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      337.6,
+      512.66,
+      505.05,
+      527.36
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.042285919189453,
+      10.138360023498535,
+      10.293062210083008,
+      10.34583854675293,
+      10.355194091796875,
+      10.377747535705566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.29,
+      570.98,
+      155.09,
+      585.68
+    ],
+    "text": "H. N. J. PERERA, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.882684707641602,
+      10.179069519042969,
+      10.32518482208252,
+      10.453254699707031
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.47,
+      618.26,
+      104.44,
+      632.96
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      336.88,
+      689.05,
+      504.31,
+      703.75
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.138360023498535,
+      10.293062210083008,
+      10.321764945983887,
+      10.34583854675293,
+      10.377747535705566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      530.94,
+      726.06,
+      538.59,
+      739.67
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      -0.24,
+      -0.01,
+      42.45,
+      15.59
+    ],
+    "text": ": \":':~'",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.899366855621338,
+      8.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      -0.41,
+      21.6,
+      23.29,
+      52.25
+    ],
+    "text": "I ~. ,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      8.600000381469727,
+      9.01518726348877,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.63,
+      162.67,
+      59.66,
+      178.06
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      62.51,
+      108.58,
+      168.04,
+      122.87
+    ],
+    "text": "CASES REFERRED TO:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.766026496887207,
+      9.921648979187012,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61.4,
+      156.15,
+      530.76,
+      218.5
+    ],
+    "text": "1) Fradd v. Brown and Company 20 NLR 282 2) State of Uttar Pradesh v. M. K. Anthony (1984) sa 236/ (1985) CRL L. J. 493 3) Oliver Dayananda Kalansuriya alias Raja v. Republic of Sri Lanka CA 28/2009 (13.02.2013) 4) lIangatilaka and Others v. The Republic of Sri Lanka 1984 2 SLLR 38",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.489019393920898,
+      10.094614028930664,
+      10.26536750793457,
+      10.307469367980957,
+      10.369000434875488,
+      10.429390907287598,
+      10.765746116638184,
+      10.800000190734863,
+      10.873499870300293,
+      10.991894721984863,
+      10.994694709777832,
+      11.019960403442383,
+      11.238306045532227,
+      11.300000190734863,
+      16.908605575561523
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      527.16,
+      724.59,
+      535.33,
+      738.05
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  }
+]

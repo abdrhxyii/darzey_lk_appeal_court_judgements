@@ -1,0 +1,2990 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      176.41,
+      61.84,
+      521.57,
+      77.68
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.446325302124023,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.99,
+      80.86,
+      431.8,
+      97.76
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.446325302124023,
+      11.5,
+      11.651556968688965,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.3,
+      110.41,
+      520.48,
+      140.0
+    ],
+    "text": "IN THE MATTER OF AN APPLICATION TO REVISE THE ORDER OF THE HIGH COURT OF KALUTARA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972305297851562,
+      10.042285919189453,
+      10.138360023498535,
+      10.161920547485352,
+      10.221396446228027,
+      10.223071098327637,
+      10.227727890014648,
+      10.271052360534668,
+      10.377747535705566,
+      10.47702693939209,
+      10.488152503967285,
+      10.51835823059082,
+      10.547107696533203,
+      10.566568374633789
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.85,
+      140.17,
+      540.01,
+      154.87
+    ],
+    "text": "REFUSING THE GRANT OF BAIL PENDING APPEAL IN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.138360023498535,
+      10.223071098327637,
+      10.293062210083008,
+      10.300335884094238,
+      10.355194091796875,
+      10.450439453125,
+      10.503801345825195,
+      10.550251960754395
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.54,
+      155.06,
+      540.95,
+      184.4
+    ],
+    "text": "CASE NO. HC 384/2011 UNDER THE PROVISIONS OF THE CRIMINAL PROCEDURE ACT NO. 15 OF 1979.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.911497116088867,
+      9.945229530334473,
+      10.002571105957031,
+      10.042285919189453,
+      10.223227500915527,
+      10.227727890014648,
+      10.319847106933594,
+      10.399531364440918,
+      10.445114135742188,
+      10.558464050292969,
+      10.68684196472168,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.02,
+      224.21,
+      326.64,
+      242.09
+    ],
+    "text": "C A (PHC) APPLICATION NO. 04/2014",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.520332336425781,
+      12.008028984069824,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.39,
+      256.02,
+      260.77,
+      271.85
+    ],
+    "text": "H.C. KAlUTARA 384/2011",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.884230613708496
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.32,
+      602.26,
+      283.95,
+      620.26
+    ],
+    "text": "BEFORE A.W.A. SALAM, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.367587089538574,
+      11.5,
+      11.599470138549805,
+      12.0430269241333
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.53,
+      284.37,
+      524.94,
+      301.27
+    ],
+    "text": "Kaluperuma Kelum Dushmantha de Silva,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.53,
+      304.29,
+      350.6,
+      321.19
+    ],
+    "text": "Moragalla,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.53,
+      324.22,
+      346.31,
+      341.12
+    ],
+    "text": "Beruwala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.31,
+      354.89,
+      358.67,
+      370.72
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.25,
+      382.92,
+      431.14,
+      400.68
+    ],
+    "text": "(on behalf of his father)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.385957717895508,
+      12.704569816589355,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.75,
+      443.73,
+      441.38,
+      460.63
+    ],
+    "text": "Ratnasiri Silva Kaluperuma",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.6,
+      462.83,
+      535.16,
+      480.59
+    ],
+    "text": "(Presently incaserated / serving sentence)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.733070373535156,
+      12.855975151062012,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.32,
+      483.0,
+      460.91,
+      500.76
+    ],
+    "text": "Accused Appellant Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.481563568115234,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.07,
+      513.34,
+      364.79,
+      530.24
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.928799629211426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.24,
+      542.85,
+      443.93,
+      559.75
+    ],
+    "text": "The Hon. Attorney General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.367862701416016
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.79,
+      573.53,
+      370.03,
+      589.37
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      177.59,
+      631.78,
+      372.43,
+      649.78
+    ],
+    "text": "W.M.M. MALINI GUNARATNE, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.506448745727539,
+      11.859193801879883,
+      12.203153610229492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.77,
+      30.47,
+      300.12,
+      47.65
+    ],
+    "text": "-2-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.65,
+      90.68,
+      293.14,
+      108.03
+    ],
+    "text": "Dr. Ranjit Fernando",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.91,
+      120.68,
+      433.55,
+      138.03
+    ],
+    "text": "FOR THE ACCUSED APPELLANT PETITIONER",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.037859916687012,
+      12.072404861450195,
+      12.118032455444336,
+      12.174412727355957,
+      12.380743026733398
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.89,
+      180.43,
+      311.27,
+      197.78
+    ],
+    "text": "Rajindra Jayaratne, SC",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.294520378112793,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.47,
+      210.19,
+      310.45,
+      227.54
+    ],
+    "text": "FOR THE RESPONDENT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.037859916687012,
+      12.183000564575195,
+      12.295879364013672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.41,
+      269.76,
+      275.98,
+      286.94
+    ],
+    "text": "Argued on 11th March 2014.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.063115119934082,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.08,
+      293.52,
+      261.48,
+      317.41
+    ],
+    "text": "Decided on 26th May 2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.669816970825195,
+      12.40715503692627,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.86,
+      365.95,
+      225.88,
+      383.3
+    ],
+    "text": "Malinie Gunaratne, J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.220986366271973,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.88,
+      401.99,
+      522.68,
+      419.17
+    ],
+    "text": "The Petitioner to this case, acting on behalf of his father (Accused -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.372095108032227,
+      12.5,
+      12.82453727722168,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.41,
+      427.92,
+      513.84,
+      445.1
+    ],
+    "text": "Appellant) moves this Court to revise the Order made by the High Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.06,
+      453.59,
+      527.78,
+      470.77
+    ],
+    "text": "Judge, Kalutara, refusing to grant bail pending Appeal to this Court against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.1,
+      479.51,
+      255.6,
+      496.69
+    ],
+    "text": "the sentence in that Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.684734344482422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.56,
+      515.51,
+      541.92,
+      532.69
+    ],
+    "text": "The Accused -Appellant had been indicted on three (03) counts",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.88,
+      541.2,
+      541.26,
+      558.38
+    ],
+    "text": "before the High Court of Kalutara, having committed Grave Sexual Abuse on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.75,
+      560.64,
+      543.73,
+      583.82
+    ],
+    "text": "a male child of 18 years of age, on the 24th of July, 26th of July and 2ih of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.669816970825195,
+      11.990516662597656,
+      12.459534645080566,
+      12.5,
+      12.789937973022461,
+      12.92526626586914,
+      13.059191703796387,
+      13.608407020568848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.06,
+      592.55,
+      541.74,
+      609.73
+    ],
+    "text": "July 2004, an offence punishable under Sec.365 (B) (2) B of the Penal Code",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.183237075805664,
+      12.28489875793457,
+      12.451606750488281,
+      12.468008995056152,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.76,
+      618.47,
+      365.68,
+      635.65
+    ],
+    "text": "as amended by Act No. 22/1995 and 28/1998.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -3.64,
+      -15.37,
+      25.66,
+      57.04
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      52.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -1.25,
+      42.22,
+      14.1,
+      82.65
+    ],
+    "text": "J I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      27.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.49,
+      31.18,
+      300.59,
+      48.08
+    ],
+    "text": "-3-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.13,
+      67.65,
+      541.48,
+      84.55
+    ],
+    "text": "At the trial, the Accused -Appellant tendered a plea of guilt in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.306797981262207,
+      12.386446952819824,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.37,
+      93.33,
+      542.28,
+      110.23
+    ],
+    "text": "respect of all three (03) counts and the learned High Court Judge convicted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.318686485290527,
+      12.386446952819824,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.36,
+      119.01,
+      542.71,
+      135.91
+    ],
+    "text": "him and sentenced seven (07) years Rigorous Imprisonment on each count",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.13,
+      144.94,
+      543.97,
+      161.84
+    ],
+    "text": "(to run concurrently) together with a fine of Rs.2,SOO/- and an order of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.099465370178223,
+      12.186223983764648,
+      12.300000190734863,
+      12.31009578704834,
+      12.374922752380371,
+      12.386893272399902,
+      12.68720531463623,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.74,
+      171.09,
+      541.96,
+      187.99
+    ],
+    "text": "compensation in a sun of Rs.200,OOO/- on each count payable to the victim",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.156917572021484,
+      12.300000190734863,
+      12.386446952819824,
+      12.721527099609375,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.87,
+      197.01,
+      542.25,
+      213.91
+    ],
+    "text": "with default terms in the event of non-payment. Against the said sentence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.386446952819824,
+      12.448701858520508,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.82,
+      222.7,
+      387.81,
+      239.6
+    ],
+    "text": "the Accused - Appellant had preferred an Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.305747985839844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.36,
+      258.45,
+      542.53,
+      275.35
+    ],
+    "text": "The Accused - Appellant applied for bail pending Appeal from the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3817777633667,
+      12.64637279510498
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.54,
+      284.62,
+      542.19,
+      301.52
+    ],
+    "text": "High Court of Kalutara. The High Court Judge refused such application by his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.19,
+      310.29,
+      542.43,
+      327.19
+    ],
+    "text": "Order dated 19.12.2013, on the grounds that there were no exceptional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.305747985839844,
+      12.318686485290527,
+      12.517821311950684
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.22,
+      336.21,
+      187.01,
+      353.11
+    ],
+    "text": "circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.6,
+      372.21,
+      536.54,
+      389.11
+    ],
+    "text": "The present application has been made on behalf of the Accused -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22391414642334,
+      12.300000190734863,
+      12.386446952819824,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.13,
+      397.9,
+      542.05,
+      414.8
+    ],
+    "text": "Appellant seeking to revise the Order of the Kalutara High Court Judge,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.386446952819824,
+      12.68720531463623,
+      12.721527099609375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.25,
+      423.57,
+      446.52,
+      440.47
+    ],
+    "text": "dated 19.12.2013, refusing the grant of bail pending appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.305747985839844,
+      12.95429801940918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.3,
+      459.57,
+      542.77,
+      476.47
+    ],
+    "text": "It is a settled principle that release on bail pending appeal to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.895188331604004,
+      12.300000190734863,
+      12.452455520629883,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.42,
+      485.5,
+      481.02,
+      502.4
+    ],
+    "text": "Court of Appeal will only be granted in exceptional circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235078811645508,
+      12.300000190734863,
+      12.95429801940918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.31,
+      521.05,
+      544.21,
+      538.66
+    ],
+    "text": "In King vs. Keerala 48 N.L.R. 202, Wijewardana J. held, the Court of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.123331069946289,
+      12.148567199707031,
+      12.175722122192383,
+      12.300000190734863,
+      12.386446952819824,
+      12.629470825195312,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.42,
+      547.18,
+      544.55,
+      564.08
+    ],
+    "text": "Criminal Appeal does not grant applications for bail in the absence of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.305747985839844,
+      12.445539474487305,
+      12.64637279510498,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.23,
+      572.86,
+      542.23,
+      589.76
+    ],
+    "text": "exceptional circumstances. In The Queen vs. B. Rupasingha Perera 62",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.502227783203125,
+      12.123331069946289,
+      12.249396324157715,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.81,
+      597.85,
+      543.12,
+      615.46
+    ],
+    "text": "N.L.R.238, Basnayake c.J. with Sansoni J. held, bail is not granted by the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.300000190734863,
+      12.305747985839844,
+      12.445539474487305,
+      12.448701858520508,
+      12.629470825195312,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.42,
+      624.21,
+      542.16,
+      641.11
+    ],
+    "text": "Court of Appeal unless there are exceptional circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.318686485290527,
+      12.95429801940918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.33,
+      649.89,
+      542.74,
+      666.79
+    ],
+    "text": "Weeramanthri J. held in, The Queen vs. Koranelis Silva 74 N.L.R. 113,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.169001579284668,
+      12.175722122192383,
+      12.249396324157715,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.61,
+      675.1,
+      542.4,
+      692.0
+    ],
+    "text": "release on bail pending appeal to the Court of Criminal Appeal will only be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235078811645508,
+      12.300000190734863,
+      12.305747985839844,
+      12.721527099609375,
+      12.95429801940918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.01,
+      700.53,
+      319.02,
+      717.43
+    ],
+    "text": "granted in exceptional circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.76,
+      298.03,
+      605.69,
+      356.98
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      42.90010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285.73,
+      30.1,
+      301.08,
+      47.14
+    ],
+    "text": "-4-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.61,
+      66.34,
+      541.94,
+      83.38
+    ],
+    "text": "Learned Counsel for Petitioner submitted that he was aware that bail",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.568603515625,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.18,
+      92.26,
+      542.08,
+      109.3
+    ],
+    "text": "is not usually granted pending the hearing of an Appeal and that it is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      11.943445205688477,
+      12.35055160522461,
+      12.399999618530273,
+      12.43669605255127,
+      12.496027946472168,
+      12.502971649169922,
+      12.567468643188477,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.81,
+      118.19,
+      542.44,
+      135.23
+    ],
+    "text": "granted only in exceptional circumstances. The circumstances relied on by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.387093544006348,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.62,
+      144.1,
+      542.97,
+      161.14
+    ],
+    "text": "the Petitioner are set out in Paragraph 8 of the Petition and the relevant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.5750150680542,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.92,
+      170.02,
+      544.21,
+      187.06
+    ],
+    "text": "matters which were placed before the High Court Judge at the hearing of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.517146110534668,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.38,
+      195.95,
+      543.09,
+      212.99
+    ],
+    "text": "the application for bail pending appeal are set out in Paragraph 6 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.605300903320312,
+      12.655370712280273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.12,
+      221.63,
+      154.91,
+      238.67
+    ],
+    "text": "Petition.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.23,
+      257.63,
+      542.23,
+      274.67
+    ],
+    "text": "One of the questions that arose for determination was whether, in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.697676658630371,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.79,
+      283.55,
+      542.66,
+      300.59
+    ],
+    "text": "an application for bail pending appeal, would the Court consider, no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.43669605255127,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.16,
+      309.46,
+      542.63,
+      326.5
+    ],
+    "text": "previous convictions. It is not a matter that could be taken up and decided",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.496027946472168,
+      12.508475303649902,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.16,
+      335.38,
+      543.4,
+      352.42
+    ],
+    "text": "by Court in the granting of bail. The view of this Court is, it is an insufficient",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.138185501098633,
+      12.235660552978516,
+      12.399999618530273,
+      12.517146110534668,
+      12.798060417175293,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.81,
+      360.82,
+      287.05,
+      377.86
+    ],
+    "text": "ground, for the granting of bail.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.697676658630371,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.6,
+      396.82,
+      543.78,
+      413.86
+    ],
+    "text": "The second ground is that no record of ever having absconded or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.474625587463379,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.91,
+      422.75,
+      541.23,
+      439.79
+    ],
+    "text": "warrant issued in the High Court or Magistrate Court. It was held in R.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.990151405334473,
+      12.399999618530273,
+      12.43669605255127,
+      12.603874206542969
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.12,
+      448.9,
+      542.5,
+      465.94
+    ],
+    "text": "Muthuretty vs. The Queen 54 N.L.R. 493, the improbability of the convicted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.19785213470459,
+      12.271685600280762,
+      12.399999618530273,
+      12.43669605255127,
+      12.612577438354492,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.92,
+      474.59,
+      542.48,
+      491.63
+    ],
+    "text": "person not absconding would not be a relevant consideration in application",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273,
+      12.496027946472168,
+      12.577972412109375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.41,
+      500.5,
+      543.55,
+      517.54
+    ],
+    "text": "for bail pending appeal, though it could be relevant in an application for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.512290954589844,
+      12.567468643188477,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.92,
+      525.94,
+      206.49,
+      542.98
+    ],
+    "text": "bail pending trial.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.93,
+      561.16,
+      543.58,
+      579.04
+    ],
+    "text": "As stated by Vaithiyalingam J. in Thamotharan Pillai vs. Attorney",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.914755821228027,
+      12.095819473266602,
+      12.399999618530273,
+      12.510904312133789
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.49,
+      587.62,
+      544.38,
+      604.66
+    ],
+    "text": "General (Supra) S.c. 141/75 liThe main consideration of course is whether if",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.428966522216797,
+      12.798060417175293,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.16,
+      613.3,
+      543.55,
+      630.34
+    ],
+    "text": "his appeal should fail the Accused - Appellant would appear in Court to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.16,
+      638.98,
+      543.09,
+      656.02
+    ],
+    "text": "receive and serve his sentence. When the offence is grave and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.57,
+      663.94,
+      540.21,
+      680.98
+    ],
+    "text": "sentence is heavy the temptation to abscond in order to avoid serving the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.40784740447998,
+      12.44825553894043,
+      12.517146110534668,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -3.82,
+      -5.47,
+      33.77,
+      87.41
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      283.28,
+      28.98,
+      298.72,
+      46.99
+    ],
+    "text": "-5-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.65,
+      66.24,
+      539.64,
+      83.42
+    ],
+    "text": "sentence in the event of his appeal failing would of course be grave. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22149658203125,
+      12.449950218200684,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.89,
+      92.15,
+      540.76,
+      109.33
+    ],
+    "text": "such cases the Court would require the Accused - Appellant to show the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.303912162780762,
+      12.472620010375977,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.87,
+      118.07,
+      541.13,
+      135.25
+    ],
+    "text": "existence of exceptional circumstances to warrant the grant of bail pending",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168,
+      12.92526626586914,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.87,
+      144.0,
+      139.12,
+      161.18
+    ],
+    "text": "appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.29,
+      146.04,
+      145.1,
+      152.64
+    ],
+    "text": "lJ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.469257831573486
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.81,
+      152.28,
+      149.82,
+      158.88
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.800099849700928
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.63,
+      179.76,
+      540.89,
+      196.94
+    ],
+    "text": "In this context, it is important to note, that this Accused - Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.22149658203125,
+      12.5,
+      12.507547378540039,
+      12.618042945861816,
+      12.619181632995605,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.24,
+      205.44,
+      540.07,
+      222.62
+    ],
+    "text": "has been sentenced to a period of seven years rigorous imprisonment on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.322896003723145,
+      12.5,
+      12.82453727722168,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.88,
+      231.35,
+      541.13,
+      248.53
+    ],
+    "text": "each count. (21 years to run concurrently). In such cases where the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22149658203125,
+      12.353440284729004,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.9,
+      257.27,
+      541.11,
+      274.45
+    ],
+    "text": "sentence is severe there is a likelihood of the temptation and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.47,
+      283.44,
+      358.22,
+      300.62
+    ],
+    "text": "propensity to abscond and flee from justice.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.62,
+      319.19,
+      541.36,
+      336.37
+    ],
+    "text": "In the case of Ramu Thamotherampilai vs. A.G. (S.c. 141/75) the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.24693775177002,
+      12.334403038024902,
+      12.385526657104492,
+      12.393193244934082,
+      12.452860832214355,
+      12.49239730834961,
+      12.5,
+      12.56751823425293,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.3,
+      344.87,
+      541.93,
+      362.05
+    ],
+    "text": "Court followed the well recognized and uninterrupted practice of not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.12,
+      370.79,
+      542.77,
+      387.97
+    ],
+    "text": "granting bail pending appeal to any convict sentenced to a term of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.789937973022461,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.48,
+      396.71,
+      540.48,
+      413.89
+    ],
+    "text": "imprisonment of seven years or more and that this should be a norm to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.334149360656738,
+      12.449950218200684,
+      12.5,
+      12.619181632995605,
+      12.78309440612793,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.35,
+      422.63,
+      541.9,
+      439.81
+    ],
+    "text": "adhered to. Therefore, after conviction, bail would be granted only under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.449950218200684,
+      12.5,
+      12.538042068481445
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.35,
+      448.56,
+      259.69,
+      465.74
+    ],
+    "text": "exceptional circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.68,
+      484.07,
+      542.01,
+      501.25
+    ],
+    "text": "What are the considerations to be taken into account in determining",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.449950218200684,
+      12.5,
+      12.595733642578125,
+      12.690202713012695
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.95,
+      509.99,
+      541.61,
+      527.17
+    ],
+    "text": "the question as to whether an accused who has been convicted before the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.014730453491211,
+      12.322896003723145,
+      12.400252342224121,
+      12.5,
+      12.526721000671387,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.67,
+      535.68,
+      540.89,
+      552.86
+    ],
+    "text": "High Court, should or should not be released on bail pending his appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.449950218200684,
+      12.5,
+      12.546314239501953,
+      12.654594421386719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.23,
+      560.68,
+      541.61,
+      578.56
+    ],
+    "text": "when exercising the discretion vested. As stated by Vaithiyalingam J. the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.962702751159668,
+      12.5,
+      12.56751823425293,
+      12.724788665771484
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.73,
+      587.03,
+      541.84,
+      604.21
+    ],
+    "text": "main consideration of course is whether if his Appeal should fail the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.5,
+      12.510146141052246,
+      12.92526626586914,
+      13.077032089233398
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.49,
+      612.95,
+      489.92,
+      630.13
+    ],
+    "text": "Appellant would appear in Court to receive and serve his sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.35,
+      648.24,
+      543.25,
+      665.42
+    ],
+    "text": "In addition to the above the Court also has to consider the nature of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22149658203125,
+      12.322896003723145,
+      12.5,
+      12.789937973022461,
+      12.82453727722168,
+      12.957429885864258
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.42,
+      673.43,
+      541.84,
+      690.61
+    ],
+    "text": "the charges and the severity of the sentence, in granting bail, pending",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.59,
+      699.11,
+      147.19,
+      716.29
+    ],
+    "text": "appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -4.51,
+      -10.73,
+      18.29,
+      71.37
+    ],
+    "text": "I I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0,
+      14.300000190734863,
+      17.20009994506836,
+      41.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      283.33,
+      30.34,
+      298.68,
+      47.38
+    ],
+    "text": "-6-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137.77,
+      66.82,
+      540.27,
+      83.86
+    ],
+    "text": "At the hearing of this application and in the written submissions filed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.477258682250977,
+      12.517146110534668,
+      12.53273868560791,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.0,
+      92.98,
+      540.46,
+      110.03
+    ],
+    "text": "in this Court, learned Counsel for the Petitioner submitted, that the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.43,
+      118.67,
+      540.45,
+      135.71
+    ],
+    "text": "High Court Judge had failed to consider the suspended sentence imposed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.24,
+      144.11,
+      541.47,
+      161.15
+    ],
+    "text": "by the learned High Court Judge of Kandy, on the accused for a similar",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.517146110534668,
+      12.605300903320312,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.88,
+      170.02,
+      540.61,
+      187.06
+    ],
+    "text": "offence. Further submitted the Accused - Appellant would have presumed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.46,
+      196.18,
+      540.86,
+      213.22
+    ],
+    "text": "justifiably that there would be no variance of disparity in sentencing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.284713745117188,
+      12.347187042236328,
+      12.399999618530273,
+      12.568603515625,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.24,
+      222.11,
+      359.06,
+      239.15
+    ],
+    "text": "principles between two parallel High Courts.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.820905685424805
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      138.63,
+      257.87,
+      534.42,
+      274.91
+    ],
+    "text": "It is relevant to note that against the said sentence the Accused -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.77,
+      283.79,
+      540.94,
+      300.83
+    ],
+    "text": "Appellant had preferred an appeal. In Attorney General vs. Ediriweera,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.19785213470459,
+      12.235660552978516,
+      12.335884094238281,
+      12.399999618530273,
+      12.447408676147461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.87,
+      309.01,
+      540.21,
+      326.51
+    ],
+    "text": "S. C. Appeal No.100/200S, Shirani Thilakawardana J. held, IIln an",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.180448532104492,
+      11.194945335388184,
+      12.235660552978516,
+      12.399999618530273,
+      12.789520263671875
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.11,
+      335.62,
+      537.75,
+      352.66
+    ],
+    "text": "application for bail after conviction the Appellate Court should not pre-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.487789154052734,
+      12.496027946472168,
+      12.789337158203125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.35,
+      361.54,
+      541.29,
+      378.58
+    ],
+    "text": "empt the hearing of the substantive appeal and pronounced upon the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.434401512145996,
+      12.43669605255127,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.72,
+      387.23,
+      542.3,
+      404.27
+    ],
+    "text": "merits of the appeal. The merits of the conviction are therefore a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.72,
+      412.9,
+      540.82,
+      429.94
+    ],
+    "text": "matter solely to be determined by the Appellate Court hearing the Appeal\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.508475303649902,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.16,
+      438.82,
+      540.73,
+      455.86
+    ],
+    "text": "Therefore, the judicial disparity in sentencing cannot be regarded as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.35,
+      464.74,
+      439.93,
+      481.78
+    ],
+    "text": "exceptional circumstances to warrant the granting of bail.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.41499137878418,
+      12.773136138916016,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.11,
+      500.74,
+      540.53,
+      517.78
+    ],
+    "text": "In M. Salahadeen vs. Attorney General 77 N.L.R. 262,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.178369522094727,
+      12.19785213470459,
+      12.376977920532227,
+      12.399999618530273,
+      12.418037414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.32,
+      526.67,
+      541.87,
+      543.71
+    ],
+    "text": "Samarawickrama J. held, the release of a prisoner on bail pending appeal to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.214312553405762,
+      12.399999618530273,
+      12.43669605255127,
+      12.6393404006958,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.18,
+      552.34,
+      541.2,
+      569.38
+    ],
+    "text": "the Court of Criminal Appeal will only be granted in exceptional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.35,
+      578.02,
+      190.13,
+      595.06
+    ],
+    "text": "circumstances.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.39,
+      613.54,
+      541.07,
+      630.58
+    ],
+    "text": "From a consideration of the decisions referred to above and the legal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.2,
+      639.22,
+      541.44,
+      656.26
+    ],
+    "text": "provisions as a general principle there is no doubt that exceptional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      11.943445205688477,
+      12.399999618530273,
+      12.493794441223145,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.82,
+      664.66,
+      541.4,
+      681.7
+    ],
+    "text": "circumstances must be established by an Appellant if the discretion vested",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.35055160522461,
+      12.399999618530273,
+      12.43669605255127,
+      13.024618148803711
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.2,
+      690.1,
+      292.09,
+      707.14
+    ],
+    "text": "in a High Court to grant him bail.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -3.34,
+      -15.38,
+      24.85,
+      54.28
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      50.70009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -0.54,
+      53.81,
+      13.39,
+      76.75
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.70009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      283.53,
+      29.16,
+      298.72,
+      46.63
+    ],
+    "text": "-7-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137.77,
+      66.03,
+      540.69,
+      83.48
+    ],
+    "text": "A perusal of the decided cases would appear to indicate that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.451876640319824,
+      12.699999809265137,
+      12.719734191894531,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.23,
+      92.18,
+      540.12,
+      109.63
+    ],
+    "text": "requirement of exceptional circumstances has been strictly insisted on and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.421087265014648,
+      12.675626754760742,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101.99,
+      118.11,
+      540.88,
+      135.56
+    ],
+    "text": "in my view no sufficient case of exceptional circumstances as understood",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.110466957092285,
+      12.43059253692627,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.48,
+      144.03,
+      295.14,
+      161.48
+    ],
+    "text": "by this Court has been made out.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.421087265014648,
+      12.658331871032715,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137.92,
+      179.79,
+      540.18,
+      197.24
+    ],
+    "text": "The learned High Court Judge was of the view that the Petitioner had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.59047794342041,
+      12.684540748596191,
+      12.698200225830078,
+      12.699999809265137,
+      12.719734191894531,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.47,
+      205.71,
+      541.29,
+      223.16
+    ],
+    "text": "not shown any exceptional circumstances to grant bail. I do not see any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.420729637145996,
+      12.699999809265137,
+      12.791321754455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.49,
+      231.62,
+      542.29,
+      249.07
+    ],
+    "text": "reason to vary the Order of refusing bail, made by the High Court Judge of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.698200225830078,
+      12.699999809265137,
+      12.891850471496582,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.69,
+      257.79,
+      155.86,
+      275.24
+    ],
+    "text": "Kalutara.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.25,
+      293.55,
+      404.95,
+      311.0
+    ],
+    "text": "Accordingly, I dismiss the revision application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.38,
+      391.6,
+      446.66,
+      408.68
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.885787963867188,
+      12.01486873626709,
+      12.021471977233887,
+      12.098176956176758,
+      12.19200611114502
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.85,
+      427.47,
+      107.86,
+      444.92
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.93,
+      499.6,
+      521.27,
+      516.68
+    ],
+    "text": "ACTING PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.885787963867188,
+      11.950762748718262,
+      11.979727745056152,
+      12.021471977233887,
+      12.128988265991211,
+      12.228007316589355,
+      12.275373458862305
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      592.19,
+      277.01,
+      607.81,
+      359.59
+    ],
+    "text": "Il",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      21.100000381469727,
+      56.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      593.93,
+      741.03,
+      602.56,
+      787.05
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      34.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      592.93,
+      793.59,
+      604.49,
+      850.75
+    ],
+    "text": "J!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      41.599998474121094
+    ]
+  }
+]
