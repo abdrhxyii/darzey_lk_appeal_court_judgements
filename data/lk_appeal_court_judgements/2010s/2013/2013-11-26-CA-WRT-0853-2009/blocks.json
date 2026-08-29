@@ -1,0 +1,534 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.5,
+      169.82
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA C.A. Application No: 853/2009",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      169.68,
+      445.24,
+      301.13
+    ],
+    "text": "J.L.K.Ratnayake, No: 5/11, 2nd Lane, Swarna Place, Kirigampamunuwa, Polgasovita. And 3 others",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      301.11,
+      511.75,
+      465.31
+    ],
+    "text": "Petitioners Vs. Sri Lanka Foundation, No: 100, Independence square, Colombo 07. And 04 others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      465.17,
+      482.83,
+      481.63
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.34,
+      99.49,
+      144.54,
+      116.03
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.02,
+      156.13,
+      155.62,
+      172.67
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.84482192993164
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.41,
+      269.66,
+      162.38,
+      286.2
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.637819290161133
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.34,
+      291.02,
+      173.48,
+      307.56
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.54564380645752,
+      13.058941841125488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.11,
+      73.12,
+      522.08,
+      88.96
+    ],
+    "text": "C.A Writ 853/2009.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.775060653686523,
+      12.10650634765625,
+      12.456890106201172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.78,
+      99.98,
+      361.11,
+      116.52
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.573436737060547,
+      12.748405456542969,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.34,
+      156.86,
+      465.37,
+      173.4
+    ],
+    "text": "Uditha Egalahewa P.C for the Petitioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.652332305908203,
+      12.787737846374512,
+      12.910491943359375,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.35,
+      178.22,
+      480.59,
+      194.76
+    ],
+    "text": "Sagara Kariyawasam instructed by Priyanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.72679328918457,
+      12.768960952758789,
+      12.860450744628906,
+      13.016237258911133,
+      13.043834686279297
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.04,
+      199.1,
+      427.59,
+      215.64
+    ],
+    "text": "Jayathilake for the 1 st Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.252657890319824,
+      12.399999618530273,
+      12.801983833312988,
+      13.015093803405762,
+      13.022475242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.54,
+      220.69,
+      487.6,
+      237.23
+    ],
+    "text": "Murthu Fernando D.S.G for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.593293190002441,
+      12.818198204040527,
+      12.936446189880371,
+      13.015093803405762,
+      13.073888778686523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.52,
+      291.25,
+      287.87,
+      307.79
+    ],
+    "text": "26.11.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.888814926147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.87,
+      333.53,
+      259.01,
+      351.12
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.927985191345215,
+      12.778358459472656,
+      12.928101539611816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.33,
+      390.85,
+      536.11,
+      407.39
+    ],
+    "text": "Learned D.S.G. informs court that the Hon. Attorney -General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.45333480834961,
+      12.47442626953125,
+      12.634875297546387,
+      12.772941589355469,
+      12.800773620605469,
+      12.928055763244629,
+      12.942100524902344,
+      13.061220169067383,
+      13.384377479553223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.9,
+      419.17,
+      340.95,
+      435.71
+    ],
+    "text": "no longer appear for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.654243469238281,
+      12.730446815490723,
+      12.798544883728027,
+      13.015093803405762,
+      13.167120933532715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.41,
+      447.5,
+      536.33,
+      464.04
+    ],
+    "text": "1 st Respondent agree that the salary scale presently enjoyed by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.416458129882812,
+      12.399999618530273,
+      12.50753402709961,
+      12.656447410583496,
+      12.679352760314941,
+      12.72192096710205,
+      12.853458404541016,
+      12.947225570678711,
+      12.970142364501953,
+      13.015093803405762,
+      13.384377479553223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.13,
+      475.81,
+      535.47,
+      492.35
+    ],
+    "text": "the 1 st to 4th Petitioners is reflected in P6(a) and P6(b), which is also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.416458129882812,
+      12.399999618530273,
+      12.520563125610352,
+      12.583295822143555,
+      12.601119041442871,
+      12.711780548095703,
+      12.754191398620605,
+      12.790888786315918,
+      12.851480484008789,
+      12.928055763244629,
+      13.2958402633667
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.14,
+      504.37,
+      536.02,
+      520.91
+    ],
+    "text": "recommended by the Commissioner of Labour. Petitioners seeks",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597674369812012,
+      12.6809663772583,
+      12.705047607421875,
+      12.768960952758789,
+      12.801063537597656,
+      12.861656188964844,
+      12.892951011657715,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.42,
+      532.45,
+      535.83,
+      548.99
+    ],
+    "text": "permission of court to withdraw this application. Petitioner's application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597674369812012,
+      12.601119041442871,
+      12.676907539367676,
+      12.693867683410645,
+      12.694844245910645,
+      12.855581283569336,
+      12.862041473388672,
+      12.976306915283203,
+      13.162835121154785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.29,
+      560.78,
+      338.4,
+      577.32
+    ],
+    "text": "is allowed. Proceedings are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.406448364257812,
+      12.543420791625977,
+      12.700800895690918,
+      12.840717315673828,
+      12.97592544555664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      391.89,
+      601.74,
+      421.61,
+      618.68
+    ],
+    "text": "r--'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.221446990966797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.05,
+      613.2,
+      457.29,
+      643.8
+    ],
+    "text": "&o/VVWV1fV\\~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      14.407997131347656
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.26,
+      646.84,
+      512.9,
+      662.54
+    ],
+    "text": "JUDGE OF +ilECOuRT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.475500106811523,
+      11.803218841552734,
+      11.892702102661133,
+      12.462944984436035
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.13,
+      702.6,
+      131.58,
+      717.94
+    ],
+    "text": "Vkg/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  }
+]

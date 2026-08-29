@@ -1,0 +1,671 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      169.82
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA 270/00 (F) DC Awissawella NO 11/ P",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      169.68,
+      429.4,
+      215.59
+    ],
+    "text": "Nawagamuwalage Kathonis Suraweera (DEAD) Hingurakgoda, Dehiowita",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      215.4,
+      451.03,
+      290.62
+    ],
+    "text": "Deceased 23rd Defendant Appellant Nawagamuwalage Dharmasiri Wijayaweera E 46, Hingurakkanda, Dehiowita.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      290.55,
+      541.39,
+      495.36
+    ],
+    "text": "Substituted 23 (A) Defendant Appellant Petitioner Vs. 1. Chandra Pushpakanthi Rajapakshe 2. Advin Palandage Dhanapala 3. Pattiyawattage Sophinona 4. Pallekannage Sophinona 5. Pallekannage Melis 6. Pallekannage Misa All Of C/O Sriyani , Dehiowita, Hinguralagoda.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      495.17,
+      475.27,
+      675.82
+    ],
+    "text": "Plaintiff Respondents-Respondents 1. Pallekanalage Alis nona (Deceased) 2. Chandrapala Nawagamuwa 3. Palle Kandalage Ranjith Nawagamuwa 4. Palle Kandalage Themis Nawagamuwa 5. Palle Kandalage Menaka Weerasinghe Nawagamuwa 6. Palle Kandalage Piyadasa Nawagamuwa 7. (A) Palle Kandalage Ranjith Nawagamuwa And others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      675.8,
+      461.59,
+      692.26
+    ],
+    "text": "Defendant Respondents-Respondents",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.03,
+      65.9,
+      198.38,
+      82.44
+    ],
+    "text": "C.A. NO. 270/2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.341692924499512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.62,
+      91.82,
+      135.1,
+      108.36
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.526999473571777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.31,
+      118.46,
+      143.24,
+      135.0
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.02,
+      223.82,
+      164.6,
+      240.37
+    ],
+    "text": "ARGUED AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.46,
+      250.46,
+      161.54,
+      267.0
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.24,
+      303.84,
+      206.91,
+      321.02
+    ],
+    "text": "K.T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.979795455932617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.26,
+      69.49,
+      461.06,
+      86.03
+    ],
+    "text": "D.C. Avissawella No. 111P",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.428133010864258,
+      12.516205787658691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225.3,
+      94.7,
+      346.85,
+      111.24
+    ],
+    "text": "K.T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.386971473693848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.82,
+      122.29,
+      485.18,
+      138.83
+    ],
+    "text": "Mihiri Abeyrathne for the substituted 23 (A)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.326371192932129,
+      12.399999618530273,
+      12.775854110717773,
+      12.826369285583496,
+      12.928055763244629,
+      13.147093772888184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.03,
+      147.49,
+      348.93,
+      164.03
+    ],
+    "text": "defendan t -appellan t.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.82047176361084,
+      12.904727935791016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.1,
+      174.62,
+      457.39,
+      191.16
+    ],
+    "text": "Punnya Jayathilaka for the 1 st plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.931657791137695,
+      12.399999618530273,
+      12.424026489257812,
+      13.015093803405762,
+      13.083606719970703,
+      13.113851547241211
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.42,
+      199.82,
+      296.37,
+      216.36
+    ],
+    "text": "respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.897374153137207
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.65,
+      252.85,
+      343.23,
+      269.39
+    ],
+    "text": "27th January, 2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.759732246398926,
+      13.242012023925781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.7,
+      360.13,
+      514.26,
+      376.67
+    ],
+    "text": "Counsel for the 23(A) defendant- appellant submits that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.84037971496582,
+      12.86233139038086,
+      12.909867286682129,
+      12.928055763244629,
+      12.973727226257324,
+      13.095921516418457,
+      13.316575050354004
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.05,
+      385.72,
+      92.11,
+      404.51
+    ],
+    "text": "2nd",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.275457382202148,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.93,
+      381.97,
+      514.42,
+      404.51
+    ],
+    "text": ", 4th, and 5th plaintiff-respondents are dead. 2nd plaintiff-respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      8.479811668395996,
+      11.34693431854248,
+      11.52287769317627,
+      12.399999618530273,
+      12.744465827941895,
+      12.752052307128906,
+      12.802177429199219,
+      12.97592544555664,
+      13.222613334655762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.38,
+      416.05,
+      513.3,
+      432.59
+    ],
+    "text": "had died on the 4th November, 1994. He had died while this case was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.485604286193848,
+      12.511250495910645,
+      12.582358360290527,
+      12.605447769165039,
+      12.708805084228516,
+      12.813117980957031,
+      12.941620826721191,
+      12.947799682617188,
+      12.976306915283203,
+      13.015093803405762,
+      13.118342399597168,
+      13.191818237304688
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.94,
+      444.62,
+      513.03,
+      461.16
+    ],
+    "text": "pending in the District Court. The appellant was given several times",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.436197280883789,
+      12.650126457214355,
+      12.656153678894043,
+      12.730592727661133,
+      12.752537727355957,
+      12.756524085998535,
+      12.823371887207031,
+      12.851480484008789,
+      12.883330345153809,
+      12.973727226257324,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.74,
+      473.17,
+      512.58,
+      489.71
+    ],
+    "text": "since 28.02.2013 to effect the substitution in the room of the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.601119041442871,
+      12.66403865814209,
+      12.727523803710938,
+      12.733903884887695,
+      12.794523239135742,
+      12.851480484008789,
+      12.928055763244629,
+      12.952922821044922,
+      13.015093803405762,
+      13.052863121032715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.13,
+      496.45,
+      511.85,
+      518.15
+    ],
+    "text": "2nd, 4th and 5th plaintiff-respondents. So far no steps have been taken to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      8.275457382202148,
+      11.52287769317627,
+      12.399999618530273,
+      12.45706844329834,
+      12.47169303894043,
+      12.646059036254883,
+      12.747432708740234,
+      12.800000190734863,
+      12.807165145874023,
+      12.841634750366211,
+      12.882319450378418,
+      12.997312545776367,
+      13.084790229797363,
+      13.222613334655762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.7,
+      529.82,
+      512.19,
+      546.36
+    ],
+    "text": "have the substitution effected. Accordingly, it is clear that the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.692304611206055,
+      12.711780548095703,
+      12.81887435913086,
+      12.88843059539795,
+      12.925322532653809,
+      12.928055763244629,
+      13.096726417541504,
+      13.384377479553223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.37,
+      558.38,
+      511.8,
+      574.92
+    ],
+    "text": "is not prosecuting this appeal diligently. In the circumstances, Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.543420791625977,
+      12.826369285583496,
+      12.888574600219727,
+      12.937212944030762,
+      12.941573143005371,
+      12.943537712097168,
+      12.976306915283203,
+      12.999268531799316,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.97,
+      585.25,
+      269.42,
+      601.79
+    ],
+    "text": "makes order abating the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.720653533935547,
+      12.901412010192871,
+      12.957180976867676,
+      13.015093803405762,
+      13.057897567749023
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.52,
+      662.94,
+      234.36,
+      678.57
+    ],
+    "text": "Appeal abated.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.912506103515625,
+      13.146071434020996
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.68,
+      717.02,
+      507.24,
+      733.56
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.479544639587402,
+      12.630949020385742,
+      12.806680679321289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.02,
+      739.81,
+      112.07,
+      756.35
+    ],
+    "text": "Kwk/=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597182273864746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.35,
+      761.08,
+      603.77,
+      843.9
+    ],
+    "text": "II!t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.899999618530273,
+      18.20009994506836,
+      24.600000381469727,
+      29.20009994506836
+    ]
+  }
+]

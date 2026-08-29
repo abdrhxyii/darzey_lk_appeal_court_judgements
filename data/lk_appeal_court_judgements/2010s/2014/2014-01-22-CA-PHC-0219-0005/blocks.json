@@ -1,0 +1,550 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      86.27,
+      521.2,
+      101.81
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      102.35,
+      397.66,
+      183.62
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA. (PHC) 219/05 P.H.C Anuradhapura Case No. 53/2003(Writ)",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      183.48,
+      423.76,
+      249.26
+    ],
+    "text": "S.W. Rathnapala Anuradapuraya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      249.27,
+      462.19,
+      347.69
+    ],
+    "text": "Appellant Vs. Municipal Council Anuradapuraya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      347.67,
+      476.47,
+      380.57
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.29,
+      69.86,
+      162.7,
+      84.56
+    ],
+    "text": "CA. (PHC) 219/05",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.314505577087402,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.45,
+      94.56,
+      107.78,
+      109.27
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.05,
+      144.01,
+      113.5,
+      158.71
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.2,
+      193.69,
+      129.9,
+      208.39
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.96,
+      218.18,
+      150.11,
+      232.88
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.597811698913574,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217.92,
+      69.86,
+      442.26,
+      84.56
+    ],
+    "text": "P.H.C Anuradhapura Case No. 53/2003(Writ)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.358293533325195,
+      10.692447662353516,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.45,
+      94.56,
+      270.24,
+      109.27
+    ],
+    "text": "A.W.A. Salam,J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.597811698913574,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.3,
+      119.06,
+      277.16,
+      133.76
+    ],
+    "text": "Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.69792652130127,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.21,
+      143.77,
+      374.28,
+      158.47
+    ],
+    "text": "Appellant is absent and unrepresented",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.68,
+      168.74,
+      417.71,
+      183.44
+    ],
+    "text": "Dharmasiri Karunaratne for all the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.58,
+      193.69,
+      241.0,
+      208.39
+    ],
+    "text": "22.01.2014.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.81,
+      257.53,
+      388.28,
+      272.23
+    ],
+    "text": "Counsel for the Respondent heard in support of his case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.613046646118164,
+      10.699999809265137,
+      10.9070463180542,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.41,
+      297.13,
+      529.61,
+      311.83
+    ],
+    "text": "This is an appeal against the order of the learned High Court Judge refusing to issue a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.963233947753906,
+      10.47314453125,
+      10.638422966003418,
+      10.699999809265137,
+      11.052155494689941,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.93,
+      318.98,
+      528.9,
+      333.68
+    ],
+    "text": "Writ of Certiorari in respect of a notice sent by the Anuradhapura Municipal Council calling",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.68789291381836,
+      10.699999809265137,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.0,
+      341.05,
+      528.0,
+      355.75
+    ],
+    "text": "upon the Appellant to show cause as to why the building in question should not be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.019885063171387,
+      10.51510238647461,
+      10.697549819946289,
+      10.699999809265137,
+      10.831491470336914,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.62,
+      363.14,
+      528.42,
+      377.84
+    ],
+    "text": "demolished. The learned High Court Judge has refused the application on the basis that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.543861389160156,
+      10.678027153015137,
+      10.691145896911621,
+      10.699999809265137,
+      10.790467262268066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.25,
+      385.21,
+      530.04,
+      399.91
+    ],
+    "text": "Appellant had an alternative remedy namely to show cause before the learned Magistrate if",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.588872909545898,
+      10.699999809265137,
+      10.831491470336914,
+      11.006558418273926
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.75,
+      407.3,
+      527.78,
+      422.0
+    ],
+    "text": "proceedings are instituted under the Municipal Council Ordinance. As such, we do not see",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.215218544006348,
+      10.555118560791016,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.37,
+      429.37,
+      528.61,
+      444.07
+    ],
+    "text": "any reason that warrants the interference of this Court with the reasoning of the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776080131530762,
+      10.790467262268066,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.71,
+      451.7,
+      528.65,
+      466.4
+    ],
+    "text": "High Court Judge and the conclusion reached in the case. Consequently, this appeal stands",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.613046646118164,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.62,
+      473.77,
+      125.3,
+      488.47
+    ],
+    "text": "dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      325.38,
+      536.72,
+      505.35,
+      552.73
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477839469909668,
+      11.494189262390137,
+      11.613423347473145,
+      11.753211975097656,
+      11.772238731384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.27,
+      568.55,
+      170.59,
+      583.75
+    ],
+    "text": "Sunil Rajapakshe.1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.64,
+      600.23,
+      145.86,
+      615.43
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.518335342407227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      325.14,
+      630.07,
+      505.1,
+      646.08
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477839469909668,
+      11.494189262390137,
+      11.613423347473145,
+      11.73819351196289,
+      11.819035530090332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.35,
+      699.81,
+      93.03,
+      715.95
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.23,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      165.38
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (PHC) No. 199/2012 PHC Colombo HCRA No. 53/11",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      165.36,
+      502.87,
+      263.93
+    ],
+    "text": "Warnakulasootiya Lakshman Upaly No: 76, Wijerama Mawatha, Colombo 07.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      263.91,
+      486.67,
+      428.11
+    ],
+    "text": "Appellant Vs. Mahagamage Don Hugo Anthony No: 09, Rathnayake Mawatha, Battaramulla. And another",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      428.09,
+      459.19,
+      460.87
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.38,
+      100.98,
+      482.5,
+      119.7
+    ],
+    "text": "C.A. (PH C) No. 199/2012 PHC Colombo HCRA No. 53111",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.090024948120117,
+      13.5,
+      13.501649856567383,
+      13.628438949584961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.22,
+      149.22,
+      118.0,
+      167.23
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.14,
+      197.23,
+      125.61,
+      215.24
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.98,
+      229.62,
+      144.37,
+      247.63
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.76,
+      310.02,
+      177.28,
+      328.03
+    ],
+    "text": "A.W.A. Salam, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.72,
+      149.46,
+      307.62,
+      183.55
+    ],
+    "text": "A.W. A. Salam, J & Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.191064834594727,
+      13.451011657714844,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.25,
+      197.46,
+      413.84,
+      215.47
+    ],
+    "text": "Appellant is absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.44,
+      229.61,
+      255.55,
+      247.62
+    ],
+    "text": "27.01.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.69,
+      259.19,
+      251.17,
+      279.87
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.12813949584961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.29,
+      358.97,
+      514.75,
+      376.98
+    ],
+    "text": "Appellant is absent and unrepresented. Despite notice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.55,
+      383.46,
+      514.53,
+      401.47
+    ],
+    "text": "having been issued calling upon the payment of brief fees as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.569372177124023,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.41,
+      407.94,
+      514.77,
+      425.95
+    ],
+    "text": "appellant has failed to pay the brief fees this appeal is rejected. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.26,
+      431.93,
+      515.54,
+      449.95
+    ],
+    "text": "Respondent M. Hugo Anthony has paid a sum of Rs. 2828/= as per",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.800000190734863,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.31,
+      456.41,
+      514.3,
+      474.42
+    ],
+    "text": "receipt bearing No. T/22 466548. If the briefs of the respondent has",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.800000190734863,
+      14.24181842803955,
+      14.25768756866455
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.06,
+      480.42,
+      514.44,
+      498.43
+    ],
+    "text": "not been prepared the Registrar is directed to suspend immediately the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.11,
+      504.9,
+      514.8,
+      522.92
+    ],
+    "text": "preparation of the briefs and return the money paid by the respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.8,
+      529.37,
+      315.32,
+      547.39
+    ],
+    "text": "to meet the expenses of the brief fees.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.51174545288086,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.19,
+      586.25,
+      494.54,
+      604.26
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.31,
+      610.74,
+      198.73,
+      628.75
+    ],
+    "text": "Sunil Rajapakshe, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.395545959472656,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.74,
+      643.38,
+      196.24,
+      661.39
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.95,
+      659.21,
+      487.38,
+      677.23
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.81,
+      691.61,
+      108.96,
+      709.62
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.71,
+      348.7,
+      600.44,
+      360.38
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      592.67,
+      470.94,
+      608.29,
+      548.16
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      56.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.96,
+      539.79,
+      602.13,
+      559.99
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.08,
+      719.66,
+      600.95,
+      760.96
+    ],
+    "text": "J f",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      16.600000381469727
+    ]
+  }
+]
