@@ -1,0 +1,609 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      103.82,
+      72.47,
+      511.71,
+      88.01
+    ],
+    "text": "THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      147.86
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A.296/2013 (Writ)",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.479999542236328,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      147.84,
+      467.83,
+      213.5
+    ],
+    "text": "Rev. Battaramulle Seelaratana, Leader/Secretary, \"Jana Setha Peramune\u201d No 185/B Devalapara, Talangama South, Battaramulla.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.02,
+      213.48,
+      528.79,
+      476.23
+    ],
+    "text": "Petitioner Vs. 1. Mahinda Desappriya Commissioner of Elections Department of Elections, Rajagiriya. 2. R.M.Ratnayaka AssistantCommissioner for Elections, Rajagiriya. 3. M.Kingsly Fernando, District Secretary, Returning Officer for Divisional Secretariat Office, Puttalam. 4. K.A.Sumith Chandana Assistant Returning Officer Divisional Secretariat Office, Puttalam.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.02,
+      476.31,
+      466.63,
+      702.45
+    ],
+    "text": "5. A.D.S.Premajayantha, Genenral Secretary, Eksath Janatha Nidahas Sandanaya, No 301, T.B.Jaya Mawatha, Colombo 10. 6. Tissa Attanayaka, General Secretary, United National Party, No 400,Kotte, Pita Kotte, Sri jayawardanapura. 7. M.Tilwin Silva, General Secretary, Janatha Vimukthi Peramune. 8. Hon Attorney General Attorney Generals Department, Colombo 12.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      6.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      702.44,
+      410.8,
+      718.89
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -3.49,
+      6.22,
+      18.25,
+      85.71
+    ],
+    "text": "t I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      15.300000190734863,
+      20.100000381469727,
+      39.099998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.28,
+      91.81,
+      193.78,
+      107.88
+    ],
+    "text": "C.A.296/2013 (Writ)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.547133445739746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.63,
+      141.49,
+      341.62,
+      157.3
+    ],
+    "text": "Before Anil Gooneratne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.795210838317871,
+      12.246989250183105
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.48,
+      166.93,
+      393.93,
+      182.27
+    ],
+    "text": "W.M.M.Malinie Gunaratne,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.094626426696777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.55,
+      191.64,
+      480.03,
+      207.22
+    ],
+    "text": "Counsel Pradeep Kumarasinghe with A.A.Senevirathe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.608190536499023,
+      11.85696029663086,
+      11.864328384399414,
+      11.876341819763184,
+      11.898544311523438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.79,
+      216.84,
+      324.93,
+      232.18
+    ],
+    "text": "for the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.750570297241211,
+      12.195046424865723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.79,
+      242.04,
+      508.83,
+      257.38
+    ],
+    "text": "Milinda Gunatilake DSG with D.Thilakawardae for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.623437881469727,
+      11.624228477478027,
+      11.786433219909668,
+      11.803641319274902,
+      11.896465301513672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.6,
+      267.01,
+      365.91,
+      282.35
+    ],
+    "text": "1, 2 and 8th respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.765480041503906,
+      11.5,
+      11.962787628173828,
+      12.228477478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.94,
+      291.49,
+      133.57,
+      306.83
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.670682907104492,
+      12.301939010620117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.38,
+      314.52,
+      130.87,
+      329.86
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.630558967590332,
+      12.031421661376953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.7,
+      360.6,
+      175.52,
+      375.94
+    ],
+    "text": "Anil Goonerathe! J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.727009773254395,
+      12.573633193969727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230.08,
+      314.52,
+      298.82,
+      329.86
+    ],
+    "text": "28.10.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.270442008972168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.94,
+      419.4,
+      526.07,
+      434.74
+    ],
+    "text": "At this stage, learned Counsel for the Petitioner moves to withdraw this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.501599311828613,
+      11.723331451416016,
+      11.778136253356934,
+      11.779699325561523,
+      11.856184005737305,
+      11.8896484375,
+      11.917858123779297,
+      11.957307815551758,
+      12.000699996948242,
+      12.022098541259766,
+      12.072785377502441
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.32,
+      445.32,
+      525.39,
+      460.66
+    ],
+    "text": "application and he reserve the right to file a fresh application. Application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.645233154296875,
+      11.703548431396484,
+      11.714204788208008,
+      11.718180656433105,
+      11.787896156311035,
+      11.807635307312012,
+      11.840751647949219,
+      12.022098541259766,
+      12.045845985412598,
+      12.301939010620117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.94,
+      471.49,
+      421.62,
+      486.83
+    ],
+    "text": "withdrawal is allowed and the application is dismissed. No costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.557008743286133,
+      11.748612403869629,
+      11.787896156311035,
+      11.799549102783203,
+      11.808073997497559,
+      11.819025039672852,
+      11.915252685546875,
+      12.108880996704102,
+      12.228477478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.93,
+      579.49,
+      233.32,
+      595.56
+    ],
+    "text": "W.M.M.Malinie Gunaratne,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.742278099060059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.36,
+      615.24,
+      145.39,
+      630.58
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.589104652404785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.13,
+      650.94,
+      456.53,
+      666.45
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.282297134399414,
+      11.304908752441406,
+      11.328117370605469,
+      11.366216659545898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.75,
+      687.26,
+      95.83,
+      701.34
+    ],
+    "text": "WCj-",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.294621467590332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.63,
+      288.51,
+      605.39,
+      361.85
+    ],
+    "text": "1i ! !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      6.500100135803223,
+      14.100000381469727,
+      42.29999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      592.2,
+      353.09,
+      603.49,
+      506.98
+    ],
+    "text": "f I I ri ! I f t f I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.400100231170654,
+      7.500100135803223,
+      8.600000381469727,
+      13.0,
+      16.299999237060547,
+      16.70009994506836,
+      17.600000381469727,
+      17.899999618530273,
+      18.20009994506836,
+      38.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.44,
+      492.37,
+      605.03,
+      616.12
+    ],
+    "text": "f If t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      13.5,
+      21.799999237060547,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      592.03,
+      618.73,
+      602.2,
+      662.1
+    ],
+    "text": "f f",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      13.899999618530273,
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      590.34,
+      693.54,
+      600.6,
+      716.62
+    ],
+    "text": "(",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      589.42,
+      771.76,
+      595.04,
+      790.7
+    ],
+    "text": "f !",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.699999809265137,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      589.59,
+      787.67,
+      598.15,
+      816.64
+    ],
+    "text": "~ t t ,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      3.527292490005493,
+      8.100000381469727,
+      13.399999618530273,
+      14.5
+    ]
+  }
+]

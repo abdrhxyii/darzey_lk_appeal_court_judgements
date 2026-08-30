@@ -1,0 +1,499 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      436.63,
+      200.78
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA CA.No. PHC 230/09. Anuradhapura Civil High Court Case No. 62/2008",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      200.76,
+      427.6,
+      266.45
+    ],
+    "text": "Udagedera Jemis Yaya 3, Rajanganaya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      266.43,
+      514.51,
+      397.85
+    ],
+    "text": "PETITIONER Vs. Hon. Attorney-General Attorney General's Department Colombo 12. RESPONDENT.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.32,
+      133.26,
+      434.75,
+      151.95
+    ],
+    "text": "C.A. (PH C) No. 230/2009 NCPIHCCA/62/08 Writ",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.207161903381348,
+      13.355655670166016,
+      13.5,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.92,
+      181.26,
+      120.64,
+      199.95
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.1,
+      229.3,
+      126.49,
+      247.71
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.69,
+      342.1,
+      145.36,
+      376.6
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.73,
+      423.66,
+      187.26,
+      442.35
+    ],
+    "text": "A.W.A. Salam, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.97,
+      181.06,
+      302.41,
+      215.32
+    ],
+    "text": "A.W.A. Salam, J & Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.543567657470703,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.97,
+      229.3,
+      388.7,
+      247.71
+    ],
+    "text": "Arosha de Silva for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.97,
+      259.83,
+      482.79,
+      279.64
+    ],
+    "text": "Yuresha Fernando, S.C. for 1 st to 3rd Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.112585067749023,
+      9.156246185302734,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.94,
+      293.62,
+      464.77,
+      328.11
+    ],
+    "text": "Chatura Galhena with Manoja Gunawardane for Plaintiff-Respondent-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.16,
+      358.19,
+      256.21,
+      376.6
+    ],
+    "text": "23.10.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.41,
+      387.93,
+      251.89,
+      409.4
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.41816234588623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.64,
+      471.22,
+      515.48,
+      489.63
+    ],
+    "text": "The dispute that has led to the filing of this appeal against",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.72,
+      495.7,
+      515.13,
+      514.11
+    ],
+    "text": "the judgment of the learned High Court Judge is now settled among",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.72,
+      520.19,
+      290.95,
+      538.6
+    ],
+    "text": "the parties on the following terms.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.59,
+      568.66,
+      514.56,
+      587.07
+    ],
+    "text": "(1) Parties are agreeable to abide by the findings of a fresh",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.21,
+      593.15,
+      515.23,
+      611.56
+    ],
+    "text": "mqUIry to ascertain as to who is entitled to the grant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.611056327819824,
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.05,
+      617.86,
+      514.69,
+      636.27
+    ],
+    "text": "subject to their right to challenge the decision in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.88,
+      640.23,
+      513.48,
+      660.52
+    ],
+    "text": "appropriate forum. On behalf of the 1 st, 2nd and 3 rd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.803610801696777,
+      9.091409683227539,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.69,
+      666.34,
+      515.4,
+      684.75
+    ],
+    "text": "Respondents the learned State Counsel expressed her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.74,
+      690.34,
+      508.63,
+      708.75
+    ],
+    "text": "willingness to cause to hold a fresh inquiry into the matter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.99,
+      92.74,
+      469.21,
+      111.15
+    ],
+    "text": "Subject to the above the proceedings are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.19,
+      164.5,
+      494.62,
+      201.4
+    ],
+    "text": "JJUDGE OF THE COURT OF APPEAL Sunil Rajapakshe, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.747249603271484,
+      13.780986785888672,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.1,
+      215.15,
+      159.65,
+      233.56
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.8,
+      260.99,
+      497.26,
+      279.4
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.780986785888672,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.37,
+      297.27,
+      113.69,
+      315.01
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  }
+]

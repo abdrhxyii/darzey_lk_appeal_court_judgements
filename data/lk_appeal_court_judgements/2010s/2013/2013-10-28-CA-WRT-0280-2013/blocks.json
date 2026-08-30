@@ -1,0 +1,2454 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.23,
+      774.54,
+      5.32,
+      789.79
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.06,
+      820.09,
+      13.7,
+      842.76
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      97.95,
+      67.26,
+      514.94,
+      81.99
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.990367889404297,
+      10.222023963928223,
+      10.226890563964844,
+      10.264069557189941,
+      10.277040481567383,
+      10.292282104492188,
+      10.359740257263184,
+      10.387794494628906,
+      10.454278945922852,
+      10.542845726013184,
+      10.601042747497559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.69,
+      266.18,
+      172.67,
+      280.88
+    ],
+    "text": "CA. 280/2013 (Writ)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.42,
+      148.57,
+      460.83,
+      163.28
+    ],
+    "text": "Shanmugam Eswaramurthy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.8,
+      165.61,
+      376.72,
+      180.31
+    ],
+    "text": "No. E/G/2,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.8,
+      182.41,
+      501.51,
+      197.11
+    ],
+    "text": "National Housing Authority Building",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.70909595489502
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.58,
+      199.21,
+      432.01,
+      213.91
+    ],
+    "text": "N. H. 5., Central Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.188420295715332,
+      10.318395614624023,
+      10.5491361618042,
+      10.67948055267334,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.41,
+      215.86,
+      386.82,
+      230.96
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.34,
+      249.9,
+      384.13,
+      264.63
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.559730529785156
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.83,
+      283.81,
+      338.0,
+      298.37
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.291099548339844
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.23,
+      317.77,
+      510.16,
+      332.47
+    ],
+    "text": "1. National Housing Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.414079666137695,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.08,
+      334.33,
+      340.73,
+      349.03
+    ],
+    "text": "No. 34,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.7,
+      351.61,
+      499.63,
+      366.31
+    ],
+    "text": "Sir Chittampalam A Gardiner Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.69950008392334,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.93,
+      367.89,
+      361.31,
+      382.88
+    ],
+    "text": "Colombo 2.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.116186141967773
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.77,
+      402.17,
+      425.94,
+      416.95
+    ],
+    "text": "2. Mr. Mahinda Mudhalige",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.67,
+      419.05,
+      394.81,
+      433.75
+    ],
+    "text": "General Manager,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.84,
+      436.57,
+      509.65,
+      451.27
+    ],
+    "text": "National Housing Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.84,
+      453.13,
+      340.48,
+      467.83
+    ],
+    "text": "No. 34,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.692447662353516,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.22,
+      470.18,
+      499.43,
+      484.88
+    ],
+    "text": "Sir Chittampalam A Gardiner Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.69950008392334,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.45,
+      486.89,
+      361.09,
+      501.67
+    ],
+    "text": "Colombo 2.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.23,
+      520.49,
+      373.67,
+      535.27
+    ],
+    "text": "3. The Chairman",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.6952486038208,
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.19,
+      537.61,
+      394.33,
+      552.31
+    ],
+    "text": "General Manager,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.6,
+      554.66,
+      509.41,
+      569.36
+    ],
+    "text": "National Housing Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.36,
+      571.22,
+      340.01,
+      585.92
+    ],
+    "text": "No. 34,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.98,
+      588.5,
+      499.19,
+      603.2
+    ],
+    "text": "Sir Chittampalam A Gardiner Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.69950008392334,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.97,
+      605.05,
+      360.67,
+      619.75
+    ],
+    "text": "Colombo 2.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.308072090148926,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.14,
+      638.94,
+      379.11,
+      653.67
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.407194137573242
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      535.09,
+      30.99,
+      542.59,
+      44.33
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      2.2,
+      776.45,
+      19.63,
+      845.33
+    ],
+    "text": "I I 1 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      11.100000381469727,
+      15.600000381469727,
+      20.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      530.82,
+      30.24,
+      607.02,
+      127.26
+    ],
+    "text": "2 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      54.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.51,
+      66.91,
+      325.32,
+      99.79
+    ],
+    "text": "BEFORE: Anil Gooneratne J. & w. M. M. Malinie Gunaratne J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.212965965270996,
+      10.282599449157715,
+      10.585638999938965,
+      10.699999809265137,
+      10.731154441833496,
+      11.199999809265137,
+      13.367853164672852
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.09,
+      118.81,
+      368.55,
+      133.75
+    ],
+    "text": "COUNSEL: K. V. S. Ganesharajah for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.518802642822266,
+      9.63338851928711,
+      10.250978469848633,
+      10.38259220123291,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.03,
+      132.53,
+      430.48,
+      151.49
+    ],
+    "text": "D. Tilakawardena S.c., for 1st, 2nd & 3rd Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099999904632568,
+      9.997488021850586,
+      10.699999809265137,
+      10.720580101013184,
+      11.199999809265137,
+      11.37934684753418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.01,
+      186.17,
+      231.42,
+      201.19
+    ],
+    "text": "ARGUED ON: 21.10.2013",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.468189239501953,
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.25,
+      237.05,
+      231.42,
+      251.83
+    ],
+    "text": "DECIDED ON: 28.10.2013",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.344183921813965,
+      10.699999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.08,
+      304.5,
+      148.72,
+      319.28
+    ],
+    "text": "GOONERANTE J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.53584098815918,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.44,
+      372.47,
+      538.99,
+      389.65
+    ],
+    "text": "This is an application for a Writ of Certiorari to quash notice marked",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.28489875793457,
+      12.5,
+      12.630518913269043,
+      12.748774528503418,
+      12.789937973022461,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.68,
+      404.38,
+      538.56,
+      423.97
+    ],
+    "text": "PiS of 6.8.2013 (quit notice issued by 1st Respondent Authority). Petitioner has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.159667015075684,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.11,
+      441.12,
+      539.45,
+      458.3
+    ],
+    "text": "also sought a Writ of Prohibition as per sub paragraph (c) of the prayer to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.761749267578125,
+      12.322439193725586,
+      12.5,
+      12.690202713012695,
+      12.69227123260498,
+      12.789937973022461,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.48,
+      475.43,
+      538.38,
+      492.61
+    ],
+    "text": "petition and interim relief (paragraph (d)). Learned counsel for the Petitioner on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49940013885498,
+      12.5,
+      12.748774528503418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.38,
+      509.75,
+      539.39,
+      526.93
+    ],
+    "text": "21.10.2013 supported this application, before this court to obtain formal notice",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.12,
+      544.31,
+      539.57,
+      561.49
+    ],
+    "text": "on the Respondents and for interim relief. State Counsel who appeared for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49940013885498,
+      12.5,
+      12.526721000671387,
+      12.656025886535645,
+      12.748774528503418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.67,
+      578.64,
+      361.56,
+      595.82
+    ],
+    "text": "Respondents objected to issuance of formal notice.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.44,
+      613.19,
+      540.19,
+      630.37
+    ],
+    "text": "The learned counsel for Petitioner drew the attention of this court to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.473873138427734,
+      12.5,
+      12.551444053649902,
+      12.690202713012695,
+      12.748774528503418,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.73,
+      645.1,
+      538.12,
+      664.45
+    ],
+    "text": "lease agreement P3 between the Petitioner and the 1st Respondent Authority. P3",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.415888786315918,
+      11.641950607299805,
+      12.440608978271484,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.73,
+      681.11,
+      538.4,
+      698.29
+    ],
+    "text": "lease agreement was entered on or about 31.10.1996, for a period of 2 years and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.440608978271484,
+      12.49940013885498,
+      12.5,
+      12.654594421386719,
+      12.656025886535645,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      531.96,
+      31.01,
+      609.12,
+      138.89
+    ],
+    "text": "3 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.55,
+      67.31,
+      540.57,
+      84.35
+    ],
+    "text": "a limited purpose of using same for a shop. P3 indicates the period of use for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.595288276672363,
+      12.2747163772583,
+      12.399999618530273,
+      12.605300903320312,
+      12.697676658630371,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.33,
+      101.63,
+      540.33,
+      118.67
+    ],
+    "text": "said limited purpose between 1.3.1996 to 28.2.1998. It was the position of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.381586074829102,
+      12.399999618530273,
+      12.43669605255127,
+      12.6393404006958,
+      12.738675117492676,
+      13.168815612792969
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.69,
+      136.19,
+      540.03,
+      153.23
+    ],
+    "text": "learned counsel for the Petitioner that the petitioner had duly paid the lease",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.43,
+      170.75,
+      541.36,
+      187.79
+    ],
+    "text": "rental and sought to demonstrate due payments by referring to document P6 Ai",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.816155433654785,
+      12.399999618530273,
+      12.773136138916016,
+      13.674229621887207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.14,
+      205.07,
+      539.96,
+      222.11
+    ],
+    "text": "to P6 A36 as pleaded. In brief it was his position that although the lease period",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.706242561340332,
+      11.841261863708496,
+      12.172513008117676,
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.6393404006958,
+      12.798060417175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.2,
+      236.86,
+      540.69,
+      256.18
+    ],
+    "text": "was only for a period of 2 years the 1st Respondent Authority had even after the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.399999618530273,
+      12.432856559753418,
+      12.470499038696289,
+      12.512290954589844,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.09,
+      273.46,
+      540.67,
+      290.5
+    ],
+    "text": "said lease period, accepted rent payments and thereby he is entitled in law to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.336135864257812,
+      12.381586074829102,
+      12.399999618530273,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.06,
+      307.35,
+      541.16,
+      324.94
+    ],
+    "text": "continue as a lessee. In fact paragraphs 7, 9 & 11 of the petition the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      12.118504524230957,
+      12.172513008117676,
+      12.399999618530273,
+      12.403148651123047,
+      12.43669605255127,
+      12.800000190734863,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.06,
+      342.1,
+      539.86,
+      359.14
+    ],
+    "text": "attempts to demonstrate that Petitioner has paid the amounts due. At a certain",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.568603515625,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.09,
+      373.66,
+      539.8,
+      393.46
+    ],
+    "text": "stage the 1st Respondent Authority offered to sell the premises. Learned Counsel",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.399999618530273,
+      12.443024635314941,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.69,
+      410.75,
+      541.09,
+      427.79
+    ],
+    "text": "for the Petitioner also argued that notice PiS is invalid and issuance of such a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.362192153930664,
+      12.399999618530273,
+      12.512290954589844,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.44,
+      444.82,
+      156.42,
+      461.86
+    ],
+    "text": "notice is illegal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.44,
+      479.61,
+      540.4,
+      496.66
+    ],
+    "text": "We also had the benefit to hear learned State Counsel, who",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.85,
+      513.7,
+      540.04,
+      530.74
+    ],
+    "text": "submitted to court that the premises in question along with other such premises",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.50009536743164,
+      12.560905456542969,
+      12.633893966674805,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.96,
+      548.03,
+      539.8,
+      565.07
+    ],
+    "text": "were offered for sale to the respective tenant and the Petitioner made no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.381586074829102,
+      12.399999618530273,
+      12.437243461608887,
+      12.512290954589844,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.83,
+      582.34,
+      540.09,
+      599.38
+    ],
+    "text": "attempt to enter into any sales agreement but continued to make defaults in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.384140014648438,
+      12.399999618530273,
+      12.406598091125488,
+      12.451742172241211,
+      12.6393404006958,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.83,
+      613.9,
+      539.21,
+      633.7
+    ],
+    "text": "amounts due to the 1st Respondent Authority. As such proceedings had to be",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.914755821228027,
+      12.168233871459961,
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.96,
+      650.98,
+      539.16,
+      668.02
+    ],
+    "text": "instituted in the Magistrate's Court to recover possession of the premises in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273,
+      12.738675117492676,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.09,
+      745.36,
+      26.94,
+      844.95
+    ],
+    "text": "I I 1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.399999618530273,
+      24.70009994506836,
+      48.29999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      531.33,
+      30.62,
+      538.67,
+      42.71
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.32,
+      66.23,
+      540.47,
+      83.41
+    ],
+    "text": "dispute (proceedings instituted in August 2013). The case in the Magistrate's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.332324981689453,
+      12.39687442779541,
+      12.473873138427734,
+      12.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.26,
+      98.99,
+      483.06,
+      118.78
+    ],
+    "text": "Court is pending, and that the Petitioner is in the footing of a trespasser.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.79655647277832,
+      11.991507530212402,
+      12.5,
+      12.619181632995605,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.41,
+      135.11,
+      538.95,
+      152.29
+    ],
+    "text": "This court had the opportunity to examine documents P7, P8 and P9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.641950607299805,
+      11.753350257873535,
+      11.922247886657715,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.66,
+      168.96,
+      538.88,
+      186.14
+    ],
+    "text": "to P11A. All these documents suggest that the Petitioner is in arrears of rent and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.283525466918945,
+      12.49940013885498,
+      12.5,
+      12.684734344482422,
+      12.690202713012695,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.08,
+      201.1,
+      540.83,
+      220.7
+    ],
+    "text": "or the amount due to the 1st Respondent Authority. Document P7 indicates that",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.753350257873535,
+      12.5,
+      12.524825096130371,
+      12.5532865524292,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.09,
+      237.59,
+      540.82,
+      254.77
+    ],
+    "text": "as at 31.12.2008 the Petitioner is in arrears in a sum of Rs. 468000/-. P8 seems to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.52106761932373,
+      11.753350257873535,
+      11.761749267578125,
+      12.183390617370605,
+      12.5,
+      12.55448055267334,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.45,
+      271.91,
+      539.85,
+      289.09
+    ],
+    "text": "be a payment receipt reflecting payments for the period January 2001 to March",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.217201232910156,
+      12.5,
+      12.690202713012695,
+      12.748774528503418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.34,
+      306.47,
+      540.2,
+      323.65
+    ],
+    "text": "2002 with surcharge and payments received for the period 2002 April to 2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.748774528503418,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.38,
+      341.04,
+      539.64,
+      358.22
+    ],
+    "text": "February. P9 & Pl0 again reflect the amount due for 2012 April to January 2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.753350257873535,
+      12.5,
+      12.656025886535645,
+      12.82453727722168,
+      12.849903106689453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.07,
+      372.71,
+      540.05,
+      392.29
+    ],
+    "text": "and April 1st 2002 to 30.9.2012. The payment receipt reflect payments for April",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.49940013885498,
+      12.5,
+      12.656025886535645,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.1,
+      409.2,
+      540.74,
+      426.38
+    ],
+    "text": "2002 to February 2004 and January 2001 to March 2002 with surcharge. Letter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.5495023727417,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.41,
+      443.27,
+      539.85,
+      460.45
+    ],
+    "text": "P11A is self explanatory indicating the amount in arrears and the minute referred",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.29257869720459,
+      12.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.66,
+      477.83,
+      539.7,
+      495.01
+    ],
+    "text": "to therein to institute legal proceedings. Learned Counsel for the Petitioner also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.690202713012695,
+      12.748774528503418,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.85,
+      512.39,
+      541.45,
+      529.57
+    ],
+    "text": "submitted that there is a dispute as regards the calculation of the amount due. If",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.79655647277832,
+      11.88891315460205,
+      12.5,
+      12.619181632995605,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.66,
+      546.71,
+      540.83,
+      563.89
+    ],
+    "text": "that be so it remains a disputed fact which would not be well suited for any court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.245662689208984,
+      12.334149360656738,
+      12.5,
+      12.5532865524292,
+      12.628588676452637,
+      12.748774528503418,
+      13.077032089233398
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.42,
+      580.55,
+      342.78,
+      597.73
+    ],
+    "text": "to review a dispute by way of a writ application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.690202713012695,
+      12.807321548461914,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.16,
+      615.11,
+      540.4,
+      632.29
+    ],
+    "text": "The review procedure would not be well suited for the determination",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.334149360656738,
+      12.473873138427734,
+      12.5,
+      12.628588676452637,
+      12.656025886535645
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.83,
+      648.95,
+      361.51,
+      666.13
+    ],
+    "text": "of disputed facts 2001(3) SLR 330; 1981 (2) SLR 471",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.406577110290527,
+      12.5,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      531.01,
+      31.63,
+      538.68,
+      44.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.43,
+      66.85,
+      539.56,
+      84.16
+    ],
+    "text": "Part VII (Section 62 -69) of the National Housing Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.370153427124023,
+      12.458606719970703,
+      12.600000381469727,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.25,
+      101.17,
+      539.53,
+      118.48
+    ],
+    "text": "Authority Act refer to recovery of possession of houses, flats and buildings of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.740862846374512,
+      12.840995788574219,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.79,
+      133.66,
+      539.04,
+      153.29
+    ],
+    "text": "1st Respondent Authority. The quit notice P15 had been issued by the General",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.178138732910156,
+      12.523669242858887,
+      12.600000381469727,
+      12.616339683532715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.68,
+      168.22,
+      538.37,
+      187.85
+    ],
+    "text": "Manager of the 1st Respondent Authority. It refers to Section 69(b) of the Act. It is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.843648910522461,
+      12.600000381469727,
+      12.740862846374512,
+      12.840995788574219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.35,
+      205.1,
+      540.22,
+      222.41
+    ],
+    "text": "a new part introduced by Amendment Act No. 30 of 1999. It reads as Part VII A. It",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      11.96015453338623,
+      12.370153427124023,
+      12.580635070800781,
+      12.600000381469727,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.35,
+      236.86,
+      539.95,
+      256.48
+    ],
+    "text": "appears to this court that all necessary steps by the 1st Respondent Authority to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.600000381469727,
+      12.735373497009277,
+      12.740862846374512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.35,
+      273.73,
+      538.92,
+      291.04
+    ],
+    "text": "evict the Petitioner who is in default of payment and thereby in unauthorized",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.843648910522461,
+      12.600000381469727,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.48,
+      308.29,
+      539.29,
+      325.6
+    ],
+    "text": "possession, were proceeded and initiated in terms of the new Part VII A of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.370153427124023,
+      12.44636344909668,
+      12.600000381469727,
+      12.840995788574219,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.01,
+      342.61,
+      539.01,
+      359.93
+    ],
+    "text": "Amendment Act. This part of the statute empowers the General Manager to take",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.840995788574219,
+      12.875733375549316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.13,
+      374.63,
+      538.55,
+      394.0
+    ],
+    "text": "steps to evict unauthorized persons in occupation of premises belonging to the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.600000381469727,
+      12.740862846374512,
+      12.875733375549316,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.43,
+      411.0,
+      539.22,
+      428.32
+    ],
+    "text": "Respondent Authority. These provisions contained in the said Part of the statue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.11,
+      445.33,
+      539.29,
+      462.65
+    ],
+    "text": "are very wide and specific. Sections 69 A to 69 G covers a variety of situations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.458606719970703,
+      12.573472023010254,
+      12.600000381469727,
+      12.875733375549316,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.1,
+      479.64,
+      539.93,
+      496.96
+    ],
+    "text": "commencing from the issuance of quit notice to writ of possession. The Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.597149848937988,
+      12.600000381469727,
+      12.616339683532715,
+      12.840995788574219,
+      12.85844898223877,
+      12.875733375549316,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.26,
+      513.97,
+      539.29,
+      531.28
+    ],
+    "text": "is not without a remedy as the inquiry before the Magistrate would entitle the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      12.03937816619873,
+      12.600000381469727,
+      12.641382217407227
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.43,
+      548.53,
+      539.05,
+      565.84
+    ],
+    "text": "Petitioner to show cause and plead a valid defence as per Section 69E (5) of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      12.211872100830078,
+      12.554668426513672,
+      12.600000381469727,
+      12.840995788574219,
+      12.875733375549316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.77,
+      582.85,
+      539.47,
+      600.16
+    ],
+    "text": "Amendment Act. If the Magistrate is of the opinion that it would be unjust to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.843648910522461,
+      12.383387565612793,
+      12.600000381469727,
+      12.637045860290527,
+      12.735373497009277,
+      12.740862846374512,
+      12.976863861083984,
+      13.12923526763916
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.88,
+      614.86,
+      538.31,
+      634.48
+    ],
+    "text": "order eviction (vide Section 69E(8L the Magistrate's Court could require the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.19,
+      651.01,
+      539.16,
+      668.32
+    ],
+    "text": "Respondent Authority to enter into an agreement with the Petitioner. As such the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.010457992553711,
+      12.333940505981445,
+      12.522411346435547,
+      12.600000381469727,
+      12.875733375549316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.42,
+      685.1,
+      539.05,
+      702.41
+    ],
+    "text": "Petitioner is not without an alternate remedy. I reject the argument of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.03937816619873,
+      12.333940505981445,
+      12.600000381469727,
+      12.710268020629883,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.79,
+      529.93,
+      607.25,
+      601.38
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      52.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.38,
+      587.26,
+      600.0,
+      614.61
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.6,
+      714.64,
+      604.16,
+      794.59
+    ],
+    "text": "IIt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5,
+      28.0,
+      41.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.61,
+      803.27,
+      600.46,
+      823.84
+    ],
+    "text": "f !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.699999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      530.27,
+      30.45,
+      538.15,
+      44.46
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.01,
+      67.54,
+      539.63,
+      84.58
+    ],
+    "text": "learned Counsel for the Petitioner that PiS quit notice is invalid. Further PiS quit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.515809059143066,
+      12.568603515625,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.0,
+      102.1,
+      539.23,
+      119.14
+    ],
+    "text": "notice is the earliest stage in the proceedings in the Magistrate's Court. In a way it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.172513008117676,
+      12.347187042236328,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.78,
+      136.42,
+      214.15,
+      153.46
+    ],
+    "text": "is premature, application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137.43,
+      170.98,
+      538.36,
+      188.02
+    ],
+    "text": "In all the facts and circumstances of this application for a prerogative",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.399999618530273,
+      12.605300903320312,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.27,
+      205.3,
+      538.62,
+      222.34
+    ],
+    "text": "writ, we are of the view that the Petitioner's application is without merit, and this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.413192749023438,
+      12.568603515625,
+      12.64301872253418,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.54,
+      239.62,
+      537.98,
+      256.66
+    ],
+    "text": "is not a fit case to grant and permit the issuance of formal notice. Based on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.22192096710205,
+      12.252927780151367,
+      12.399999618530273,
+      12.410045623779297,
+      12.496027946472168,
+      12.6393404006958,
+      12.714755058288574,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.96,
+      271.91,
+      537.35,
+      291.22
+    ],
+    "text": "Petitioner's own pleadings he is a habitual defaulter of payments due to the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.943445205688477,
+      12.336135864257812,
+      12.399999618530273,
+      12.6393404006958,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.95,
+      308.75,
+      538.0,
+      325.79
+    ],
+    "text": "Respondent Authority, and thereby in terms of the above statute a trespasser,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.39,
+      341.06,
+      537.64,
+      359.86
+    ],
+    "text": "and or a person in unauthorized possession of 1ST Respondent's premises The",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.02204704284668,
+      12.399999618530273,
+      12.474625587463379,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.52,
+      377.14,
+      538.54,
+      394.18
+    ],
+    "text": "records produced by the Petitioner indicates default from the year 2004. In view",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.399999618530273,
+      12.432008743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.15,
+      411.46,
+      537.61,
+      428.5
+    ],
+    "text": "of the reasons stated above we reject and refuse this application for notice.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.605300903320312,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.04,
+      445.79,
+      274.28,
+      462.83
+    ],
+    "text": "Application dismissed without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.608988761901855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      136.58,
+      480.1,
+      266.78,
+      497.14
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337.67,
+      500.39,
+      522.65,
+      563.29
+    ],
+    "text": "~JCsw~~'1 uel c--JUDGE OF THe COURT OF APPEAL",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.947989463806152,
+      10.224844932556152,
+      10.280302047729492,
+      10.286836624145508,
+      10.5,
+      15.899999618530273,
+      18.600000381469727,
+      20.785322189331055,
+      23.86763572692871,
+      38.77885437011719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.77,
+      577.93,
+      210.03,
+      592.63
+    ],
+    "text": "W.M.M. Malinie Gunaratne J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.282599449157715,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208.99,
+      607.21,
+      247.29,
+      621.91
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      344.55,
+      655.91,
+      350.17,
+      668.36
+    ],
+    "text": "r",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      353.2,
+      666.46,
+      520.87,
+      680.89
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.947989463806152,
+      10.131690979003906,
+      10.224844932556152,
+      10.248692512512207,
+      10.280302047729492
+    ]
+  }
+]

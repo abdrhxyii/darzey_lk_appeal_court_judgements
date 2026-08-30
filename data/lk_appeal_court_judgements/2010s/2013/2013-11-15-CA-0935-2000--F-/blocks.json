@@ -1,0 +1,932 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      296.58,
+      70.04,
+      304.42,
+      82.96
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      76.46,
+      103.62,
+      526.09,
+      127.58
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.46,
+      123.77,
+      464.34,
+      147.73
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.18,
+      241.45,
+      195.38,
+      259.06
+    ],
+    "text": "C.A. No. 935 /2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.569965362548828
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.02,
+      272.89,
+      244.32,
+      290.5
+    ],
+    "text": "D.C. Embilipitiya No. 4777 / L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.71,
+      162.25,
+      507.93,
+      211.79
+    ],
+    "text": "Koongala Wickramage Sisiliyana, Land No. 986, Therunkatuwa, Thunkama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.56,
+      225.37,
+      508.33,
+      242.98
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.8,
+      257.54,
+      408.88,
+      275.15
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.96,
+      288.74,
+      527.17,
+      353.39
+    ],
+    "text": "1. Deni Rubasinghe, 2. Dayawathie Wickrema Arachchi, Therunkatuwa, Thunkama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.81,
+      367.21,
+      524.27,
+      384.82
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.24,
+      415.33,
+      461.61,
+      433.61
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.21,
+      462.0,
+      508.66,
+      511.31
+    ],
+    "text": "Koongala Wickramage Sisiliyana, Land No. 986, Therunkatuwa, Thunkama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      409.12,
+      525.13,
+      515.04,
+      542.73
+    ],
+    "text": "Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.25,
+      557.29,
+      370.86,
+      574.9
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.68,
+      604.1,
+      524.56,
+      668.99
+    ],
+    "text": "1. Deni Rubasinghe, 2. Dayawathie Wickrema Arachchi, Therunkatuwa, Thunkama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.74,
+      682.57,
+      522.88,
+      700.18
+    ],
+    "text": "Defendant Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.7,
+      119.59,
+      126.72,
+      137.73
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.62,
+      167.12,
+      144.36,
+      185.26
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.46,
+      261.91,
+      157.27,
+      280.05
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.5,
+      309.19,
+      230.81,
+      327.33
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.23983097076416,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.02,
+      70.59,
+      305.52,
+      83.93
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.06,
+      120.07,
+      422.87,
+      138.21
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.77,
+      167.36,
+      521.63,
+      185.5
+    ],
+    "text": "Plaintiff Appellant - Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.25,
+      191.12,
+      470.44,
+      209.26
+    ],
+    "text": "Defendant Respondents - Absent and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.88,
+      214.63,
+      341.2,
+      232.77
+    ],
+    "text": "unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.81,
+      262.15,
+      325.82,
+      280.29
+    ],
+    "text": "15.11.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.84,
+      356.46,
+      533.16,
+      374.61
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.88,
+      380.24,
+      533.28,
+      398.38
+    ],
+    "text": "instituted the said action against the Defendant Respondents (hereinafter referred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.47,
+      403.75,
+      533.94,
+      421.89
+    ],
+    "text": "to as the Respondents) in the District Court of Embilipitiya seeking inter alia a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.517802238464355,
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.64,
+      427.26,
+      466.74,
+      445.41
+    ],
+    "text": "declaration of title to the land described in the 1 st schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.807772636413574,
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.01,
+      475.05,
+      533.12,
+      493.19
+    ],
+    "text": "The Respondents have filed an answer denying the averments",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.89,
+      498.8,
+      533.57,
+      516.95
+    ],
+    "text": "contained in the plaint and praying for a dismissal of the Appellant's action. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.62,
+      522.31,
+      533.74,
+      540.46
+    ],
+    "text": "addition the Respondents have made a claim in reconvention. The case proceeded",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.71,
+      545.83,
+      533.24,
+      563.97
+    ],
+    "text": "to trial on 14 issues. After trial the learned District judge has dismissed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.241166114807129,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.74,
+      569.83,
+      533.92,
+      587.98
+    ],
+    "text": "Appellant's action and the claim in reconvention. Being aggrieved by the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.87,
+      593.36,
+      452.06,
+      611.5
+    ],
+    "text": "judgment dated 12.07.2000 the Appellant has appealed to this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.74,
+      640.86,
+      532.73,
+      659.01
+    ],
+    "text": "The Appellant has set out several grounds of appeal in paragraph 04",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.541474342346191,
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.1,
+      664.39,
+      533.52,
+      682.53
+    ],
+    "text": "of the petition of appeal. His main grievance was that the learned District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.76,
+      687.9,
+      320.89,
+      706.05
+    ],
+    "text": "has misdirected himself on the facts and law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.14,
+      103.4,
+      604.76,
+      155.89
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      38.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.8,
+      143.53,
+      603.44,
+      253.02
+    ],
+    "text": "t IiII",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      22.399999618530273,
+      23.100000381469727,
+      29.100000381469727,
+      30.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.96,
+      253.96,
+      600.44,
+      276.64
+    ],
+    "text": "it",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.400100231170654,
+      16.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.57,
+      276.3,
+      598.72,
+      286.33
+    ],
+    "text": ".f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.486392498016357
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -0.25,
+      -13.52,
+      23.99,
+      60.32
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.0,
+      43.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.81,
+      135.55,
+      22.88,
+      239.21
+    ],
+    "text": ":j I I f I !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.046623706817627,
+      6.199999809265137,
+      7.800099849700928,
+      13.600000381469727,
+      29.100000381469727,
+      39.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.4,
+      70.53,
+      307.27,
+      84.54
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.46,
+      104.71,
+      534.12,
+      122.85
+    ],
+    "text": "I have carefully considered the impugned judgment of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.91,
+      128.47,
+      534.33,
+      146.61
+    ],
+    "text": "District Judge and the evidence adduced at the trial. When I consider the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.81,
+      151.98,
+      534.25,
+      170.13
+    ],
+    "text": "evidence I am of the view that the learned trial judge has come to a right",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.08,
+      175.76,
+      368.23,
+      193.9
+    ],
+    "text": "conclusion considering the evidence led before court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.72,
+      223.04,
+      534.56,
+      241.18
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.08,
+      246.79,
+      534.42,
+      264.94
+    ],
+    "text": "judgement of the learned District Judge dated 12.07.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.05,
+      270.56,
+      265.78,
+      288.7
+    ],
+    "text": "appeal of the Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.28,
+      319.5,
+      243.8,
+      335.74
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.36,
+      365.11,
+      518.23,
+      383.25
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.93,
+      748.44,
+      601.6,
+      788.62
+    ],
+    "text": "tI!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      13.699999809265137,
+      16.799999237060547
+    ]
+  }
+]

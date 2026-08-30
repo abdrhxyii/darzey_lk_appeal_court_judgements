@@ -1,0 +1,3416 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      76.07,
+      68.6,
+      518.87,
+      85.95
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.778146743774414,
+      11.885808944702148,
+      11.981258392333984,
+      12.041418075561523,
+      12.052714347839355,
+      12.079133987426758,
+      12.118032455444336,
+      12.171463012695312,
+      12.289935111999512,
+      12.401333808898926,
+      12.428686141967773
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      276.46,
+      88.75,
+      318.57,
+      106.1
+    ],
+    "text": "LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.136474609375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.68,
+      148.28,
+      223.91,
+      165.63
+    ],
+    "text": "C.A. Appeal No. 127/2011",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.218421936035156,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.83,
+      178.04,
+      252.53,
+      195.39
+    ],
+    "text": "HC. Hambantota No.101/2007",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.041261672973633,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.23,
+      208.02,
+      518.6,
+      224.65
+    ],
+    "text": "Jinendradasa Wanigasinghe alias Peeter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.86,
+      237.78,
+      440.33,
+      254.41
+    ],
+    "text": "Chuti alias Tangalle Chuti .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.13,
+      294.71,
+      418.44,
+      313.94
+    ],
+    "text": "1st Accused-appellant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.94,
+      327.71,
+      308.28,
+      343.51
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.48,
+      386.59,
+      407.32,
+      403.22
+    ],
+    "text": "Republic of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.04130744934082,
+      12.100000381469727,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.72,
+      446.1,
+      359.16,
+      462.73
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.53,
+      505.18,
+      311.68,
+      523.35
+    ],
+    "text": "Before: Sisira J. de Abrew, J &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.08925724029541,
+      12.295162200927734,
+      12.51878833770752,
+      12.600000381469727,
+      12.800000190734863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      179.25,
+      535.15,
+      315.07,
+      552.5
+    ],
+    "text": "P.W.D.C. Jayathilaka, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.62,
+      595.14,
+      458.17,
+      612.49
+    ],
+    "text": "Counsel: S.L. Bulathsinghalage for the accused-appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.595012664794922,
+      12.100000381469727,
+      12.205291748046875,
+      12.451883316040039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      179.13,
+      624.91,
+      367.11,
+      641.54
+    ],
+    "text": "Shanil Kularatne SSC for the A.G.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.10477066040039,
+      12.100000381469727,
+      12.205291748046875,
+      12.451883316040039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.57,
+      684.67,
+      142.0,
+      701.3
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.23,
+      712.93,
+      326.44,
+      731.07
+    ],
+    "text": "Decided on: 22.10.2013 & 23.10.2013",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.37,
+      777.97,
+      303.46,
+      791.3
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      593.84,
+      50.96,
+      607.43,
+      222.7
+    ],
+    "text": "I,II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      21.799999237060547,
+      24.399999618530273,
+      39.099998474121094,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      592.17,
+      202.89,
+      607.99,
+      377.48
+    ],
+    "text": "\u2022III l tI",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      15.600000381469727,
+      16.70009994506836,
+      16.899999618530273,
+      21.899999618530273,
+      43.90010070800781,
+      56.90010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      593.96,
+      363.46,
+      602.09,
+      384.01
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.36,
+      67.72,
+      190.81,
+      85.6
+    ],
+    "text": "Sisira J. de Abrew. J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.142118453979492,
+      13.345840454101562
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.7,
+      143.04,
+      524.57,
+      160.22
+    ],
+    "text": "Heard both counsel in support of their respective cases. The accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.384415626525879,
+      12.39687442779541,
+      12.5,
+      12.540485382080078,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.15,
+      177.12,
+      527.01,
+      194.3
+    ],
+    "text": "appellant in this case was convicted for the offence of robbery which is an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.27110481262207,
+      12.28489875793457,
+      12.5,
+      12.656025886535645,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.16,
+      211.43,
+      526.87,
+      228.61
+    ],
+    "text": "offence punishable under section 380 read with section 383 of the Penal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.451606750488281,
+      12.5,
+      12.61145305633545,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.34,
+      246.0,
+      527.93,
+      263.18
+    ],
+    "text": "Code. The prosecution alleges that the accused-appellant with persons",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.473873138427734,
+      12.49014663696289,
+      12.5,
+      12.61145305633545,
+      12.619181632995605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.53,
+      280.31,
+      529.57,
+      297.49
+    ],
+    "text": "unknown to the prosecution robbed jewellery, radio and watches worth of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.565776824951172,
+      12.789937973022461,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.76,
+      314.39,
+      524.34,
+      331.57
+    ],
+    "text": "Rs. 200,000/-. After trial the learned Trial Judge convicted the accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.333688735961914,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.15,
+      348.72,
+      526.28,
+      365.9
+    ],
+    "text": "appellant and sentenced him to a term of 15 years R.I and to pay a fine of Rs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.427762031555176,
+      11.506302833557129,
+      12.5,
+      12.525822639465332,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.6,
+      383.04,
+      528.19,
+      400.22
+    ],
+    "text": "10,000/- carrying a default term of 06 months imprisonment. The facts of this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.14,
+      417.36,
+      527.25,
+      434.54
+    ],
+    "text": "case may be briefly summarized as follows. Sunanda the main witness was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.27110481262207,
+      12.334149360656738,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.53,
+      451.92,
+      527.54,
+      469.1
+    ],
+    "text": "living in his wife's house. Sunanda's sister-in-law and mother-in-law were also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.39687442779541,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.53,
+      486.23,
+      528.81,
+      503.41
+    ],
+    "text": "living in the same house. On the day of the incident in the night ( witnesses do",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.19846248626709,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      520.55,
+      528.72,
+      537.73
+    ],
+    "text": "not specify a time), two people entered the house of Sunanda and they",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.546314239501953,
+      12.801562309265137,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.54,
+      554.64,
+      527.37,
+      571.82
+    ],
+    "text": "(people entered) ordered all inmates of the house to go to one room. One",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.480634689331055,
+      12.5,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      588.96,
+      528.11,
+      606.14
+    ],
+    "text": "person pressed a pillow on the face of Sunanda. According to the witness this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.76,
+      623.27,
+      528.4,
+      640.45
+    ],
+    "text": "person was armed with a pistol. Thereafter the other person entered into the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.501649856567383,
+      12.5495023727417
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      656.87,
+      527.52,
+      674.05
+    ],
+    "text": "house and took away Jewellery, cassette radio , watches and cash. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.42623233795166,
+      12.473873138427734,
+      12.5,
+      12.570103645324707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.39,
+      690.96,
+      529.05,
+      708.14
+    ],
+    "text": "accused-appellant and the other accused who was tried in abtentia were later",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.501649856567383,
+      12.526721000671387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      725.28,
+      528.61,
+      742.46
+    ],
+    "text": "identified at an identification parade as the people who entered the house.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.400252342224121,
+      12.5,
+      12.526721000671387,
+      12.603818893432617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.38,
+      777.38,
+      302.88,
+      790.72
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.12,
+      55.13,
+      606.71,
+      306.21
+    ],
+    "text": "f I ! ! t I rf r IIII",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.699999809265137,
+      10.5,
+      11.899999618530273,
+      12.0,
+      12.399999618530273,
+      14.0,
+      14.699999809265137,
+      15.0,
+      38.20009994506836,
+      38.40010070800781,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.41,
+      288.81,
+      604.14,
+      371.3
+    ],
+    "text": "tff I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      16.70009994506836,
+      17.0,
+      38.599998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.85,
+      418.02,
+      602.6,
+      439.15
+    ],
+    "text": "t ;",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.300099849700928,
+      16.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.15,
+      577.23,
+      609.94,
+      859.72
+    ],
+    "text": "II I[ If \\ II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.199999809265137,
+      13.399999618530273,
+      14.0,
+      18.20009994506836,
+      41.0,
+      42.599998474121094,
+      47.90010070800781,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.25,
+      68.5,
+      527.49,
+      85.54
+    ],
+    "text": "Learned counsel appearing for the accused-appellant contends that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.605300903320312,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.67,
+      102.83,
+      528.19,
+      119.87
+    ],
+    "text": "accused-appellant and the other accused were shown to the witnesses prior to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.451542854309082,
+      12.6393404006958,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.26,
+      137.15,
+      527.25,
+      154.19
+    ],
+    "text": "the identification parade being held. He therefore contends that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02167797088623,
+      12.399999618530273,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.8,
+      171.47,
+      523.82,
+      188.51
+    ],
+    "text": "identification parade was not properly conducted. Although he contends so I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.500100135803223,
+      12.073963165283203,
+      12.399999618530273,
+      12.496027946472168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.01,
+      206.03,
+      527.95,
+      223.07
+    ],
+    "text": "Learned counsel who appeared for the accused-appellant at the trial failed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.476513862609863,
+      12.605300903320312,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.8,
+      240.35,
+      526.3,
+      257.39
+    ],
+    "text": "make this suggestion to the witnesses. Further we note that 03 suspects had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.37166690826416,
+      12.399999618530273,
+      12.633893966674805,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.81,
+      274.67,
+      528.16,
+      291.71
+    ],
+    "text": "been produced at the identification parade. The witnesses identified only 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.45,
+      308.98,
+      527.73,
+      326.02
+    ],
+    "text": "suspects at the parade. If the argument of the learned counsel that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.53635025024414,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.69,
+      343.06,
+      527.49,
+      360.1
+    ],
+    "text": "suspects were shown to the witness prior to the identification parade, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.43,
+      374.98,
+      527.19,
+      394.42
+    ],
+    "text": "question arises as to why they did not identify the 3rd person. When we",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.447956085205078,
+      11.714607238769531,
+      12.399999618530273,
+      12.471990585327148,
+      12.496027946472168,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.42,
+      411.7,
+      523.84,
+      428.74
+    ],
+    "text": "consider these matters, the contention of learned counsel for the accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.697676658630371,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.43,
+      446.03,
+      527.49,
+      463.07
+    ],
+    "text": "appellant that the suspects were shown to the witnesses prior to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.633893966674805,
+      12.6393404006958,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.81,
+      480.34,
+      527.73,
+      497.38
+    ],
+    "text": "identification parade being held cannot be accepted. We therefore reject the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.45,
+      515.15,
+      526.93,
+      532.19
+    ],
+    "text": "said contention. Learned counsel next contended that the finger prints taken",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.381586074829102,
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.43,
+      549.22,
+      527.49,
+      566.26
+    ],
+    "text": "at the scene were sent to the Registrar of Finger Prints but the report of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.458661079406738,
+      12.738675117492676,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.99,
+      583.07,
+      528.13,
+      600.11
+    ],
+    "text": "Registrar of the Finger Prints was not produced. He therefore contends that a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02167797088623,
+      12.399999618530273,
+      12.43669605255127,
+      12.496027946472168,
+      12.633893966674805,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.8,
+      617.38,
+      524.08,
+      634.42
+    ],
+    "text": "reasonable doubt has arisen with regard to the culpability of the accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.43669605255127,
+      12.493794441223145,
+      12.499202728271484,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.43,
+      651.46,
+      526.82,
+      668.5
+    ],
+    "text": "appellant. Merely because the report of the Registrar of the Finger Prints was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.8,
+      685.3,
+      526.81,
+      702.34
+    ],
+    "text": "not produced at the trial, it cannot be said that a reasonable doubt with regard",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.284713745117188,
+      12.399999618530273,
+      12.493794441223145,
+      12.496027946472168,
+      12.560905456542969,
+      12.568603515625,
+      12.798060417175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.26,
+      719.39,
+      527.49,
+      736.43
+    ],
+    "text": "to the culpability of the accused-appellant has arisen. What happens if the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.405698776245117,
+      12.773136138916016,
+      12.798060417175293,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.6,
+      776.85,
+      302.48,
+      790.86
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      590.47,
+      623.27,
+      607.44,
+      768.26
+    ],
+    "text": "II, t f i ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.899999618530273,
+      10.5,
+      12.699999809265137,
+      14.399999618530273,
+      14.5,
+      57.599998474121094,
+      57.90010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.57,
+      36.98,
+      604.42,
+      92.97
+    ],
+    "text": "if1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      15.600000381469727,
+      15.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.55,
+      113.7,
+      600.16,
+      131.57
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.49,
+      63.23,
+      530.15,
+      80.27
+    ],
+    "text": "finger prints found at the scene tally with the finger prints of the inmates of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.499202728271484,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.22,
+      97.79,
+      529.23,
+      114.83
+    ],
+    "text": "the house? When we consider all these matters we hold that there is no merit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.446014404296875,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.76,
+      131.87,
+      195.74,
+      148.91
+    ],
+    "text": "in the said argument.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.96,
+      220.9,
+      527.7,
+      237.94
+    ],
+    "text": "Learned counsel next contended that although the witnesses ( Sunanda,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.35,
+      254.99,
+      528.45,
+      272.03
+    ],
+    "text": "Sumanawathie and Ariyawathie) identified the accused-appellant at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.77,
+      289.55,
+      528.71,
+      306.59
+    ],
+    "text": "parade, they failed to identify the accused-appellant at the trial. He therefore",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.124897956848145,
+      12.399999618530273,
+      12.402199745178223,
+      12.43669605255127,
+      12.482078552246094,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.37,
+      323.86,
+      528.26,
+      340.9
+    ],
+    "text": "contends that there is no identification of the accused-appellant at the trial.On",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.43669605255127,
+      12.482078552246094,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.98,
+      357.95,
+      527.85,
+      374.99
+    ],
+    "text": "the strength of this argument he contends that the accused-appellant should",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.219231605529785,
+      12.399999618530273,
+      12.633893966674805,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.77,
+      392.26,
+      524.8,
+      409.3
+    ],
+    "text": "be discharged. It is true that the witnesses who identified the accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.284713745117188,
+      12.399999618530273,
+      12.414590835571289,
+      12.442726135253906,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.39,
+      426.82,
+      529.02,
+      443.86
+    ],
+    "text": "appellant at the identification parade did not identify him at the trial. What",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.405698776245117,
+      12.43669605255127,
+      12.482078552246094,
+      12.496027946472168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.76,
+      461.38,
+      528.36,
+      478.42
+    ],
+    "text": "happens when a witness, having identified the accused at an identification",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.75,
+      495.7,
+      527.52,
+      512.74
+    ],
+    "text": "parade, fails to identify the accused at the trial ? Can the conviction be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.996742248535156,
+      12.284713745117188,
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.41,
+      530.03,
+      527.84,
+      547.07
+    ],
+    "text": "sustained. This question was discussed by the Court of Appeal of England in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.13,
+      563.44,
+      527.89,
+      582.0
+    ],
+    "text": "Regina Vs Obsourne and Virtue 1973 QB 678. In the said case Obsourne and",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.215506553649902,
+      11.83319091796875,
+      12.0,
+      12.006867408752441,
+      12.077847480773926,
+      12.282896995544434,
+      12.399999618530273,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.03,
+      598.18,
+      528.52,
+      615.22
+    ],
+    "text": "Virtue were accused of having taken part in an armed robbery. Mrs. Brookes",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.4,
+      632.5,
+      528.52,
+      649.54
+    ],
+    "text": "ad Mrs. Head were eye witnesses to the robbery. Obsourne and Virtue were",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.119681358337402,
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.76,
+      666.58,
+      528.31,
+      683.62
+    ],
+    "text": "put up for identification on separate identification parades. Both ladies",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.39,
+      700.42,
+      528.32,
+      717.46
+    ],
+    "text": "attended the parades and identified the defendants. They testified at the trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.27,
+      734.51,
+      527.78,
+      751.55
+    ],
+    "text": "which commenced seven and a half months after the identification parade.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294.92,
+      772.34,
+      302.42,
+      785.68
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      598.32,
+      71.03,
+      600.48,
+      77.03
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.219938039779663
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.98,
+      119.1,
+      600.79,
+      146.17
+    ],
+    "text": "iI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      597.1,
+      158.84,
+      599.41,
+      170.24
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.31,
+      250.56,
+      601.4,
+      275.7
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.33,
+      310.35,
+      601.92,
+      365.67
+    ],
+    "text": "f f !f",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.5,
+      11.5,
+      13.699999809265137,
+      15.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      592.37,
+      370.65,
+      607.88,
+      456.65
+    ],
+    "text": "ft1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.20009994506836,
+      16.399999618530273,
+      27.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      592.8,
+      476.22,
+      601.2,
+      497.43
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.29,
+      68.5,
+      526.55,
+      85.54
+    ],
+    "text": "Mrs. Brookes testimony related to Obsourne. In her evidence Mrs. Brookes",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.97,
+      102.83,
+      526.99,
+      119.87
+    ],
+    "text": "said that I she did not remember that she had picked out anyone on the last",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654,
+      12.352559089660645,
+      12.381586074829102,
+      12.399999618530273,
+      12.5750150680542,
+      12.577972412109375,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      137.38,
+      527.23,
+      154.42
+    ],
+    "text": "parade'. Mrs. Head said in the witness box that I the man I picked out, I don't",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654,
+      12.347187042236328,
+      12.399999618530273,
+      12.568603515625,
+      12.60692310333252
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.54,
+      171.47,
+      527.29,
+      188.51
+    ],
+    "text": "think he is in the dock today'. Despite the defence objection Chief Inspector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.219231605529785,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.68,
+      205.79,
+      527.33,
+      222.83
+    ],
+    "text": "Stevenson who was the officer in charge of both parades, was permitted to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273,
+      12.476513862609863,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.3,
+      240.35,
+      525.58,
+      257.39
+    ],
+    "text": "testify to establish the fact that both ladies identified Obsourne and Virtue at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094,
+      12.568603515625,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.54,
+      274.67,
+      528.23,
+      291.71
+    ],
+    "text": "the parade. Court of Appeal held that I the evidence of the officer in charge of",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654,
+      12.399999618530273,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.54,
+      308.98,
+      526.93,
+      326.02
+    ],
+    "text": "the identification parade was admissible, for it did not contradict women's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.496027946472168,
+      12.697676658630371,
+      12.798060417175293
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.95,
+      343.31,
+      527.0,
+      360.35
+    ],
+    "text": "evidence. It was evidence of identification other than identification in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.50009536743164,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.59,
+      377.62,
+      528.23,
+      394.66
+    ],
+    "text": "witness box, and prosecution was seeking only to establish the fact of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.6393404006958,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      411.94,
+      526.82,
+      428.98
+    ],
+    "text": "identification at the parade.' Court of Appeal of England dismissed both",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.95,
+      446.26,
+      527.0,
+      463.3
+    ],
+    "text": "appeals of Obsourne and Virtue. It is therefore seen from the decision in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.48739242553711,
+      12.53635025024414,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.94,
+      480.59,
+      526.77,
+      497.63
+    ],
+    "text": "case of Obsourne and Virtue even though both witnesses failed to identify the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22192096710205,
+      12.399999618530273,
+      12.87346076965332,
+      12.905496597290039
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.72,
+      514.9,
+      526.77,
+      531.94
+    ],
+    "text": "accused persons in Court, the identification of the accused persons at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.32,
+      549.22,
+      527.06,
+      566.26
+    ],
+    "text": "parade by two witnesses was admitted in evidence. In that case, there was no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.268350601196289,
+      12.399999618530273,
+      12.633893966674805,
+      12.750252723693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.32,
+      583.3,
+      528.37,
+      600.34
+    ],
+    "text": "identification of the accused persons in Court, but the Court of Appeal of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.458661079406738,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.27,
+      617.38,
+      526.77,
+      634.42
+    ],
+    "text": "England affirmed the convictions. It is important to consider a decision of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.483766555786133,
+      12.53635025024414,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.46,
+      651.46,
+      527.66,
+      668.5
+    ],
+    "text": "Indian Supreme Court on this point. In the case of Ram Nath Mahto Vs State",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.75064754486084,
+      12.172513008117676,
+      12.22192096710205,
+      12.399999618530273,
+      12.524327278137207,
+      12.73078727722168,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.87,
+      681.54,
+      527.65,
+      703.47
+    ],
+    "text": "of Bihar 1996 A.I.R Supreme Court ( iiJ 2511 a robbery was committed in a",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.642498970031738,
+      14.11082649230957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.56,
+      719.39,
+      526.89,
+      736.43
+    ],
+    "text": "running train. Witness Divakar Yadav identified the accused as one of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      294.13,
+      777.78,
+      301.8,
+      790.42
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.2,
+      25.34,
+      604.15,
+      74.53
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      35.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      590.07,
+      285.11,
+      610.09,
+      460.96
+    ],
+    "text": "I1 i I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      17.600000381469727,
+      57.599998474121094,
+      72.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      590.19,
+      438.18,
+      608.98,
+      538.37
+    ],
+    "text": "i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.23,
+      562.56,
+      602.38,
+      658.38
+    ],
+    "text": "( f I J I ,I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.500100135803223,
+      6.699999809265137,
+      11.699999809265137,
+      16.600000381469727,
+      18.20009994506836,
+      19.5,
+      34.40010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      588.15,
+      651.23,
+      608.17,
+      862.24
+    ],
+    "text": "~ I I I I II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.4779651165008545,
+      9.399999618530273,
+      18.5,
+      20.20009994506836,
+      28.799999237060547,
+      39.099998474121094,
+      72.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      68.51,
+      527.95,
+      85.55
+    ],
+    "text": "robbers, carrying a revolver, at the identification parade but failed to identify",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.458661079406738,
+      12.482078552246094,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.81,
+      102.58,
+      527.49,
+      119.62
+    ],
+    "text": "him in Court. The Magistrate who conducted the parade gave evidence to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.476513862609863,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.43,
+      137.14,
+      526.71,
+      154.18
+    ],
+    "text": "effect that witness Divakar Yadev identified the accused at the parade. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.26,
+      171.46,
+      527.24,
+      188.5
+    ],
+    "text": "trial court, relying on the evidence of the identification parade, convicted the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.43,
+      205.78,
+      527.25,
+      222.82
+    ],
+    "text": "appellant. In his appeal before the Supreme Court of India, counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.399999618530273,
+      12.697676658630371,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.43,
+      240.1,
+      527.79,
+      257.14
+    ],
+    "text": "appellant contended that the evidence of the identification parade did not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.413542747497559,
+      12.43669605255127,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.42,
+      274.42,
+      527.62,
+      291.46
+    ],
+    "text": "constitute by itself substantive evidence. The Supreme Court of India rejecting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.02,
+      308.75,
+      527.37,
+      325.79
+    ],
+    "text": "this contention, dismissed the appeal and affirmed the conviction of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.67,
+      342.4,
+      527.11,
+      360.96
+    ],
+    "text": "appellant. In Queen Vs Julis 65 NLR 505 Basnayake CJ held as follows.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.418416976928711,
+      11.369872093200684,
+      11.795981407165527,
+      11.841261863708496,
+      11.87857437133789,
+      12.100000381469727,
+      12.172513008117676,
+      12.399999618530273,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.88,
+      377.15,
+      528.12,
+      394.19
+    ],
+    "text": "'Under Section 157 of the Evidence Ordinance a former statement made by a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.53194808959961,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.54,
+      411.47,
+      526.81,
+      428.51
+    ],
+    "text": "witness identifying an accused at an identification parade is relevant as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      11.943445205688477,
+      12.235660552978516,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.42,
+      445.78,
+      527.48,
+      462.82
+    ],
+    "text": "corroboration of any evidence to the like effect given by the witness at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.5,
+      480.1,
+      529.08,
+      497.14
+    ],
+    "text": "trial of the accused, provided that the statement was made before 'an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.568603515625,
+      12.738675117492676,
+      14.265042304992676
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.67,
+      514.66,
+      528.03,
+      531.7
+    ],
+    "text": "authority legally competent to investigate the fact' other than an officer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.35055160522461,
+      12.399999618530273,
+      12.50009536743164,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      548.75,
+      527.38,
+      565.79
+    ],
+    "text": "investigating under chapter xii of the Criminal Procedure Code.'The above",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.05,
+      582.82,
+      529.19,
+      599.86
+    ],
+    "text": "legal literature was considered by me in my judgment in the case of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22192096710205,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.89,
+      616.44,
+      524.11,
+      633.97
+    ],
+    "text": "Athukoralage Nihal Perera Vs The Attorney-General CA. 43-44/2002-",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-BoldOblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.369872093200684,
+      11.981822967529297,
+      12.100000381469727,
+      12.26584243774414,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.66,
+      650.98,
+      527.26,
+      668.02
+    ],
+    "text": "05.08.2005. On appeal, the Supreme Court in SC ( Spl) LA 203/2005 ( decided",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.120373725891113,
+      11.689759254455566,
+      12.149571418762207,
+      12.336487770080566,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.92,
+      684.58,
+      527.9,
+      701.62
+    ],
+    "text": "on 25.04.2006) refused leave to appeal. Considering the principles laid down",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.28,
+      718.67,
+      528.21,
+      735.71
+    ],
+    "text": "in the above judicial decisions, I hold that if a witness having identified the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.633893966674805,
+      12.798060417175293
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      295.1,
+      776.75,
+      303.02,
+      789.8
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      598.23,
+      -1.67,
+      603.07,
+      22.23
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.89,
+      188.77,
+      602.76,
+      294.48
+    ],
+    "text": "f II f I !! t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      7.199999809265137,
+      8.0,
+      8.5,
+      10.600000381469727,
+      15.5,
+      16.100000381469727,
+      28.299999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      593.84,
+      313.06,
+      607.41,
+      380.11
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      48.79999923706055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      593.15,
+      426.16,
+      601.86,
+      456.04
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      22.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      589.92,
+      688.4,
+      606.78,
+      853.61
+    ],
+    "text": "r I I !t ! l l I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      11.800000190734863,
+      12.699999809265137,
+      15.300000190734863,
+      16.299999237060547,
+      22.799999237060547,
+      28.299999237060547,
+      29.0,
+      42.29999923706055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.43,
+      68.03,
+      526.65,
+      85.07
+    ],
+    "text": "accused at an identification parade fails to identify the accused at the trial,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.482078552246094,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      102.59,
+      526.27,
+      119.63
+    ],
+    "text": "conviction of the accused can be sustained. Learned counsel next contended",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.248980522155762,
+      12.284713745117188,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.78,
+      136.9,
+      526.77,
+      153.94
+    ],
+    "text": "that the learned trial judge had not considered the dock statement of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.496027946472168,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      170.98,
+      528.69,
+      188.02
+    ],
+    "text": "accused. I now advert to this contention. The learned trial judge at page 1460f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.474028587341309,
+      12.482078552246094,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.54,
+      203.03,
+      527.28,
+      222.58
+    ],
+    "text": "the brief ( 1st para) has considered the dock statement. I note that in the next",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.192462921142578,
+      12.399999618530273,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.31,
+      239.86,
+      526.77,
+      256.9
+    ],
+    "text": "paragraph the learned trial judge had considered the dock statement and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.56,
+      274.18,
+      526.77,
+      291.22
+    ],
+    "text": "prosecution evidence and had come to the conclusion that the evidence of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.633893966674805,
+      12.6393404006958,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.56,
+      308.51,
+      526.53,
+      325.55
+    ],
+    "text": "prosecution could be accepted. When we consider the judgment, we are",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.284713745117188,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.33,
+      342.82,
+      527.85,
+      359.86
+    ],
+    "text": "unable to agree with the learned counsel that the learned trial judge had not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.496027946472168,
+      12.499202728271484,
+      12.568603515625,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.19,
+      376.9,
+      527.01,
+      393.94
+    ],
+    "text": "evaluated the dock statement. We have considered the evidence led at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.482078552246094
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.02,
+      411.23,
+      526.47,
+      428.27
+    ],
+    "text": "trial and are of the opinion that the prosecution has proved the case beyond",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.192462921142578,
+      12.282896995544434,
+      12.399999618530273,
+      12.43669605255127,
+      12.568603515625,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.56,
+      445.79,
+      386.6,
+      462.83
+    ],
+    "text": "reasonable doubt. We therefore affirm the conviction.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.77,
+      534.35,
+      527.89,
+      551.39
+    ],
+    "text": "The accused-appellant has been sentenced to a term of 15 years R. I on a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.13380241394043,
+      12.273504257202148,
+      12.399999618530273,
+      12.475619316101074,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      568.67,
+      527.49,
+      585.71
+    ],
+    "text": "charge where he had robbed goods worth of Rs. 200,000/-. We feel that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.47489070892334,
+      12.336135864257812,
+      12.399999618530273,
+      12.515413284301758,
+      12.568603515625,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.21,
+      602.5,
+      527.81,
+      619.54
+    ],
+    "text": "sentence imposed by the trial judge is excessive. We therefore decide to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.56,
+      636.58,
+      526.87,
+      653.62
+    ],
+    "text": "interfere with the sentence imposed by the learned trial Judge. We set aside",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.560905456542969
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.04,
+      670.66,
+      527.01,
+      687.7
+    ],
+    "text": "the term of 15 years R.I imposed by the learned trial Judge and sentence the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.569862365722656,
+      12.399999618530273,
+      12.475619316101074,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.43,
+      704.51,
+      526.54,
+      721.55
+    ],
+    "text": "accused-appellant to a term of 10 years R.I. The fine ordered by the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.93664264678955,
+      12.399999618530273,
+      12.475619316101074,
+      12.738675117492676,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.37,
+      775.86,
+      302.1,
+      789.6
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.4,
+      68.03,
+      523.05,
+      85.07
+    ],
+    "text": "Trial Judge remains unaltered. Subject to the above variation of the sentence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.41,
+      102.35,
+      298.45,
+      119.39
+    ],
+    "text": "the appeal of the appellant is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.4,
+      146.49,
+      523.06,
+      163.54
+    ],
+    "text": "The accused-appellant who is on bail should submit to his bail. The sentence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.414590835571289,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.97,
+      180.82,
+      523.29,
+      197.86
+    ],
+    "text": "imposed by this Court should be implemented from the date on which the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.284713745117188,
+      12.399999618530273,
+      12.432008743286133
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.83,
+      215.38,
+      477.04,
+      232.42
+    ],
+    "text": "accused-appellant surrenders to Court or is brought before the Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.43669605255127,
+      12.603874206542969,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.08,
+      260.17,
+      204.49,
+      276.56
+    ],
+    "text": "Appeal dismissed",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210.87,
+      348.1,
+      376.71,
+      365.14
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.93,
+      392.36,
+      203.4,
+      409.71
+    ],
+    "text": "P.W.D.C. Jayathilaka, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.34,
+      436.9,
+      147.51,
+      453.94
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211.11,
+      525.7,
+      377.24,
+      542.74
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.65,
+      614.99,
+      101.85,
+      632.03
+    ],
+    "text": "Kpm/",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291.17,
+      775.41,
+      299.05,
+      789.42
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      589.47,
+      230.69,
+      608.26,
+      323.57
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.79,
+      300.33,
+      604.8,
+      457.13
+    ],
+    "text": "f l f , I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      15.100000381469727,
+      18.20009994506836,
+      24.399999618530273,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      590.09,
+      436.2,
+      597.6,
+      454.75
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      586.87,
+      470.58,
+      602.88,
+      565.35
+    ],
+    "text": "i I!",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.399999618530273,
+      18.20009994506836,
+      57.599998474121094
+    ]
+  }
+]

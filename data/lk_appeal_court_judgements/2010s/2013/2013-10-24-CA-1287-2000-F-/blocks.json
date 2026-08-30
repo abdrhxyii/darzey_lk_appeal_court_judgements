@@ -1,0 +1,477 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.5,
+      182.06
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA CA. No: 1287/00(F) D.C.Gampaha No. 31488/P",
+    "fonts": [
+      "Arial",
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      182.04,
+      487.15,
+      247.82
+    ],
+    "text": "Gunawardane Boue Guard. Wathupitiwala, Nittambuwa.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      247.71,
+      521.71,
+      362.69
+    ],
+    "text": "Plaintiff Vs. Pathirannalahelage Dharmadasa Kalatuwawa, Kalagedihena.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      362.67,
+      465.62,
+      379.13
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      1.75,
+      726.28,
+      14.76,
+      760.52
+    ],
+    "text": "I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863,
+      23.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      2.33,
+      765.03,
+      14.18,
+      841.38
+    ],
+    "text": "1 1 I I j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.0,
+      15.800000190734863,
+      19.399999618530273,
+      20.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.12,
+      71.93,
+      239.85,
+      87.76
+    ],
+    "text": "C.A 1287/2000 (F)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.709443092346191,
+      12.60824966430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.22,
+      134.65,
+      159.99,
+      151.06
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.381082534790039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.38,
+      163.21,
+      170.98,
+      179.62
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.792922973632812
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.01,
+      283.68,
+      250.68,
+      300.09
+    ],
+    "text": "Argued & decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.58675765991211,
+      12.679350852966309,
+      12.895485877990723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.26,
+      340.75,
+      262.73,
+      357.37
+    ],
+    "text": "Upalv Abeyrathne, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.827827453613281,
+      11.838857650756836,
+      12.626021385192871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      305.02,
+      71.93,
+      458.54,
+      87.76
+    ],
+    "text": "D.C Gampaha 31488/P",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.770078659057617,
+      11.865153312683105,
+      12.544881820678711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.66,
+      134.65,
+      429.17,
+      151.06
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.519295692443848,
+      12.693021774291992,
+      13.169282913208008
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.86,
+      163.21,
+      523.73,
+      179.62
+    ],
+    "text": "Mohamed Rusmy for the Substituted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.694522857666016,
+      12.870136260986328,
+      12.875821113586426,
+      12.930253028869629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.86,
+      184.33,
+      429.83,
+      200.74
+    ],
+    "text": "Defendan t -A ppellan t.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.17344856262207,
+      12.300000190734863,
+      12.743165969848633,
+      12.752670288085938
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.86,
+      226.8,
+      487.36,
+      243.21
+    ],
+    "text": "Plaintiff- Respondent is absent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.660419464111328,
+      12.851200103759766,
+      13.090028762817383
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.41,
+      247.92,
+      421.75,
+      264.33
+    ],
+    "text": "And unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.556378364562988,
+      12.92444896697998
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.08,
+      283.78,
+      375.92,
+      300.06
+    ],
+    "text": "24.10.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.74057388305664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.93,
+      396.96,
+      536.07,
+      413.37
+    ],
+    "text": "Learned Counsel for the Defendant-Appellant makes an application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.625688552856445,
+      12.68720531463623,
+      12.716449737548828,
+      12.78849983215332,
+      12.825331687927246,
+      13.029090881347656,
+      13.31806755065918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.97,
+      425.52,
+      536.47,
+      441.93
+    ],
+    "text": "to withdraw this appeal. Accordingly application for withdrawal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.406737327575684,
+      12.423529624938965,
+      12.492740631103516,
+      12.669257164001465,
+      12.679204940795898,
+      12.743793487548828,
+      12.838032722473145,
+      12.923877716064453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.87,
+      453.61,
+      536.09,
+      470.02
+    ],
+    "text": "allowed. Appeal is dismissed without cost. Registrar is directed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.356321334838867,
+      12.406737327575684,
+      12.56230354309082,
+      12.589200019836426,
+      12.623154640197754,
+      12.660419464111328,
+      12.7069673538208,
+      12.81511402130127,
+      12.873863220214844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.04,
+      482.17,
+      497.36,
+      498.58
+    ],
+    "text": "send the original case record to the District Court of Gampaha.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.546774864196777,
+      12.55020523071289,
+      12.571699142456055,
+      12.571992874145508,
+      12.70498275756836,
+      12.880120277404785,
+      12.889331817626953,
+      12.962508201599121,
+      12.9762601852417,
+      12.99870491027832
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.02,
+      595.85,
+      505.21,
+      611.68
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.525721549987793,
+      11.836089134216309,
+      11.854874610900879,
+      11.94474983215332,
+      12.229981422424316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.21,
+      637.68,
+      154.15,
+      654.09
+    ],
+    "text": "Vkgj-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.838223457336426
+    ]
+  }
+]

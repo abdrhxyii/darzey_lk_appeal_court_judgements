@@ -1,0 +1,517 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      165.38
+    ],
+    "text": "REPUBLIC OF SRI LANKA Case No. CA (Writ) 364/2011",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      165.36,
+      478.39,
+      263.93
+    ],
+    "text": "Pettahewage Premaratne Yaya 17, Near Dividing Stream, Pahalamaragahawewa, Rajanganaya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      263.91,
+      464.59,
+      378.89
+    ],
+    "text": "Petitioner Vs. 1. Divisional Secretary Divisional Secretariat, Rajanganaya.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Cambria,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      378.75,
+      518.95,
+      477.31
+    ],
+    "text": "And three others 5. Hon. Attorney-General Attorney-General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      477.29,
+      482.83,
+      493.75
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      2.31,
+      -3.97,
+      42.34,
+      94.96
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      72.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      4.27,
+      69.35,
+      14.14,
+      94.29
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.73,
+      66.98,
+      197.34,
+      81.68
+    ],
+    "text": "C.A. No. 364/2011 (Writ)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.58715534210205,
+      10.699999809265137,
+      10.714590072631836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.65,
+      120.99,
+      287.6,
+      135.97
+    ],
+    "text": "Before: Ani! Gooneratne, J &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.64,
+      148.57,
+      284.97,
+      163.27
+    ],
+    "text": "Malinie Gunaratne, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.75028133392334
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.49,
+      175.69,
+      354.25,
+      190.63
+    ],
+    "text": "Counsel: Niranjan de Silva for the Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.578207015991211,
+      10.631329536437988,
+      10.699999809265137,
+      10.720580101013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.41,
+      202.81,
+      297.21,
+      217.51
+    ],
+    "text": "Ashan Fernando SC for 1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.549216270446777,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.02,
+      199.15,
+      314.74,
+      218.53
+    ],
+    "text": "St, 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.699999809265137,
+      10.699999809265137,
+      11.502370834350586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.75,
+      200.71,
+      450.84,
+      217.51
+    ],
+    "text": "nd,3rd and 5th Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.1212592124938965,
+      7.226680755615234,
+      7.300099849700928,
+      10.684839248657227,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.41,
+      256.31,
+      118.88,
+      271.51
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.88,
+      281.3,
+      234.89,
+      296.24
+    ],
+    "text": "Decided on: 18.11.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.48,
+      304.95,
+      269.83,
+      323.78
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.41,
+      333.61,
+      164.25,
+      348.31
+    ],
+    "text": "Ani! Gooneratne, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.38,
+      360.26,
+      541.98,
+      374.96
+    ],
+    "text": "We have heard both counsel as regards this application. However learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.019885063171387,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.67,
+      389.53,
+      541.1,
+      404.24
+    ],
+    "text": "petitioner at this stage moves to withdraw this application. The application for withdrawal is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.699999809265137,
+      10.747344970703125,
+      10.814190864562988,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.53,
+      419.29,
+      300.84,
+      433.99
+    ],
+    "text": "allowed. The application is dismissed. No costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.621713638305664,
+      10.669707298278809,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.89,
+      458.89,
+      542.29,
+      473.59
+    ],
+    "text": "Learned State Counsel agrees to assist the Petitioner by informing the Divisional Secretary to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.52,
+      488.42,
+      541.26,
+      503.12
+    ],
+    "text": "consider making some allowance to enable the petitioner to support his application for some",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.720580101013184,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.54,
+      517.69,
+      423.6,
+      571.99
+    ],
+    "text": "other State land. ~flc,~v~~ C\u00a7J C--~ Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.856603622436523,
+      11.052155494689941,
+      11.186155319213867,
+      12.491532325744629,
+      17.22874641418457,
+      19.497692108154297
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.41,
+      584.17,
+      175.76,
+      598.87
+    ],
+    "text": "Malinie Gunaratne, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.59,
+      599.99,
+      490.36,
+      632.09
+    ],
+    "text": "I agree. ~~.~_..J",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.699999809265137,
+      26.28780746459961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.32,
+      638.17,
+      393.91,
+      652.87
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.856603622436523,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.41,
+      691.44,
+      97.71,
+      706.14
+    ],
+    "text": "Kpm/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  }
+]
