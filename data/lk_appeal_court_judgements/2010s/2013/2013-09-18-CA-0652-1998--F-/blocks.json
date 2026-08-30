@@ -1,0 +1,634 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      188.66
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A 652/98 DC Embilipitiya 4868/L",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      191.04,
+      434.92,
+      301.97
+    ],
+    "text": "M.A. Sirisena Deiyandara Stores Bare, Hospital Place, Padalangala.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      304.35,
+      496.39,
+      320.81
+    ],
+    "text": "Defendant Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      333.27,
+      309.74,
+      349.73
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      362.07,
+      419.56,
+      454.03
+    ],
+    "text": "H.R.C.W. Dissanayaka Wenthura, Dodankahawila, Gonapinuwala, Galle.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      485.33,
+      526.03,
+      501.79
+    ],
+    "text": "Complainant Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -4.26,
+      9.12,
+      194.05,
+      95.4
+    ],
+    "text": "I I C.A. NO. 652/98(F)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.805904388427734,
+      23.70009994506836,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.74,
+      119.87,
+      131.7,
+      136.15
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.367352485656738
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.67,
+      168.34,
+      140.13,
+      184.62
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.06,
+      265.31,
+      163.56,
+      281.59
+    ],
+    "text": "ARGUED AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.98,
+      289.31,
+      161.06,
+      305.59
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.268904685974121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.42,
+      71.38,
+      471.95,
+      87.66
+    ],
+    "text": "D.C. Embilipitiya No. 4868/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.498790740966797,
+      13.13710880279541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.57,
+      119.88,
+      441.88,
+      136.91
+    ],
+    "text": "S. SRISKANDARAJAH, H. (PICA) &",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      11.707648277282715,
+      12.100000381469727,
+      12.300000190734863,
+      12.522095680236816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.25,
+      144.11,
+      442.97,
+      161.14
+    ],
+    "text": "W. M. M. MALINIE GUNARATNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.100532531738281,
+      12.300000190734863,
+      12.782872200012207
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.25,
+      168.34,
+      498.49,
+      184.62
+    ],
+    "text": "Arienda Wijesurendra with Nimal Hippola for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.330650329589844,
+      12.49356746673584,
+      12.648987770080566,
+      12.651688575744629,
+      12.732192039489746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.97,
+      192.58,
+      369.87,
+      208.86
+    ],
+    "text": "the defendant-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.73104190826416,
+      12.823373794555664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.49,
+      216.58,
+      450.27,
+      232.86
+    ],
+    "text": "Anuruddha Dharmaratne with Srihan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.648987770080566,
+      12.919106483459473,
+      12.963415145874023,
+      13.014510154724121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.99,
+      241.07,
+      480.06,
+      257.35
+    ],
+    "text": "Samaranayake for the plaintiff-respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.59326171875,
+      12.823373794555664,
+      12.93048095703125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.0,
+      289.31,
+      352.91,
+      305.59
+    ],
+    "text": "18th September, 2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.84477424621582,
+      12.473435401916504,
+      12.677072525024414,
+      12.78669261932373
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      221.77,
+      312.9,
+      276.79,
+      327.57
+    ],
+    "text": "**********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.61,
+      337.79,
+      283.19,
+      354.82
+    ],
+    "text": "S. SRISKANDARAJAH, H. (PICA)",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.672346115112305,
+      12.300000190734863,
+      12.522095680236816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.21,
+      395.62,
+      515.21,
+      411.9
+    ],
+    "text": "Learned Counsel for the defendant-appellant moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.356200218200684,
+      12.472359657287598,
+      12.697121620178223,
+      12.773089408874512,
+      12.829793930053711,
+      12.909707069396973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.78,
+      416.99,
+      515.48,
+      433.27
+    ],
+    "text": "withdraw this appeal. Learned Counsel for the plaintiff-respondent has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.632145881652832,
+      12.645998001098633,
+      12.661808967590332,
+      12.691210746765137,
+      12.708455085754395,
+      12.823373794555664,
+      12.871233940124512,
+      13.123404502868652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.26,
+      438.1,
+      515.05,
+      454.38
+    ],
+    "text": "no objection for the withdrawal of this appeal. The application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.49566650390625,
+      12.511133193969727,
+      12.516104698181152,
+      12.54769515991211,
+      12.617650985717773,
+      12.64498519897461,
+      12.67437744140625,
+      12.871233940124512,
+      12.909707069396973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.36,
+      459.46,
+      515.43,
+      475.78
+    ],
+    "text": "\\:....---' withdrawal of the appeal is allowed and the appeal -is pro forma",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.59446907043457,
+      12.199999809265137,
+      12.39243221282959,
+      12.441852569580078,
+      12.451265335083008,
+      12.543806076049805,
+      12.604058265686035,
+      12.664266586303711,
+      12.79227352142334,
+      12.832456588745117,
+      12.909707069396973,
+      13.188179969787598
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.15,
+      480.83,
+      229.47,
+      497.11
+    ],
+    "text": "dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.676831245422363,
+      12.683229446411133,
+      12.8894681930542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.79,
+      524.42,
+      416.17,
+      537.76
+    ],
+    "text": "/\" /. ,/t--~,",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.339663028717041,
+      11.732945442199707,
+      16.182615280151367,
+      19.37320327758789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.14,
+      542.99,
+      505.17,
+      559.27
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.227269172668457,
+      12.276907920837402,
+      12.378494262695312,
+      12.438861846923828,
+      12.528672218322754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.85,
+      574.67,
+      302.76,
+      591.7
+    ],
+    "text": "W. M. M. MALINIE GUNARATNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.100532531738281,
+      12.21893310546875,
+      12.300000190734863,
+      13.070186614990234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.43,
+      606.1,
+      195.64,
+      622.38
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.479449272155762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.12,
+      667.55,
+      479.06,
+      683.83
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.260798454284668,
+      12.378494262695312,
+      12.528672218322754,
+      12.702980995178223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.18,
+      699.94,
+      120.5,
+      716.22
+    ],
+    "text": "Kwk/=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.534417152404785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.91,
+      52.07,
+      607.92,
+      131.21
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      57.599998474121094
+    ]
+  }
+]
