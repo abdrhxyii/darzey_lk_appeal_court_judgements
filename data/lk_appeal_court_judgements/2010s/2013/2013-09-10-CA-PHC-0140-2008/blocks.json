@@ -1,0 +1,509 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      100.34,
+      72.47,
+      515.05,
+      88.01
+    ],
+    "text": "IN THE SUPREM COURT OF THE DEMOCRATIC SOCIALISTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.48,
+      288.89,
+      153.06
+    ],
+    "text": "CA (PHC) 140/08 PHC - KURUNEGALA HCW 18/2003",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "MS Mincho"
+    ],
+    "sizes": [
+      3.0,
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      181.2,
+      391.72,
+      230.42
+    ],
+    "text": "P. M. Darmawathie Mawahena, Katupotha.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      230.4,
+      500.59,
+      263.33
+    ],
+    "text": "PETITIONERS- APPELLANT",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      263.19,
+      537.55,
+      608.02
+    ],
+    "text": "VS. 1. Sanasa Co-operative Society, Mavihena. 2. W. George Benadict Pohorugedara, Katupotha. 3. W. A. Thilakarathne Mavihena, Katupotha. 4. R. P. Darmasena Pahala Imbulgoda, Imbulgoda. 5. A. A. P. Assistant Commissioner of Co-operative 6. Kumari Weerasekara Registrar and Commissioner for Co-operative No.73, Malkaduwawa, Wataravuma Road, Kurunegala",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      608.0,
+      516.67,
+      624.46
+    ],
+    "text": "RESPONDENT-RESPONDENTS",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      6.39,
+      133.79,
+      46.42,
+      232.72
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      72.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -0.81,
+      271.74,
+      39.22,
+      401.44
+    ],
+    "text": "I 1 I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      28.299999237060547,
+      72.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.44,
+      84.2,
+      533.44,
+      100.55
+    ],
+    "text": "CA (PHC) 140/08 PHC - KURUNEGALA HCW 18/2003",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.822310447692871,
+      11.830670356750488,
+      11.918902397155762,
+      12.036948204040527,
+      12.683097839355469,
+      12.877225875854492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.78,
+      125.59,
+      195.04,
+      142.53
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.7,
+      181.73,
+      203.34,
+      198.68
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.78,
+      265.74,
+      224.15,
+      282.68
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.13,
+      322.52,
+      243.14,
+      338.63
+    ],
+    "text": "A.W.A. Salam, J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.908246994018555,
+      12.301631927490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.02,
+      125.59,
+      365.06,
+      156.68
+    ],
+    "text": "A. W .A. Salam, J. Sunil Rjapakshe, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.403334617614746,
+      12.514191627502441,
+      12.699999809265137,
+      12.990428924560547,
+      12.99204158782959,
+      13.094231605529785,
+      13.709595680236816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.53,
+      181.98,
+      418.2,
+      198.92
+    ],
+    "text": "S.N. Trimanne for Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.773040771484375,
+      13.088944435119629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.37,
+      209.82,
+      526.76,
+      240.68
+    ],
+    "text": "R. Chula Bandara with R. Kuruppu for 18t ,2nd and 3rd Respondent-Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      8.916380882263184,
+      8.991584777832031,
+      11.617156982421875,
+      12.631816864013672,
+      12.699999809265137,
+      12.96689510345459,
+      13.025333404541016,
+      13.218226432800293,
+      13.311956405639648,
+      13.32235050201416,
+      13.529462814331055,
+      14.631779670715332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246.5,
+      265.74,
+      320.06,
+      282.68
+    ],
+    "text": "10.09.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.974336624145508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.42,
+      364.62,
+      539.74,
+      381.56
+    ],
+    "text": "Counsel for the appellant moves to have this appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.752640724182129,
+      12.895051956176758,
+      13.010699272155762,
+      13.01889705657959,
+      13.065101623535156,
+      13.101018905639648,
+      13.17159366607666,
+      13.20510482788086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.34,
+      392.94,
+      539.56,
+      409.88
+    ],
+    "text": "withdrawn as the appellant has already served the default terms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.955872535705566,
+      13.004352569580078,
+      13.037124633789062,
+      13.102327346801758,
+      13.129729270935059,
+      13.145051956176758,
+      13.259140968322754,
+      13.548083305358887,
+      13.747038841247559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.73,
+      421.27,
+      539.11,
+      438.21
+    ],
+    "text": "imposed by the learned Magistrate. Application for withdrawal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.798518180847168,
+      12.815970420837402,
+      12.931489944458008,
+      13.01665210723877,
+      13.035371780395508,
+      13.117875099182129,
+      13.17159366607666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.71,
+      449.59,
+      323.21,
+      466.53
+    ],
+    "text": "allowed and appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.74815845489502,
+      12.953715324401855,
+      13.133598327636719,
+      13.529462814331055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.7,
+      535.16,
+      509.5,
+      551.27
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.989956855773926,
+      12.032914161682129,
+      12.13038444519043,
+      12.212093353271484,
+      12.390334129333496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.07,
+      563.1,
+      256.34,
+      580.04
+    ],
+    "text": "Sunil Rjapakshe, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.086663246154785,
+      13.145245552062988,
+      13.709595680236816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.43,
+      591.42,
+      255.67,
+      608.36
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.77766227722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.94,
+      620.36,
+      509.46,
+      636.47
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.989956855773926,
+      12.00156307220459,
+      12.13038444519043,
+      12.335870742797852
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.14,
+      649.04,
+      177.93,
+      665.02
+    ],
+    "text": "Mmj-.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.763236045837402
+    ]
+  }
+]

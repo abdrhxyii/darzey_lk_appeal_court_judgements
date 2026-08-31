@@ -1,0 +1,872 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.17,
+      88.55,
+      399.46,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.56,
+      192.63
+    ],
+    "text": "C.A. 1271/98(F) D.C. Galle Case No.11563/P",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      192.6,
+      370.36,
+      274.73
+    ],
+    "text": "Mathugama Gunerathana Aswastharamaya, Thalgasyaya, Akmeemana.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      274.59,
+      404.56,
+      410.93
+    ],
+    "text": "APPELLANT Vs. K.A. Chandrapala Egodagahawatte, Thalgasyaya, Akmeemana.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      410.93,
+      415.96,
+      427.39
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.46,
+      69.86,
+      381.7,
+      84.79
+    ],
+    "text": "C.A. 1271/98(F) D.C. Galle Case No.11563/P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.19251537322998,
+      10.2466459274292,
+      10.301841735839844,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.38,
+      102.01,
+      260.67,
+      116.71
+    ],
+    "text": "Before K.T. CHITRASIRI, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.20185375213623,
+      10.282599449157715,
+      10.417367935180664,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.21,
+      134.89,
+      359.63,
+      149.59
+    ],
+    "text": "Counsel Parties are absent and unrepresented",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.35,
+      179.53,
+      228.87,
+      194.23
+    ],
+    "text": "Decided on 09.09.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.691145896911621,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.55,
+      242.67,
+      152.96,
+      258.14
+    ],
+    "text": "K.T. CHITRASIRI,J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.317673683166504,
+      10.854814529418945
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.36,
+      275.53,
+      505.4,
+      290.23
+    ],
+    "text": "Pursuant to the preparation of briefs, the Registrar of this Court has sent notices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.624634742736816,
+      10.699999809265137,
+      10.966042518615723,
+      11.052155494689941,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.4,
+      297.61,
+      505.74,
+      312.32
+    ],
+    "text": "under registered cover to the Defendant-Appellant, Plaintiff-Respondent and to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.02,
+      319.7,
+      505.74,
+      334.4
+    ],
+    "text": "other Defendant-Respondents. Those notices have not been returned though it was sent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.734992980957031,
+      11.23354721069336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.41,
+      341.78,
+      505.75,
+      356.48
+    ],
+    "text": "under registered cover. Neither of the parties are present in Court nor are they being",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.643349647521973,
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.4,
+      363.86,
+      504.78,
+      378.56
+    ],
+    "text": "represented by an Attorney-at-Law. The Registrar also has sent notices to the Registered",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.47314453125,
+      10.624634742736816,
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.89,
+      385.93,
+      506.69,
+      400.63
+    ],
+    "text": "Attorneys of the parties. A notice dated 22.09.2008 sent to the Registered Attorney of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.966042518615723,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.83,
+      408.25,
+      505.86,
+      422.95
+    ],
+    "text": "the Plaintiff-Respondent had been returned with the endorsement that he has left the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.543861389160156,
+      10.675822257995605,
+      10.699999809265137,
+      10.713991165161133,
+      10.856061935424805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.02,
+      430.33,
+      505.11,
+      445.04
+    ],
+    "text": "given address. On perusal of the docket, it is seen that the Registrar of this Court has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.4488525390625,
+      10.624634742736816,
+      10.69694995880127,
+      10.699999809265137,
+      10.790467262268066,
+      11.006558418273926,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.51,
+      452.41,
+      505.39,
+      467.11
+    ],
+    "text": "sent notices on several occasions to the parties concerned, but they have not come",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.702898979187012,
+      10.734992980957031,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.63,
+      474.25,
+      505.86,
+      488.95
+    ],
+    "text": "before Court on any of those occasions. Accordingly, this appeal is considered in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.72,
+      496.33,
+      176.96,
+      511.04
+    ],
+    "text": "absence of the parties.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.05,
+      560.41,
+      505.86,
+      575.11
+    ],
+    "text": "This is an appeal seeking to set aside the Judgment dated 12.11.1998 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.47314453125,
+      10.699999809265137,
+      10.966042518615723,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.64,
+      582.73,
+      505.39,
+      597.43
+    ],
+    "text": "learned District Judge of Galle. By that Judgment, the learned District Judge decided",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.281464576721191,
+      10.699999809265137,
+      10.790467262268066,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.07,
+      604.81,
+      505.74,
+      619.52
+    ],
+    "text": "the manner in which the land sought to be partitioned be divided. In the middle of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51561164855957,
+      10.631278991699219,
+      10.699999809265137,
+      10.966042518615723,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.31,
+      624.2,
+      506.05,
+      642.34
+    ],
+    "text": "trial, the parties have agreed to exclude Lot No.2 in the Plan marked 'x' and accordingly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.577954292297363,
+      10.699999809265137,
+      10.776476860046387,
+      10.966042518615723,
+      10.984225273132324,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.31,
+      648.73,
+      505.53,
+      663.43
+    ],
+    "text": "the land sought to be partitioned was restricted to Lot No.1 in the Plan bearing No. 686",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.643048286437988,
+      10.699150085449219,
+      10.699999809265137,
+      10.776476860046387,
+      10.831491470336914,
+      10.966042518615723,
+      11.08936595916748
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.87,
+      670.33,
+      482.79,
+      685.03
+    ],
+    "text": "marked 'X' . Therefore, there was no dispute as to the land sought to be partitioned.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.73,
+      726.85,
+      288.82,
+      740.18
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -5.47,
+      11.35,
+      504.43,
+      91.32
+    ],
+    "text": "I The learned District Judge also have considered the evidence as to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.004270553588867,
+      10.399999618530273,
+      10.544742584228516,
+      10.811220169067383,
+      58.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.05,
+      93.21,
+      504.23,
+      107.5
+    ],
+    "text": "entitlements of the respective parties referring to the relevant deeds marked in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.544742584228516,
+      10.624330520629883,
+      10.811220169067383,
+      11.028225898742676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.05,
+      115.77,
+      504.67,
+      130.06
+    ],
+    "text": "evidence. Basica\"y, his decision is on the basis of the evidence relating to the facts of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.207925796508789,
+      10.399999618530273,
+      10.544742584228516,
+      10.624330520629883,
+      10.811220169067383,
+      10.896116256713867,
+      11.028225898742676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.8,
+      137.62,
+      504.16,
+      151.91
+    ],
+    "text": "case. This Court being a Court exercising appellate jurisdiction is slow in interfering with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.207925796508789,
+      10.399999618530273,
+      10.46112060546875,
+      10.501157760620117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.87,
+      159.94,
+      504.88,
+      174.23
+    ],
+    "text": "the decisions which are arrived at considering the facts of the case unless it amounts to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37993049621582,
+      10.399999618530273,
+      10.464550018310547,
+      10.811220169067383,
+      10.851163864135742,
+      10.896116256713867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.2,
+      182.01,
+      504.65,
+      196.3
+    ],
+    "text": "perverse judgment. [Alwis v. Piyasena Fernando (1993) 1 S.L.R. at 119]. Also, I do not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.334795951843262,
+      10.399999618530273,
+      10.402849197387695,
+      10.450726509094238,
+      10.5834321975708,
+      10.641886711120605
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.83,
+      204.1,
+      503.89,
+      218.39
+    ],
+    "text": "see any glaring mistake or error on the part of the learned District Judge when he",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.326943397521973,
+      10.399999618530273,
+      10.464550018310547,
+      10.481877326965332,
+      10.544742584228516,
+      10.550312995910645,
+      10.686552047729492,
+      11.028225898742676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.81,
+      226.18,
+      503.95,
+      240.47
+    ],
+    "text": "decided to allocate the shares to the respective parties of the land sought to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.464550018310547,
+      10.544742584228516,
+      10.678568840026855,
+      10.811220169067383,
+      11.028225898742676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.96,
+      248.25,
+      121.58,
+      262.54
+    ],
+    "text": "partitioned.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.15,
+      312.09,
+      417.16,
+      326.39
+    ],
+    "text": "For the aforesaid reasons, this appeal is dismissed without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.017101287841797,
+      10.399999618530273,
+      10.464550018310547,
+      10.671603202819824
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.03,
+      376.37,
+      183.97,
+      390.58
+    ],
+    "text": "Appeal is abated.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.100031852722168,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      314.56,
+      440.49,
+      482.49,
+      454.78
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.900505065917969,
+      10.083329200744629,
+      10.208995819091797,
+      10.231230735778809,
+      10.237733840942383
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.01,
+      505.05,
+      80.06,
+      519.34
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      278.82,
+      727.47,
+      286.32,
+      740.81
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.12,
+      -5.29,
+      601.79,
+      19.37
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.36,
+      59.03,
+      605.76,
+      94.61
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      590.43,
+      196.31,
+      609.22,
+      289.25
+    ],
+    "text": "f I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.399999618530273,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.98,
+      264.76,
+      602.73,
+      288.94
+    ],
+    "text": "r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.600000381469727
+    ]
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      202.58
+    ],
+    "text": "REPUBLIC OF SRI LANKA COURT OF APPEAL CA 283/2009 H.C. Colombo 203112004",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      202.56,
+      539.59,
+      284.69
+    ],
+    "text": "A.M Saleem Mohamed Nazeer (Presently incarcerated at the Welikade Prison)",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      284.67,
+      467.47,
+      350.33
+    ],
+    "text": "ACCUSED APPELLANT Vs. Hon. Attorney General",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      379.23,
+      415.96,
+      395.69
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -3.9,
+      -12.76,
+      21.06,
+      48.94
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      44.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -3.98,
+      34.58,
+      22.6,
+      144.46
+    ],
+    "text": "1 I J I ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      17.399999618530273,
+      21.799999237060547,
+      27.299999237060547,
+      47.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -3.26,
+      146.37,
+      18.48,
+      208.73
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      39.099998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.48,
+      84.52,
+      142.45,
+      100.27
+    ],
+    "text": "C.A. 283/2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.31,
+      125.56,
+      104.2,
+      141.31
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.48,
+      167.09,
+      110.56,
+      182.83
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.1,
+      208.37,
+      126.64,
+      238.04
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.62,
+      277.49,
+      172.95,
+      293.24
+    ],
+    "text": "Sisira J. de Abrew,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.53604793548584,
+      11.77316951751709,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.06,
+      84.52,
+      343.54,
+      100.27
+    ],
+    "text": "H.C. Colombo Case No: 2031104",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.07,
+      125.8,
+      294.45,
+      155.24
+    ],
+    "text": "Sisira J. de Abrew,J. & P.W.D.C. Jayathilaka,J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.740249633789062,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.09,
+      167.08,
+      413.35,
+      196.5
+    ],
+    "text": "Ahamed M. Hussain for the Accused-Appellant. Tusith Mudalige SSC. for the respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.605141639709473,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.91,
+      222.05,
+      234.03,
+      237.8
+    ],
+    "text": "10.09.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.7,
+      248.47,
+      210.47,
+      270.45
+    ],
+    "text": "*****",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.62,
+      318.76,
+      505.14,
+      334.51
+    ],
+    "text": "Accused-Appellant is present in Court produced by the Prison Authorities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.23,
+      346.6,
+      505.18,
+      362.34
+    ],
+    "text": "Counsel appearing for the Accused-Appellant makes an application to withdraw the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.23,
+      374.44,
+      505.43,
+      390.19
+    ],
+    "text": "appeal. Application for withdrawal is allowed. We affirm the conviction and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.19,
+      402.53,
+      281.56,
+      418.27
+    ],
+    "text": "sentence imposed on the accused-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.1,
+      458.74,
+      195.83,
+      473.39
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.53,
+      512.92,
+      392.39,
+      528.67
+    ],
+    "text": "Judge ofthe Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.919297218322754,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.83,
+      541.48,
+      185.53,
+      557.22
+    ],
+    "text": "P.W.D.C. Jayathilaka,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.56,
+      597.16,
+      142.09,
+      612.91
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.52,
+      624.28,
+      389.75,
+      640.03
+    ],
+    "text": "Judge of the court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.78,
+      634.72,
+      602.51,
+      695.97
+    ],
+    "text": "Jmr/-I\u2022",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.0,
+      16.799999237060547,
+      43.599998474121094
+    ]
+  }
+]

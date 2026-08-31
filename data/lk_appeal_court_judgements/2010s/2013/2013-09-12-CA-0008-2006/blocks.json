@@ -1,0 +1,4684 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.3,
+      124.93,
+      24.44,
+      191.02
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.51,
+      23.61,
+      312.18,
+      37.9
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.99,
+      58.67,
+      516.71,
+      79.86
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.41,
+      77.39,
+      457.45,
+      98.58
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.54,
+      244.28,
+      138.44,
+      262.56
+    ],
+    "text": "CA 8/2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.18,
+      111.57,
+      458.24,
+      129.85
+    ],
+    "text": "Ilandari Devage Nimal Wijesinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.02,
+      128.26,
+      394.06,
+      147.24
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.44,
+      179.02,
+      514.4,
+      213.36
+    ],
+    "text": "Vs The Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.75,
+      212.02,
+      435.59,
+      230.99
+    ],
+    "text": "Complainant Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.38,
+      260.6,
+      190.62,
+      278.88
+    ],
+    "text": "HC Kalutara 5/2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.646495819091797,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.02,
+      309.33,
+      110.75,
+      327.61
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.7,
+      341.72,
+      118.4,
+      360.0
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.77,
+      407.25,
+      137.27,
+      441.59
+    ],
+    "text": "Argued on Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.18,
+      309.07,
+      295.57,
+      343.69
+    ],
+    "text": "Sisira ] De Abrew ] & PWDC ]ayathilake]",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.53,
+      341.73,
+      437.58,
+      376.32
+    ],
+    "text": "Dr.Ranjith Fernando for the accused appellant DP] De Livera DSG for the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.73,
+      407.25,
+      368.53,
+      441.85
+    ],
+    "text": "18.7.2013,24.7.2013 and 25.7.2013 12.9.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.85,
+      456.34,
+      209.91,
+      477.53
+    ],
+    "text": "Sisira J De Abrew J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.4,
+      493.16,
+      543.86,
+      511.44
+    ],
+    "text": "The accused appellant in this case was convicted of the murder of a man",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.58,
+      517.65,
+      543.71,
+      535.92
+    ],
+    "text": "named Nayage Upul Nishantha and was sentenced to death. Being aggrieved by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.35,
+      541.88,
+      544.01,
+      560.16
+    ],
+    "text": "the said conviction and the sentence he has appealed to this court. Facts of this case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.58,
+      566.13,
+      290.74,
+      584.41
+    ],
+    "text": "may be briefly summarized as follows.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      118.2,
+      590.36,
+      543.96,
+      608.64
+    ],
+    "text": "The accused appellant is married to the sister of the deceased person. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.48,
+      614.6,
+      544.32,
+      632.88
+    ],
+    "text": "deceased person, who was in the trade of brewing illicit liquor, around 7.00 a.m. on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.33,
+      638.6,
+      543.92,
+      656.88
+    ],
+    "text": "the day of the incident, started brewing illicit liquor with the assistance of one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.3,
+      662.84,
+      543.18,
+      681.12
+    ],
+    "text": "Pradeep Manjula in a rubber estate which was around 180 to 190 feet away from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.1,
+      686.84,
+      544.35,
+      705.12
+    ],
+    "text": "his house. The accused appellant around 7.30 a.m. on this day came to this place",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.17,
+      -6.31,
+      22.88,
+      205.84
+    ],
+    "text": "I I ! i I f I l I I 1 t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.300000190734863,
+      14.600000381469727,
+      15.699999809265137,
+      15.800000190734863,
+      16.799999237060547,
+      19.20009994506836,
+      19.5,
+      20.799999237060547,
+      21.5,
+      24.399999618530273,
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.81,
+      34.87,
+      311.13,
+      49.68
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.18,
+      70.42,
+      543.08,
+      88.83
+    ],
+    "text": "and asked for his two cans which were with the deceased person. He, in order to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.96,
+      94.66,
+      543.68,
+      113.07
+    ],
+    "text": "give two cans, asked for Rs.3000/- that the accused appellant had to give as a result",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.18,
+      118.91,
+      544.05,
+      137.32
+    ],
+    "text": "of a previous transaction. At this stage the accused appellant attacked the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.88,
+      143.62,
+      544.03,
+      162.04
+    ],
+    "text": "person's neck with katty which he brought. As a result of this attack the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.85,
+      168.1,
+      543.85,
+      186.51
+    ],
+    "text": "person fell on the ground. The accused appellant ran away from the scene carrying",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.27,
+      192.34,
+      442.29,
+      210.75
+    ],
+    "text": "the katty. This was the summary of evidence ofPradeep Manjula.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.38,
+      216.83,
+      539.93,
+      235.24
+    ],
+    "text": "Indika Premalal who is the brother of the deceased person and the brother-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.94,
+      241.06,
+      543.34,
+      259.47
+    ],
+    "text": "in-law of the accused appellant says that in the morning of the day of the incident,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.32,
+      265.54,
+      543.12,
+      283.95
+    ],
+    "text": "the accused appellant who was armed with a 3 Y:z feet long katty came and made",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.782563209533691,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.5,
+      290.27,
+      543.53,
+      308.68
+    ],
+    "text": "inquiries about the deceased person. When he replied in the negative, the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.23,
+      314.5,
+      543.6,
+      332.91
+    ],
+    "text": "appellant went towards the place where the deceased person was brewing illicit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.48,
+      338.98,
+      542.75,
+      357.39
+    ],
+    "text": "liquor. About fifteen minutes later the accused appellant came running with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.33,
+      363.23,
+      542.78,
+      381.64
+    ],
+    "text": "katty and addressed him in the following language: \"Katty fell on Upul's body. Go",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.760343551635742,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.22,
+      387.46,
+      543.34,
+      405.87
+    ],
+    "text": "and see.\" Upul is the name of the deceased person. He noticed blood on the blade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.98,
+      411.95,
+      542.57,
+      430.36
+    ],
+    "text": "of the katty. The accused appellant thereafter ran away carrying the katty. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.764153480529785,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.92,
+      436.67,
+      543.37,
+      455.08
+    ],
+    "text": "started running towards the place where the deceased person was brewing illicit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.0,
+      461.14,
+      542.56,
+      479.55
+    ],
+    "text": "liquor and on the way he met Pradeep Manjula who addressed him in the following",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.0,
+      485.38,
+      403.48,
+      503.8
+    ],
+    "text": "language: \"Nimal attacked Upul with a katty. Go and see.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124.2,
+      509.64,
+      542.73,
+      528.04
+    ],
+    "text": "The accused appellant gave evidence under oath. His evidence may be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.66,
+      533.86,
+      542.9,
+      552.28
+    ],
+    "text": "briefly summarized as follows. On the day of the incident he went to the place",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.38,
+      558.34,
+      543.11,
+      576.75
+    ],
+    "text": "where the deceased person was brewing illicit liquor and requested the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.21,
+      582.59,
+      543.26,
+      601.0
+    ],
+    "text": "person to return his two cans. Pradeep Mnajula was assisting the deceased person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.78,
+      606.58,
+      543.32,
+      624.99
+    ],
+    "text": "in the brewing. The deceased person, who was having a knife, stuck in his waist",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.53,
+      630.82,
+      543.34,
+      649.23
+    ],
+    "text": "and a katty in his hand, pointing the two weapons, asked him whether he needed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.53,
+      655.06,
+      543.3,
+      673.47
+    ],
+    "text": "from the knife or the katty. Thinking that the deceased person was joking he went",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.31,
+      678.82,
+      543.43,
+      697.24
+    ],
+    "text": "away from this place. When he was going, he came back as the deceased person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.25,
+      702.82,
+      543.25,
+      721.23
+    ],
+    "text": "called him. At this stage the deceased person tried to stab him. He grappled with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -0.61,
+      5.65,
+      20.91,
+      65.57
+    ],
+    "text": "J I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      38.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -0.08,
+      68.34,
+      6.07,
+      79.03
+    ],
+    "text": "J",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.900100231170654
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.75,
+      37.09,
+      311.38,
+      52.43
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.3,
+      72.58,
+      543.66,
+      90.99
+    ],
+    "text": "him and both fell on the ground. After the grapple he started moving away. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.19,
+      97.06,
+      544.22,
+      115.47
+    ],
+    "text": "deceased person at this stage came to stab him. He then took a katty which he saw",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.18,
+      121.3,
+      543.39,
+      139.72
+    ],
+    "text": "at this place and gave a blow in fear of death. According to him he exercised his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.04,
+      145.79,
+      543.95,
+      164.2
+    ],
+    "text": "right of private defence. This was the summary of the evidence of the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.93,
+      169.79,
+      127.11,
+      188.2
+    ],
+    "text": "appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.1,
+      194.26,
+      543.99,
+      212.67
+    ],
+    "text": "Pradeep Manjula says that there was no grapple between the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.61,
+      218.74,
+      543.42,
+      237.15
+    ],
+    "text": "person and accused appellant. He says that the accused appellant asked for the two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.68,
+      243.47,
+      543.74,
+      261.88
+    ],
+    "text": "cans and attacked with a katty. But the accused appellant says that he did not bring",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.45,
+      267.7,
+      543.99,
+      286.11
+    ],
+    "text": "a katty. I will now consider the question whether the evidence of the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.46,
+      292.18,
+      543.19,
+      310.59
+    ],
+    "text": "appellant can be accepted and it creates a reasonable doubt in the prosecution case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.32,
+      316.42,
+      543.05,
+      334.84
+    ],
+    "text": "Although the accused appellant says that he grappled with the deceased person, IP",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.762849807739258,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.22,
+      340.91,
+      543.65,
+      359.32
+    ],
+    "text": "Gunaratne who went to the scene of offence to investigate into the crime says that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.08,
+      365.15,
+      407.54,
+      383.56
+    ],
+    "text": "there were no marks of a struggle. This was a rubber estate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.13,
+      389.63,
+      543.26,
+      408.04
+    ],
+    "text": "The accused appellant says that the katty with which he attacked the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.02,
+      413.86,
+      542.79,
+      432.27
+    ],
+    "text": "deceased person was leaning against the roof of the house of the deceased person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.77,
+      438.35,
+      543.41,
+      456.76
+    ],
+    "text": "Is this true? Did this incident take place near the house of the deceased person?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.82,
+      462.82,
+      543.5,
+      481.23
+    ],
+    "text": "Pradeep Manjula says that the brewing of illicit liquor was done at a place which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.6,
+      487.07,
+      543.11,
+      505.48
+    ],
+    "text": "was 180-190 feet away from the house of the deceased person. Then how did the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.5,
+      511.3,
+      543.64,
+      529.71
+    ],
+    "text": "accused appellant find a katty at this place. According to him the katty was leaning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.27,
+      535.79,
+      543.45,
+      554.21
+    ],
+    "text": "against the roof of the house of the accused appellant. Then the above position",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.14,
+      560.02,
+      542.85,
+      578.43
+    ],
+    "text": "taken up by the accused appellant appears to be false. He himself contradicted this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.19,
+      584.26,
+      543.25,
+      602.68
+    ],
+    "text": "position later. He, at page 206 of the brief, says that he picked up the katty which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.12,
+      608.5,
+      542.21,
+      626.91
+    ],
+    "text": "was at the place of the incident. He further says that it was leaning against a rock.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.07,
+      632.5,
+      545.94,
+      650.91
+    ],
+    "text": "His own evidence demonstrates that his story of picking up the katty at the scene of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.27,
+      656.5,
+      543.1,
+      674.91
+    ],
+    "text": "offence is false and that he does not want to admit that he brought a katty to this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.97,
+      680.75,
+      543.07,
+      699.16
+    ],
+    "text": "place. What is the reason for this? If he admits that he brought a katty to the scene,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.55,
+      33.99,
+      312.32,
+      49.6
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.02,
+      70.28,
+      544.97,
+      88.56
+    ],
+    "text": "he knows that he can't maintain his story. This is the reason why he did not want",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.6189603805542,
+      13.699999809265137,
+      13.731064796447754
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.53,
+      94.52,
+      384.97,
+      112.8
+    ],
+    "text": "to admit that he brought a katty to the scene of offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.82,
+      118.76,
+      544.79,
+      137.04
+    ],
+    "text": "Indika Premalal' s evidence was not challenged by the accused appellant at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.76,
+      143.26,
+      545.05,
+      161.54
+    ],
+    "text": "the trial. He says when the accused appellant made inquiries about deceased person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.16,
+      167.73,
+      544.68,
+      186.02
+    ],
+    "text": "in the morning of the fateful day, he was armed with a katty and he went towards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.54,
+      192.2,
+      544.31,
+      210.48
+    ],
+    "text": "the place where the deceased person was brewing illicit liquor. When I consider all",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.54,
+      216.44,
+      545.29,
+      234.71
+    ],
+    "text": "these matters the position taken up by the accused appellant that he did not bring a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.77,
+      241.15,
+      545.1,
+      259.44
+    ],
+    "text": "katty to scene of offence and that he picked up a katty at the scene of offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.67,
+      265.64,
+      544.91,
+      283.92
+    ],
+    "text": "appears to be false. The accused appellant told Indika Premalal that that a katty had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.67,
+      289.88,
+      545.28,
+      308.16
+    ],
+    "text": "fallen on Upul's body. Is this true? If a katty fell on his body can there be such a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.36,
+      314.13,
+      543.99,
+      332.41
+    ],
+    "text": "serious injury? The injury on the neck, according to the doctor, had extended from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.3,
+      338.6,
+      544.93,
+      356.88
+    ],
+    "text": "right side to the left side. Part of the spinal code, upper portion of the left lung and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.28,
+      363.09,
+      543.97,
+      381.36
+    ],
+    "text": "the collarbone were cut. The doctor says that the assailant had used a severe a force",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.03,
+      387.56,
+      545.27,
+      405.84
+    ],
+    "text": "to inflict this injury. Eye witness Pradeep Manjula says that the accused appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.07,
+      411.8,
+      545.24,
+      430.07
+    ],
+    "text": "used a heavy force when he attacked the deceased person with the katty. When I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.93,
+      436.05,
+      545.03,
+      454.32
+    ],
+    "text": "consider the medical evidence I hold the view that the claim by the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.95,
+      460.52,
+      545.05,
+      478.8
+    ],
+    "text": "appellant to Indika Premalal that injury took place as a result the katty falling on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.81,
+      485.0,
+      231.44,
+      503.28
+    ],
+    "text": "the deceased person is false.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.86,
+      509.3,
+      544.72,
+      528.69
+    ],
+    "text": "PC Senaratne who went to the scene of offence with IP Gunaratne says",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.159361839294434,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.56,
+      533.73,
+      544.73,
+      552.01
+    ],
+    "text": "that he saw a knife in the hand of the deceased person who was lying fallen on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.5,
+      557.96,
+      544.66,
+      576.24
+    ],
+    "text": "ground. Is this true? PC Senartane admitted that he gave evidence from his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.59,
+      582.01,
+      543.8,
+      601.4
+    ],
+    "text": "memory. IP Gunaratne who went with PC Senaratne did not see this knife.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.159361839294434,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.52,
+      606.2,
+      547.7,
+      624.48
+    ],
+    "text": "Dhammika Herath and Thilakaratne say that when they went to the scene of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.71,
+      630.69,
+      544.92,
+      648.97
+    ],
+    "text": "offence in the morning of the fateful day, they saw a knife fallen three feet away",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.93,
+      654.69,
+      544.82,
+      672.97
+    ],
+    "text": "from the dead body and that the father of the deceased person Pubilis removed it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.63,
+      678.69,
+      545.36,
+      696.97
+    ],
+    "text": "saying that it belonged to his son. If Pubilis removed the knife in the morning how",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.198721885681152
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.7,
+      702.45,
+      544.74,
+      720.73
+    ],
+    "text": "did PC Senaratne see it at 3.30 p.m. in the hand of dead body? Pubilis who was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.609399795532227,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      301.03,
+      32.13,
+      310.1,
+      48.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.5,
+      68.6,
+      541.62,
+      86.88
+    ],
+    "text": "called as a witness by the accused appellant says that when he went to the scene",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.567408561706543,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.19,
+      92.84,
+      542.02,
+      111.12
+    ],
+    "text": "soon after the incident, he did not see anything in the hand of the deceased person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.38,
+      117.08,
+      540.91,
+      135.36
+    ],
+    "text": "who was lying fallen. When I consider all these matters, the evidence of PC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.609399795532227,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.63,
+      141.32,
+      541.93,
+      159.6
+    ],
+    "text": "Senaratne that he saw a knife in the hand of the dead body cannot be accepted and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.13,
+      166.05,
+      541.81,
+      184.33
+    ],
+    "text": "that the claim by Thilakaratne and Dhammika Herath who did not make statements",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.89,
+      190.29,
+      542.12,
+      208.56
+    ],
+    "text": "to the police that there was a knife near the dead body appears to be false. When I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.02,
+      214.77,
+      541.86,
+      233.05
+    ],
+    "text": "consider all these matters, I hold the view that the position taken up by the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.02,
+      239.01,
+      542.26,
+      257.29
+    ],
+    "text": "appellant that he exercised his right of private defence when the deceased person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.88,
+      263.5,
+      541.72,
+      281.77
+    ],
+    "text": "tried to attack him is false and that it does not create a reasonable doubt in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.72,
+      287.73,
+      541.42,
+      306.01
+    ],
+    "text": "prosecution case. I would now like to consider the behaviour of Pradeep who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.78,
+      312.45,
+      541.89,
+      330.72
+    ],
+    "text": "claims to have seen the incident. Soon after he saw the attack on the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.45,
+      336.94,
+      542.01,
+      355.22
+    ],
+    "text": "person by the accused appellant he ran away from the place and told Indika",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.62,
+      361.16,
+      541.51,
+      379.44
+    ],
+    "text": "Premalal about what he saw. This was confirmed by Indika Premalal in his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.53,
+      385.4,
+      541.12,
+      403.68
+    ],
+    "text": "evidence. Thereafter he went and told the father of the deceased person and also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.15,
+      409.89,
+      540.92,
+      428.16
+    ],
+    "text": "told his father about the attack on the deceased person by the accused appellant. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.3,
+      434.12,
+      541.11,
+      452.4
+    ],
+    "text": "even suggested to his father to bring a van and take the deceased person to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.95,
+      458.84,
+      541.69,
+      477.12
+    ],
+    "text": "hospital. This behaviour of Pradeep Manjulais is very much similar to that of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.17,
+      483.33,
+      541.52,
+      501.62
+    ],
+    "text": "normal person. Thus his evidence satisfies the test of probability. Defence counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.05,
+      507.57,
+      540.98,
+      525.84
+    ],
+    "text": "at the trial could not mark any contradiction with his statement made to the police.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.83,
+      531.8,
+      541.35,
+      550.08
+    ],
+    "text": "Thus his evidence satisfies the test of consistency. When I consider all these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.92,
+      556.05,
+      541.43,
+      574.33
+    ],
+    "text": "matters, I am of the opinion that his evidence could be accepted beyond reasonable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.85,
+      580.52,
+      104.11,
+      598.8
+    ],
+    "text": "doubt.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.55,
+      604.52,
+      541.35,
+      622.8
+    ],
+    "text": "According to Indika Premalal' s evidence soon prior to the incident where",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.69,
+      628.76,
+      541.55,
+      647.04
+    ],
+    "text": "the deceased person sustained injuries, the accused appellant armed with a katty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.85,
+      652.76,
+      541.49,
+      671.04
+    ],
+    "text": "came in search of the deceased person and went towards the place where the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.85,
+      676.77,
+      542.09,
+      695.04
+    ],
+    "text": "deceased person brewing illicit liquor. Fifteen minutes later he came back carrying",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.7,
+      700.77,
+      541.34,
+      719.06
+    ],
+    "text": "the katty. The accused appellant told him that the katty fell on the body of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.25,
+      545.3,
+      601.99,
+      604.49
+    ],
+    "text": "IIIi",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.800099849700928,
+      12.699999809265137,
+      16.299999237060547,
+      20.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      597.17,
+      735.89,
+      604.0,
+      772.31
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.84,
+      778.61,
+      600.98,
+      799.09
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -0.83,
+      2.62,
+      20.96,
+      131.64
+    ],
+    "text": "t I 1 I I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.899999618530273,
+      17.70009994506836,
+      20.100000381469727,
+      23.70009994506836,
+      29.600000381469727,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -0.81,
+      170.63,
+      15.2,
+      237.55
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.300000190734863,
+      28.299999237060547,
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      304.42,
+      33.72,
+      313.05,
+      49.06
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.63,
+      69.33,
+      544.41,
+      87.61
+    ],
+    "text": "deceased person. I have earlier pointed out that the above utterance made by him is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.85,
+      93.57,
+      545.21,
+      111.85
+    ],
+    "text": "false. In my view if an accused person utters falsehood soon after a crime alleged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.29234504699707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.22,
+      117.81,
+      544.79,
+      136.08
+    ],
+    "text": "to have been committed by him, he does so in order to hide what he did at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.52,
+      142.53,
+      545.27,
+      160.81
+    ],
+    "text": "scene of offence. Such behaviour of an accused person can be considered against",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.51,
+      166.77,
+      544.28,
+      185.05
+    ],
+    "text": "him. In the present case false utterance made by the accused appellant can be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.662097930908203,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.14,
+      191.25,
+      538.49,
+      209.53
+    ],
+    "text": "considered against him in order to take a decision that he participated in the crime.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.49,
+      215.48,
+      545.26,
+      233.76
+    ],
+    "text": "Learned trial Judge at page 301 of his judgment stated that the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.568216323852539,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.14,
+      239.72,
+      544.49,
+      257.99
+    ],
+    "text": "appellant made a dock statement. Learned Counsel for the accused appellant,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.03,
+      264.21,
+      544.72,
+      282.49
+    ],
+    "text": "harping on this observation, submitted that the learned trial Judge had, therefore,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.79,
+      288.68,
+      544.54,
+      306.96
+    ],
+    "text": "not considered the evidence of the accused appellant in the proper perspective. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.9,
+      313.16,
+      544.46,
+      331.44
+    ],
+    "text": "learned trial Judge at page 316 of the brief referred to the cross examination of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.66,
+      337.65,
+      545.0,
+      355.92
+    ],
+    "text": "accused appellant. This shows that he had considered the fact that the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.64,
+      361.89,
+      544.84,
+      380.17
+    ],
+    "text": "appellant had given evidence. I am therefore unable to agree with the submission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.42,
+      385.89,
+      324.02,
+      404.17
+    ],
+    "text": "of learned counsel for the accused appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.36,
+      410.6,
+      544.22,
+      428.88
+    ],
+    "text": "The learned trial Judge relying on the judgment in the case of Keerthi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.25,
+      435.08,
+      544.15,
+      453.36
+    ],
+    "text": "Bandara Vs Attorney General [2000] 2 SLR 245, had used the statement made by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.695098876953125,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.79,
+      459.57,
+      544.46,
+      477.86
+    ],
+    "text": "the accused appellant in the course of the investigation to the police and not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.85,
+      483.8,
+      544.22,
+      502.08
+    ],
+    "text": "produced at the trial. He had done this in order to discredit the evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.94,
+      508.04,
+      544.68,
+      526.31
+    ],
+    "text": "accused appellant. Is this procedure adopted by the learned trial Judge is correct or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.82,
+      532.04,
+      544.53,
+      550.32
+    ],
+    "text": "within the power of the law. I now advert to this question. In this connection I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.58,
+      556.53,
+      544.07,
+      574.8
+    ],
+    "text": "would like to consider the judgment in Keerthi Bandara V s The Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.23,
+      580.76,
+      544.1,
+      599.05
+    ],
+    "text": "[2000] 2 SLR 245. Head note of the judgment states: \"It is for the Judge to peruse",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.651793479919434,
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.55,
+      605.0,
+      543.62,
+      623.28
+    ],
+    "text": "the Information Book in the exercise of its overall control of the said book and to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.37,
+      629.25,
+      543.87,
+      647.53
+    ],
+    "text": "use it to aid the Court at the inquiry or trial.\" This should not be interpreted to say",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.31,
+      653.25,
+      544.35,
+      671.53
+    ],
+    "text": "that the Judge is empowered to use the statement of the witness which was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.15,
+      677.25,
+      543.92,
+      695.54
+    ],
+    "text": "produced at the trial when writing the judgment. It is pertinent to consider what His",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.04719066619873
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.26,
+      701.25,
+      544.1,
+      719.53
+    ],
+    "text": "Lordship in the above judgment said at page 258. \"We lay it down that it is for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      44.71,
+      25.88,
+      313.43,
+      48.0
+    ],
+    "text": "\u2022 7",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.92,
+      68.37,
+      544.46,
+      86.65
+    ],
+    "text": "Judge to peruse the Information Book in the exercise of his overall control of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.79,
+      92.61,
+      544.69,
+      110.88
+    ],
+    "text": "said book and to use it to aid the Court at the inquiry or trial. When defence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.86,
+      117.09,
+      544.83,
+      135.37
+    ],
+    "text": "counsel spot lights a vital omission, the trial Judge ought to personally peruse the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.79,
+      141.57,
+      545.44,
+      159.86
+    ],
+    "text": "statement recorded in the Information Book, interpret the contents of the statement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.88,
+      165.58,
+      545.27,
+      183.85
+    ],
+    "text": "in his mind and determine whether there is a vital omission or not and thereafter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.87,
+      190.05,
+      544.41,
+      208.33
+    ],
+    "text": "inform the members of the jury whether there is a vital omission or not and his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.42,
+      214.52,
+      544.73,
+      232.8
+    ],
+    "text": "direction on the law in this respect is binding on the members of the jury. Thus",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.73,
+      239.02,
+      544.82,
+      257.3
+    ],
+    "text": "when the defence contends that there is a vital omission which militates against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.61,
+      263.49,
+      544.46,
+      281.78
+    ],
+    "text": "adoption of the credibility of the witness, it is the trial Judge who should peruse the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.42,
+      287.73,
+      545.38,
+      306.0
+    ],
+    "text": "Information Book and decide on that issue.\" Where does he do it? Is it open Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.41,
+      311.96,
+      544.92,
+      330.34
+    ],
+    "text": "or Chambers of the Judge? Is it during trial or after conclusion of trial? It is very",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.005144119262695,
+      14.346925735473633,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.14,
+      336.44,
+      544.17,
+      354.72
+    ],
+    "text": "clear that the Judge has to do the above things in open court during the trial. If it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.38,
+      361.16,
+      544.99,
+      379.44
+    ],
+    "text": "a trial by a judge, same procedure should apply. When the defence counsel spot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.42,
+      385.4,
+      544.59,
+      403.67
+    ],
+    "text": "lights an omission or seeks to mark a contradiction, the trial judge must peruse the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.94,
+      409.88,
+      544.24,
+      428.16
+    ],
+    "text": "Information Book and decide whether the sentence in the statement which the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.93,
+      434.12,
+      544.95,
+      452.4
+    ],
+    "text": "defence counsel intends to mark as a contradiction is in fact found in the statement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.66,
+      458.6,
+      544.63,
+      476.88
+    ],
+    "text": "or the defence counsel is trying to confront the witness with an incomplete",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.85,
+      482.84,
+      544.88,
+      501.12
+    ],
+    "text": "sentence in the statement or decide whether the omission is correct. This is how",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.66,
+      507.56,
+      544.04,
+      525.83
+    ],
+    "text": "court uses the Information Book to aid the trial or inquiry. Thus the trial judge will",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.54,
+      531.79,
+      544.5,
+      550.07
+    ],
+    "text": "have to peruse the Information Book in order to decide the above matters. This",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.69,
+      556.04,
+      547.46,
+      574.33
+    ],
+    "text": "does not mean that he can use statements of witnesses made in the course of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.68,
+      580.28,
+      543.87,
+      598.56
+    ],
+    "text": "investigation to the police officer which had not been produced at the trial as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.567408561706543,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.65,
+      604.52,
+      439.85,
+      622.8
+    ],
+    "text": "evidence. This view is supported by following judicial decisions,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133.34,
+      642.44,
+      531.34,
+      660.72
+    ],
+    "text": "In King Vs Soysa 26 NLR 324 His Lordship Justice Jyawardene held:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.695098876953125,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.3,
+      666.69,
+      521.57,
+      684.97
+    ],
+    "text": "\"A Judge is not entitled to use statements, made to the police and entered in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.7,
+      26.16,
+      313.63,
+      49.27
+    ],
+    "text": "\u2022 8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.38,
+      69.57,
+      474.27,
+      87.85
+    ],
+    "text": "Information Book, for the purpose of corroborating the evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      93.33,
+      150.68,
+      111.61
+    ],
+    "text": "prosecution.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.14,
+      132.44,
+      544.97,
+      150.72
+    ],
+    "text": "In PAULIS APPU v. DON DAVIT. 32 NLR 335 \"Where at the close",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.443855285644531,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.1,
+      156.69,
+      544.82,
+      174.97
+    ],
+    "text": "of a case, the Police Magistrate reserved judgment, noting that he wished to peruse",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.48,
+      181.4,
+      544.82,
+      200.4
+    ],
+    "text": "the information book,- Held, that the use of the information book for the purpose",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.62,
+      205.16,
+      295.33,
+      223.44
+    ],
+    "text": "of arriving at a decision was irregular.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.27,
+      244.05,
+      545.53,
+      262.33
+    ],
+    "text": "In WICKREMESINGHE v. FERNANDO. 29 NLR 403 \"Where a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.177726745605469,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.47,
+      268.28,
+      544.47,
+      286.56
+    ],
+    "text": "Magistrate referred to the Police Information Book for the purpose of testing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.62,
+      292.52,
+      544.47,
+      310.8
+    ],
+    "text": "credibility of a witness by comparing his evidence with a statement by him to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.22,
+      316.77,
+      484.89,
+      335.05
+    ],
+    "text": "Police,-Held, that the use of the Police Information Book was irregular.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      130.21,
+      355.4,
+      543.79,
+      373.68
+    ],
+    "text": "In INSPECTOR OF POLICE, GAMPAHA v. PERERA 33 NLR 69",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.441715240478516,
+      13.612822532653809,
+      13.615086555480957,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.26,
+      379.88,
+      544.76,
+      398.16
+    ],
+    "text": "\"Where, after examining the complainant and his witnesses, the Magistrate cited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.99,
+      404.37,
+      544.59,
+      422.66
+    ],
+    "text": "the Police to produce extracts from the information book for his perusal, before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.2,
+      428.6,
+      474.58,
+      446.88
+    ],
+    "text": "issuing process,- Held; that the use of information book was irregular.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.9,
+      467.24,
+      544.57,
+      485.62
+    ],
+    "text": "In PEIRlS Vs ELIYATAMBY 44 NLR 207 It was held that entries in a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137,
+      13.797621726989746
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.74,
+      491.73,
+      543.99,
+      510.01
+    ],
+    "text": "Police Information Book cannot be used as evidence for the purpose of testing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.66,
+      515.73,
+      205.21,
+      534.01
+    ],
+    "text": "credibility of a witness.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.94,
+      554.12,
+      544.47,
+      572.4
+    ],
+    "text": "Having considered the above legal literature and observation, I hold that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.69,
+      578.36,
+      544.12,
+      596.64
+    ],
+    "text": "in criminal trials court is not entitled to use statements made by witnesses to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.46,
+      602.36,
+      544.41,
+      620.64
+    ],
+    "text": "investigating police officer in the course of the investigation as evidence. A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.36,
+      626.6,
+      543.99,
+      644.87
+    ],
+    "text": "statement made by a witness to the investigating police officer can be used for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.1,
+      650.6,
+      544.63,
+      668.88
+    ],
+    "text": "purpose of contradicting the witnesses but the portion of the statement so produced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.18,
+      674.6,
+      543.87,
+      692.88
+    ],
+    "text": "cannot be used as evidence. Such portion of the statement can be used to decide the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.95,
+      698.6,
+      543.98,
+      716.88
+    ],
+    "text": "credibility of the witness. I further hold that the trial judge, when writing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      597.09,
+      483.86,
+      600.87,
+      502.55
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      596.41,
+      667.29,
+      601.97,
+      731.48
+    ],
+    "text": "\\IfIf",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.300000190734863,
+      11.100000381469727,
+      13.5,
+      15.600000381469727,
+      20.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      46.66,
+      28.89,
+      52.75,
+      35.21
+    ],
+    "text": "il",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.83635139465332
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.82,
+      31.96,
+      309.67,
+      47.71
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.28,
+      68.12,
+      541.71,
+      86.4
+    ],
+    "text": "judgment, is not entitled to use statements made by witnesses or the accused to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.53,
+      92.36,
+      541.67,
+      110.64
+    ],
+    "text": "investigating police officer in the course of the investigation and not produced at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.87,
+      116.84,
+      544.5,
+      135.12
+    ],
+    "text": "the trial. If the trial Judge uses the statement of the accused made in the course of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.346925735473633,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.88,
+      141.33,
+      541.93,
+      159.61
+    ],
+    "text": "the investigation to the investigating officer and not produced at the trial severe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.95,
+      165.57,
+      542.05,
+      183.85
+    ],
+    "text": "prejudice is caused to the accused as he is unaware of the material that will be used",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.02,
+      190.04,
+      541.41,
+      208.32
+    ],
+    "text": "against him. Who knows whether the contents found in the statement had in fact",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.95,
+      214.53,
+      544.5,
+      232.81
+    ],
+    "text": "been said by accused or they were added by the police officer. If the statement of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.64,
+      239.01,
+      541.78,
+      257.29
+    ],
+    "text": "the accused person amounts to a confession can it be used by the trial Judge? The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.76,
+      263.25,
+      542.29,
+      281.53
+    ],
+    "text": "answer is clearly no as the provisions of the Evidence Ordinance completely",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.94,
+      287.72,
+      542.11,
+      306.0
+    ],
+    "text": "prohibit it. The prosecutor is not even permitted to cross examination the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.93,
+      311.96,
+      340.48,
+      330.24
+    ],
+    "text": "using such confessionary parts of the statement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      112.96,
+      336.68,
+      541.75,
+      354.95
+    ],
+    "text": "Having considered the above matters, I hold that the learned trial judge in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.39,
+      360.91,
+      542.09,
+      379.19
+    ],
+    "text": "this case was wrong when he, after examining the statement made by the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.45,
+      385.16,
+      542.07,
+      403.45
+    ],
+    "text": "person in the course of the investigation to the investigating officer and not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.23,
+      409.64,
+      541.3,
+      427.92
+    ],
+    "text": "produced at the trial, decided that the credibility of the accused had been damaged.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.32,
+      434.12,
+      541.38,
+      452.4
+    ],
+    "text": "This shows that he had used the statement of the accused to discredit him. This was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.3,
+      458.61,
+      541.48,
+      476.88
+    ],
+    "text": "a misdirection committed by the learned trial Judge. What would have been the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.0,
+      483.08,
+      542.03,
+      501.36
+    ],
+    "text": "position if he did not use the statement of the accused made to the investigating",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.29234504699707,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.06,
+      507.32,
+      542.06,
+      525.6
+    ],
+    "text": "officer? Could he have accepted the evidence of the accused? I have earlier pointed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.07,
+      531.57,
+      541.18,
+      549.85
+    ],
+    "text": "out that the position taken up the accused appellant in his evidence that he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.07,
+      555.8,
+      541.53,
+      574.08
+    ],
+    "text": "exercised his right of private defence when the deceased person tried to attack him",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.95,
+      580.29,
+      542.08,
+      598.56
+    ],
+    "text": "was false and that his evidence did not create a reasonable doubt in the prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.09,
+      604.28,
+      541.35,
+      622.56
+    ],
+    "text": "case. For the above reasons, I hold that learned trial Judge had to reject the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.320833206176758
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.05,
+      628.52,
+      542.06,
+      646.8
+    ],
+    "text": "evidence of the accused appellant and had to decide that his evidence was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.05,
+      652.76,
+      541.76,
+      671.04
+    ],
+    "text": "capable of creating a reasonable doubt in the prosecution case. Thus the above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.94,
+      676.52,
+      541.98,
+      694.8
+    ],
+    "text": "misdirection committed by the learned trial Judge has not occasioned a miscarriage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.06,
+      700.76,
+      542.0,
+      719.04
+    ],
+    "text": "of justice. I therefore decide to act on the proviso to Section 334 of the Criminal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      596.12,
+      467.93,
+      603.71,
+      505.44
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      595.98,
+      506.41,
+      599.84,
+      525.23
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      -0.2,
+      -12.81,
+      312.16,
+      55.87
+    ],
+    "text": "I \u2022 10",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.634489059448242,
+      12.300000190734863,
+      41.599998474121094
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.86,
+      76.29,
+      542.23,
+      94.57
+    ],
+    "text": "Procedure Code. \"Provided that the court may, notwithstanding that it is of opinion",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.63,
+      100.77,
+      541.6,
+      119.05
+    ],
+    "text": "that the point raised in the appeal might be decided in favour of the appellant,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.03,
+      125.24,
+      541.57,
+      143.52
+    ],
+    "text": "dismiss the appeal if it considers that no substantial miscarriage of justice has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.29234504699707,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.78,
+      149.74,
+      177.56,
+      168.02
+    ],
+    "text": "actually occurred.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.77,
+      173.97,
+      541.81,
+      192.25
+    ],
+    "text": "From the prosecution evidence the defences of sudden fight and/or grave",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.79,
+      198.21,
+      541.73,
+      216.49
+    ],
+    "text": "and sudden provocation and/or private defence do no arise. If such defences arise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.76,
+      222.68,
+      542.14,
+      240.96
+    ],
+    "text": "from the prosecution case, Court has the duty to consider them even if the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.29234504699707
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.8,
+      247.41,
+      526.48,
+      265.69
+    ],
+    "text": "does not raise them. I have earlier rejected the evidence of the accused appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.47,
+      271.65,
+      541.69,
+      289.93
+    ],
+    "text": "When I consider the evidence led at the trial, I hold the view that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.68,
+      295.88,
+      542.08,
+      314.16
+    ],
+    "text": "prosecution has proved the charge of murder beyond reasonable doubt. For the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.8,
+      320.12,
+      541.62,
+      338.39
+    ],
+    "text": "above reasons I affirm the conviction and the death sentence and dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.81,
+      344.6,
+      109.47,
+      362.88
+    ],
+    "text": "appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.38,
+      466.77,
+      179.55,
+      485.05
+    ],
+    "text": "PWDC Jayatilake J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.34,
+      491.01,
+      111.38,
+      509.29
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      339.03,
+      417.8,
+      506.11,
+      436.09
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      335.44,
+      539.72,
+      502.8,
+      558.0
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      594.44,
+      459.86,
+      602.01,
+      487.27
+    ],
+    "text": "f t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      597.57,
+      702.67,
+      600.68,
+      718.06
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      593.86,
+      743.49,
+      607.54,
+      854.37
+    ],
+    "text": "1fI",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      19.0,
+      22.899999618530273,
+      48.099998474121094
+    ]
+  }
+]
