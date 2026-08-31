@@ -1,0 +1,451 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      396.79,
+      169.82
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA.905/98 (F) D.C. Kurunegala 539/L",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      182.16,
+      496.51,
+      255.29
+    ],
+    "text": "Padmasiri Sarath Kumara Karunathilake Godawela, Katupotha Post.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      257.67,
+      390.16,
+      387.41
+    ],
+    "text": "Appellant Vs. S. Sumanadasa Ambagolla, Koswatte Post.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      389.79,
+      404.44,
+      406.25
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.81,
+      70.09,
+      200.88,
+      84.79
+    ],
+    "text": "CA.90S/9SfF}",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.73,
+      119.3,
+      168.79,
+      134.0
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.57,
+      168.73,
+      174.14,
+      183.43
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.77,
+      291.35,
+      182.96,
+      306.55
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.24,
+      316.33,
+      190.62,
+      331.03
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.26,
+      365.38,
+      211.64,
+      380.48
+    ],
+    "text": "K.T. Chitrasiri, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.49340534210205,
+      10.699999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.69,
+      70.33,
+      393.05,
+      85.03
+    ],
+    "text": "D.C. Kurunegala S39/l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.460775375366211,
+      10.699999809265137,
+      11.126788139343262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.46,
+      118.9,
+      321.08,
+      134.0
+    ],
+    "text": "K.T. Chitrasiri, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.49340534210205,
+      10.699999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.03,
+      168.73,
+      477.91,
+      183.43
+    ],
+    "text": "Gamini Hettiarachchi for the Plaintiff-Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.21,
+      192.96,
+      450.44,
+      207.67
+    ],
+    "text": "Manjula Balasooriya for the Sth Defendant-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.673458099365234,
+      10.699999809265137,
+      10.720580101013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.19,
+      217.94,
+      304.72,
+      232.64
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.19,
+      241.25,
+      490.28,
+      257.59
+    ],
+    "text": "lA and 2nd Plaintiff-Appellant are present in Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.643349647521973,
+      10.699999809265137,
+      11.839115142822266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.84,
+      267.38,
+      469.74,
+      282.08
+    ],
+    "text": "SH Defendant-Respondent is present in Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.947273254394531,
+      10.160552024841309,
+      10.643349647521973,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.63,
+      316.33,
+      298.39,
+      331.03
+    ],
+    "text": "29.0S.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.86,
+      415.11,
+      497.11,
+      428.71
+    ],
+    "text": "Counsel for the appellant moves to withdraw this appeal. Counsel for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.943603515625,
+      10.037001609802246
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.71,
+      441.76,
+      496.26,
+      455.36
+    ],
+    "text": "the respondent does no object to this application. Accordingly, the application",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.5,
+      468.64,
+      487.61,
+      482.24
+    ],
+    "text": "for the withdrawal of the appeal is allowed. Appeal is dismissed without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.899999618530273,
+      9.974370956420898,
+      10.037001609802246,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.1,
+      543.13,
+      257.88,
+      555.86
+    ],
+    "text": "Appeal is dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.20870304107666,
+      9.399999618530273,
+      9.423969268798828
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.45,
+      630.4,
+      406.14,
+      644.0
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.8,
+      679.24,
+      145.91,
+      694.99
+    ],
+    "text": "NA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.12437915802002
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.75,
+      808.6,
+      603.15,
+      841.33
+    ],
+    "text": "I !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      20.5
+    ]
+  }
+]

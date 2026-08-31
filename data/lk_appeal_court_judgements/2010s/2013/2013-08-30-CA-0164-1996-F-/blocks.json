@@ -1,0 +1,531 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      87.72,
+      399.04,
+      169.82
+    ],
+    "text": "REPUBLIC OF SRI LANKA. C.A. 164/96(F) D.C. Gampaha Case No: 30520/M",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      201.12,
+      408.04,
+      293.09
+    ],
+    "text": "K.P. Jinadasa \u201cSiri Niwasa\u201d, Doranagoda, Udagampola.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      295.47,
+      490.87,
+      444.07
+    ],
+    "text": "Appellant Vs. K.A.R. Seelin Karunanayake Kaju Hena Road, Doranagoda, Udagampola.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      446.45,
+      476.47,
+      481.87
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.75,
+      77.74,
+      162.21,
+      97.82
+    ],
+    "text": "C.A. 164/96(Fl",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.724949836730957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.03,
+      108.21,
+      103.21,
+      128.29
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.87,
+      136.3,
+      117.94,
+      156.38
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.551159858703613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.09,
+      222.21,
+      128.85,
+      242.29
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.51,
+      250.3,
+      144.44,
+      270.38
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.882651329040527
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.64,
+      35.27,
+      340.61,
+      50.93
+    ],
+    "text": "(",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.91,
+      66.45,
+      440.51,
+      86.53
+    ],
+    "text": "D.C. Gampaha Case No: 30520/M",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.496349334716797,
+      14.5,
+      14.625060081481934,
+      14.640914916992188,
+      15.273802757263184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.3,
+      97.41,
+      343.37,
+      117.49
+    ],
+    "text": "Upaly Abeyrathne,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.513044357299805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.15,
+      122.62,
+      462.43,
+      142.7
+    ],
+    "text": "Gamini Hettiarachchi for the Plaintiff-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.509546279907227,
+      14.832634925842285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.73,
+      156.7,
+      276.28,
+      176.78
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.12,
+      178.77,
+      525.66,
+      198.86
+    ],
+    "text": "M.M.B. Morais for the Defendant-Respondent.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.528671264648438,
+      14.749995231628418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.49,
+      242.62,
+      291.08,
+      262.7
+    ],
+    "text": "30.08.2013",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.103059768676758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.23,
+      274.38,
+      220.46,
+      294.07
+    ],
+    "text": "*******",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      14.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.34,
+      305.25,
+      209.74,
+      325.33
+    ],
+    "text": "Upaly Abeyrathne,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.76,
+      353.49,
+      543.1,
+      373.58
+    ],
+    "text": "Learned counsel for the appellant is on his feet. At this stage",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.525378227233887,
+      14.745275497436523,
+      14.749995231628418,
+      14.882651329040527,
+      14.90533447265625,
+      15.043609619140625,
+      15.15682315826416
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.87,
+      386.75,
+      544.12,
+      406.36
+    ],
+    "text": "learned counsel makes an application to withdraw this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.903590202331543,
+      15.044024467468262,
+      15.14981746673584,
+      15.159808158874512,
+      15.193032264709473,
+      15.199416160583496,
+      15.4771089553833,
+      15.537114143371582,
+      15.858777046203613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.83,
+      419.63,
+      547.23,
+      439.24
+    ],
+    "text": "Learned counsel for the respondent has no objection to this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.915273666381836,
+      14.963733673095703,
+      14.966140747070312,
+      15.26253604888916,
+      15.328801155090332,
+      15.333115577697754,
+      15.3604154586792,
+      15.52338981628418,
+      15.87397289276123
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.68,
+      453.71,
+      548.59,
+      473.32
+    ],
+    "text": "application. Accordingly application for withdrawal is allowed. This",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.835128784179688,
+      14.996313095092773,
+      15.013408660888672,
+      15.11805534362793,
+      15.555458068847656
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.57,
+      492.21,
+      315.16,
+      512.29
+    ],
+    "text": "appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.64037036895752,
+      14.724512100219727,
+      14.809595108032227,
+      15.043609619140625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.13,
+      527.63,
+      552.78,
+      547.24
+    ],
+    "text": "Registrar is directed to send the main record to the relevant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.917343139648438,
+      14.953661918640137,
+      15.103803634643555,
+      15.138751983642578,
+      15.199416160583496,
+      15.349932670593262,
+      15.427117347717285,
+      15.505149841308594,
+      15.555458068847656
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.31,
+      571.17,
+      188.02,
+      591.25
+    ],
+    "text": "District Court .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.3,
+      610.39,
+      262.17,
+      631.3
+    ],
+    "text": "Appeal is dismissed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      15.0,
+      15.161678314208984,
+      15.183917045593262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      337.88,
+      641.73,
+      539.04,
+      661.81
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.5,
+      14.635269165039062,
+      14.749995231628418,
+      14.753533363342285,
+      14.772735595703125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.03,
+      701.98,
+      128.46,
+      722.06
+    ],
+    "text": "Jmr/-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.050789833068848
+    ]
+  }
+]
