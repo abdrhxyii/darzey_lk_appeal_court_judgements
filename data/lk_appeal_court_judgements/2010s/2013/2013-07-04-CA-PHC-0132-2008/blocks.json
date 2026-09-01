@@ -1,0 +1,435 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      119.45,
+      338.88,
+      167.69
+    ],
+    "text": "Case No: PHC/132/2008 PHC Anuradhapura Case No: Revision 75/2006",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      187.73,
+      475.59,
+      235.97
+    ],
+    "text": "Ceylon Cold Stores Company Ltd No :01, Justice Akbar Mawatha, Colombo-02",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      239.12,
+      501.75,
+      372.8
+    ],
+    "text": "Accused- Petitioner-Appellant -Vs- 1. R.A.Prageeth aliyas Jayathilake Public Health Inspector Vijayapura",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      375.8,
+      524.91,
+      475.3
+    ],
+    "text": "Plaintiff- Respondent-Respondent 2. Hon. Attorney General Attorney General's Department Colombo-12",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      478.3,
+      474.63,
+      512.02
+    ],
+    "text": "Respondent- Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.19,
+      69.49,
+      192.89,
+      86.03
+    ],
+    "text": "C.A. (PHC) 132/2008",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.187540054321289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.5,
+      148.7,
+      119.72,
+      165.24
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.497665405273438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.67,
+      201.02,
+      128.6,
+      217.56
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.22,
+      331.82,
+      148.82,
+      348.36
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.02,
+      410.29,
+      162.94,
+      426.83
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.902517318725586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.98,
+      68.53,
+      498.54,
+      85.07
+    ],
+    "text": "P. H.C. Anuradhapura case No:75/06 Rev.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.935822486877441,
+      12.941620826721191,
+      13.135345458984375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.54,
+      147.73,
+      343.2,
+      164.27
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.933666229248047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.78,
+      199.58,
+      507.01,
+      216.12
+    ],
+    "text": "Anil Silva PC. With K Sivaskantharajah and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.42058277130127,
+      12.590092658996582,
+      13.012950897216797,
+      13.148933410644531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.74,
+      225.73,
+      516.39,
+      242.27
+    ],
+    "text": "Ranesh Deviligoda for the Accused-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.589550971984863,
+      12.997170448303223,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.57,
+      278.05,
+      492.66,
+      294.59
+    ],
+    "text": "Nayomi Kahawita SC. for the respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.460949897766113,
+      12.748648643493652,
+      12.852349281311035,
+      12.928055763244629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.62,
+      330.85,
+      316.44,
+      347.39
+    ],
+    "text": "04.07.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.933137893676758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.69,
+      461.41,
+      538.73,
+      477.95
+    ],
+    "text": "Learned President's Counsel for the accused-appellant moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.45706844329834,
+      12.574176788330078,
+      12.735267639160156,
+      12.831733703613281,
+      12.84482192993164,
+      12.928055763244629,
+      12.941381454467773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.74,
+      489.97,
+      539.26,
+      506.51
+    ],
+    "text": "have this appeal withdrawn. Learned State Counsel has no objection to this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.45706844329834,
+      12.613265991210938,
+      12.692304611206055,
+      12.735267639160156,
+      12.739258766174316,
+      12.841634750366211,
+      12.84482192993164,
+      12.856111526489258,
+      12.904006958007812,
+      12.960577964782715,
+      13.309076309204102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.63,
+      518.29,
+      539.52,
+      534.83
+    ],
+    "text": "application. Application for withdrawal is allowed. Appeal is dismissed without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.533036231994629,
+      12.543420791625977,
+      12.564804077148438,
+      12.62741470336914,
+      12.711780548095703,
+      12.77784252166748,
+      12.857172012329102,
+      12.867101669311523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.87,
+      547.82,
+      102.21,
+      564.36
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.685953140258789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.4,
+      622.45,
+      502.0,
+      638.99
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.479544639587402,
+      12.540404319763184,
+      12.630949020385742,
+      12.806680679321289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.67,
+      662.53,
+      100.86,
+      679.07
+    ],
+    "text": "Jmr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.741982460021973
+    ]
+  }
+]

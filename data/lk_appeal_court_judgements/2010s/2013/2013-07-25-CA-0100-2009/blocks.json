@@ -1,0 +1,3818 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      302.07,
+      35.61,
+      310.74,
+      49.9
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.47,
+      71.42,
+      499.39,
+      92.89
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.96,
+      89.66,
+      455.69,
+      111.13
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      256.42,
+      151.05,
+      274.83
+    ],
+    "text": "CA 100/2009",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.89,
+      123.95,
+      398.76,
+      142.36
+    ],
+    "text": "PL Duminda Gunawardene",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.85,
+      140.98,
+      450.63,
+      159.95
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.07,
+      191.87,
+      516.35,
+      226.36
+    ],
+    "text": "Vs The Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      276.08,
+      224.74,
+      433.95,
+      243.71
+    ],
+    "text": "Complainant Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.94,
+      272.38,
+      204.68,
+      290.93
+    ],
+    "text": "HC Gampaha 27 I 2005",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.696209907531738,
+      13.699999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.34,
+      321.7,
+      109.04,
+      340.11
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.26,
+      354.1,
+      116.64,
+      372.51
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.13,
+      402.59,
+      135.76,
+      437.32
+    ],
+    "text": "Argued on Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.5,
+      321.7,
+      291.06,
+      356.19
+    ],
+    "text": "Sisira J de Abrew J & PWDC JayathilakeJ",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.14,
+      354.1,
+      409.72,
+      388.6
+    ],
+    "text": "ASM Perera PC for the accused appellant Vijith Malagoda ASG for the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.2,
+      402.59,
+      324.14,
+      437.31
+    ],
+    "text": "10.5.2013 and 17.5.2013? 25.7.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.43,
+      484.35,
+      203.87,
+      504.99
+    ],
+    "text": "Sisira J de Abrew J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.837212562561035,
+      13.89989185333252,
+      14.887694358825684,
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.04,
+      515.38,
+      542.66,
+      533.79
+    ],
+    "text": "The accused appellant in this case was convicted for raping a girl under sixteen",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.64,
+      539.62,
+      542.27,
+      558.03
+    ],
+    "text": "years of age named Jayakumari Priyadarshani and was sentenced to a term of ten",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.9,
+      563.87,
+      542.58,
+      582.28
+    ],
+    "text": "years rigorous imprisonment (RI), to pay a fine of Rs.5000/- carrying a default",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.96,
+      588.34,
+      542.44,
+      606.75
+    ],
+    "text": "sentence of six months RI. Being aggrieved by the said conviction and the sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.89,
+      612.34,
+      541.78,
+      630.75
+    ],
+    "text": "he has appealed to this court. Facts of this case may be briefly summarized as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.01,
+      636.58,
+      542.15,
+      654.99
+    ],
+    "text": "follows. The accused appellant was a navy officer and his wife was a nurse",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.02,
+      660.34,
+      542.62,
+      678.75
+    ],
+    "text": "attached to a private hospital. Priyadarshani was brought by the accused appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.88,
+      684.34,
+      542.99,
+      702.75
+    ],
+    "text": "to his house to work as a servant. Her duty was, among other things, to look after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.37,
+      35.06,
+      310.07,
+      50.53
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.6,
+      70.67,
+      544.89,
+      89.08
+    ],
+    "text": "the baby of the accused appellant. She was given a room adjoining to the room of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.993494033813477,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.6,
+      95.15,
+      542.14,
+      113.56
+    ],
+    "text": "the couple (the accused appellant and his wife). The baby also sleeps in her room",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.86,
+      119.38,
+      542.62,
+      137.79
+    ],
+    "text": "when the mother is not at home. One day when Priyadarshani was sleeping in her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.6,
+      143.63,
+      541.99,
+      162.03
+    ],
+    "text": "room she felt that her clothes being removed. When she woke up she saw the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.7,
+      168.12,
+      542.97,
+      186.53
+    ],
+    "text": "accused appellant near her. When she shouted the accused appellant kept a pillow",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.72,
+      192.35,
+      542.7,
+      210.78
+    ],
+    "text": "on her face and pressed and as a result of this action she fainted. She found blood",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.76,
+      216.83,
+      542.87,
+      235.24
+    ],
+    "text": "on her clothes when she regained consciousness. The wife of the accused appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.86,
+      241.3,
+      542.28,
+      259.71
+    ],
+    "text": "was not at home as she was on night duty in the hospital. She can't remember the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.52,
+      265.54,
+      542.82,
+      283.95
+    ],
+    "text": "date or month of the incident. But she has told the doctor who examined her on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.56,
+      290.03,
+      542.32,
+      308.44
+    ],
+    "text": "20.11.98 that the date of the incident was 11.1 0.98. The accused appellant, in his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.49,
+      314.26,
+      542.6,
+      332.67
+    ],
+    "text": "evidence, whilst denying the charge of rape, says that he went to naval base at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.54,
+      338.5,
+      542.83,
+      356.91
+    ],
+    "text": "Trincomalee on 1oth of November 1998 (not 11.1 0.98). She says that the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.361562728881836,
+      12.899999618530273,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.74,
+      362.98,
+      542.71,
+      381.39
+    ],
+    "text": "appellant again on a certain day (she can't remember the date again), when his wife",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.6,
+      387.47,
+      542.89,
+      405.88
+    ],
+    "text": "was on night duty, committed sexual intercourse on her against her will. According",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.34,
+      411.71,
+      542.25,
+      430.12
+    ],
+    "text": "to her one week after this incident the accused appellant left for Trincomalee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.86,
+      436.18,
+      542.78,
+      454.6
+    ],
+    "text": "Since the accused appellant has admitted that he, on 1 0.11.98, went to Trincomalee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.37,
+      460.66,
+      543.23,
+      479.07
+    ],
+    "text": "the above date spoken to by Priyadarshani should be 3.11.98. According to her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.72,
+      484.91,
+      542.71,
+      503.31
+    ],
+    "text": "evidence this was the second date that he committed sexual intercourse on her. She",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.69,
+      509.15,
+      542.63,
+      527.56
+    ],
+    "text": "says that the accused appellant committed sexual intercourse on her only on two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.53,
+      533.62,
+      542.95,
+      552.03
+    ],
+    "text": "occasions. The charge against the accused appellant is that he, on 11.10.98 raped",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.14,
+      557.87,
+      542.97,
+      576.28
+    ],
+    "text": "her. He is not charged with two incidents of rape. After the accused appellant left",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.48,
+      581.85,
+      542.62,
+      600.26
+    ],
+    "text": "for Trincomalee, she, on a certain day, (again she can't remember the date) told the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.61,
+      606.33,
+      543.34,
+      624.75
+    ],
+    "text": "wife of the accused appellant about the rape incident. The wife of the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.25,
+      630.34,
+      542.27,
+      648.75
+    ],
+    "text": "appellant thereafter hit her head against the wall and threw her out of the house. As",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.739818572998047,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.26,
+      654.34,
+      543.18,
+      672.75
+    ],
+    "text": "a result of this act she sustained a bleeding injury on her head. On the way she met",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.26,
+      678.1,
+      542.96,
+      696.51
+    ],
+    "text": "a woman on the road and when asked for directions to go to Nittambuwa police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.45,
+      702.11,
+      543.23,
+      720.52
+    ],
+    "text": "station, she (woman) took the girl to her house after advising not to go to the police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.78,
+      35.54,
+      310.48,
+      51.01
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.4,
+      71.14,
+      542.68,
+      89.55
+    ],
+    "text": "station. Priyadarshani stayed in this house for four days and ultimately her parents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.22,
+      95.14,
+      542.97,
+      113.55
+    ],
+    "text": "found her in the woman's house. Priyadarshani and her parents went and lodged a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.23,
+      119.38,
+      542.27,
+      137.79
+    ],
+    "text": "complaint at Gampaha police station on 18.11.98. Thus the estimated date that she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.1,
+      143.87,
+      542.29,
+      162.29
+    ],
+    "text": "was thrown out of the house appears to be 14.11.98. The indictment alleges that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.99,
+      168.35,
+      301.64,
+      186.76
+    ],
+    "text": "accused appellant raped her on 11.1 0.98.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.609434127807617,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.73,
+      192.82,
+      542.84,
+      211.23
+    ],
+    "text": "Doctor Drarmarathne who examined her on 20.11.98 found her hymen",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.85,
+      217.07,
+      542.64,
+      235.47
+    ],
+    "text": "widely open and old scars on the hymen. There were no fresh injuries on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.12,
+      241.56,
+      542.63,
+      259.97
+    ],
+    "text": "hymen. According to the doctor the injuries that relate to the scars would have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.62,
+      265.78,
+      542.77,
+      284.2
+    ],
+    "text": "taken place on any day prior to one month from the date of examination. He further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.92,
+      290.26,
+      542.32,
+      308.67
+    ],
+    "text": "says that she had gone through sexual intercourse on several times. The VOG who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.73,
+      314.75,
+      542.93,
+      333.16
+    ],
+    "text": "examined her too says that her vaginal orifice was widely open and that she had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.88,
+      338.99,
+      542.2,
+      357.41
+    ],
+    "text": "undergone sexual intercourse on several times (pages 170-172). This VOG who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.86,
+      363.46,
+      542.38,
+      381.87
+    ],
+    "text": "was called by the defence said that there were no fresh injuries. According to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.6,
+      387.7,
+      542.62,
+      406.11
+    ],
+    "text": "Priyadarshani the accused appellant committed sexual intercourse only on two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.51,
+      411.95,
+      543.13,
+      430.36
+    ],
+    "text": "occasions and prior to this experience she had not had sexual intercourse. Learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.42,
+      436.18,
+      543.08,
+      454.59
+    ],
+    "text": "prosecuting State Counsel who was aware of this evidence did not ask both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.74,
+      460.89,
+      543.33,
+      479.31
+    ],
+    "text": "doctors, if Priyadarshani had gone through sexual intercourse only twice, whether",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.67,
+      485.39,
+      543.38,
+      503.8
+    ],
+    "text": "symptoms observed by them were compatible with such history. However both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.49,
+      509.63,
+      543.27,
+      528.04
+    ],
+    "text": "doctors expressed the opinion that she had gone through sexual intercourse on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.43,
+      533.86,
+      542.86,
+      552.28
+    ],
+    "text": "several occasions. How can the court decide that two occasions of sexual",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.76,
+      558.11,
+      546.02,
+      576.52
+    ],
+    "text": "intercourse equal to several occasions of sexual intercourse in the absence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.37,
+      582.1,
+      542.5,
+      600.51
+    ],
+    "text": "medical evidence on this point. Dr. Dharmarathne says that injuries relating to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.67,
+      606.59,
+      542.82,
+      625.0
+    ],
+    "text": "scars could have taken place on any day prior to one month of the medical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.24,
+      630.82,
+      543.69,
+      649.23
+    ],
+    "text": "examination. Thus injuries could have taken place even prior to 11.10.98 or prior",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.85,
+      654.82,
+      543.22,
+      673.23
+    ],
+    "text": "to her coming to this house. It is therefore seen that the medical evidence does not",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.44,
+      678.58,
+      543.68,
+      697.0
+    ],
+    "text": "support or confirm or strengthen the evidence of Priyadarshani. Corroboration in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.51,
+      702.35,
+      543.42,
+      720.76
+    ],
+    "text": "case of rape means some independent evidence which confirms or supports or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.91,
+      35.44,
+      309.68,
+      51.05
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.68,
+      71.38,
+      542.06,
+      89.79
+    ],
+    "text": "strengthens the victim's evidence. This view is supported by the judicial decision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.77,
+      95.62,
+      542.19,
+      114.03
+    ],
+    "text": "in the case of Femando Vs Republic 79(ii) NLR page 313 at page 397 wherein",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.32,
+      119.86,
+      541.48,
+      138.27
+    ],
+    "text": "Justice Vaithyalingam held thus: \"In our law of evidence corroboration is a term",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.14,
+      144.57,
+      541.68,
+      162.99
+    ],
+    "text": "which has a special significance. In the conventional sense as used in our courts it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.37,
+      168.83,
+      541.79,
+      187.23
+    ],
+    "text": "means other independent evidence which confirms or supports or strengthens the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.24,
+      193.31,
+      541.68,
+      211.72
+    ],
+    "text": "evidence which is required to be corroborated.\" I have earlier pointed out that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.13,
+      217.55,
+      544.58,
+      235.96
+    ],
+    "text": "medical evidence does not support or confirm or strengthen the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.1,
+      242.02,
+      541.69,
+      260.43
+    ],
+    "text": "Priyadarshani. Therefore it is clear that the medical evidence does not support the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.27,
+      266.26,
+      541.9,
+      284.67
+    ],
+    "text": "evidence of Priyadarshani. But the learned trial judge without giving adequate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.02,
+      290.74,
+      541.66,
+      309.15
+    ],
+    "text": "consideration to the above matters, has wrongly concluded that the medical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.0,
+      314.99,
+      354.42,
+      333.4
+    ],
+    "text": "evidence supported the evidence ofPriyadarshani.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.59,
+      339.7,
+      542.08,
+      358.11
+    ],
+    "text": "It was the position taken up by Priyadarshani in her evidence that after",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.683144569396973,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.96,
+      363.94,
+      541.43,
+      382.35
+    ],
+    "text": "she told the incident of rape to the wife of the accused appellant, she (wife of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.78,
+      388.19,
+      544.58,
+      406.6
+    ],
+    "text": "accused appellant) hit the head of Priyadarshani against the wall and as a result of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.4,
+      412.42,
+      541.4,
+      430.83
+    ],
+    "text": "this assault she sustained a bleeding injury on her head. She, in her evidence, does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.66,
+      437.38,
+      541.31,
+      455.79
+    ],
+    "text": "not give the date of this assault. But the estimated date, as I pointed out earlier, is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.63,
+      461.38,
+      541.75,
+      479.8
+    ],
+    "text": "14.11.98. Did the doctor who examined her on the 20th of November find any",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.01530647277832,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.8,
+      486.09,
+      544.34,
+      504.51
+    ],
+    "text": "injury on the head? This question has to be answered in the negative. Then part of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.42,
+      510.1,
+      432.68,
+      528.51
+    ],
+    "text": "her evidence becomes false. I therefore begin to doubt her story.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.38,
+      534.58,
+      541.16,
+      552.99
+    ],
+    "text": "She was in the house of the woman whom she met on the road from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.42,
+      558.82,
+      542.03,
+      577.23
+    ],
+    "text": "14.11.98 to 18.11.98. One would expect her to go to the hospital during this period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.3,
+      583.3,
+      541.56,
+      601.71
+    ],
+    "text": "as she was suffering from an injury on the head. But she did not do so. During this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.22,
+      607.3,
+      541.08,
+      625.71
+    ],
+    "text": "period she was free to go to the police station to lodge a complaint on two matters.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.06,
+      631.54,
+      540.65,
+      649.95
+    ],
+    "text": "One is against the wife of the accused appellant for causing an injury on her head.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.82,
+      655.54,
+      540.47,
+      673.95
+    ],
+    "text": "The other one is against the accused appellant for raping her. But she did not do so.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.798250198364258,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.8,
+      679.54,
+      540.75,
+      697.95
+    ],
+    "text": "It must be considered whether it was possible for her to go to the police station as",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.480392456054688,
+      13.61683464050293,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.0,
+      703.31,
+      541.17,
+      721.72
+    ],
+    "text": "she was an outsider to this area. But the woman whom she met on the road has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      303.92,
+      38.02,
+      312.4,
+      53.1
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.4,
+      72.83,
+      545.02,
+      91.24
+    ],
+    "text": "given her shelter during this period (from 14.11.98 to 18.11.98). Thus she could",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.25,
+      97.54,
+      544.62,
+      115.95
+    ],
+    "text": "have easily obtained her assistance to go to the police station and the hospital. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.03,
+      121.54,
+      544.71,
+      139.96
+    ],
+    "text": "name of this woman never surfaced at the trial. When I consider these matters",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.06,
+      146.02,
+      544.57,
+      164.43
+    ],
+    "text": "serious doubts are created on the truthfulness of her story. It is interestingto note",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      13.845080375671387,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.01,
+      170.26,
+      544.78,
+      188.67
+    ],
+    "text": "the evidence of the wife of the accused appellant on this point. She says when she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.12,
+      194.51,
+      544.18,
+      212.91
+    ],
+    "text": "came home on 14.11.98 around 2.30 p.m. she found Priyadarshani missing from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.27,
+      218.75,
+      544.99,
+      237.16
+    ],
+    "text": "home and her small child sleeping. After searching for the girl, she on 15.11.98",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.38,
+      243.7,
+      543.97,
+      262.11
+    ],
+    "text": "lodged a complaint at W eeragula police station about Priyadarshani leaving home.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.16,
+      267.95,
+      545.64,
+      286.36
+    ],
+    "text": "lP Nimal Rathnayake from W eeragula police station, in his evidence, confirmed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.01,
+      292.42,
+      545.05,
+      310.83
+    ],
+    "text": "the making of the complaint by the wife of the accused appellant. On 18.11.98",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.07,
+      316.66,
+      545.42,
+      335.07
+    ],
+    "text": "parents of Priyadarshani with Priyadarshani came to the house of the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.13,
+      340.91,
+      545.02,
+      359.31
+    ],
+    "text": "appellant and she with them went to W eeragula police station. She withdrew the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.13,
+      365.38,
+      544.9,
+      383.8
+    ],
+    "text": "complaint as she had found the girl. lP Nimal Rathnayake confirmed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.01,
+      390.09,
+      545.84,
+      408.51
+    ],
+    "text": "withdrawal of the complaint and further stated that Priyadarshani was handed over",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.75,
+      414.34,
+      544.99,
+      432.75
+    ],
+    "text": "to her parents after obtaining a statement of her father. Did the complaint of rape",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.08,
+      438.59,
+      545.47,
+      457.0
+    ],
+    "text": "surface at Weeragula police station? According to lP Nimal Ratnayake no such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.9,
+      463.06,
+      548.18,
+      481.47
+    ],
+    "text": "complaint had surfaced at Weeragula police station. If there was an incident of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.78,
+      487.31,
+      545.11,
+      505.72
+    ],
+    "text": "rape as alleged by Priyadarshani on 11.10.98 and in the month of November (she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.91,
+      511.55,
+      545.28,
+      529.96
+    ],
+    "text": "does not give a date and estimated date is 3.11.98) why didn't her parents make",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.09,
+      536.03,
+      544.92,
+      554.44
+    ],
+    "text": "such a complaint to W eeragula police station. This question remains unanswered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.02,
+      560.26,
+      545.59,
+      578.67
+    ],
+    "text": "At this stage one must not forget that Priyadrashani was handed over to her parents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.84,
+      584.51,
+      545.29,
+      602.92
+    ],
+    "text": "by Weeragula police after obtaining a statement from her father. Thus if there was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.163999557495117
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.66,
+      608.51,
+      545.12,
+      626.92
+    ],
+    "text": "an incident of rape isn't it natural for him to make the complaint in the same",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.84,
+      632.74,
+      545.51,
+      651.15
+    ],
+    "text": "statement to the effect that his daughter had been raped. This behaviuor of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.713781356811523,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.74,
+      656.74,
+      545.57,
+      675.15
+    ],
+    "text": "Priyadarshani and her parents creates a serious doubt in her story. Although they",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.67,
+      680.98,
+      545.32,
+      699.39
+    ],
+    "text": "did not make a complaint of rape to Weeragula Police station, later around 8.40",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.58,
+      704.74,
+      545.27,
+      723.15
+    ],
+    "text": "p.m. Priyadarshani made a complaint of rape to Gampaha police station against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302.04,
+      39.14,
+      310.96,
+      53.84
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.46,
+      73.55,
+      542.5,
+      91.96
+    ],
+    "text": "accused appellant. This was the 1st complaint made against the accused appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.194055557250977,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.26,
+      98.26,
+      543.28,
+      116.67
+    ],
+    "text": "IP Nimal Senanayake from Gampaha police station, in his evidence, says that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.762849807739258,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.24,
+      122.51,
+      543.29,
+      140.91
+    ],
+    "text": "according to this complaint she had been raped by the accused appellant only on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.1,
+      146.99,
+      543.19,
+      165.41
+    ],
+    "text": "18.11.98. At this stage it is pertinent to note that the demand made by the parents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.99,
+      171.23,
+      542.37,
+      189.64
+    ],
+    "text": "ofPriyadarshani on 18.11.98. According to the wife ofthe accused appellant, they,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.046449661254883
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.97,
+      195.47,
+      542.02,
+      213.88
+    ],
+    "text": "after coming from Weeragula police station, demanded Rs.50,000/- from her.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.08,
+      219.94,
+      543.3,
+      238.35
+    ],
+    "text": "When it was refused, father of Priyadarshani had said he knew how to get",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.81,
+      244.67,
+      542.95,
+      263.08
+    ],
+    "text": "Rs.100,000/- It appears from the evidence that a complaint of rape had been made",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.845080375671387,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.76,
+      268.91,
+      543.23,
+      287.32
+    ],
+    "text": "only after their demand for Rs.50,000/- was refused. Question has to be asked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.73,
+      293.15,
+      545.69,
+      311.56
+    ],
+    "text": "again as to why a complaint of rape was not made at Weeragula police station if",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.163999557495117,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.92,
+      317.38,
+      530.54,
+      335.79
+    ],
+    "text": "she was raped either on 11.10.98 or 18.11.98. This question remains unanswered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.76,
+      341.86,
+      542.81,
+      360.27
+    ],
+    "text": "Could the accused appellant have committed any act of sexual",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.76,
+      366.35,
+      543.04,
+      384.76
+    ],
+    "text": "intercourse on Priyadarshnai on 18.11.98? The answer is obviously no because on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.35,
+      390.82,
+      542.5,
+      409.23
+    ],
+    "text": "this day she was not in the house accused appellant. This clearly demonstrates the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.48,
+      415.06,
+      543.34,
+      433.48
+    ],
+    "text": "falsity of the story of Priyadarshani. From the above evidence one important matter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.26,
+      439.3,
+      543.24,
+      457.71
+    ],
+    "text": "could be noted. What is it? That is Priyadarshani even in the company of her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.19,
+      463.79,
+      543.15,
+      482.2
+    ],
+    "text": "parents did not make a complaint of rape to Weeragula police station on 18.11.98. I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.18,
+      488.26,
+      542.9,
+      506.67
+    ],
+    "text": "begin to doubt her story seriously when I consider these matters. In my view her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.22,
+      512.5,
+      542.56,
+      530.91
+    ],
+    "text": "story does not satisfy the test of probability. What prompted Priyadarshani, who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.27,
+      536.98,
+      542.72,
+      555.39
+    ],
+    "text": "did not make a complaint of rape to Weeragula Police station on 18.11.98, to make",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.03,
+      561.22,
+      542.27,
+      579.63
+    ],
+    "text": "a complaint of rape to Gampaha police station in the night of 18.11.98? Was it the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.25,
+      585.47,
+      542.82,
+      603.88
+    ],
+    "text": "failure of her parents to obtain money from the wife of the accused appellant? The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.28,
+      609.47,
+      442.49,
+      627.88
+    ],
+    "text": "learned trial judge has unfortunately not considered these matters.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123.77,
+      633.7,
+      543.13,
+      652.11
+    ],
+    "text": "Why didn't Priyadarshani or her parents make a complaint to Weeragula",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.44,
+      657.7,
+      542.57,
+      676.11
+    ],
+    "text": "police station on 18.11.98 when the Weeragula police handed over to her parents at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.85,
+      681.7,
+      542.82,
+      700.11
+    ],
+    "text": "Weeragula police station and later decided to lodge a compliant of rape at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.53,
+      705.71,
+      542.64,
+      724.12
+    ],
+    "text": "Gampaha police station in the night alleging that she was raped on 18.11.98? Is it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      591.14,
+      -8.23,
+      603.34,
+      25.3
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      301.32,
+      34.69,
+      309.95,
+      50.03
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.66,
+      70.52,
+      541.98,
+      88.8
+    ],
+    "text": "because that there was no incident of rape by the accused appellant and that they",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.61,
+      94.76,
+      541.75,
+      113.04
+    ],
+    "text": "were trying to take advantage of a previous sexual assault by someone? In this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.73,
+      119.01,
+      541.34,
+      137.29
+    ],
+    "text": "connection it is relevant to consider the short history given by her to Dr.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.32,
+      143.01,
+      542.39,
+      161.29
+    ],
+    "text": "Dharmarathne. She has \u00b7told Dr. Dharmarathne that Mudalali in the \u00b7house on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.59,
+      167.73,
+      541.58,
+      186.01
+    ],
+    "text": "11.10.98 raped her. Who is this Mudalali? Priyadarshani says that she knows the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.25,
+      192.2,
+      542.41,
+      210.48
+    ],
+    "text": "accused appellant as a person who works in the Army (the accused appellant is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.14,
+      216.44,
+      541.91,
+      234.71
+    ],
+    "text": "navy officer). Thus can Priyadarshani say that the man in the house is a mudalali?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.5,
+      240.93,
+      542.54,
+      259.21
+    ],
+    "text": "Certaainly she could have referred to the accused appellant as Army Mahaththaya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.24,
+      265.17,
+      542.53,
+      283.44
+    ],
+    "text": "(gentleman in the Army). The said reference in the short history when considered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.14,
+      289.4,
+      477.6,
+      307.68
+    ],
+    "text": "with the observation that I have made earlier creates doubts in her story.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.17,
+      313.64,
+      542.4,
+      331.92
+    ],
+    "text": "There is another matter that should be considered. Priyadarshani says that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.21,
+      338.37,
+      541.25,
+      356.65
+    ],
+    "text": "she was raped twice. But to the doctor she has told that she was raped on 11.1 0.98.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.48277759552002,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.3,
+      362.6,
+      541.93,
+      380.88
+    ],
+    "text": "In the short history she has not stated that she was raped twice. There is also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.25,
+      386.84,
+      541.29,
+      405.11
+    ],
+    "text": "another matter that should be considered when deciding the truthfulness her story.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.06,
+      411.33,
+      541.47,
+      429.61
+    ],
+    "text": "If she was raped on 18.11.98 as alleged by her in her first complaint, Dr.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.198721885681152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.84,
+      435.57,
+      542.36,
+      453.84
+    ],
+    "text": "Dharmaratne who examined her on 20.11.98 would have found fresh injuries. But",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.68,
+      460.06,
+      541.42,
+      478.34
+    ],
+    "text": "no such fresh injuries were found. This shows that her stand taken up in the first",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.02,
+      484.52,
+      542.4,
+      502.81
+    ],
+    "text": "complaint is false. I have earlier stated that there are serious doubts in her story. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.79,
+      508.52,
+      541.6,
+      526.8
+    ],
+    "text": "a case of rape if the story of the prosecutrix is false, no useful purpose will be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633,
+      14.469915390014648
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.96,
+      532.77,
+      542.16,
+      551.05
+    ],
+    "text": "served by looking for corroboration because corroborative evidence cannot make a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.76,
+      557.24,
+      541.74,
+      575.52
+    ],
+    "text": "false story a truthful one. This observation, in my view, applies to the facts of this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.54,
+      581.0,
+      97.31,
+      599.28
+    ],
+    "text": "case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.9,
+      605.23,
+      542.03,
+      623.51
+    ],
+    "text": "I have earlier pointed out that her evidence had not been supported by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.68,
+      629.47,
+      542.55,
+      647.75
+    ],
+    "text": "medical evidence. Further her evidence has not been corroborated by any other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.55,
+      653.47,
+      541.73,
+      671.76
+    ],
+    "text": "evidence. In a case of rape it is dangerous to convict an accused on an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.45,
+      677.48,
+      544.82,
+      695.76
+    ],
+    "text": "uncorroborated testimony of the woman. One of the reasons is that the charge of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      301.95,
+      37.72,
+      310.8,
+      53.47
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.1,
+      73.3,
+      543.07,
+      91.71
+    ],
+    "text": "rape is the easiest charge that a woman can make against man in this world. There",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.98,
+      97.54,
+      455.1,
+      115.95
+    ],
+    "text": "are reasons for this contention. Some of them may be set out below:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.16,
+      122.03,
+      543.17,
+      140.44
+    ],
+    "text": "1. A woman can take advantage of a previous sexual intercourse which she had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.630494117736816,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.38,
+      146.5,
+      542.98,
+      164.91
+    ],
+    "text": "with somebody in order to grab money from the man against whom the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.49,
+      170.75,
+      542.73,
+      189.15
+    ],
+    "text": "allegation was being made when he had not done any sexual act to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.6,
+      195.24,
+      151.75,
+      213.65
+    ],
+    "text": "woman.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.56,
+      219.23,
+      543.61,
+      237.64
+    ],
+    "text": "2. A woman who willingly engages in sexual intercourse with a man can later",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.622052192687988,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.76,
+      243.94,
+      543.91,
+      262.35
+    ],
+    "text": "claim it to be a case of rape when the sexual act is seen by a third party or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.38,
+      268.19,
+      481.28,
+      286.59
+    ],
+    "text": "when a close relation comes to know about the sexual intercourse.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.72,
+      292.42,
+      543.6,
+      310.83
+    ],
+    "text": "3. A woman who willingly engages in sexual intercourse with a man can later",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.62357234954834,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.51,
+      316.9,
+      543.11,
+      335.31
+    ],
+    "text": "claim that sexual intercourse was committed against her will when the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.43,
+      341.38,
+      438.43,
+      359.79
+    ],
+    "text": "promise given prior to sexual intercourse was not fulfilled.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110.3,
+      365.87,
+      469.95,
+      384.29
+    ],
+    "text": "In my view ground No.1 above applies to the facts of this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.16,
+      390.1,
+      543.49,
+      408.51
+    ],
+    "text": "These are some of the reasons why it is dangerous to convict an accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.22,
+      414.34,
+      543.35,
+      432.75
+    ],
+    "text": "in a case of rape on an uncorroborated testimony of the woman. But if she speaks",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.163999557495117,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.6,
+      438.83,
+      543.32,
+      457.24
+    ],
+    "text": "the truth and gives convincing evidence, court can convict the accused on an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.87,
+      463.54,
+      543.38,
+      481.96
+    ],
+    "text": "uncorroborated testimony of the victim in a case of rape. This view is supported by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.84,
+      487.78,
+      543.35,
+      506.19
+    ],
+    "text": "the judgment of Justice Ranjith Dheerarathne in the case of Sunil and others Vs the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.76,
+      512.26,
+      542.81,
+      530.67
+    ],
+    "text": "The Attorney General [1986] 1 SLR 230 wherein His Lordship held thus: \"It is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.651793479919434,
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.85,
+      536.26,
+      543.72,
+      554.67
+    ],
+    "text": "very dangerous to act on the uncorroborated testimony of a woman victim of a sex",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.76,
+      560.5,
+      543.58,
+      578.91
+    ],
+    "text": "offence but if her evidence was convincing such evidence could be acted on even",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.25,
+      584.74,
+      257.0,
+      603.15
+    ],
+    "text": "in the absence of corroboration.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.8,
+      608.99,
+      525.09,
+      627.39
+    ],
+    "text": "The accused appellant in this case, in his evidence, denied the charge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110.28,
+      656.98,
+      546.74,
+      675.39
+    ],
+    "text": "I have earlier held that there were senous doubts in the story of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.58,
+      680.98,
+      542.97,
+      699.39
+    ],
+    "text": "Priyadarshani and her story did not satisfy the test of probability. In my view it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.85,
+      704.99,
+      543.89,
+      723.4
+    ],
+    "text": "very dangerous to act on her evidence. When I consider the above matters, I hold",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.55,
+      34.92,
+      310.17,
+      50.26
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.6,
+      70.43,
+      542.69,
+      88.84
+    ],
+    "text": "the view that the prosecution has not proved its case beyond reasonable doubt. I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.61,
+      94.68,
+      542.67,
+      113.08
+    ],
+    "text": "therefore set aside the conviction and the sentence and acquit the accused appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.74,
+      118.43,
+      264.67,
+      136.84
+    ],
+    "text": "of the charge levelled against him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.14,
+      143.41,
+      160.69,
+      161.12
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.86,
+      264.82,
+      178.18,
+      283.23
+    ],
+    "text": "PWDC Jayathilake",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.82,
+      288.82,
+      111.84,
+      307.23
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      296.79,
+      241.06,
+      464.17,
+      259.47
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      296.55,
+      338.75,
+      466.74,
+      357.16
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  }
+]

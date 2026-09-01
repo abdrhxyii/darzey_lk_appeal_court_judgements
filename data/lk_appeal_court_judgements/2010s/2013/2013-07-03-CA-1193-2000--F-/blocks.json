@@ -1,0 +1,652 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      109.7,
+      72.68,
+      506.29,
+      90.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      91.04,
+      456.37,
+      159.77
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA CA.NO. 1193/2000 (f) DC Case No. 5413/L",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      162.89,
+      442.71,
+      203.87
+    ],
+    "text": "Thajudeen Ahmed Dhahlan No. 16, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      206.81,
+      373.2,
+      238.01
+    ],
+    "text": "Plaintiff -Vs-",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      239.15,
+      449.91,
+      278.24
+    ],
+    "text": "1. Kukulage Upasena Perera No. 139, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      5.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      279.95,
+      449.91,
+      320.96
+    ],
+    "text": "2. Kukulage Sanni Perera No. 139, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      323.06,
+      394.44,
+      349.04
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      350.12,
+      465.15,
+      397.94
+    ],
+    "text": "Kukulage Wimalasena Perera of No. 13, Anguruwatota Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      8.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      401.02,
+      431.31,
+      432.1
+    ],
+    "text": "Added-Defendant AND",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      433.06,
+      449.91,
+      471.1
+    ],
+    "text": "1. Kukulage Upasena Perera No. 139, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      472.81,
+      449.91,
+      513.94
+    ],
+    "text": "2. Kukulage Sanni Perera No. 139, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      514.66,
+      461.19,
+      534.58
+    ],
+    "text": "Defendants-Appellants",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      3.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      535.42,
+      465.15,
+      572.53
+    ],
+    "text": "Kukulage Wimalasena Perera No. 13, Anguruwatota Road, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      3.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      573.49,
+      398.64,
+      611.53
+    ],
+    "text": "(correct address 95/10, Gracelandwatta, Horana)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      619.45,
+      492.27,
+      650.65
+    ],
+    "text": "Added-Defendant-Appellant -Vs-",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      651.76,
+      442.71,
+      690.97
+    ],
+    "text": "Thajudeen Ahmed Dhahlan of No. 16, Ratnapura Road, Horana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      5.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      692.44,
+      447.51,
+      715.33
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.43,
+      92.86,
+      218.17,
+      109.16
+    ],
+    "text": "C.A 1193/2000 (F).",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.271140098571777,
+      12.662949562072754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.5,
+      135.04,
+      134.66,
+      151.85
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.66,
+      177.52,
+      146.0,
+      194.33
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.915109634399414
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.05,
+      306.89,
+      225.56,
+      323.7
+    ],
+    "text": "Argued & decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.739330291748047,
+      12.867706298828125,
+      13.163834571838379
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.06,
+      350.46,
+      233.68,
+      366.43
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.879140853881836,
+      11.890219688415527,
+      12.115113258361816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.7,
+      93.43,
+      532.43,
+      109.4
+    ],
+    "text": "D.C Horana 5413/Eiectment",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.91662883758545,
+      11.978185653686523,
+      12.277608871459961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.46,
+      135.04,
+      403.83,
+      151.85
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.716214179992676,
+      12.846881866455078,
+      13.658075332641602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.74,
+      177.52,
+      515.25,
+      210.65
+    ],
+    "text": "Rohana Jayawardena for the Defendant-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.671248435974121,
+      12.800800323486328,
+      13.091080665588379,
+      13.119634628295898,
+      13.248653411865234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.74,
+      226.48,
+      521.23,
+      259.85
+    ],
+    "text": "A.L.M. Hidayathulla with S.F.L. Haneem, A.J.M. Thahim for the Plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.784597396850586,
+      12.915743827819824,
+      12.970793724060059,
+      13.045523643493652,
+      13.119874954223633,
+      13.206836700439453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.66,
+      259.36,
+      352.44,
+      276.17
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.861878395080566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.58,
+      306.76,
+      351.27,
+      323.43
+    ],
+    "text": "03.07 .. 2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.961963653564453,
+      12.997211456298828
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.73,
+      406.24,
+      533.21,
+      423.05
+    ],
+    "text": "Learned counsel for the Defendant-Appellant makes an application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.802719116210938,
+      12.840995788574219,
+      12.903593063354492,
+      13.062366485595703,
+      13.119634628295898,
+      13.145252227783203,
+      13.59325122833252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.77,
+      434.57,
+      533.68,
+      451.38
+    ],
+    "text": "to withdraw this appeal. Learned counsel for the Plaintiff- Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.837560653686523,
+      12.860262870788574,
+      12.916622161865234,
+      12.965353012084961,
+      13.027594566345215,
+      13.153014183044434,
+      13.206836700439453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.02,
+      463.36,
+      532.3,
+      480.17
+    ],
+    "text": "has no objection to this application. Accordingly, application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.7023344039917,
+      12.75153923034668,
+      12.7725191116333,
+      12.802719116210938,
+      12.944782257080078,
+      13.153014183044434,
+      13.41597843170166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.78,
+      491.92,
+      533.58,
+      508.73
+    ],
+    "text": "withdrawal is allowed. This appeal is dismissed without costs. Registrar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.744620323181152,
+      12.813884735107422,
+      12.8334379196167,
+      12.880477905273438,
+      12.882972717285156,
+      13.00029182434082,
+      13.024209022521973,
+      13.064537048339844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.93,
+      520.24,
+      497.72,
+      537.05
+    ],
+    "text": "is directed to send the main record to the District Court of Horana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.7023344039917,
+      12.813884735107422,
+      12.823616027832031,
+      12.836186408996582,
+      12.84251594543457,
+      12.849577903747559,
+      12.850706100463867,
+      13.119634628295898,
+      13.122179985046387,
+      13.133553504943848,
+      13.214896202087402
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.42,
+      592.14,
+      507.34,
+      608.11
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.887438774108887,
+      11.938608169555664,
+      11.99657154083252,
+      12.078433990478516,
+      12.283040046691895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.77,
+      634.72,
+      128.47,
+      651.53
+    ],
+    "text": "Vkg/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.947654724121094
+    ]
+  }
+]

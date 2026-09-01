@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      173.81
+    ],
+    "text": "C.A. (PHC) No. 128/2007 H.C. Colombo No.HCRA/786/05",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      176.81,
+      392.16,
+      310.52
+    ],
+    "text": "S.P. Nihal Rohitha No.2/2, Rodney Street, Borella, Colombo 08.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      313.52,
+      420.03,
+      378.92
+    ],
+    "text": "Appellant -Vs-",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      381.92,
+      551.45,
+      481.42
+    ],
+    "text": "K.H. Perera Municipal Engineering Department (Planning) Colombo Municipal Council, Town hall, Colombo 07.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      484.54,
+      434.13,
+      516.61
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.91,
+      69.55,
+      485.79,
+      86.63
+    ],
+    "text": "C.A. (PHC) No. 128/2007 H.C. Colombo No.HCRA/786/05",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647087097167969,
+      12.764451026916504,
+      12.800000190734863,
+      13.052412033081055,
+      13.398555755615234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.26,
+      121.87,
+      351.51,
+      138.95
+    ],
+    "text": "BEFORE A.W.A.Salam, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.766045570373535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.19,
+      174.43,
+      475.51,
+      191.51
+    ],
+    "text": "COUNSEL Appellant absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.880000114440918,
+      13.184524536132812,
+      13.394590377807617,
+      13.434189796447754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.91,
+      200.6,
+      419.74,
+      217.68
+    ],
+    "text": "M. Silva for the respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.317142486572266,
+      12.800000190734863,
+      13.126535415649414,
+      13.223349571228027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.26,
+      252.67,
+      349.77,
+      270.24
+    ],
+    "text": "DECIDED ON 23rd July, 2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.716678619384766,
+      12.800000190734863,
+      13.061038970947266,
+      13.169370651245117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.77,
+      305.06,
+      265.71,
+      320.53
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.429091453552246
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.1,
+      332.48,
+      201.39,
+      349.24
+    ],
+    "text": "A.W.A.Salam, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.252588272094727,
+      12.76872730255127
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.77,
+      396.2,
+      528.77,
+      413.28
+    ],
+    "text": "Appellant absent and unrepresented. Notice has been issued on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.880000114440918,
+      13.0410795211792,
+      13.08845043182373,
+      13.184524536132812,
+      13.202278137207031,
+      13.353436470031738,
+      13.434189796447754,
+      13.601317405700684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.34,
+      424.52,
+      528.77,
+      441.6
+    ],
+    "text": "him by registered post directing the deposit of brief fees. As the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.881540298461914,
+      12.885415077209473,
+      12.937660217285156,
+      12.97110652923584,
+      12.97327709197998,
+      12.986984252929688,
+      13.087325096130371,
+      13.1683988571167,
+      13.223349571228027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.22,
+      452.84,
+      530.4,
+      469.92
+    ],
+    "text": "appellant has failed to respond to the notice, for failure to deposit brief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802749633789062,
+      12.929890632629395,
+      12.97110652923584,
+      13.094657897949219,
+      13.149089813232422,
+      13.223349571228027,
+      13.522035598754883
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.22,
+      481.15,
+      272.4,
+      498.23
+    ],
+    "text": "fees, this appeal is rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.915182113647461,
+      13.10306167602539,
+      13.25699234008789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.44,
+      557.71,
+      507.08,
+      574.79
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.833057403564453,
+      12.976385116577148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.19,
+      596.27,
+      141.83,
+      612.52
+    ],
+    "text": "Kwkj=",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.600428581237793
+    ]
+  }
+]

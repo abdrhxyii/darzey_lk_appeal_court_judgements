@@ -1,0 +1,604 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      171.29
+    ],
+    "text": "C.A. Application No; 1094/2006",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      174.41,
+      521.91,
+      256.76
+    ],
+    "text": "Questnet International Limited (Formally known as Gold quest International Limited) 5th Floor, Mass Mutual tower, No:38, Gloucester Road, Wanchai Honkong.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      259.88,
+      449.67,
+      513.22
+    ],
+    "text": "PETITIONER -Vs- 1. The Monetary Board of Sri Lanka, Cenrtral Bank of Sri Lanka No: 30,Janadhiapathi Mawatha, Colombo 01. 2. Mr. Ajith Niward Kabral, the Govener of the Central Bank and the Monetary Board of Sri Lanka, Cenrtral Bank of Sri Lanka No: 30,Janadhiapathi Mawatha, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      516.22,
+      297.96,
+      547.3
+    ],
+    "text": "and 10 others",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      550.42,
+      377.16,
+      564.46
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.71,
+      94.96,
+      135.51,
+      108.56
+    ],
+    "text": "C.A. 1094/2006",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.517354965209961,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.98,
+      221.67,
+      100.32,
+      235.27
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.21,
+      298.23,
+      111.72,
+      311.83
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.47,
+      323.67,
+      119.13,
+      337.27
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.836395263671875,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.73,
+      424.71,
+      151.52,
+      438.31
+    ],
+    "text": "Anil Gooneratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.57,
+      94.96,
+      247.0,
+      108.56
+    ],
+    "text": "Writ Application",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.016712188720703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.37,
+      145.59,
+      266.27,
+      159.19
+    ],
+    "text": "Anil Gooneratne,J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.62,
+      171.03,
+      272.78,
+      184.63
+    ],
+    "text": "Deepali Wijesundera,J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.62,
+      221.91,
+      413.04,
+      235.51
+    ],
+    "text": "Faiz Musthapa PC. with A. Hussain for the Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.987496376037598,
+      9.42705249786377,
+      9.480721473693848,
+      9.899999618530273,
+      10.037001609802246
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.13,
+      247.35,
+      437.55,
+      260.95
+    ],
+    "text": "A. Obeysekera DSG.with Mr. Jayasinghe SC. Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.96852970123291,
+      9.28734302520752,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.04,
+      323.67,
+      223.68,
+      337.27
+    ],
+    "text": "18.07.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.24,
+      372.65,
+      206.54,
+      390.52
+    ],
+    "text": "******",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.11,
+      475.59,
+      534.75,
+      489.19
+    ],
+    "text": "Learned Counsel for the petitioner brings to the notice of Court that he has no instructions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.744122505187988,
+      9.812361717224121,
+      9.899999618530273,
+      9.943603515625,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.46,
+      502.7,
+      533.64,
+      516.31
+    ],
+    "text": "from his client and he is unable to locate the whereabouts of his client. The learned Counsel also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.192197799682617,
+      9.69482421875,
+      9.780326843261719,
+      9.781996726989746,
+      9.875068664550781,
+      9.88383674621582,
+      9.899999618530273,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.63,
+      529.59,
+      533.82,
+      543.19
+    ],
+    "text": "submits to Court that the learned President's Counsel who appears for the petitioner has endeavoured",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.744122505187988,
+      9.899999618530273,
+      9.943603515625,
+      10.020368576049805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.43,
+      556.7,
+      533.42,
+      570.31
+    ],
+    "text": "to dispatch a letter to his client, the petitioner. However there has been no response to same.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.662603378295898,
+      9.88383674621582,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.73,
+      583.35,
+      532.98,
+      596.95
+    ],
+    "text": "Perusing the caption the address stated therein the residence of Petitioner is in Hong Kong.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.701969146728516,
+      9.899999618530273,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.18,
+      610.23,
+      534.41,
+      623.83
+    ],
+    "text": "This is a 2006 writ application. These are discretionary remedies of Court and by this application Writ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.583541870117188,
+      9.831562995910645,
+      9.841577529907227,
+      9.899999618530273,
+      9.95882511138916,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.14,
+      637.11,
+      534.6,
+      650.71
+    ],
+    "text": "of Mandamus and Certiorari/Prohibition has been sought. lt appears to this Court that the petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.662603378295898,
+      9.899999618530273,
+      9.92636489868164,
+      10.020368576049805,
+      10.13642692565918,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.31,
+      663.99,
+      533.68,
+      677.59
+    ],
+    "text": "is no longer interested in pursuing this application. These being discretionary remedies of Court, this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.72978687286377,
+      9.887441635131836,
+      9.899999618530273,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.61,
+      16.78,
+      82.12,
+      40.41
+    ],
+    "text": "..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.140501022338867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.02,
+      70.48,
+      534.37,
+      84.08
+    ],
+    "text": "Court has no alternative but to reject the application of the petitioner. Application is dismissed. No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.580390930175781,
+      9.664704322814941,
+      9.812361717224121,
+      9.899999618530273,
+      10.020368576049805,
+      10.234643936157227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.57,
+      97.36,
+      94.73,
+      110.96
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.46,
+      170.8,
+      171.02,
+      184.4
+    ],
+    "text": "Deepali Wijesundera,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.85,
+      196.48,
+      133.5,
+      210.08
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      278.81,
+      247.55,
+      432.36,
+      260.6
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.091204643249512,
+      9.194539070129395,
+      9.30173110961914,
+      9.33913803100586,
+      9.35621166229248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.41,
+      272.8,
+      90.5,
+      286.4
+    ],
+    "text": "Jmr/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  }
+]

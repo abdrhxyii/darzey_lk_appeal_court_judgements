@@ -1,0 +1,919 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      90.95,
+      397.66,
+      106.49
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      121.85,
+      229.3,
+      172.61
+    ],
+    "text": "C.A. Appeal No. 108/98(F) DC. Colombo No. 8658/RE",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      178.25,
+      372.48,
+      270.92
+    ],
+    "text": "K.A. Somapala No: 1/132, Athurumulla, Delgoda.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      276.56,
+      420.03,
+      428.14
+    ],
+    "text": "Appellant Vs. M. Albert No: 296, Thagalam Street, Colombo 14.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      433.78,
+      433.23,
+      487.18
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.9,
+      95.44,
+      423.73,
+      111.78
+    ],
+    "text": "C.A.Appeal No. 108/98(F) DC. Colombo No. 8658/RE",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.53,
+      173.44,
+      298.49,
+      189.78
+    ],
+    "text": "Before: K.T.Chitrasiri, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.0,
+      226.36,
+      484.04,
+      257.47
+    ],
+    "text": "Counsel: Daya Guruge with Premani Pothupitiya for the Plaintiff-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.56,
+      268.37,
+      413.23,
+      284.11
+    ],
+    "text": "M.I. Hadi for the Defendant-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.15,
+      318.77,
+      111.24,
+      334.54
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.86,
+      344.92,
+      263.29,
+      361.87
+    ],
+    "text": "Decided on: 08.07.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.46,
+      371.12,
+      263.77,
+      393.1
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.57192325592041
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.3,
+      397.36,
+      126.89,
+      413.7
+    ],
+    "text": "Chitrasiri, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.66,
+      424.85,
+      403.37,
+      440.6
+    ],
+    "text": "Heard both counsel in support of their respective cases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.37,
+      463.25,
+      533.99,
+      479.0
+    ],
+    "text": "This is an appeal seeking to set aside the judgment dated 15.01.1998 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.38,
+      490.85,
+      533.62,
+      506.6
+    ],
+    "text": "learned District Judge of Colombo. By that judgment, the learned District Judge dismissed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.77,
+      518.45,
+      533.36,
+      534.2
+    ],
+    "text": "plaint in which the plaintiff had prayed that he be placed in possession of the land referred to in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.71,
+      546.29,
+      533.61,
+      562.04
+    ],
+    "text": "Paragraph 5 of the plaint dated 16.05.1996, ejecting the defendant and the persons holding under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.26,
+      574.37,
+      532.82,
+      590.11
+    ],
+    "text": "him therefrom. In the plaint, he also has claimed damages amounting to Rs. 12375/- from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.19,
+      602.21,
+      509.82,
+      617.96
+    ],
+    "text": "defendant for occupying the premises in suit without a payment being made.( issues 5 and 8)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.719676971435547,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.54,
+      640.36,
+      532.59,
+      656.11
+    ],
+    "text": "At the outset, Mr. Guruge appearing for the appellant submitted that he is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.34,
+      667.49,
+      532.25,
+      683.24
+    ],
+    "text": "pursuing the appeal filed, challenging the answers to the issues bearing Nos. 10 and 18, given on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.673774719238281,
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.06,
+      694.85,
+      531.83,
+      710.6
+    ],
+    "text": "the basis of the defence taken up by the defendant relying upon the applicability of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.29,
+      732.85,
+      299.38,
+      746.18
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.46,
+      69.79,
+      534.19,
+      85.66
+    ],
+    "text": "provisions contained in the Rent Act No. 7 of 1972 . Therefore, the relief prayed for to eject the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.8,
+      97.86,
+      533.88,
+      113.74
+    ],
+    "text": "defendant from the premises in suit need not be looked into, since the appeal in order to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.790092468261719,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.56,
+      108.23,
+      552.8,
+      143.23
+    ],
+    "text": "U' challenge the decision as to the refusal to evict the defendant, A being not pursued due to the J--",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.899999618530273,
+      14.817609786987305,
+      16.76651382446289
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.98,
+      153.54,
+      534.98,
+      169.41
+    ],
+    "text": "protection claimed by the defendant under the Rent Act. Accordingly, the reliefs prayed for in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.22,
+      181.62,
+      351.97,
+      197.5
+    ],
+    "text": "para (b) in the prayer to the Petition of Appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.91,
+      219.06,
+      534.64,
+      234.93
+    ],
+    "text": "However the learned counsel for the appellant further submits that the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.39,
+      246.9,
+      534.64,
+      262.78
+    ],
+    "text": "District Judge misdirected himself when he answered the issues bearing Nos. 5 and 8, stating",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.594016075134277,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.17,
+      274.98,
+      534.93,
+      290.86
+    ],
+    "text": "that those issues need not be answered in view of the answers to the remaining issues. Those 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.33,
+      302.83,
+      534.31,
+      318.7
+    ],
+    "text": "issues are on the basis of the damages claimed by the plaintiff from the defendant due to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.32,
+      330.66,
+      534.14,
+      346.54
+    ],
+    "text": "occupation of the premises in suit by the defendant. Then it is clear that the appeal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60632610321045,
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.18,
+      358.75,
+      531.56,
+      374.62
+    ],
+    "text": "restricted only to the question of damages amounting to Rs. 12375/- claimed by the plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.32,
+      386.83,
+      109.74,
+      402.71
+    ],
+    "text": "appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.89,
+      424.26,
+      533.93,
+      440.13
+    ],
+    "text": "Learned counsel for the defendant-respondent having considered the above,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.51,
+      451.87,
+      531.53,
+      467.74
+    ],
+    "text": "submits that the defendant is willing to pay the said sum of Rs. 12375/-to the plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.88819408416748,
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.07,
+      479.94,
+      534.0,
+      495.82
+    ],
+    "text": "appellant. In view of the said agreement to pay the damages claimed by the plaintiff, the appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.32,
+      507.78,
+      490.07,
+      523.66
+    ],
+    "text": "in respect of the damages claimed by the plaintiff-appellant also need not be considered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.86,
+      583.38,
+      533.88,
+      599.25
+    ],
+    "text": "The defendant-respondent agrees to pay Rs. 12375/- by way of a money order to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.790092468261719,
+      11.88819408416748,
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.17,
+      574.77,
+      565.98,
+      637.05
+    ],
+    "text": "the plaintiff-appellant within a period of 02 weeks from today. Accordingly, Court makes an r",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248,
+      46.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.08,
+      638.83,
+      534.94,
+      654.7
+    ],
+    "text": "order that the defendant-respondent shall pay Rs. 12375/- to the plaintiff-appellant by way of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.06983757019043
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.18,
+      666.9,
+      203.38,
+      682.78
+    ],
+    "text": "money order within 2 weeks.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.64,
+      733.33,
+      302.73,
+      746.66
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.14,
+      70.05,
+      536.88,
+      86.19
+    ],
+    "text": "The aforesaid agreement by the defendant-respondent to pay the damages to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.88875675201416,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.62,
+      97.41,
+      410.88,
+      113.55
+    ],
+    "text": "plaintiff-appellant should not prejudice the civil rights of the parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.79,
+      135.81,
+      536.41,
+      151.96
+    ],
+    "text": "In view of the above agreement and the submissions of both counsel, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.67,
+      162.69,
+      266.33,
+      178.84
+    ],
+    "text": "proceedings in this appeal are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.01,
+      240.63,
+      254.7,
+      254.92
+    ],
+    "text": "Proceedings terminated.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.85,
+      354.3,
+      456.3,
+      370.78
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.39,
+      429.11,
+      91.68,
+      444.31
+    ],
+    "text": "Kpm/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      292.68,
+      733.5,
+      300.33,
+      747.11
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      172.37
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A No: 477/99 (F) D.C. Monaragaia Case No: 15611L",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      175.37,
+      401.16,
+      240.68
+    ],
+    "text": "M.Jayasundara Jayanthipura, Uda Arawa, Uva Palwaththa.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      243.8,
+      410.4,
+      360.32
+    ],
+    "text": "PLAINTTIFF Vs. R.M. Muthu Banda Keliwassa, Hingurukaduwa, Passara",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      363.44,
+      401.16,
+      462.94
+    ],
+    "text": "DEFENDANT K.M.Jayasundara Jayanthipura, Uda Arawa, Uva Palwaththa.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      465.94,
+      463.59,
+      565.45
+    ],
+    "text": "PLAINTTIFF-APPELLANT (Dead) R.M. Muthu Banda Keliwassa, Hingurukaduwa. Passara",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      568.57,
+      482.43,
+      668.05
+    ],
+    "text": "DEFENDANT-RESPONDENT R. M. Chandrani Keliwassa, Hingurukaduwa, Passara",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      671.05,
+      482.67,
+      719.41
+    ],
+    "text": "SUBSTITUTED-DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.95,
+      71.64,
+      195.42,
+      88.67
+    ],
+    "text": "CoA 477/99 (F)",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.931736946105957,
+      12.300000190734863,
+      12.848163604736328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.02,
+      114.13,
+      140.51,
+      130.67
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.94,
+      156.86,
+      151.28,
+      173.4
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.812198638916016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.57,
+      242.06,
+      230.76,
+      258.6
+    ],
+    "text": "Argued & decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.601463317871094,
+      12.73078727722168,
+      12.947799682617188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.77,
+      284.99,
+      206.45,
+      302.02
+    ],
+    "text": "HoN oJ 0 Perera, J 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.300100088119507,
+      11.966015815734863,
+      11.99937629699707,
+      12.300000190734863,
+      12.507451057434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.72,
+      72.11,
+      436.04,
+      89.14
+    ],
+    "text": "DoC Monaragala 1561/L",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.02599811553955,
+      12.469334602355957,
+      12.725323677062988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.18,
+      114.62,
+      382.71,
+      131.16
+    ],
+    "text": "H.N.J. Perera, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.49339771270752,
+      12.691181182861328,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.54,
+      157.09,
+      481.13,
+      187.79
+    ],
+    "text": "Plaintiff -Appellant is absent and Unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.498756408691406,
+      12.711780548095703,
+      12.834439277648926,
+      12.858232498168945,
+      13.222613334655762,
+      13.224020957946777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.94,
+      199.81,
+      499.28,
+      230.52
+    ],
+    "text": "M.D.J. Bandara for the Substituted Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.501782417297363,
+      12.746265411376953,
+      12.903334617614746,
+      13.015093803405762,
+      13.028854370117188,
+      13.16405963897705
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.86,
+      242.51,
+      352.68,
+      258.79
+    ],
+    "text": "02.08.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.828414916992188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.37,
+      341.89,
+      533.48,
+      358.43
+    ],
+    "text": "Notices have been sent on the Plaintiff -Appellant and his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.466521263122559,
+      12.531255722045898,
+      12.807165145874023,
+      12.833569526672363,
+      12.847524642944336,
+      12.939225196838379,
+      12.947799682617188,
+      13.015093803405762,
+      13.222613334655762,
+      13.231941223144531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.06,
+      370.45,
+      533.88,
+      386.99
+    ],
+    "text": "registered Attorney informing the date of argument. Notice issued on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.661737442016602,
+      12.678668975830078,
+      12.725234985351562,
+      12.733903884887695,
+      12.928055763244629,
+      12.933856964111328,
+      12.947799682617188,
+      12.952347755432129,
+      12.97176742553711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.8,
+      398.77,
+      533.78,
+      415.31
+    ],
+    "text": "the registered Attorney of the Plaintiff -Appellant had been returned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.498756408691406,
+      12.695186614990234,
+      12.733903884887695,
+      12.758663177490234,
+      12.858232498168945,
+      12.928055763244629,
+      12.939225196838379,
+      12.97186279296875,
+      13.015093803405762,
+      13.264933586120605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.82,
+      427.09,
+      533.96,
+      443.63
+    ],
+    "text": "with an endorsement that he does not practice in the Monaragala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.691229820251465,
+      12.691376686096191,
+      12.763375282287598,
+      12.810407638549805,
+      12.851480484008789,
+      12.980510711669922,
+      13.015093803405762,
+      13.057848930358887,
+      13.082326889038086,
+      13.372096061706543,
+      13.384377479553223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.02,
+      455.42,
+      534.05,
+      471.96
+    ],
+    "text": "District Court. Court is of the view that the Plaintiff -Appellant is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.531255722045898,
+      12.597674369812012,
+      12.686245918273926,
+      12.711780548095703,
+      12.772990226745605,
+      12.808859825134277,
+      12.928055763244629,
+      12.999268531799316,
+      13.015093803405762,
+      13.028901100158691,
+      13.451791763305664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.97,
+      483.98,
+      533.92,
+      500.52
+    ],
+    "text": "interested in prosecuting this appeal. Therefore, the appeal is dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.53481674194336,
+      12.683362007141113,
+      12.711780548095703,
+      12.786767959594727,
+      12.86440372467041,
+      12.89670181274414,
+      12.896845817565918,
+      12.976306915283203,
+      12.993496894836426,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.82,
+      512.77,
+      185.79,
+      529.31
+    ],
+    "text": "without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.780317306518555,
+      12.891700744628906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.26,
+      569.42,
+      533.88,
+      585.96
+    ],
+    "text": "Registrar is directed to send a copy of this order with the original",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.485008239746094,
+      12.601119041442871,
+      12.680379867553711,
+      12.711780548095703,
+      12.733903884887695,
+      12.752246856689453,
+      12.772990226745605,
+      12.787203788757324,
+      12.928055763244629,
+      12.951725006103516,
+      12.976306915283203,
+      13.051437377929688
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.95,
+      597.97,
+      385.38,
+      614.51
+    ],
+    "text": "case record to the District Court of Monaragala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.601119041442871,
+      12.66491985321045,
+      12.721433639526367,
+      12.733903884887695,
+      12.789918899536133,
+      12.941620826721191,
+      12.98232650756836,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.05,
+      654.11,
+      527.88,
+      671.14
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.314342498779297,
+      12.3414306640625,
+      12.349052429199219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.81,
+      697.09,
+      133.75,
+      713.63
+    ],
+    "text": "Vkg/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890305519104004
+    ]
+  }
+]

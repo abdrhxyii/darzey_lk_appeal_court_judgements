@@ -1,0 +1,643 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      152.45,
+      287.14,
+      183.53
+    ],
+    "text": "CA (WRIT): Application No.298/2010",
+    "fonts": [
+      "Calibri,Bold",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      186.53,
+      500.15,
+      269.0
+    ],
+    "text": "Hutchison Telecommunications Lanka (Pvt) Limited 234, Galle Road, Colombo 04.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      272.12,
+      416.91,
+      491.14
+    ],
+    "text": "PETITIONER Vs. 1. Sarath Jayatilake, Director General of Customs Customs House Colombo 1 Jagath P. Wijeweera Director General of Customs Customs House Colombo 1",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      494.26,
+      461.19,
+      610.81
+    ],
+    "text": "(Substituted 1st Respondent) 2. S. Rajendran, Deputy Director of Customs Customs House, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      613.93,
+      413.16,
+      627.97
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.65,
+      127.15,
+      114.81,
+      143.77
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.230535507202148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.57,
+      178.5,
+      124.84,
+      195.12
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.4527587890625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.67,
+      245.23,
+      144.13,
+      261.85
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.468745231628418,
+      12.729948997497559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      424.88,
+      102.43,
+      507.69,
+      119.05
+    ],
+    "text": "CA298/2010",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899487495422363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.41,
+      124.35,
+      371.67,
+      144.36
+    ],
+    "text": "S. Sriskandarajah,J PI CA",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.914692878723145,
+      12.278908729553223,
+      12.368444442749023,
+      15.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.09,
+      153.3,
+      392.49,
+      169.92
+    ],
+    "text": "W.M.M. Malinie Gunaratne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.164374351501465,
+      12.300536155700684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.6,
+      178.67,
+      530.51,
+      194.95
+    ],
+    "text": "Sanjeewa Jayawardena PC with Rajeeva Amarasooriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.316889762878418,
+      12.479596138000488,
+      12.527942657470703,
+      12.582939147949219,
+      12.856534957885742
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.51,
+      203.86,
+      489.11,
+      235.98
+    ],
+    "text": "Instructed by Sudath Perera Associates for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.258857727050781,
+      12.458364486694336,
+      12.553964614868164,
+      12.598298072814941,
+      12.698850631713867,
+      12.823373794555664,
+      12.975078582763672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.59,
+      245.15,
+      282.52,
+      261.43
+    ],
+    "text": "15.07.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.563679695129395
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.05,
+      296.35,
+      234.39,
+      312.97
+    ],
+    "text": "S. Sriskandaraiah, J PI CA",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.914692878723145,
+      12.0,
+      12.290190696716309,
+      12.368444442749023,
+      12.985953330993652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.65,
+      321.94,
+      534.18,
+      338.22
+    ],
+    "text": "Learned President's Counsel appearing for the petitioner moves to amend the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.356200218200684,
+      12.430423736572266,
+      12.435280799865723,
+      12.506694793701172,
+      12.57809066772461,
+      12.582358360290527,
+      12.662484169006348,
+      12.736407279968262,
+      12.776575088500977
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.11,
+      349.54,
+      535.25,
+      365.82
+    ],
+    "text": "caption by adding the present incumbent of the office of Director General of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.359111785888672,
+      12.423355102539062,
+      12.441362380981445,
+      12.503767967224121,
+      12.57872200012207,
+      12.66123104095459,
+      12.774188041687012,
+      12.788934707641602,
+      12.823373794555664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.34,
+      376.9,
+      534.42,
+      393.18
+    ],
+    "text": "Customs Mr. Jagath P. Wijeweera. Application to add the respondent is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.295178413391113,
+      12.356200218200684,
+      12.60884952545166,
+      12.729748725891113,
+      12.739998817443848,
+      12.820756912231445,
+      12.823373794555664,
+      13.029921531677246
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.11,
+      404.5,
+      533.77,
+      420.78
+    ],
+    "text": "allowed. Amended caption filed of record. Learned State Counsel takes notice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.359111785888672,
+      12.366415023803711,
+      12.396123886108398,
+      12.471430778503418,
+      12.50123119354248,
+      12.57872200012207,
+      12.610784530639648,
+      12.696593284606934,
+      12.856724739074707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.11,
+      432.1,
+      534.42,
+      448.38
+    ],
+    "text": "on behalf of him and in view of the administrative settlement, Counsel for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.359111785888672,
+      12.49566650390625,
+      12.555859565734863,
+      12.557414054870605,
+      12.57809066772461,
+      12.619585037231445,
+      12.668986320495605,
+      12.707254409790039,
+      12.736407279968262,
+      12.747418403625488,
+      12.823373794555664,
+      13.042462348937988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.26,
+      459.47,
+      534.01,
+      475.75
+    ],
+    "text": "petitioner supports the motion dated 11.07.2013 and informs court that both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.451704025268555,
+      12.455132484436035,
+      12.532567024230957,
+      12.61136531829834,
+      12.662676811218262,
+      12.716132164001465,
+      12.751389503479004,
+      12.823373794555664,
+      12.838444709777832,
+      13.042462348937988,
+      13.141194343566895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.26,
+      487.06,
+      534.42,
+      503.34
+    ],
+    "text": "parties agree that this matter be settled administratively and in view of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.359111785888672,
+      12.442980766296387,
+      12.47729778289795,
+      12.48760986328125,
+      12.511034965515137,
+      12.673944473266602,
+      12.736407279968262,
+      12.747418403625488,
+      12.799519538879395,
+      12.823373794555664,
+      12.968965530395508,
+      13.073293685913086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.11,
+      514.43,
+      534.41,
+      530.71
+    ],
+    "text": "administrative settlement the counsel for the petitioner moves to withdraw this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.430423736572266,
+      12.479205131530762,
+      12.499083518981934,
+      12.533053398132324,
+      12.537482261657715,
+      12.611800193786621,
+      12.638422012329102,
+      12.727400779724121,
+      12.736407279968262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.11,
+      541.78,
+      534.09,
+      558.06
+    ],
+    "text": "application. Application for withdrawal is allowed and this application is pro",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.220083236694336,
+      12.295178413391113,
+      12.390216827392578,
+      12.418296813964844,
+      12.503133773803711,
+      12.509620666503906,
+      12.773662567138672,
+      12.871233940124512,
+      12.968965530395508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.1,
+      569.38,
+      253.32,
+      585.66
+    ],
+    "text": "forma dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.408714294433594,
+      12.441607475280762,
+      12.603041648864746,
+      12.615184783935547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      318.87,
+      606.66,
+      520.29,
+      623.28
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.219443321228027,
+      12.292680740356445,
+      12.46008014678955,
+      12.801061630249023,
+      13.439018249511719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.73,
+      632.11,
+      249.44,
+      648.73
+    ],
+    "text": "W.M.M. Malinie Gunaratne,J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.197524070739746,
+      12.381729125976562
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.15,
+      656.98,
+      113.49,
+      673.26
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.37706470489502
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.56,
+      682.02,
+      531.83,
+      698.64
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.249604225158691,
+      12.25513744354248,
+      12.533825874328613,
+      12.801061630249023,
+      13.313962936401367
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.94,
+      708.63,
+      98.74,
+      723.47
+    ],
+    "text": "Naj-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.081742286682129
+    ]
+  }
+]

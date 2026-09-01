@@ -1,0 +1,427 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      154.25
+    ],
+    "text": "C.A.No.812/98 (F) D.CMatugama No.1232/P",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      157.25,
+      403.8,
+      222.65
+    ],
+    "text": "L.A.D.Yasasiri Dissanayaka Meegahatanna.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      225.65,
+      516.51,
+      359.36
+    ],
+    "text": "Defendant- Appellant. Vs. Liyana Arachchige Don Udayasiri Dissanayaka, Ganahena, Meegahatanna.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      362.36,
+      453.15,
+      410.62
+    ],
+    "text": "Plaintiff-Respondents And others",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.14,
+      126.99,
+      153.78,
+      141.45
+    ],
+    "text": "C.A.No.812/98(F)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.22,
+      178.7,
+      105.14,
+      195.24
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.14,
+      229.58,
+      115.95,
+      246.12
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.74665355682373
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.78,
+      302.53,
+      136.25,
+      319.07
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.528434753417969,
+      13.222613334655762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.22,
+      326.77,
+      133.25,
+      343.31
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.512786865234375,
+      12.835695266723633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.96,
+      377.63,
+      169.51,
+      394.66
+    ],
+    "text": "K. T. Chitrasiri,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.22019100189209,
+      12.300000190734863,
+      12.593840599060059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.42,
+      127.23,
+      385.68,
+      141.69
+    ],
+    "text": "D.CMatugama No.1232/P",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.18,
+      178.7,
+      307.75,
+      195.24
+    ],
+    "text": "K.T.Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.617148399353027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.98,
+      229.58,
+      444.64,
+      246.12
+    ],
+    "text": "Upul Kumarapperuma with Udumbara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.752246856689453,
+      12.798544883728027,
+      13.04340648651123,
+      13.097152709960938
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.18,
+      253.58,
+      478.41,
+      270.12
+    ],
+    "text": "Dasanayake for the 21st defendant-appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.126471519470215,
+      12.399999618530273,
+      12.934528350830078,
+      12.985383033752441,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.18,
+      278.29,
+      483.47,
+      294.83
+    ],
+    "text": "Rohan Deshapriy,or the plaintiff-respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.778280258178711,
+      12.902373313903809,
+      12.928055763244629,
+      13.37418270111084
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.86,
+      326.98,
+      288.31,
+      343.26
+    ],
+    "text": "04. 07.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597620010375977,
+      12.76343822479248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.66,
+      403.82,
+      538.39,
+      420.36
+    ],
+    "text": "Counsel for the 21st defendant-appellant moves to withdraw this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.192893981933594,
+      12.399999618530273,
+      12.601119041442871,
+      12.608546257019043,
+      12.658260345458984,
+      12.812198638916016,
+      12.890113830566406,
+      12.921483993530273,
+      12.976306915283203,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.54,
+      432.38,
+      539.68,
+      448.92
+    ],
+    "text": "Application for withdrawal is allowed. Accordingly, the appeal is dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.406448364257812,
+      12.48739242553711,
+      12.711780548095703,
+      12.786767959594727,
+      12.848392486572266,
+      12.937212944030762,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.78,
+      461.17,
+      149.73,
+      477.71
+    ],
+    "text": "without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.685953140258789,
+      12.822549819946289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.52,
+      500.46,
+      246.64,
+      516.09
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.071813583374023,
+      13.107994079589844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.45,
+      614.99,
+      508.68,
+      632.02
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.425658226013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.75,
+      654.45,
+      96.32,
+      670.59
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.690062522888184
+    ]
+  }
+]

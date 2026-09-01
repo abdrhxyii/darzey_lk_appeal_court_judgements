@@ -1,0 +1,1185 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      299.21,
+      70.45,
+      307.3,
+      83.78
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.34,
+      104.34,
+      528.69,
+      128.3
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      141.1,
+      124.25,
+      466.74,
+      148.21
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.31,
+      276.3,
+      197.86,
+      293.24
+    ],
+    "text": "C.A. No. 944 / 2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.712943077087402
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.14,
+      307.74,
+      236.22,
+      324.68
+    ],
+    "text": "D.C. Colombo No. 16483 / L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.26,
+      181.27,
+      495.56,
+      245.47
+    ],
+    "text": "Sheriff Ali M. Naufer Ali, No. 1211, Percy Dias Mawatha, Mabole, Wattala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.648344993591309,
+      12.699999809265137,
+      12.702949523925781,
+      12.743724822998047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      461.22,
+      259.73,
+      511.05,
+      276.68
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      390.68,
+      291.9,
+      411.98,
+      308.84
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.73,
+      322.85,
+      505.36,
+      355.39
+    ],
+    "text": "Minsiri J ayantha Thilakaratne, No. 09, Vinayalankara Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.26,
+      354.28,
+      394.55,
+      371.23
+    ],
+    "text": "Colombo 10.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      461.69,
+      385.49,
+      522.0,
+      402.43
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.13,
+      433.1,
+      464.51,
+      451.38
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.21,
+      464.46,
+      505.57,
+      513.09
+    ],
+    "text": "Minsiri J ayantha Thilakaratne, No. 09, Vinayalankara Mawatha, Colombo 10.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      415.62,
+      527.11,
+      533.39,
+      544.05
+    ],
+    "text": "Defendant Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.13,
+      559.27,
+      374.16,
+      576.21
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.46,
+      590.22,
+      496.69,
+      654.44
+    ],
+    "text": "Sheriff Ali M. Naufer Ali, No. 1211, Percy Dias Mawatha, Mabole, Wattala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.589116096496582,
+      12.699999809265137,
+      12.704349517822266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      415.87,
+      668.46,
+      532.42,
+      685.41
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      598.29,
+      60.37,
+      602.04,
+      78.92
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.73,
+      92.32,
+      601.09,
+      105.8
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.55,
+      461.99,
+      25.11,
+      580.42
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.399999618530273,
+      48.40010070800781,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -4.38,
+      601.68,
+      23.67,
+      778.64
+    ],
+    "text": "1 I I I I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      10.699999809265137,
+      22.100000381469727,
+      38.79999923706055,
+      44.90010070800781,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.86,
+      103.61,
+      128.93,
+      121.62
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.02,
+      150.91,
+      146.81,
+      168.91
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.86,
+      221.93,
+      159.78,
+      239.94
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.66,
+      268.98,
+      236.57,
+      286.99
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.191064834594727,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.4,
+      69.96,
+      308.49,
+      83.29
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.22,
+      103.86,
+      424.01,
+      121.87
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.191064834594727,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.18,
+      150.9,
+      528.85,
+      168.91
+    ],
+    "text": "Defendant Appellant-Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.42,
+      174.66,
+      535.11,
+      192.67
+    ],
+    "text": "Plaintiff Respondent - Absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.1,
+      221.93,
+      327.98,
+      239.94
+    ],
+    "text": "07.08.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.0,
+      316.25,
+      534.77,
+      334.26
+    ],
+    "text": "The Plaintiff Respondent (hereinafter referred to as the Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.07,
+      340.01,
+      534.76,
+      358.02
+    ],
+    "text": "instituted the said action against the Defendant Appellant (hereinafter referred to as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.69,
+      363.53,
+      537.69,
+      381.54
+    ],
+    "text": "the Appellant) in the District Court of Colombo seeking inter alia a declaration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.65,
+      387.06,
+      372.89,
+      405.07
+    ],
+    "text": "title to the land described in the schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.62,
+      434.34,
+      534.94,
+      452.35
+    ],
+    "text": "The Appellant has filed an answer praying for a dismissal of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.62,
+      458.09,
+      534.46,
+      476.1
+    ],
+    "text": "Respondent's action and for a declaration of title to the land described in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.97,
+      481.85,
+      196.27,
+      499.86
+    ],
+    "text": "schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.87,
+      528.9,
+      535.58,
+      546.91
+    ],
+    "text": "The case proceeded to trial upon 25 issues. After trial the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.344655990600586,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.1,
+      552.65,
+      535.73,
+      570.66
+    ],
+    "text": "District Judge has delivered a judgment in favour of the Respondent. Being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.26,
+      576.18,
+      534.85,
+      594.19
+    ],
+    "text": "aggrieved by the said judgment dated 09.11.2000 the Appellant has appealed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.12,
+      599.69,
+      133.67,
+      617.7
+    ],
+    "text": "this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.11,
+      646.72,
+      534.66,
+      664.74
+    ],
+    "text": "The Appellant has set out several grounds of appeal in paragraph 20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.472321510314941,
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.5,
+      670.49,
+      535.06,
+      688.5
+    ],
+    "text": "of the petition of appeal. His main grievance is that the judgment is against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.14,
+      693.77,
+      534.87,
+      711.78
+    ],
+    "text": "weight of the evidence adduced at the trial and the learned Trial Judge has failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.51,
+      717.3,
+      259.96,
+      735.31
+    ],
+    "text": "evaluate the evidence of the case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.78,
+      61.23,
+      601.0,
+      72.22
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.22,
+      130.17,
+      603.78,
+      157.65
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.21,
+      202.07,
+      602.91,
+      260.88
+    ],
+    "text": "ItiI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      10.399999618530273,
+      17.20009994506836,
+      24.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.38,
+      260.34,
+      603.16,
+      317.16
+    ],
+    "text": "fII",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0,
+      18.899999618530273,
+      28.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.77,
+      435.42,
+      602.27,
+      482.67
+    ],
+    "text": "I i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727,
+      33.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.78,
+      518.06,
+      600.08,
+      561.09
+    ],
+    "text": "Il",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      15.899999618530273,
+      18.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      590.47,
+      745.9,
+      606.48,
+      857.93
+    ],
+    "text": "! I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      20.5,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      69.81,
+      309.2,
+      83.82
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.6,
+      127.62,
+      535.9,
+      145.63
+    ],
+    "text": "The Respondent has closed his case leading evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.58,
+      151.37,
+      536.41,
+      169.38
+    ],
+    "text": "Respondent and 02 other witnesses and producing the documents marked P 1 to P",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.21,
+      174.89,
+      535.89,
+      192.9
+    ],
+    "text": "70. The Respondent has produced his title deeds in order to prove his title to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.99,
+      198.65,
+      536.11,
+      216.66
+    ],
+    "text": "land in suit. He has also produced documents to prove his possession of the land in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.18,
+      222.19,
+      535.88,
+      240.19
+    ],
+    "text": "suit. The Appellant has claimed a prescriptive title to the land in suit. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.07,
+      245.93,
+      536.16,
+      263.94
+    ],
+    "text": "Appellant has closed his case leading evidence of the Appellant and producing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.25,
+      269.93,
+      252.52,
+      287.95
+    ],
+    "text": "documents marked V 1 to V 20.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.86,
+      316.98,
+      536.54,
+      334.99
+    ],
+    "text": "I have carefully considered the impugned judgment of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.07,
+      340.49,
+      536.74,
+      358.5
+    ],
+    "text": "District Judge and the said evidence adduced at the trial. When I consider the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.44,
+      364.26,
+      536.4,
+      382.27
+    ],
+    "text": "evidence I am of the view that the learned trial judge has come to a right",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.46,
+      388.01,
+      392.28,
+      406.02
+    ],
+    "text": "conclusion after evaluating the evidence led before court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.11,
+      435.04,
+      536.76,
+      453.05
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.49,
+      458.82,
+      536.61,
+      476.83
+    ],
+    "text": "judgement of the learned District Judge dated 09.11.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.69,
+      482.82,
+      268.15,
+      500.84
+    ],
+    "text": "appeal of the Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.92,
+      531.77,
+      246.18,
+      547.88
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      357.52,
+      577.13,
+      520.43,
+      595.14
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      598.77,
+      80.98,
+      602.47,
+      99.26
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.48,
+      433.46,
+      600.82,
+      454.89
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727
+    ]
+  }
+]

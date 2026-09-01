@@ -1,0 +1,271 @@
+==== BLOCKS ==== 
+
+1
+
+IN THE COURT OF APEAL OF THE DEMOCRA TICS OCIALIST REPUBLIC OF
+
+SRI LANKA
+
+C.A. (Writ) Application No.51/2010
+
+In the matter of an application for mandates In the nature of writ of certiorari in terms of Article 140 of the Constitution of the democratic Socialist Republic of Sri Lanka.
+
+BHARTI AIRTEL LANKA (PVT) LTD. No.598, Elvitigala Mawatha, Colombo5.
+
+PETITIONER Vs.
+
+1. THE DIRECTOR GENERAL OF CUSTOMS Sri Lanka Customs Customs House, Bristol Street, Colombo 1.
+
+2. MR. G.B. GNANARAJ Superintendent of Customs Post Clearance and Audit Branch (PCAB) Sri Lanka Customs Customs House, Bristol Street, Colombo 1.
+
+3. MR. P.K.A. SENARATH Superintendent of Customs Post Clearance and Audit Branch (PCAB) Sri Lanka Customs Customs House, Bristol Street, Colombo 1.
+
+4. MR. VIPULA SENANAYAKE Assistant Director of Customs
+
+BEFORE
+
+COUNSEL
+
+Argued on
+
+Decided on
+
+S.Sriskandarajah,l
+
+2
+
+Investor Facilitation Centre (INF A C), Sri Lanka Customs Customs House, Bristol Street, Colombo 1.
+
+5. MR. S.L.E. MOHOTII Superintendent of Customs
+
+(CBCU Unit), Sri Lanka Customs Customs House Bristol Street, Colombo 1.
+
+6. THE HON. ATTORNEY GENERAL Attorney General's Department Colombo 12.
+
+RESPONDENTS
+
+S. SRISKANDARAJAH, J (P/CA)
+
+Faiz Musthapa PC with Riad Ameen,
+
+for the Petitioner
+
+Anusha Samaranayake,
+
+for Respondents
+
+01.03.2013 & 30.04.2013
+
+11.07.2013
+
+The Petitioner is a company incorporated under the Company Law of Sri Lanka,
+
+and the Petitioner was issued a cellular mobile licence under the Sri Lanka Tele-communication
+
+Act No.25 of 1991, as amended. The Petitioner submitted that it had entered into an agreement
+
+with the Board of Investment of Sri Lanka under Section 17 of the Board of Investment Sri
+
+Lanka Law No.4 of 1978, as amended and, in terms of the said agreement, the Petitioner is
+
+entitled to import project related capital items approved by the Board of Investment, free of
+
+Customs duty. The Petitioner further submitted that the subject matter of this application
+
+relates to the importation of microwave links. The microwave links are essential for the
+
+3
+
+Petitioner's territorial network expansion and, to meet its network, commitments pursuant to
+
+the licence. The Petitioner submitted that the said microwave links were declared by the
+
+importers of other telecommunication operators under the H.S. Code 8529.90.00. As such, the
+
+microwave links imported by the Petitioner were also declared under H.S. Code 8529.90.00 in
+
+the Customs declaration form. It was the position of the Petitioner that the said Customs
+
+declarations were accepted after examining the goods and were delivered on previous
+
+occasions. But in or about March 2009, the Customs Officers processing the Customs declaration
+
+forms expressed the opinion that microwave links imported by the Petitioner should be
+
+classified under H.S. Code 8517.61.10, and the Excise Duty could be paid thereon. In view of
+
+the opinion expressed by the Customs Officers, the Petitioner submitted that two consignments
+
+of microwave links imported by the Petitioner were declared under H.S. Code 8517.61.10 in the
+
+Customs declaration form and Excise duty was paid there on.
+
+It is the position of the Petitioner that the H.S. Code 8517.61.10 is applicable to
+
+base stations having transmission apparatus incorporating recipient apparatus, but the
+
+microwave links imported by the Petitioner cannot be used for transmission and recipients of
+
+signatures between the two telecommunication Boards without a microwave antenna. The
+
+Petitioner submitted that the microwave links are imported by the Petitioner without a
+
+microwave antenna and are manufactured separately in another country and imported by the
+
+Petitioner in a separate consignment. It is the contention of the Petitioner that the microwave
+
+links imported by the Petitioner do not constitute a base station but, instead, the said
+
+microwave links and the microwave antenna together are eventually connected to a base
+
+station. The description of the H.S. Code for "transmission apparatus incorporating recipient
+
+apparatus" falls within H.S. Code 8517.61.10 which attracts an Excise duty. As the Petitioner
+
+was exempted from Customs duty, as it is a BOI approved company, the 15% Customs Duty is
+
+not leviable if the apparatus imported falls within the description given above. It is the
+
+contention of the Petitioner that the transmission apparatus imported by the Petitioner does not
+
+incorporate a recipient apparatus; it will fall within the category of "other". That could be
+
+categorized under the H.S. Code 8517.62.90, the goods falling under this category is not subject
+
+to Excise duty.
+
+4
+
+When one peruses the general rules for the interpretation of the harmonized system rules,
+
+11 any
+
+reference in a heading to an article shall be taken to include a reference to that article incomplete
+
+or unfinished provided that, as presented, the incomplete or unfinished article has the essential
+
+character of the complete or finished article. It shall also be taken in to include a reference to
+
+that article complete or finished or (falling to be conclusive as complete or finished by virtue of
+
+these rules) presented unassembled or disassembled."
+
+As claimed by the Petitioner, the microwave links imported by the Petitioner do
+
+not contain a microwave antenna. In the absence of a microwave antenna, the said product
+
+cannot be termed as a transmission apparatus incorporating recipient apparatus, but even if one
+
+considers the general rule of interpretation mentioned above, and if the Petitioner has imported
+
+the microwave link and the microwave antenna in a disassembled or unassembled manner, it
+
+could be interpreted that the said items will fall under an article incomplete or unfinished
+
+transmission apparatus incorporating recipient apparatus falling under H.S. Code 8517.67.10,
+
+but in the Petitioner's case, the Petitioner had not made any attempt to import microwave
+
+antenna, either along with microwave links that was imported by the Petitioner or separately in
+
+a different consignment to fit to the microwave link. In these circumstances one cannot
+
+interpret the microwave links imported by the Petitioner will fall under the transmission
+
+apparatus incorporating recipient apparatus and, therefore, it has to be categorized under
+
+11 other" and, therefore, the Petitioner in his opinion has rightly declared that the H.S. Code is
+
+that of 8517.62.90.
+
+In view of the conflict on declaration, the 2nd Respondent and 3rd Respondent
+
+belongs to the Port Clearance Audit Branch, had commenced investigation with regard to the
+
+correct classification of the microwave links imported by the Petitioner and the liability to pay
+
+Excise duty thereon. The Petitioner was summoned for an inquiry by the 2nd Respondent. The
+
+Petitioner submitted, but the 5th Respondent also summoned the Petitioner's employees for
+
+another inquiry and statements of the employees were recorded by the 5th Respondent. In view
+
+of the conflicting inquiries between the 2nd and 5th, the 5th Respondent purposely detained and
+
+thereafter seized the said microwave links referred to in Customs declaration bearing No.48319
+
+by letter dated 23rd December 2009. This decision was made by the 5th Respondent despite the
+
+5
+
+fact the 4th Respondent had made an order to release the goods by obtaining a pay order to
+
+satisfy the difference between the Excise duty payable between the two classifications.
+
+The Petitioner in this application has sought a Writ of Certiorari to quash the
+
+decision of the 5th Respondent contained in the said letter dated 22nd December 2009 marked
+
+P14(a) and P14(b). Justice Tennekon in Attorney General v Wimaladharma 78 NLR 327 at 333
+
+observed;
+
+"It does not mean that any goods may be seized by officers of customs according to
+
+whim and fancy ... It only means that an officer of customs bona fide acting as such may
+
+seize any goods which he has reason to suspect are forfeited or liable to forfeiture ... To
+
+use the words adopted by the legislature itself ... though in another context the officer of
+
+customs seizing goods under Section 125 must have "probable cause" for such seizure."
+
+It has also been held in Toyota Lanka (Pvt)Ltd v Director General of Customs SC Appeal No.49/2008
+
+SC minutes 20.03.2009 the Supreme Court held:
+
+"I am further of the view and hold that the forfeiture provided for in Section 47 would
+
+not apply to a situation of a disputed classification of goods or an under payment or
+
+short lavy of duties or dues. In such case event the proper couse would be a requirement
+
+for payment of the amount due prior to delivery of goods or the recovery of the amounts
+
+due in terms of section 18."
+
+It has been held in the above case that if there is a disputed classification of goods and the said
+
+declaration is made not by stealth to evade payment of duties, the proper cause is to request for
+
+payment of the amount due prior to delivery of goods. As there is no allegation that the
+
+Petitioner in the same consignment or in a different consignment had imported antennas to
+
+allege that the Petitioner had imported unassembled or disassembled goods. In the instant case
+
+the Petitioner had imported goods according to his classification it would fall under HS Code
+
+8517.62.90 if Customs Department claims that it should fall under a different HS Code it has to
+
+be determined after an inquiry, in such a case the difference of Customs duty or the Excise duty
+
+should have been obtained as security and items imported could be released to the Petitioner.
+
+6
+
+As the inquiry has still not been completed, after giving an opportunity to the Petitioner, the
+
+Customs Department could arrive at an appropriate finding in relation to the description under
+
+which the Petitioner's goods could be declared but, the Respondents have no right to seize the
+
+goods. In these circumstances, the issue of seizure notice is ultra vires. Therefore, this Court
+
+quashes the notice of seizure and directs the Respondents to hold an inquiry and determine the
+
+description of the goods imported by the Petitioner. The application for writ of certiorari is
+
+allowed as prayed for in prayer (c) of the Petition without cost.
+
+President of the Court of Appeal
