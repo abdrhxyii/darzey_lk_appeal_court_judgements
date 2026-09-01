@@ -1,0 +1,1314 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      288.9,
+      71.73,
+      296.74,
+      84.64
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.23,
+      105.16,
+      518.91,
+      128.51
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.5,
+      17.517990112304688,
+      17.5368595123291,
+      17.69466781616211,
+      17.75444984436035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.76,
+      138.28,
+      464.46,
+      161.63
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.5,
+      17.75444984436035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.22,
+      300.27,
+      194.98,
+      318.14
+    ],
+    "text": "C.A. No. 1023 I 2000 F",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.05,
+      325.71,
+      230.57,
+      343.58
+    ],
+    "text": "D.C. Walasmulla No. 311 ID",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      14.608502388000488
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.53,
+      172.07,
+      483.27,
+      189.41
+    ],
+    "text": "Ekanayake Arachchige Pemadasa,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.53,
+      197.99,
+      377.12,
+      215.34
+    ],
+    "text": "B ibulagawatta,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.53,
+      223.42,
+      418.75,
+      240.76
+    ],
+    "text": "Puskolayaya, Kirama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      418.98,
+      248.92,
+      472.22,
+      266.8
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.61,
+      275.02,
+      365.78,
+      292.36
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.84,
+      300.22,
+      431.59,
+      317.56
+    ],
+    "text": "Sudusinghe Gunawathie,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.5,
+      325.91,
+      430.02,
+      343.25
+    ],
+    "text": "CIO Renuka Ekanayake,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.66,
+      351.59,
+      402.96,
+      368.93
+    ],
+    "text": "No. 96, Kottawatta,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.01,
+      377.26,
+      385.27,
+      394.6
+    ],
+    "text": "Kolambage Ara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      419.46,
+      402.52,
+      484.46,
+      420.4
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.81,
+      453.89,
+      421.89,
+      471.77
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.43934154510498
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.25,
+      479.5,
+      484.23,
+      496.84
+    ],
+    "text": "Ekanayake Arachchige Pemadasa,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.25,
+      505.19,
+      378.29,
+      522.53
+    ],
+    "text": "Bibulagawatta,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.48,
+      530.63,
+      419.7,
+      547.97
+    ],
+    "text": "Puskolayaya, Kirama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      379.14,
+      556.12,
+      493.76,
+      574.0
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      345.81,
+      582.46,
+      363.59,
+      599.8
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.8,
+      607.66,
+      432.55,
+      625.0
+    ],
+    "text": "Sudusinghe Gunawathie,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.46,
+      633.1,
+      430.94,
+      650.44
+    ],
+    "text": "CIO Renuka Ekanayake,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.62,
+      658.54,
+      403.9,
+      675.88
+    ],
+    "text": "No. 96, Kottawatta,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.99,
+      684.0,
+      386.57,
+      701.34
+    ],
+    "text": "Kolambage Ara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.18,
+      709.01,
+      525.88,
+      726.89
+    ],
+    "text": "Defendant -Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.22,
+      105.85,
+      114.44,
+      123.46
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.62,
+      131.52,
+      124.83,
+      149.13
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.49,
+      214.58,
+      142.62,
+      232.19
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.46,
+      240.02,
+      145.74,
+      257.63
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.5,
+      291.14,
+      221.93,
+      308.75
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.04367446899414,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285.54,
+      71.78,
+      293.04,
+      85.12
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.22,
+      105.85,
+      430.25,
+      123.46
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.04367446899414,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.42,
+      131.53,
+      504.36,
+      164.75
+    ],
+    "text": "K.V. Sirisena with N.A. Gunawardana for the Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.38,
+      172.82,
+      498.01,
+      206.26
+    ],
+    "text": "The Defendant Respondent is absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.7,
+      214.33,
+      335.31,
+      231.94
+    ],
+    "text": "17.05.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.41,
+      239.77,
+      334.58,
+      257.38
+    ],
+    "text": "28.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164.77,
+      347.05,
+      520.27,
+      364.66
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.9,
+      370.82,
+      520.17,
+      388.43
+    ],
+    "text": "instituted the said action against the Defendant Respondent (hereinafter referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.9,
+      394.33,
+      520.65,
+      411.94
+    ],
+    "text": "as the Respondent) seeking a decree for divorce a vinculo matrimonii on the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.65,
+      418.1,
+      520.76,
+      435.71
+    ],
+    "text": "ground of malicious desertion. The Respondent filed answer denying the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.86,
+      441.85,
+      521.15,
+      459.46
+    ],
+    "text": "averments in the plaint and sought a decree for divorce a vinculo matrimonii on",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.73,
+      465.61,
+      519.57,
+      483.22
+    ],
+    "text": "malicious desertion on the part of the Appellant and a decree for a sum of Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.3,
+      489.38,
+      520.59,
+      506.99
+    ],
+    "text": "50.000/- as permanent alimony to be paid by the Appellant. The case proceeded to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.71,
+      512.89,
+      521.18,
+      530.5
+    ],
+    "text": "trial on 13 issues. After trial the learned Additional District judge has delivered a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.630724906921387,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.12,
+      536.66,
+      273.72,
+      554.27
+    ],
+    "text": "judgment in favour of the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.73,
+      570.02,
+      521.58,
+      587.63
+    ],
+    "text": "The Appellant contended that the learned Additional District judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.22,
+      593.78,
+      520.86,
+      611.4
+    ],
+    "text": "has failed to evaluate the evidence of the Appellant and the capacity to pay a sum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.35,
+      617.53,
+      272.49,
+      635.14
+    ],
+    "text": "ofRs. 50,000/- as permanent alimony.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.33045482635498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.5,
+      650.65,
+      521.5,
+      668.26
+    ],
+    "text": "The Appellant has given evidence at the trial. But he has not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.6,
+      674.42,
+      521.37,
+      692.03
+    ],
+    "text": "called witnesses to give evidence in order to prove the malicious desertion on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.5,
+      697.93,
+      521.37,
+      715.54
+    ],
+    "text": "part of the Respondent. The Appellant has stated that on or about 10.04.1978 the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.43,
+      721.47,
+      521.32,
+      739.07
+    ],
+    "text": "Respondent eloped with another person. But he has not produced a police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      286.92,
+      71.49,
+      294.79,
+      85.5
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.58,
+      105.8,
+      521.15,
+      124.08
+    ],
+    "text": "complaint or any other similar documentary proof to establish the said facts. On",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.44,
+      129.56,
+      521.25,
+      147.84
+    ],
+    "text": "the other hand the Appellant has instituted the present case in the District Court on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.41,
+      153.09,
+      521.47,
+      171.38
+    ],
+    "text": "15.09.1998 almost 20 years after the alleged desertion. If he was the innocent party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.198721885681152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.7,
+      176.85,
+      496.62,
+      195.13
+    ],
+    "text": "why did he wait such a long time to institute an action against the Respondent?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.21,
+      210.45,
+      521.0,
+      228.73
+    ],
+    "text": "The Respondent has given evidence and has led the evidence of one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.46,
+      233.98,
+      521.85,
+      252.25
+    ],
+    "text": "witness. The Respondent in her evidence has stated that the Appellant after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.85,
+      257.73,
+      521.15,
+      276.01
+    ],
+    "text": "consuming alcohol quarrels and assaults her upon the question of dowry. She",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.81,
+      281.48,
+      521.4,
+      299.76
+    ],
+    "text": "further said in evidence that the Appellant spent his earnings for gambling and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.69,
+      305.24,
+      521.2,
+      323.52
+    ],
+    "text": "neglected the maintenance of the family and after some time the Appellant left the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.71,
+      329.0,
+      521.82,
+      347.28
+    ],
+    "text": "matrimonial home. This evidence has been supported by the evidence of another",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.7,
+      353.0,
+      521.72,
+      371.28
+    ],
+    "text": "witness. The Respondent has further stated that the Appellant is drawing a pension",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.82,
+      376.52,
+      521.54,
+      394.8
+    ],
+    "text": "of Rs 4000/- per month. The Appellant has not produced any documentary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.688945770263672,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.8,
+      400.05,
+      268.33,
+      418.34
+    ],
+    "text": "evidence to disprove his said income.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.75,
+      433.65,
+      521.56,
+      451.94
+    ],
+    "text": "Where each party alleges that the other is the deserter it is necessary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.68,
+      457.4,
+      521.91,
+      475.69
+    ],
+    "text": "to ascertain who is substantially responsible for the desertion in law. The party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.95,
+      481.16,
+      521.66,
+      499.44
+    ],
+    "text": "who really deserts is the one who compels the desertion. Accordingly in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.98,
+      504.68,
+      521.66,
+      522.96
+    ],
+    "text": "present case the Respondent has proved malicious desertion on part of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.93,
+      528.68,
+      270.91,
+      546.96
+    ],
+    "text": "Appellant on a balance of probability.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.7,
+      562.05,
+      521.58,
+      580.33
+    ],
+    "text": "In the said circumstances I am of the view that the learned Additional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.698749542236328,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.12,
+      585.8,
+      521.66,
+      604.09
+    ],
+    "text": "District Judge has come to a right conclusion after evaluating the evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.54,
+      609.56,
+      521.84,
+      627.84
+    ],
+    "text": "case. Hence I see no reason to interfere with the judgment of learned Additional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.12,
+      633.32,
+      522.35,
+      651.6
+    ],
+    "text": "District Judge dated 21.07.2000. Therefore I dismiss the appeal of the Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.17,
+      656.85,
+      121.42,
+      675.12
+    ],
+    "text": "with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.48,
+      691.74,
+      196.55,
+      707.98
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.88,
+      723.32,
+      505.49,
+      741.6
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.21342945098877
+    ]
+  }
+]

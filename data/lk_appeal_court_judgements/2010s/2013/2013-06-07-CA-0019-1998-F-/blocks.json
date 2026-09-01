@@ -1,0 +1,1104 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      119.45,
+      260.74,
+      201.77
+    ],
+    "text": "C.A. 19/98(F) D.C. Matugama Case No: 1899/P",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      204.89,
+      494.79,
+      270.2
+    ],
+    "text": "Sidni Horden De Alwis Senevirathna Kuru Welakatiya, Welipanna.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      273.32,
+      456.03,
+      304.4
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      307.4,
+      395.16,
+      406.88
+    ],
+    "text": "Vs. Indrani Somalatha Gorakaduwa, Palawatte.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      410.02,
+      469.23,
+      424.06
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.63,
+      67.3,
+      203.27,
+      83.09
+    ],
+    "text": "C.A. 19/98(F)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.97,
+      123.45,
+      183.21,
+      139.24
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.91,
+      160.42,
+      191.92,
+      176.21
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.8,
+      253.06,
+      210.03,
+      282.53
+    ],
+    "text": "ARGUED& DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.515316009521484,
+      11.611979484558105
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.53,
+      336.1,
+      243.92,
+      351.89
+    ],
+    "text": "K.T. CHITRASIRI,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.58,
+      31.27,
+      344.58,
+      47.28
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.42,
+      68.45,
+      513.55,
+      84.2
+    ],
+    "text": "D.C. Matugama Case No: 1899/P",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.93,
+      124.18,
+      392.07,
+      139.97
+    ],
+    "text": "K.T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.46,
+      160.84,
+      541.42,
+      176.59
+    ],
+    "text": "Ranjan Suwandaratne with Dinoo Dhannaratne for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.42,
+      173.57,
+      399.6,
+      189.32
+    ],
+    "text": "1st Defendant- Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.22,
+      202.12,
+      534.18,
+      231.54
+    ],
+    "text": "Rohana Deshapriya for the Substituted 3rd Defendant-Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.92,
+      266.45,
+      330.65,
+      282.2
+    ],
+    "text": "07.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.26,
+      373.73,
+      544.24,
+      389.48
+    ],
+    "text": "This is an appeal seeking to set aside the judgment dated 18.12.1997. By that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.46,
+      401.57,
+      543.0,
+      417.32
+    ],
+    "text": "judgment, learned District Judge of Matugama dismissed the plaint filed in order to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.1,
+      429.17,
+      543.41,
+      444.92
+    ],
+    "text": "have a partition of the land referred to in the plan marked 'X' in evidence. (Vide",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.215871810913086,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.66,
+      456.76,
+      543.34,
+      472.51
+    ],
+    "text": "page 61 in the brief) Both Counsel submitted that the dismissal of the action is on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.111780166625977,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.65,
+      484.36,
+      542.85,
+      500.11
+    ],
+    "text": "basis that the land sought to be partitioned belongs to the Land Reform Commission.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.52,
+      512.2,
+      478.38,
+      527.94
+    ],
+    "text": "This is clearly evident by the following sentence found in the judgment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.03,
+      569.32,
+      414.82,
+      585.07
+    ],
+    "text": "CG)JC)()c\". (page 131 of the brief/page 3 in the judgment).",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.115686416625977,
+      11.45969295501709,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164.33,
+      625.49,
+      542.11,
+      641.24
+    ],
+    "text": "Learned District Judge has come to the aforesaid conclusion despite the fact",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.13,
+      653.32,
+      543.27,
+      669.06
+    ],
+    "text": "that there had been an application seeking to add the Land Reform Commission a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.94,
+      680.44,
+      542.64,
+      696.18
+    ],
+    "text": "party to the action. The said application had been filed by its petition dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.1,
+      708.05,
+      542.79,
+      723.79
+    ],
+    "text": "24.11.1997 and the minute bearing number 54 had been made to that effect on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.07,
+      735.65,
+      542.41,
+      751.4
+    ],
+    "text": "25.11.1997. Therefore, it is clear that the impugned judgment has been pronounced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.06,
+      30.93,
+      342.32,
+      47.83
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.01,
+      67.27,
+      542.9,
+      83.28
+    ],
+    "text": "dismissing the action without making an order on the application made pending the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.94,
+      94.89,
+      473.8,
+      110.89
+    ],
+    "text": "judgment to add the Land Reform Commission as a party to the action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164.53,
+      150.32,
+      542.29,
+      166.33
+    ],
+    "text": "In the cases of Galagoda Vs mohideen, [40 NLR 92] Gunathilake Vs",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.760676383972168,
+      11.91197681427002,
+      11.947234153747559,
+      11.96279239654541,
+      12.0,
+      12.062636375427246,
+      12.300000190734863,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.29,
+      179.09,
+      544.39,
+      194.11
+    ],
+    "text": "Muriel Silva, [79(1) N.L.R. 481}, Kularatne Vs Ariyasena}, [2001 B L R .Pg.6}",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.019144058227539,
+      12.162531852722168,
+      12.281085968017578,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.01,
+      206.94,
+      542.05,
+      221.96
+    ],
+    "text": "Richard and another Vs Seibel Nona [2001 (2) SLR1} Abeysinghe Vs",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.760676383972168,
+      11.88303279876709,
+      12.281085968017578,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.02,
+      233.83,
+      543.1,
+      249.84
+    ],
+    "text": "Kumarasinghe [2008 B L R 300}, it was held that under Section 25 of the Partition",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.833342552185059,
+      12.0,
+      12.254817008972168,
+      12.300000190734863,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.14,
+      261.68,
+      543.4,
+      277.69
+    ],
+    "text": "Act, a duty is cast upon the trial Judge to investigate title of the parties in a partition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.854214668273926,
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.27,
+      289.27,
+      542.32,
+      305.28
+    ],
+    "text": "action. In this instance, both Counsel appearing for the appellant as well as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.95456314086914,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.9,
+      317.11,
+      542.5,
+      333.12
+    ],
+    "text": "respondent, submitted that an officer from the Land Reform Commission has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.88,
+      344.71,
+      542.18,
+      360.72
+    ],
+    "text": "testified in Court as to an inquiry held, to determine whether the land sought to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.839527130126953,
+      11.876514434814453,
+      11.95456314086914,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.94,
+      372.31,
+      542.56,
+      388.32
+    ],
+    "text": "partitioned belongs to the land Reform Commission or not. The said inquiry had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.93,
+      400.39,
+      398.94,
+      416.4
+    ],
+    "text": "been stayed due to the pendency of this partition action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163.87,
+      455.59,
+      542.37,
+      471.6
+    ],
+    "text": "Pursuant to the said evidence of the officer from the Land Reform",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.257389068603516
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.79,
+      483.43,
+      542.51,
+      499.44
+    ],
+    "text": "Commission, an application has been made to add the L R C as a party to the action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.95456314086914,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.8,
+      511.27,
+      542.28,
+      527.29
+    ],
+    "text": "and has sought permission of Court to file its statement of claim. It had not been",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.967391967773438,
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.82,
+      538.65,
+      541.76,
+      554.65
+    ],
+    "text": "looked into at all. Judgment has been delivered while pending the said application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.61,
+      566.47,
+      541.73,
+      582.48
+    ],
+    "text": "Both Counsel submit that it is wrong to have dismissed the action stating that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.83,
+      594.55,
+      541.86,
+      610.56
+    ],
+    "text": "land sought to be partitioned belongs to the Land Reform Commission when there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.67,
+      622.39,
+      541.86,
+      638.4
+    ],
+    "text": "was an application by the Land Reform Commission itself to become a party to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.82,
+      651.67,
+      161.76,
+      667.68
+    ],
+    "text": "action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163.61,
+      704.72,
+      542.48,
+      720.73
+    ],
+    "text": "In the circumstances, it is clear that the learned District Judge has not given",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.854214668273926,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.79,
+      732.55,
+      541.87,
+      748.56
+    ],
+    "text": "an opportunity for the Land Reform Commission to present its claim to Court. It",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.673919677734375,
+      11.780695915222168,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      334.18,
+      31.23,
+      342.88,
+      46.7
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.92,
+      67.15,
+      545.05,
+      83.02
+    ],
+    "text": "amounts to a failure on the part of the learned Trial Judge to perform his duty in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.76,
+      94.73,
+      325.65,
+      110.61
+    ],
+    "text": "terms of Section 25 of the Partition Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.655130386352539,
+      11.899999618530273,
+      12.206210136413574,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.88,
+      149.94,
+      545.39,
+      165.82
+    ],
+    "text": "For the aforesaid reasons, the judgment dated 18.12.1997 of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.98,
+      177.55,
+      544.44,
+      193.42
+    ],
+    "text": "District Judge is set aside. Learned District Judge of Matugama is directed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.790092468261719,
+      11.804718971252441,
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.68,
+      205.15,
+      545.82,
+      221.02
+    ],
+    "text": "consider the application dated 24.11.1997 made by the Land Reform Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.68,
+      233.0,
+      400.52,
+      248.87
+    ],
+    "text": "and to proceed with the action from that point onwards.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      166.83,
+      287.95,
+      477.79,
+      303.82
+    ],
+    "text": "Subject to the above directions, appeal is allowed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202.5,
+      344.78,
+      349.48,
+      359.07
+    ],
+    "text": "Appeal allowed without costs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311.49,
+      426.36,
+      520.58,
+      442.43
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.73,
+      454.98,
+      155.57,
+      470.85
+    ],
+    "text": "Jmr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  }
+]

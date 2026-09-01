@@ -1,0 +1,2043 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      52.97,
+      39.96,
+      61.06,
+      53.29
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.3,
+      71.76,
+      470.1,
+      84.95
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.914527893066406,
+      9.138928413391113,
+      9.23360824584961,
+      9.242804527282715,
+      9.372095108032227,
+      9.421286582946777,
+      9.44144058227539,
+      9.494216918945312,
+      9.519462585449219,
+      9.5515775680542,
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.86,
+      121.2,
+      414.23,
+      140.63
+    ],
+    "text": "C.A.No. 926/96(F) .A. K.Gunapala de Silva",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.52,
+      144.95,
+      394.91,
+      158.14
+    ],
+    "text": "LC10 Airport Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.379569053649902,
+      9.600000381469727,
+      9.864165306091309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.73,
+      170.64,
+      375.87,
+      183.83
+    ],
+    "text": "Anuradhapura",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.46,
+      196.07,
+      407.53,
+      209.26
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.637028694152832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.66,
+      220.6,
+      320.12,
+      236.35
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.671265602111816
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.98,
+      175.91,
+      181.81,
+      189.1
+    ],
+    "text": "D.C.Anuradhapura 14607 /L",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.086141586303711
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.85,
+      381.84,
+      95.69,
+      395.03
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.198190689086914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.87,
+      433.19,
+      104.37,
+      446.38
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.368457794189453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      60.73,
+      484.31,
+      118.05,
+      497.5
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.393427848815918,
+      9.481063842773438
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.47,
+      510.0,
+      119.49,
+      523.19
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.373682975769043,
+      9.393427848815918
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.28,
+      560.77,
+      146.45,
+      574.06
+    ],
+    "text": "Sunil Rajapakse J.,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.09,
+      378.75,
+      245.32,
+      392.15
+    ],
+    "text": "A.W.A. Salam J.,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.44,
+      404.1,
+      252.58,
+      417.84
+    ],
+    "text": "Sunil Rajapakse J.,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.13,
+      247.2,
+      430.25,
+      260.39
+    ],
+    "text": "W.G.H.Leelaratne de Silva",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.15,
+      272.39,
+      445.79,
+      285.58
+    ],
+    "text": "No. 44 Twin Houses, L.S.Road",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.712886810302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.37,
+      299.03,
+      378.51,
+      312.22
+    ],
+    "text": "Anuradhapura",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.1,
+      324.23,
+      410.92,
+      337.42
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.702157020568848
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.3,
+      427.68,
+      493.72,
+      440.87
+    ],
+    "text": "Dr. Sunil Cooray with Sudharshan Cooray for the Defendant Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.60200023651123,
+      9.739782333374023,
+      9.969779014587402,
+      9.974832534790039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.79,
+      453.36,
+      483.77,
+      466.55
+    ],
+    "text": "L.M.K.Arulanandan P.C., with A.de Silva for the Plaintiff Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.557656288146973,
+      9.600000381469727,
+      9.68016529083252,
+      9.739782333374023,
+      9.969779014587402,
+      9.974832534790039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.17,
+      482.15,
+      222.46,
+      495.34
+    ],
+    "text": "12.02.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.65,
+      507.84,
+      222.94,
+      521.03
+    ],
+    "text": "18.06.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      98.32,
+      581.84,
+      535.61,
+      598.6
+    ],
+    "text": "This is a rei vindicatio action filed in the District Court on 17.11.1992,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.7,
+      607.99,
+      536.13,
+      624.76
+    ],
+    "text": "against the Defendant praying inter alia, to have the Plaintiff Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.260300636291504,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.34,
+      633.92,
+      536.69,
+      650.68
+    ],
+    "text": "(hereinafter referred t as \"the Plaintiff\") declared the lawful permit holder of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.745379447937012,
+      12.199999809265137,
+      12.269800186157227,
+      12.340145111083984,
+      12.363750457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.04,
+      659.35,
+      537.17,
+      676.12
+    ],
+    "text": "property described in the schedule to the Plaint and for the ejectment of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.335991859436035,
+      12.363750457763672,
+      12.503231048583984,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.72,
+      689.6,
+      131.05,
+      706.36
+    ],
+    "text": "Defendant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.28,
+      25.57,
+      65.37,
+      38.9
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.56,
+      59.85,
+      529.59,
+      76.61
+    ],
+    "text": "The Plaintiff claimed that the Government Agent, Anuradhapura, leased out",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.17742919921875,
+      12.199999809265137,
+      12.312233924865723,
+      12.531593322753906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.3,
+      85.77,
+      530.08,
+      102.53
+    ],
+    "text": "the said land to him on 04.06.1981. Further he contended that the Plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.466832160949707,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.28,
+      111.67,
+      529.48,
+      128.44
+    ],
+    "text": "Respondent is the lawful permit holder of this land. After the trial learned District",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.255622863769531,
+      12.281476974487305,
+      12.349187850952148,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.51,
+      137.35,
+      530.29,
+      154.12
+    ],
+    "text": "Judge, by his Judgment dated 13.11.1996 had declared that the Plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.164447784423828,
+      12.165752410888672,
+      12.199999809265137,
+      12.255622863769531,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.52,
+      163.28,
+      530.02,
+      180.04
+    ],
+    "text": "Respondent was the lawful permit holder of the land described in the schedule to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.21993350982666,
+      12.255622863769531,
+      12.309557914733887,
+      12.402912139892578,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.02,
+      190.88,
+      117.82,
+      207.65
+    ],
+    "text": "the Plaint.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.55,
+      224.72,
+      530.73,
+      241.48
+    ],
+    "text": "Being aggrieved by the Judgment of the District Court the Defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.57,
+      250.88,
+      529.74,
+      267.65
+    ],
+    "text": "Appellant appealed to this Court where this appeal was taken up for argument on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.503231048583984,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.37,
+      276.57,
+      531.22,
+      293.33
+    ],
+    "text": "12.02.2013, the learned Counsel for the Plaintiff Respondent raised a preliminary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.17,
+      302.47,
+      530.93,
+      319.24
+    ],
+    "text": "objection regarding the maintainability of this appeal. The objection was that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.270496368408203,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.0,
+      328.17,
+      530.75,
+      344.93
+    ],
+    "text": "validity of document marked (P1) produced by the Plaintiff cannot be challenge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.051547050476074,
+      12.185240745544434,
+      12.199999809265137,
+      12.255622863769531,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.25,
+      354.08,
+      532.3,
+      370.84
+    ],
+    "text": "for the first time in the appeal. Further the Plaintiff contended that this matter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.246063232421875,
+      12.251142501831055,
+      12.255622863769531,
+      12.401732444763184,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.01,
+      379.77,
+      531.45,
+      396.53
+    ],
+    "text": "has not been urged in the District Court. The Plaintiff Respondent's main",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.012864112854004,
+      12.199999809265137,
+      12.230661392211914,
+      12.255622863769531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.88,
+      405.91,
+      535.16,
+      422.68
+    ],
+    "text": "objection was that the Appellant had sought to raise a new point which was not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.317483901977539,
+      12.531593322753906,
+      12.536995887756348,
+      12.874788284301758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.49,
+      431.61,
+      531.74,
+      448.37
+    ],
+    "text": "raised at the trial. Therefore, the Respondent had objected to the new issues",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.669708251953125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.74,
+      459.2,
+      171.74,
+      475.96
+    ],
+    "text": "raised at this stage.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.4,
+      493.27,
+      533.36,
+      510.04
+    ],
+    "text": "In this case the Defendant Appellant's contention was that the document",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90964412689209,
+      12.06222152709961,
+      12.199999809265137,
+      12.466832160949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.2,
+      518.96,
+      533.0,
+      535.72
+    ],
+    "text": "marked as \"P1\" is not a valid document. The Defendant Appellant has taken up",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49275016784668,
+      11.654138565063477,
+      12.093737602233887,
+      12.199999809265137,
+      12.394844055175781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.9,
+      544.88,
+      532.74,
+      561.65
+    ],
+    "text": "the position that the permit issued is a lease and the Government Agent had no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.186842918395996,
+      12.199999809265137,
+      12.255622863769531,
+      12.388740539550781,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.33,
+      570.57,
+      533.85,
+      587.33
+    ],
+    "text": "statutory power or authority to issue such a permit (P1). The Plaintiff respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.309557914733887,
+      12.342122077941895,
+      12.373614311218262,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.93,
+      596.47,
+      534.92,
+      613.24
+    ],
+    "text": "replying to the Defendant Appellant's argument contended that this issue is a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.531593322753906,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.16,
+      622.17,
+      533.98,
+      638.93
+    ],
+    "text": "mixed question of law and fact and cannot be raised in appeal for the first time.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.185240745544434,
+      12.199999809265137,
+      12.255622863769531,
+      12.503231048583984,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.6,
+      648.08,
+      533.81,
+      664.84
+    ],
+    "text": "The Appellant in his submission has taken up the position that this new ground is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.093737602233887,
+      12.17742919921875,
+      12.199999809265137,
+      12.247407913208008,
+      12.255622863769531,
+      12.466832160949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.27,
+      673.76,
+      494.74,
+      690.52
+    ],
+    "text": "a pure question of law and that can be taken up for the first time in appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.149796485900879,
+      12.185240745544434,
+      12.199999809265137,
+      12.255622863769531,
+      12.36325740814209,
+      12.531593322753906,
+      12.594860076904297,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.76,
+      31.73,
+      64.41,
+      45.34
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94.96,
+      65.35,
+      528.65,
+      82.12
+    ],
+    "text": "The proceedings before the District Court clearly revealed that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.13,
+      91.28,
+      528.94,
+      108.04
+    ],
+    "text": "Appellant failed to raise issue regarding this point at the District Court. Therefore,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.215240478515625,
+      12.242674827575684,
+      12.335991859436035,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.3,
+      117.67,
+      404.84,
+      134.44
+    ],
+    "text": "the said issue had not been considered by the District Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.165752410888672,
+      12.199999809265137,
+      12.313026428222656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.36,
+      152.71,
+      529.77,
+      169.48
+    ],
+    "text": "After considering submission and documents of both parties, court holds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.207148551940918,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.02,
+      178.65,
+      529.62,
+      195.41
+    ],
+    "text": "that only pure question of law considered for the first time in appeal. If this issue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.218535423278809,
+      12.308914184570312,
+      12.336288452148438,
+      12.36325740814209,
+      12.410975456237793,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      204.56,
+      529.6,
+      221.33
+    ],
+    "text": "had been raised in the District Court the Plaintiff Respondent could have an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02154541015625,
+      12.186842918395996,
+      12.199999809265137,
+      12.255622863769531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.92,
+      230.47,
+      530.56,
+      247.24
+    ],
+    "text": "opportunity to lead further evidence to demonstrate the validity of Pl, which was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.22836685180664,
+      12.255622863769531,
+      12.44381332397461,
+      12.536995887756348,
+      12.53957462310791,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.76,
+      256.16,
+      530.51,
+      272.92
+    ],
+    "text": "produced by the Respondent .. At this stage the Court of Appeal is not possessed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.761624336242676,
+      11.846735000610352,
+      12.199999809265137,
+      12.255622863769531,
+      12.256668090820312,
+      12.313026428222656,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.64,
+      281.85,
+      531.71,
+      298.61
+    ],
+    "text": "of all the evidence before it to decide the issue. The Respondent's contention",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.50035285949707,
+      12.669708251953125,
+      12.919154167175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.75,
+      307.77,
+      531.23,
+      324.53
+    ],
+    "text": "was whether Pl is a valid permit or not, is positively a question of mixed facts and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.654138565063477,
+      12.199999809265137,
+      12.23554801940918,
+      12.373614311218262,
+      12.388740539550781,
+      12.635526657104492,
+      12.866730690002441
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.49,
+      333.67,
+      532.51,
+      350.44
+    ],
+    "text": "law. Further the Respondent contended that the Appellant had failed to raise this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.401732444763184,
+      12.402912139892578
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.72,
+      359.6,
+      533.21,
+      376.37
+    ],
+    "text": "issue in the District Court. Therefore a new point which was not raised in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.266468048095703,
+      12.313026428222656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.84,
+      385.52,
+      532.58,
+      402.28
+    ],
+    "text": "original Court cannot be raised for the first time in appeal. The learned Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.069704055786133,
+      12.199999809265137,
+      12.304800033569336,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.93,
+      411.21,
+      533.48,
+      427.97
+    ],
+    "text": "for the Defendant Appellant also in his written submissions admitted that these",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.394844055175781,
+      12.401732444763184,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      61.92,
+      438.57,
+      346.75,
+      455.33
+    ],
+    "text": "matters had not been urged in the District Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.335794448852539,
+      12.394844055175781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.08,
+      472.89,
+      535.09,
+      489.65
+    ],
+    "text": "In this case the court holds that the question raised by the Defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90964412689209,
+      12.06222152709961,
+      12.199999809265137,
+      12.37957763671875,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.18,
+      499.04,
+      536.46,
+      515.81
+    ],
+    "text": "Appellant is not a pure question of law, but it is mixed with the facts. Hence it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      11.846735000610352,
+      12.199999809265137,
+      12.313026428222656,
+      12.33643627166748,
+      12.50035285949707,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.74,
+      526.17,
+      316.42,
+      542.93
+    ],
+    "text": "cannot be raised in appeal for the first time.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.069704055786133,
+      12.199999809265137,
+      12.594860076904297
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.28,
+      559.99,
+      535.46,
+      576.76
+    ],
+    "text": "In this regard I wish to cite the following authorities: Somawathie vs",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.309235572814941,
+      11.899999618530273,
+      11.90964412689209,
+      12.199999809265137,
+      12.2164888381958,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.35,
+      587.84,
+      321.57,
+      604.6
+    ],
+    "text": "Wilmon 2001 ........ SLR page 128, it was hid :",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.127124786376953,
+      11.899999618530273,
+      12.199999809265137,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.25,
+      622.24,
+      538.03,
+      691.15
+    ],
+    "text": "\"A new ground cannot be considered for the first time in appeal if the said new ground has not been raised at the trial under the issues so framed. However, the appellate court considers a point raised for the first time in appeal if the following requirements are fulfilled;",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.582979202270508,
+      12.714937210083008,
+      12.885605812072754,
+      13.199999809265137,
+      13.234853744506836,
+      13.267129898071289,
+      13.269317626953125,
+      13.33689022064209,
+      13.357707977294922,
+      13.404072761535645,
+      13.473663330078125,
+      13.490209579467773,
+      13.545673370361328,
+      13.56193733215332,
+      13.743413925170898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.04,
+      27.86,
+      65.54,
+      41.2
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.0,
+      64.38,
+      530.2,
+      80.62
+    ],
+    "text": "a) The question raised for the first time in appeal is a pure question of law",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.877644538879395,
+      12.897664070129395,
+      12.934322357177734,
+      13.253368377685547,
+      13.300000190734863,
+      14.063959121704102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.74,
+      82.14,
+      530.32,
+      115.18
+    ],
+    "text": "is not a mix of law and facts b) The question raised for the first time in appeal is an issue be forwarded",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.897664070129395,
+      12.934322357177734,
+      13.097610473632812,
+      13.169206619262695,
+      13.28969669342041,
+      13.300000190734863,
+      13.340139389038086,
+      13.361906051635742,
+      13.439815521240234,
+      14.479728698730469
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.74,
+      116.23,
+      529.55,
+      149.5
+    ],
+    "text": "in the court below, under one of the issues raised, and c) The court which hears the appeal has before it all the material that is",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.741002082824707,
+      12.897664070129395,
+      12.934322357177734,
+      13.169206619262695,
+      13.300000190734863,
+      13.317289352416992,
+      14.61567497253418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.76,
+      150.79,
+      292.08,
+      167.03
+    ],
+    "text": "required to decide the question",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.68,
+      177.21,
+      529.24,
+      193.97
+    ],
+    "text": "Similar question whether a new point could be raised for the first time in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.075919151306152,
+      12.185240745544434,
+      12.199999809265137,
+      12.215240478515625,
+      12.297510147094727,
+      12.503231048583984
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.19,
+      203.11,
+      529.49,
+      219.88
+    ],
+    "text": "appeal came up for consideration in Arulampikai vs Thambu (1944) 45 NLR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.565446853637695,
+      11.856566429138184,
+      12.199999809265137,
+      12.594860076904297
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.8,
+      228.36,
+      530.38,
+      245.83
+    ],
+    "text": "457 Soertsz J., has held that the Supreme Court may decide a case upon",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.001129150390625,
+      12.093737602233887,
+      12.199999809265137,
+      12.401732444763184,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.56,
+      254.96,
+      530.0,
+      271.73
+    ],
+    "text": "points raised for the first time in appeal, where the point might have been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.22337818145752,
+      12.24327278137207,
+      12.246063232421875,
+      12.255622863769531,
+      12.266468048095703,
+      12.335991859436035,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.56,
+      280.65,
+      530.69,
+      297.41
+    ],
+    "text": "put forward in the court below under one of the issues raised and there the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.28093147277832,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.38,
+      306.57,
+      529.85,
+      323.33
+    ],
+    "text": "Court has before it all the material upon which the question could be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.012864112854004,
+      12.069704055786133,
+      12.199999809265137,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.44,
+      333.21,
+      144.64,
+      349.97
+    ],
+    "text": "decided.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.26,
+      368.23,
+      530.67,
+      384.99
+    ],
+    "text": "Further in Weerasinghe Gunawardena vs A. Ralph Senake",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.096379280090332,
+      11.699999809265137,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.55,
+      394.17,
+      531.3,
+      410.93
+    ],
+    "text": "Deraniyagala and others S.C.Appeal No. 44/2006 decided on 03.06.2010",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.199999809265137,
+      12.231010437011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.8,
+      419.83,
+      530.32,
+      436.6
+    ],
+    "text": "held that the Court of Appeal had correctly refrained from considering an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02154541015625,
+      12.199999809265137,
+      12.276162147521973,
+      12.336288452148438,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.8,
+      445.77,
+      531.81,
+      462.53
+    ],
+    "text": "issue that was raised for the first time in appeal which was at most a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.304800033569336,
+      12.401732444763184,
+      12.503231048583984
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.68,
+      472.39,
+      281.48,
+      489.16
+    ],
+    "text": "question of mixed law and facts.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.09,
+      507.67,
+      531.54,
+      524.44
+    ],
+    "text": "After analyzing the above authorities and submissions made by both",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.165752410888672,
+      12.199999809265137,
+      12.281476974487305
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.04,
+      533.6,
+      531.7,
+      550.37
+    ],
+    "text": "parties, the Court holds that the Plaintiff Respondent has not urged this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.093737602233887,
+      12.199999809265137,
+      12.313026428222656,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.04,
+      559.27,
+      532.53,
+      576.04
+    ],
+    "text": "issues before the District Court and therefore the Court of Appeal does not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.230661392211914,
+      12.273876190185547,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.04,
+      585.2,
+      531.79,
+      601.96
+    ],
+    "text": "have all the material before it that is required to decide the question. This",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.255622863769531,
+      12.401732444763184,
+      12.465705871582031,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.29,
+      610.89,
+      531.23,
+      627.65
+    ],
+    "text": "issue was raised by the Defendant Appellant as a question of mixed law and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.745379447937012,
+      12.199999809265137,
+      12.255622863769531,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.76,
+      636.8,
+      533.24,
+      653.57
+    ],
+    "text": "facts. Further Court holds that the points raised by the Appellant is not a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.313026428222656,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.52,
+      662.23,
+      532.89,
+      679.0
+    ],
+    "text": "pure question of law. The issue is the only issue raised by the Defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.255622863769531,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.05,
+      688.17,
+      522.54,
+      704.93
+    ],
+    "text": "Appellant in this appeal. There is no other grounds to argue in this matter.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.302370071411133,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      17.32,
+      12.12,
+      66.53,
+      31.3
+    ],
+    "text": "5 ,\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.399999618530273,
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.04,
+      47.22,
+      530.05,
+      63.85
+    ],
+    "text": "Therefore, Court upholds that the Plaintiff Respondent's preliminary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.124725341796875,
+      12.350800514221191
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.72,
+      73.87,
+      293.37,
+      90.5
+    ],
+    "text": "objection and dismiss the appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.124725341796875
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.28,
+      109.38,
+      330.22,
+      126.01
+    ],
+    "text": "The appeal is dismissed with costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.606277465820312,
+      12.100000381469727,
+      12.285774230957031
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      274.47,
+      153.54,
+      443.99,
+      170.17
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.124725341796875,
+      12.449016571044922,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.95,
+      198.86,
+      144.18,
+      215.53
+    ],
+    "text": "Sa lam J.,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.973402976989746,
+      11.566450119018555,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      202.71,
+      234.43,
+      247.48,
+      251.06
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      274.95,
+      278.34,
+      444.47,
+      294.97
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.124725341796875,
+      12.583635330200195,
+      12.716780662536621
+    ]
+  }
+]

@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_11:19:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--01_22:38:54-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**16,900** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.5 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**16,917** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.6 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
-- In **JSON**, **PDF** (95%), **TXT** (95%) & **🤗 Hugging Face** (95%)
+- In **JSON**, **PDF** (96%), **TXT** (96%) & **🤗 Hugging Face** (96%)
 
 - In **English**
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2026-09-25 | `CA/WRT/383/2018` | Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-25-CA-WRT-383-2018)
 - 2026-09-02 | `CA/HCC/ 0226-0228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-02-CA-HCC--0226-0228-2019)
+- 2026-09-01 | `CA/HCC/ 0005/2025` | Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-01-CA-HCC--0005-2025)
 - 2026-08-31 | `CA/HCC/0248/2025` | Democratic Socialist Republic of Sri Lanka. Vs. Yugeeth Ibrahim Democratic Socialist Republic of Sri Lanka. Vs. Yugeeth Ibrahim View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-HCC-0248-2025)
 - 2026-08-31 | `CA/HCC/0219/2023` | Mannapperuma Mudiyanselage Susil Bandara alias Gamini Vs. The Hon. Attorney General Mannapperuma Mudiyanselage Susil Bandara alias Gamini Vs. The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-HCC-0219-2023)
 - 2026-08-31 | `CA/HCC/0086/2025` | Kuruppu Appuhamilage Anuradha Hemanthi Wijerathne Vs. The Hon. Attorney General, Kuruppu Appuhamilage Anuradha Hemanthi Wijerathne Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-HCC-0086-2025)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-08-25 | `CA /RII/0037/2024` | Prime Lands Private Limited vs Deban Kankanamlage Premawathie Perera and others Prime Lands Private Limited vs Deban Kankanamlage Premawathie Perera and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-25-CA--RII-0037-2024)
 - 2026-08-07 | `CA/WRT/343/2022` | Dr. Iromi Nisansala Manike Ariyaratne, Vs. University of Peradeniya, Peradeniya. & Others Dr. Iromi Nisansala Manike Ariyaratne, Vs. University of Peradeniya, Peradeniya. & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WRT-343-2022)
 - 2026-08-07 | `CA/WRT/0711/2023` | Punchi Bandage Sarath Gamini Herath Vs. Mahaweli Authority of Sri Lanka and 17 others. Punchi Bandage Sarath Gamini Herath Vs. Mahaweli Authority of Sri Lanka and 17 others. View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WRT-0711-2023)
-- 2026-08-07 | `CA/WKF/03/2025` | Mohamed Usman Abubakkar of Buhary Mosque and Madrasa, Weligama and Others Vs M.T.M Areel and Others Mohamed Usman Abubakkar of Buhary Mosque and Madrasa, Weligama and Others Vs M.T.M Areel and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WKF-03-2025)
 
 ---
 

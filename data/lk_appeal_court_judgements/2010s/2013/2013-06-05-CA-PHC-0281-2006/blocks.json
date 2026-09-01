@@ -1,0 +1,504 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      120.59,
+      442.35,
+      253.64
+    ],
+    "text": "C.A. (PHC) No.281/06 P.H.C.Galle /Writ/182/2003 01. D. Adiris 02. D. Jayarathna 03. D. Chandana Weerarathna All Are",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      259.28,
+      389.76,
+      351.92
+    ],
+    "text": "Bogodawatte Nalawana, Kananke, Kodaweediya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      357.44,
+      425.55,
+      447.79
+    ],
+    "text": "Appellants Vs. 01. Secretory,",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      448.64,
+      501.39,
+      481.99
+    ],
+    "text": "02. Provincial Director of Health Services",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      482.84,
+      545.93,
+      675.97
+    ],
+    "text": "03. Deputy Provincial Director of Health Services All Are Ministry of Health, Southern Province, Department of Health Services, Fort, Matara.",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      681.61,
+      438.87,
+      695.65
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.68,
+      91.19,
+      204.71,
+      107.12
+    ],
+    "text": "C.A. (PHC) No.281/06",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.30364990234375,
+      11.5,
+      12.318754196166992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.75,
+      141.12,
+      114.05,
+      156.32
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.401899337768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.91,
+      191.03,
+      124.58,
+      206.23
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.837841033935547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.54,
+      240.71,
+      142.93,
+      255.91
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.583474159240723,
+      12.248334884643555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.98,
+      263.51,
+      140.47,
+      278.71
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.612567901611328,
+      11.978996276855469
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.54,
+      309.38,
+      166.68,
+      325.58
+    ],
+    "text": "A.W.A.Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.92,
+      91.43,
+      461.77,
+      107.36
+    ],
+    "text": "P.H.C.Galle /Writ/182/2003",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      12.433049201965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.98,
+      141.12,
+      365.17,
+      156.32
+    ],
+    "text": "A.W.A .. Salam,J. and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.88359260559082,
+      12.248334884643555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.89,
+      166.07,
+      352.09,
+      181.27
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.835530281066895,
+      11.860931396484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.02,
+      191.03,
+      443.49,
+      206.23
+    ],
+    "text": "Appellant absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.678351402282715,
+      11.924675941467285,
+      12.126312255859375,
+      12.248334884643555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.47,
+      215.76,
+      468.05,
+      230.96
+    ],
+    "text": "M.Wickramanayake S.C. for Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.691911697387695,
+      11.754149436950684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.39,
+      263.51,
+      304.33,
+      278.71
+    ],
+    "text": "05.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.874715805053711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.33,
+      355.43,
+      536.08,
+      370.63
+    ],
+    "text": "Notice has been issued on the appellant calling for the deposit of the brief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.545077323913574,
+      11.678546905517578,
+      11.706334114074707,
+      11.811570167541504,
+      11.867561340332031,
+      11.883976936340332,
+      11.906689643859863,
+      11.96738052368164,
+      11.969714164733887,
+      12.05611801147461,
+      12.38011646270752
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.91,
+      381.12,
+      534.87,
+      396.32
+    ],
+    "text": "fees. For failure on the part of the appellant to deposit the brief fees, this appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.565104484558105,
+      11.663162231445312,
+      11.728466987609863,
+      11.762486457824707,
+      11.775079727172852,
+      11.813549041748047,
+      11.849440574645996,
+      11.867561340332031,
+      11.883976936340332,
+      11.969714164733887,
+      12.020180702209473,
+      12.05611801147461,
+      12.189791679382324
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.02,
+      407.28,
+      190.53,
+      422.48
+    ],
+    "text": "now stands rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.559188842773438,
+      11.70034408569336,
+      12.153826713562012
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.73,
+      479.02,
+      465.44,
+      494.95
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.09,
+      514.82,
+      193.16,
+      531.02
+    ],
+    "text": "Sunil Rajapakshe,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.802451133728027,
+      12.010382652282715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.2,
+      550.79,
+      155.5,
+      565.99
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.583227157592773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.97,
+      586.06,
+      465.44,
+      601.99
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.510295867919922,
+      11.517436981201172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.0,
+      622.79,
+      106.4,
+      637.99
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.88690185546875
+    ]
+  }
+]

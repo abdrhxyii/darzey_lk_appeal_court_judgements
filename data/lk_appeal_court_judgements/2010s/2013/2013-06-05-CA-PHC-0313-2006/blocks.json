@@ -1,0 +1,505 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      120.59,
+      199.3,
+      175.01
+    ],
+    "text": "C.A. (PHC) No.313/06 H.C. Kandy No.23/06",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      178.01,
+      437.79,
+      251.0
+    ],
+    "text": "R. Somapala Rajapaksha No: 1133/1, Sarasavi Uyana Mawatha, Peradeniya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      272.12,
+      511.59,
+      423.7
+    ],
+    "text": "Appellant Vs. Mohomed Shariff Mohomed Musthafa Acting Registrar, University of Peradeniya.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      429.34,
+      433.23,
+      443.38
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.23,
+      141.69,
+      203.27,
+      157.48
+    ],
+    "text": "C.A. (PHC) No.313/06",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.265076637268066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.31,
+      191.16,
+      112.59,
+      206.5
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.47,
+      241.33,
+      122.88,
+      256.67
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.85696029663086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      291.0,
+      141.45,
+      306.34
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.707085609436035,
+      12.228477478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.54,
+      314.04,
+      139.03,
+      329.38
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.630558967590332,
+      12.031421661376953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.1,
+      359.85,
+      165.28,
+      375.64
+    ],
+    "text": "A.W.A.Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.472518920898438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.49,
+      142.42,
+      444.14,
+      158.21
+    ],
+    "text": "H.C.Kandy No.23/06~26'",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.770096302032471,
+      11.521601676940918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.54,
+      191.16,
+      363.45,
+      206.5
+    ],
+    "text": "A.W.A .. Salam,J. and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.431696891784668,
+      11.5,
+      11.935600280761719,
+      12.228477478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.45,
+      216.12,
+      350.96,
+      231.46
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.887327194213867,
+      11.91283893585205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.58,
+      241.33,
+      442.06,
+      256.67
+    ],
+    "text": "Appellant absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.729460716247559,
+      11.9945650100708,
+      12.138712882995605,
+      12.228477478027344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.95,
+      313.8,
+      302.89,
+      329.14
+    ],
+    "text": "05.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.926684379577637
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.89,
+      405.49,
+      533.85,
+      420.83
+    ],
+    "text": "Notice issued on the appellant has been returned with the endorsement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.864328384399414,
+      11.935985565185547,
+      11.958797454833984,
+      11.99168872833252,
+      12.022098541259766,
+      12.031421661376953,
+      12.06168270111084,
+      12.108880996704102,
+      12.126532554626465,
+      12.356317520141602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.66,
+      431.4,
+      533.86,
+      446.74
+    ],
+    "text": "stating that no residence is found by the assessment number given down Sarasavi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.745137214660645,
+      11.765290260314941,
+      11.789554595947266,
+      11.8165922164917,
+      11.905935287475586,
+      11.915252685546875,
+      11.932757377624512,
+      11.989291191101074,
+      12.022098541259766,
+      12.152253150939941,
+      12.20192813873291,
+      12.357760429382324
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.59,
+      457.33,
+      533.3,
+      472.67
+    ],
+    "text": "Uyana Mawatha, Peradeniya. The appellant has so far not informed any change",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.611706733703613,
+      11.751988410949707,
+      11.759766578674316,
+      11.787457466125488,
+      11.90197467803955,
+      11.907963752746582,
+      11.935985565185547,
+      12.08026123046875,
+      12.110733032226562,
+      12.113390922546387,
+      12.27241039276123,
+      12.356317520141602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.72,
+      483.24,
+      533.18,
+      498.58
+    ],
+    "text": "of address. For failure on the part of the appellant to deposit the brief fees, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.575005531311035,
+      11.729656219482422,
+      11.77979564666748,
+      11.813963890075684,
+      11.856184005737305,
+      11.863262176513672,
+      11.932708740234375,
+      11.934636116027832,
+      11.964469909667969,
+      12.022098541259766,
+      12.031421661376953,
+      12.176407814025879
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.71,
+      509.4,
+      240.06,
+      524.74
+    ],
+    "text": "appeal now stands dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.782822608947754,
+      11.815958976745605,
+      11.901298522949219,
+      12.248491287231445
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.29,
+      580.89,
+      464.05,
+      596.68
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.40539836883545,
+      11.428812980651855,
+      11.46725082397461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.65,
+      616.89,
+      191.75,
+      632.68
+    ],
+    "text": "Sunn Raiapakshe,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.681767463684082,
+      11.976093292236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.0,
+      652.2,
+      154.06,
+      667.54
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.633919715881348
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.53,
+      687.21,
+      464.29,
+      703.0
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.40539836883545,
+      11.46725082397461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.04,
+      723.73,
+      105.2,
+      739.07
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.889890670776367
+    ]
+  }
+]

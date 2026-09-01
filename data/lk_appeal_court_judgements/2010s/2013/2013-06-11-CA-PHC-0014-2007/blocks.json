@@ -1,0 +1,523 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      119.45,
+      200.02,
+      184.73
+    ],
+    "text": "CA (PHC) 14/2007 PHC (Kegalla) Rv.2450",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      190.37,
+      462.51,
+      302.72
+    ],
+    "text": "Gurusinghe Arachchige Podi Hamine Karadawatte, Aruggammana. Upaly Gamage",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      308.24,
+      456.63,
+      538.54
+    ],
+    "text": "Appellants Vs. Wijekodi Pathiraalage Kamalawathi Karadawatte, Aruggammana. Liyanage Anil Ranjith Karadawatte, Aruggammana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      544.18,
+      402.84,
+      558.22
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.34,
+      68.98,
+      176.61,
+      82.75
+    ],
+    "text": "CA(PHC)14/2007",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.27,
+      122.74,
+      126.33,
+      136.51
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.86,
+      176.5,
+      131.54,
+      190.27
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.79,
+      257.38,
+      148.14,
+      271.15
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.04,
+      311.13,
+      171.73,
+      324.9
+    ],
+    "text": "A.W.A. Salam, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.96,
+      123.69,
+      353.41,
+      137.46
+    ],
+    "text": "A.W.A. Salam, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.86,
+      150.57,
+      369.73,
+      164.34
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.07,
+      70.41,
+      514.35,
+      84.18
+    ],
+    "text": "PHC(Kegalla)Rv.2450",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.73,
+      176.65,
+      422.67,
+      191.35
+    ],
+    "text": "Appellant is present in person.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.643349647521973,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.2,
+      203.53,
+      435.48,
+      218.23
+    ],
+    "text": "Lochani Perera for the Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.42,
+      230.25,
+      444.91,
+      245.35
+    ],
+    "text": "J. Thilakaratne for the Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.66712760925293,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.1,
+      257.29,
+      328.66,
+      271.99
+    ],
+    "text": "11.06.2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.13,
+      337.93,
+      533.41,
+      352.64
+    ],
+    "text": "Counsel for the appellant moves to have the appeal withdrawn. Respondent has no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.624634742736816,
+      10.699999809265137,
+      10.776476860046387,
+      10.814190864562988,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.94,
+      367.21,
+      532.91,
+      381.92
+    ],
+    "text": "objection. The application for withdrawal of the appeal is allowed. Appellant has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.543861389160156,
+      10.699999809265137,
+      10.776476860046387,
+      10.814190864562988,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.18,
+      396.5,
+      532.67,
+      411.2
+    ],
+    "text": "deposited Rs.3564/- as brief fees. The receipt number is 1-22 74 0675. 1st respondent has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.91565227508545,
+      10.147537231445312,
+      10.160552024841309,
+      10.543861389160156,
+      10.6952486038208,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.07,
+      426.01,
+      533.21,
+      440.71
+    ],
+    "text": "paid Rs.1188/- as brief fees on receipt No.1 22 740676. The Registrar is directed to pay",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.160552024841309,
+      10.594781875610352,
+      10.6952486038208,
+      10.699999809265137,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.07,
+      455.28,
+      534.38,
+      469.99
+    ],
+    "text": "back the money deposited by the appellant is and the 1st respondent within a period of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.804856300354004,
+      10.354108810424805,
+      10.699999809265137,
+      10.703449249267578,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.51,
+      484.57,
+      532.98,
+      499.27
+    ],
+    "text": "two months from today. Appellant and the 1st respondent as advised to call over at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.91565227508545,
+      10.147537231445312,
+      10.699999809265137,
+      10.955304145812988,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.69,
+      513.84,
+      398.93,
+      528.55
+    ],
+    "text": "office on 14.08.2013 to collect the cheques. Appeal dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.71,
+      593.61,
+      487.64,
+      607.38
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0,
+      10.20352840423584,
+      10.31334114074707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.22,
+      631.77,
+      186.85,
+      645.54
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.51,
+      669.85,
+      123.96,
+      684.55
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.47,
+      698.01,
+      487.41,
+      711.78
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0,
+      10.20352840423584,
+      10.31334114074707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.56,
+      723.37,
+      109.72,
+      738.07
+    ],
+    "text": "Na/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  }
+]

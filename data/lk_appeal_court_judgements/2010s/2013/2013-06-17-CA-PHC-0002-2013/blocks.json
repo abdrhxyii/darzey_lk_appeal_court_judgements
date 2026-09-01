@@ -1,0 +1,462 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      120.59,
+      227.74,
+      175.01
+    ],
+    "text": "CA (PHC) 02/2013 PHC (Badulla) 86/2011 Rev",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      180.53,
+      421.59,
+      292.88
+    ],
+    "text": "Ramaiya Rasaiya No: 115, Collage View, Main Street, Guruthalawa.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      298.52,
+      456.03,
+      428.11
+    ],
+    "text": "Appellant Vs. Principal Thomas Vidyalaya, Guruthalawa.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      431.14,
+      513.99,
+      498.94
+    ],
+    "text": "Hon. Attorney General Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      504.58,
+      474.87,
+      518.62
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.69,
+      93.35,
+      173.83,
+      107.78
+    ],
+    "text": "CA(PHC)02/2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.85,
+      147.35,
+      124.25,
+      161.78
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.69,
+      228.47,
+      129.6,
+      242.9
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.08,
+      308.86,
+      147.09,
+      323.29
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.508746147155762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.61,
+      362.87,
+      170.09,
+      377.3
+    ],
+    "text": "A.W.A. Salam, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.57,
+      147.1,
+      350.81,
+      161.53
+    ],
+    "text": "A. W .A. Sal am, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.244695663452148,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.66,
+      173.98,
+      367.37,
+      188.41
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      377.76,
+      93.35,
+      509.06,
+      107.78
+    ],
+    "text": "PHC(Badulla)86/2011 Rev",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.81,
+      228.02,
+      410.39,
+      242.72
+    ],
+    "text": "Appellant present in person.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.643349647521973,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.67,
+      254.89,
+      441.72,
+      269.59
+    ],
+    "text": "S.A. Kulasooriya for the Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.345270156860352,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.48,
+      280.83,
+      465.51,
+      295.81
+    ],
+    "text": "Jayanetti for the 1st & 3rd Respondents.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.799753665924072,
+      8.71446418762207,
+      10.699999809265137,
+      10.899999618530273,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269.37,
+      308.12,
+      326.93,
+      323.06
+    ],
+    "text": "17.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.93,
+      389.53,
+      532.14,
+      404.23
+    ],
+    "text": "Counsel for the appellant moves to have this appeal withdrawn. Learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      10.814190864562988,
+      10.9070463180542,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.12,
+      418.81,
+      531.8,
+      433.52
+    ],
+    "text": "respondent has no objections. Application for withdrawal of the appeal is allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.543861389160156,
+      10.699999809265137,
+      10.720580101013184,
+      10.776476860046387,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.85,
+      448.57,
+      246.89,
+      463.27
+    ],
+    "text": "Appeal dismissed without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.824426651000977
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.18,
+      542.15,
+      186.65,
+      556.58
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.51,
+      568.82,
+      123.96,
+      583.52
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.33,
+      728.0,
+      109.99,
+      744.01
+    ],
+    "text": "Na/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.52,
+      514.78,
+      491.7,
+      529.21
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.833455085754395,
+      11.0811185836792
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.68,
+      621.82,
+      487.86,
+      636.25
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.833455085754395,
+      11.21224308013916
+    ]
+  }
+]

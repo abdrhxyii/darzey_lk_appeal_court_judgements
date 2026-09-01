@@ -1,0 +1,417 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      167.33
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA Case No. CA(TAX) 08/2013",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      170.33,
+      447.75,
+      269.84
+    ],
+    "text": "Noorani Estates Limited, P.O. Box 683481 A, Prince of Wales Avenue, ACL Polymers (Pvt) Limited, Colombo 14.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      272.96,
+      530.31,
+      423.7
+    ],
+    "text": "Appellant Vs. Commissioner General of Inland Revenue, Department of Inland Revenue, Sri Chittampalam A. Gardiner Mawatha, Colombo 02.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      426.82,
+      432.77,
+      440.86
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.07,
+      68.19,
+      194.97,
+      84.86
+    ],
+    "text": "C.A. Tax No 08/2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.57030200958252
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.38,
+      120.04,
+      116.11,
+      136.71
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.07,
+      185.55,
+      125.85,
+      202.23
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.38,
+      252.75,
+      143.43,
+      269.43
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.659235954284668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.42,
+      296.56,
+      186.93,
+      315.12
+    ],
+    "text": "Anil Gooneratne, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.461949348449707,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.66,
+      117.79,
+      296.28,
+      137.62
+    ],
+    "text": "Anil Gooneratne, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.614797592163086,
+      12.199999809265137,
+      12.232706069946289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.64,
+      139.86,
+      320.28,
+      159.69
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.614797592163086,
+      12.199999809265137,
+      12.268706321716309
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.13,
+      185.8,
+      367.67,
+      202.47
+    ],
+    "text": "Johana Corera for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.62,
+      208.11,
+      430.37,
+      224.79
+    ],
+    "text": "Priyantha Nawana DSG for the Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.551244735717773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.61,
+      252.99,
+      247.82,
+      269.66
+    ],
+    "text": "28 .. 06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.616582870483398,
+      12.337139129638672,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.07,
+      356.44,
+      517.26,
+      373.11
+    ],
+    "text": "Counsel for appellant moves to withdraw this appeal. Learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.65750789642334
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.38,
+      386.44,
+      516.72,
+      403.11
+    ],
+    "text": "DSG has no objection. Application for withdrawal of the appeal is allowed. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.45863151550293,
+      12.5,
+      12.517786979675293,
+      12.534801483154297,
+      12.555426597595215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.31,
+      416.91,
+      263.53,
+      433.59
+    ],
+    "text": "appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.663679122924805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.13,
+      433.92,
+      475.69,
+      478.32
+    ],
+    "text": "~~~l)V~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      31.716386795043945
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250.33,
+      469.19,
+      466.77,
+      494.46
+    ],
+    "text": "'Iui?c~ OF THE etJURT()p APPEAL",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.874555587768555,
+      12.5,
+      15.712836265563965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.4,
+      505.84,
+      211.41,
+      524.4
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.461949348449707,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.12,
+      536.19,
+      157.01,
+      552.86
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.62,
+      597.15,
+      113.51,
+      613.82
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.526322364807129
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      508.85,
+      739.58,
+      518.15,
+      756.12
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  }
+]

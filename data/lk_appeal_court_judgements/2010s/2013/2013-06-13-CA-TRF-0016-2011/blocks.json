@@ -1,0 +1,2874 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      14.27,
+      767.03,
+      16.88,
+      773.49
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.78,
+      34.04,
+      293.62,
+      46.96
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.91,
+      68.71,
+      521.34,
+      84.72
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.137956619262695,
+      12.218559265136719,
+      12.220081329345703,
+      12.226168632507324,
+      12.246763229370117,
+      12.270501136779785
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.93,
+      90.56,
+      327.07,
+      106.57
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.145566940307617,
+      12.152481079101562
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.87,
+      133.04,
+      442.6,
+      149.05
+    ],
+    "text": "M.C. Athambawa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.271381378173828
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.74,
+      155.59,
+      431.82,
+      171.6
+    ],
+    "text": "117, Saibo Road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.114603042602539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.34,
+      177.91,
+      428.55,
+      193.92
+    ],
+    "text": "Kalmunaikudy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.195605278015137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      417.3,
+      199.44,
+      467.16,
+      215.85
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.415804862976074
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.61,
+      222.56,
+      363.32,
+      238.57
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.83,
+      244.39,
+      416.99,
+      260.4
+    ],
+    "text": "MCA. Azeez",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.026371002197266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      345.34,
+      266.71,
+      438.64,
+      282.72
+    ],
+    "text": "Attorney-at-Law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.042723655700684
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.89,
+      289.51,
+      429.08,
+      305.52
+    ],
+    "text": "Saintamaruthu",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.249505996704102
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      345.54,
+      311.83,
+      401.61,
+      327.84
+    ],
+    "text": "Kalmunai",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.101966857910156
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      418.5,
+      332.88,
+      481.45,
+      349.29
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.615406036376953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      127.79,
+      379.52,
+      384.48,
+      395.53
+    ],
+    "text": "C.A. TRANSFER APPLICATION NO: 16/2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.1299467086792,
+      12.16392993927002,
+      12.192703247070312
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      127.86,
+      401.59,
+      331.07,
+      417.6
+    ],
+    "text": "HC (PROVINCIAL CIVIL APPEAL)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.079139709472656,
+      12.116484642028809,
+      12.3855562210083
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.33,
+      423.91,
+      298.41,
+      439.92
+    ],
+    "text": "No: EPfHCCA/KAI/153/2009",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.003549575805664
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.34,
+      445.27,
+      348.6,
+      461.28
+    ],
+    "text": "D.C.KALMUNAI CASE NO; 226/MISC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.134001731872559,
+      12.192703247070312
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      383.5,
+      464.96,
+      416.2,
+      480.97
+    ],
+    "text": "AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.365580558776855
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.47,
+      508.64,
+      446.19,
+      524.65
+    ],
+    "text": "M.C. Athambawa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.248869895935059
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.34,
+      530.71,
+      435.66,
+      546.72
+    ],
+    "text": "117, Saibo Road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.114603042602539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.18,
+      553.04,
+      432.39,
+      569.05
+    ],
+    "text": "Kalmunaikudy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.195605278015137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.91,
+      596.47,
+      531.54,
+      612.48
+    ],
+    "text": "PLAINTIFF-APPELLANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.93,
+      642.07,
+      368.0,
+      658.08
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.38,
+      663.19,
+      418.69,
+      679.2
+    ],
+    "text": "MCAAzeez",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.380905151367188
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.9,
+      685.04,
+      443.2,
+      701.05
+    ],
+    "text": "Attorney-at-Law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.042723655700684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.94,
+      33.38,
+      295.44,
+      46.72
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.89,
+      68.16,
+      428.83,
+      84.57
+    ],
+    "text": "Saintamaruthu",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.383069038391113
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.3,
+      90.73,
+      403.86,
+      107.14
+    ],
+    "text": "Kalmunai.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.32,
+      113.23,
+      518.37,
+      129.85
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.58,
+      157.38,
+      414.23,
+      174.0
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.21178150177002,
+      12.365339279174805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.59,
+      178.81,
+      529.05,
+      195.22
+    ],
+    "text": "In the matter of an application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.34277629852295,
+      12.36890697479248,
+      12.373976707458496,
+      12.741235733032227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.57,
+      201.13,
+      530.2,
+      217.54
+    ],
+    "text": "Transfer under section 46 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.593937873840332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.36,
+      223.93,
+      530.21,
+      240.34
+    ],
+    "text": "Judicature Act and section SA of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.570281028747559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.86,
+      246.25,
+      529.55,
+      262.66
+    ],
+    "text": "High Court of the Provinces (Special",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.34277629852295,
+      12.491361618041992,
+      12.504254341125488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.87,
+      268.57,
+      529.88,
+      284.98
+    ],
+    "text": "Provision) Act No.19 of 1990 as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.14,
+      291.13,
+      486.75,
+      307.54
+    ],
+    "text": "Amended by Act No.54 of 2006.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.378151893615723,
+      12.494216918945312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.02,
+      335.76,
+      444.76,
+      352.18
+    ],
+    "text": "M.C. Athambawa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.423827171325684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.65,
+      358.08,
+      427.95,
+      374.49
+    ],
+    "text": "11, Saibo Road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.26,
+      380.65,
+      430.72,
+      397.06
+    ],
+    "text": "Kalmunaikudy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.365525245666504
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.29,
+      491.11,
+      365.36,
+      507.12
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      382.71,
+      425.22,
+      528.69,
+      441.84
+    ],
+    "text": "PLAINTIFF-APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      382.71,
+      447.07,
+      462.7,
+      463.69
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.74,
+      535.44,
+      416.05,
+      551.85
+    ],
+    "text": "MCAAzeez",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.534710884094238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.02,
+      557.52,
+      440.28,
+      573.93
+    ],
+    "text": "Attorney-at-Law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.57,
+      579.84,
+      430.76,
+      596.25
+    ],
+    "text": "Saintamaruthu",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.401729583740234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.22,
+      602.16,
+      403.26,
+      618.57
+    ],
+    "text": "Kalmunai",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.48,
+      646.26,
+      521.19,
+      662.88
+    ],
+    "text": "DEFENDANT -RESPONDENT-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.7,
+      667.86,
+      437.43,
+      684.48
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -1.66,
+      770.06,
+      29.19,
+      854.84
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      61.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.2,
+      33.34,
+      300.07,
+      47.35
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.74,
+      68.05,
+      425.95,
+      86.2
+    ],
+    "text": "BEFORE S. SRISKANDARAJAH, J (P/CA)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.95,
+      100.69,
+      450.35,
+      117.71
+    ],
+    "text": "COUNSEL A.R.Surandran PC with N.Kandeepan,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.40694808959961,
+      12.691376686096191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.38,
+      133.34,
+      336.04,
+      149.88
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.7,
+      166.22,
+      473.81,
+      182.76
+    ],
+    "text": "Manohara de Silva PC with A.Wijesundera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.40694808959961,
+      12.431709289550781,
+      12.540701866149902,
+      12.56875228881836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.14,
+      198.37,
+      348.62,
+      214.92
+    ],
+    "text": "for the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.402449607849121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.3,
+      230.54,
+      296.35,
+      247.08
+    ],
+    "text": "Argued on 04.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.60849666595459
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      262.69,
+      296.73,
+      279.47
+    ],
+    "text": "Decided on 13.06.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.60849666595459
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.66,
+      317.81,
+      161.99,
+      334.29
+    ],
+    "text": "S.Sriskandarajah,J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.25,
+      339.49,
+      532.32,
+      356.03
+    ],
+    "text": "The Plaintiff-Appellant-Petitioner (hereinafter referred to as Petitioner)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.27,
+      361.81,
+      532.76,
+      378.35
+    ],
+    "text": "instituted an action bearing No.226/MISC/2001 in the District Court of Kalmunai",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.506591796875,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.99,
+      384.15,
+      532.01,
+      400.69
+    ],
+    "text": "against the Defendant-Respondent-Respondent (hereinafter referred to as Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.01,
+      406.46,
+      532.96,
+      423.01
+    ],
+    "text": "claiming, inter alia, damages in a sum of Rs.12,000,000/. The Petitioner submitted that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401949882507324,
+      12.401999473571777,
+      12.412393569946289,
+      12.415689468383789,
+      12.744173049926758
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.86,
+      429.01,
+      532.69,
+      445.55
+    ],
+    "text": "when this case was taken up for trial, the District Judge of Kalmunai declined to hear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401700019836426,
+      12.528335571289062,
+      12.586694717407227,
+      12.825113296508789
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.83,
+      451.81,
+      532.31,
+      468.36
+    ],
+    "text": "the case as the Respondent is an Attorney-at-Law practising in Kalmunai Courts, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.402449607849121,
+      12.415689468383789,
+      12.544062614440918,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.02,
+      474.37,
+      532.36,
+      490.91
+    ],
+    "text": "informed the Judicial Service Commission to appoint another Judge to hear and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.410144805908203,
+      12.440932273864746,
+      12.517294883728027,
+      12.621275901794434
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.0,
+      496.69,
+      532.07,
+      513.23
+    ],
+    "text": "determine the said case. The Judge appointed by the Judicial Service Commission to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.464681625366211
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.87,
+      519.01,
+      532.11,
+      535.55
+    ],
+    "text": "hear the case also declined to hear the case as the Respondent is an Attorney-at-Law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.402449607849121,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.62,
+      541.09,
+      532.17,
+      557.63
+    ],
+    "text": "who was a regular practitioner before him. Thereafter the case was fixed before another",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.528335571289062,
+      12.602594375610352
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.82,
+      563.65,
+      532.21,
+      580.19
+    ],
+    "text": "District Judge of Kalmunai, and the case was taken up for trial and, at the conclusion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.452438354492188,
+      12.456123352050781,
+      12.679548263549805,
+      12.697969436645508,
+      12.714072227478027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.86,
+      586.21,
+      532.84,
+      602.75
+    ],
+    "text": "the trial, parties filed written submissions, and the District Judge, by his judgment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.428367614746094,
+      12.458611488342285,
+      12.498161315917969,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.76,
+      608.53,
+      531.96,
+      625.07
+    ],
+    "text": "dated 21/11/1908, dismissed the Petitioner's action as well as the counter claim of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400199890136719,
+      12.520612716674805
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.56,
+      631.34,
+      125.93,
+      647.88
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.8,
+      674.77,
+      532.1,
+      691.32
+    ],
+    "text": "Being aggrieved by the said judgment, the Petitioner preferred an appeal to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.414041519165039,
+      12.542925834655762,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.57,
+      696.85,
+      531.91,
+      713.4
+    ],
+    "text": "Eastern Provincial Civil Appellate High Court holden at Kalmunai. The said appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.51085376739502,
+      12.554981231689453,
+      12.597428321838379,
+      12.679548263549805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.6,
+      33.06,
+      298.33,
+      46.8
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.1,
+      68.53,
+      532.62,
+      85.07
+    ],
+    "text": "was assigned No.EP /NCCA/KAL/153/2009. The Petitioner is now, by this application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.428367614746094,
+      12.456123352050781,
+      12.62392807006836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.02,
+      90.85,
+      532.36,
+      107.39
+    ],
+    "text": "in the Court of Appeal, has sought to transfer the said appeal from the Eastern",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.442626953125,
+      12.509317398071289,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.82,
+      113.41,
+      532.61,
+      129.95
+    ],
+    "text": "Provincial Civil Appeal Appellate High Court holden at Kalmunai to the Western",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.430412292480469,
+      12.506591796875,
+      12.542036056518555,
+      12.679548263549805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.81,
+      135.73,
+      532.56,
+      152.27
+    ],
+    "text": "Province Civil Appellate High Court holden at Colomo or, in the alternative, to make an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.470698356628418,
+      12.523980140686035,
+      12.542036056518555,
+      12.55379581451416,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.76,
+      158.3,
+      531.74,
+      174.84
+    ],
+    "text": "order to hear the said appeal and determined by the Court of Appeal itself in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.428367614746094,
+      12.429265022277832,
+      12.439586639404297,
+      12.440932273864746,
+      12.442626953125,
+      12.450447082519531,
+      12.603184700012207,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.74,
+      180.62,
+      357.12,
+      197.16
+    ],
+    "text": "exercise of the appellate powers of the Court of Appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.453136444091797,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.53,
+      225.5,
+      531.5,
+      242.04
+    ],
+    "text": "The reason for this Application, according to the Petitioner is, that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401949882507324
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.58,
+      248.3,
+      532.01,
+      264.85
+    ],
+    "text": "Defendant-Respondent is a lawyer regularly practising in Kalmunai Courts and, during",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.417937278747559,
+      12.421031951904297,
+      12.471295356750488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.61,
+      270.85,
+      532.0,
+      287.39
+    ],
+    "text": "the pendency of the District Court proceedings, the Petitioner encountered immense",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.52,
+      293.17,
+      531.91,
+      309.71
+    ],
+    "text": "difficulty in retaining Counsel from Kalmunai, as almost all the Lawyers practicing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400199890136719,
+      12.56263256072998
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.62,
+      315.5,
+      531.83,
+      332.05
+    ],
+    "text": "there had refused to appear against the Defendant-Respondent. The Petitioner also had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.514867782592773,
+      12.569194793701172,
+      12.591865539550781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.22,
+      337.81,
+      531.48,
+      354.35
+    ],
+    "text": "submitted that the Counsel who appeared on his behalf in the District Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401999473571777,
+      12.415689468383789,
+      12.474674224853516,
+      12.506591796875,
+      12.52803897857666,
+      12.60849666595459,
+      12.667367935180664
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.34,
+      360.37,
+      531.93,
+      376.91
+    ],
+    "text": "Kalmunai had informed the Petitioner that he is now not fit to travel to Kalmunai and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.546977996826172,
+      12.575704574584961,
+      12.59860897064209,
+      12.668444633483887,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.27,
+      383.17,
+      531.84,
+      399.71
+    ],
+    "text": "appear for the Appellant in the said appeal. He also submitted that he had made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.429763793945312,
+      12.474674224853516,
+      12.48734188079834,
+      12.489377975463867,
+      12.56263256072998,
+      12.578268051147461,
+      12.591865539550781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.03,
+      405.5,
+      532.08,
+      422.04
+    ],
+    "text": "attempts to retain the services of a Counsel from the Kalmunai Bar to appear for him in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.45706844329834,
+      12.526257514953613,
+      12.569194793701172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.37,
+      427.81,
+      531.79,
+      444.35
+    ],
+    "text": "the said appeal, and all Lawyers approached by the Petitioner had declined to appear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.428367614746094,
+      12.44616413116455,
+      12.456918716430664,
+      12.591865539550781,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.03,
+      450.37,
+      531.49,
+      466.91
+    ],
+    "text": "against the Respondent, a fellow practitioner from the same Bar. In these circumstances",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.419085502624512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.12,
+      472.69,
+      531.6,
+      489.23
+    ],
+    "text": "the Petitioner submitted that if the appeal is not transferred to another Court, he would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.410144805908203,
+      12.429763793945312,
+      12.442626953125,
+      12.45706844329834,
+      12.474674224853516,
+      12.523286819458008,
+      12.575704574584961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.93,
+      495.25,
+      531.21,
+      511.79
+    ],
+    "text": "be denied a fair hearing and that the Petitioner will be deprived of to present his case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.423328399658203,
+      12.43310546875,
+      12.485901832580566,
+      12.546977996826172,
+      12.621275901794434
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.13,
+      517.81,
+      531.66,
+      534.35
+    ],
+    "text": "through the Counsel of his choice. In the above circumstances, the Petitioner submitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.419085502624512,
+      12.537932395935059
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.13,
+      540.13,
+      531.24,
+      556.67
+    ],
+    "text": "that it is expedient to transfer the said appeal pending before the High Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.442626953125,
+      12.45706844329834,
+      12.474674224853516,
+      12.542036056518555,
+      12.554981231689453,
+      12.556215286254883
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.1,
+      562.69,
+      532.17,
+      579.23
+    ],
+    "text": "Kalmunai for hearing before the Western Province Appellate High Court holden at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.430412292480469,
+      12.542036056518555,
+      12.554981231689453,
+      12.679548263549805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.79,
+      585.01,
+      334.46,
+      601.55
+    ],
+    "text": "Colombo where the Petitioner is presently residing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.480687141418457
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.05,
+      629.41,
+      531.62,
+      645.96
+    ],
+    "text": "The Petitioner had made the above Application under Section 46 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.391447067260742,
+      12.399999618530273,
+      12.540849685668945,
+      12.645029067993164,
+      12.668444633483887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.61,
+      651.49,
+      530.76,
+      668.04
+    ],
+    "text": "Judicature Act read with Section 5(a) of the High Court of the Provisions (Special",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.492852210998535,
+      12.542036056518555,
+      12.56875228881836,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.1,
+      673.81,
+      532.08,
+      690.35
+    ],
+    "text": "Provisions) Act No.19 of 1990, as amended by Act No.54 of 2006. The provisions in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.428367614746094,
+      12.576247215270996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.69,
+      695.9,
+      531.88,
+      712.44
+    ],
+    "text": "Section 46 of the Judicature Act, in particular Section 46(2), deals with \"Every",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.391447067260742,
+      12.399999618530273,
+      12.415689468383789,
+      12.506987571716309
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.53,
+      32.65,
+      297.55,
+      46.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.27,
+      68.78,
+      530.85,
+      85.32
+    ],
+    "text": "application for transfer of any action, prosecution, proceedings or matter under this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.424176216125488,
+      12.460004806518555,
+      12.466371536254883,
+      12.597428321838379
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.69,
+      91.1,
+      529.91,
+      107.64
+    ],
+    "text": "Section shall set out the grounds for transfer by way of an Affidavit, and Section 46(3)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.428367614746094,
+      12.52902889251709,
+      12.538180351257324,
+      12.654733657836914,
+      12.697969436645508,
+      12.792924880981445
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.93,
+      113.66,
+      531.35,
+      130.2
+    ],
+    "text": "provides that the Court of Appeal, in making an order for transfer under this Section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.454231262207031,
+      12.543667793273926,
+      12.546977996826172,
+      12.554981231689453,
+      12.56263256072998,
+      12.673924446105957,
+      12.692500114440918
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.9,
+      135.98,
+      531.26,
+      152.57
+    ],
+    "text": "may, if it thinks fit, direct that the Court, to which such action, prosecution, proceedings",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.455177307128906,
+      12.546977996826172,
+      12.922782897949219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.8,
+      158.54,
+      531.05,
+      175.08
+    ],
+    "text": "or matter was transferred shall call all or any of the witnesses who have been examined",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.456123352050781,
+      12.460004806518555,
+      12.466371536254883,
+      12.597674369812012,
+      12.602594375610352
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.69,
+      180.86,
+      530.68,
+      197.4
+    ],
+    "text": "before the Court from which the transfer is made and take their evidence afresh.\" A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.540849685668945,
+      12.554981231689453,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.67,
+      203.66,
+      531.6,
+      220.21
+    ],
+    "text": "reading of Section 46 of the Judicature Act, shows that the transfer of cases referred to in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.391447067260742,
+      12.399999618530273,
+      12.415689468383789,
+      12.436047554016113,
+      12.546977996826172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.65,
+      225.98,
+      530.38,
+      242.52
+    ],
+    "text": "that Section by the Court of Appeal is a transfer of cases from one original Court to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.426172256469727,
+      12.428367614746094,
+      12.458014488220215,
+      12.474674224853516,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.55,
+      248.3,
+      531.36,
+      264.84
+    ],
+    "text": "another original Court and it does not contemplate the transfer of an appeal from an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.442626953125,
+      12.489277839660645,
+      12.55379581451416,
+      12.554981231689453,
+      12.673924446105957,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.66,
+      270.61,
+      296.04,
+      287.15
+    ],
+    "text": "Appellate Court to another Appellate Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.410144805908203,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.33,
+      315.49,
+      531.2,
+      332.03
+    ],
+    "text": "The jurisdiction to hear appeals are vested in the High Court by the High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.428367614746094,
+      12.440932273864746,
+      12.458014488220215,
+      12.542036056518555,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.88,
+      338.29,
+      529.39,
+      354.83
+    ],
+    "text": "of Provinces (Special Provisions) Act No.l9 of 1990, as amended by Act No.54 of 2006.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.397699356079102,
+      12.399999618530273,
+      12.428367614746094,
+      12.56870174407959,
+      12.576247215270996
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.29,
+      360.62,
+      530.17,
+      377.16
+    ],
+    "text": "Section 5(a) provides that a High Court established by Article 154(P) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.542036056518555,
+      12.542925834655762,
+      12.546977996826172,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.62,
+      383.17,
+      530.34,
+      399.72
+    ],
+    "text": "Constitution for a Province shall have and exercise Appellate and revisionary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.621275901794434,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.57,
+      405.5,
+      530.52,
+      422.05
+    ],
+    "text": "jurisdiction in respect of judgments, decree and order delivered and made by any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.540849685668945,
+      12.543667793273926,
+      12.56263256072998,
+      12.621275901794434,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.7,
+      427.81,
+      529.6,
+      444.35
+    ],
+    "text": "District Court or Family Court within such province, and the appellate jurisdiction for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.460004806518555,
+      12.46025276184082,
+      12.554981231689453,
+      12.621275901794434
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.48,
+      450.37,
+      530.82,
+      466.91
+    ],
+    "text": "the correction of all errors in fact or in law, which shall be committed by any such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.433055877685547,
+      12.460004806518555,
+      12.56263256072998,
+      12.597674369812012,
+      12.707878112792969
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.7,
+      472.94,
+      530.3,
+      489.48
+    ],
+    "text": "District Court or Family Court, as the case may be. In view of the above Section, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.419085502624512,
+      12.460004806518555,
+      12.468709945678711,
+      12.544360160827637,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.34,
+      495.5,
+      530.28,
+      512.04
+    ],
+    "text": "jurisdiction to hear appeals from District Courts has been vested in the High Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.417937278747559,
+      12.418087005615234,
+      12.421031951904297,
+      12.504857063293457,
+      12.506591796875,
+      12.542036056518555,
+      12.56263256072998
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.49,
+      518.06,
+      529.76,
+      534.6
+    ],
+    "text": "the province in which the judgment delivered by the District Court is situated. In these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.419085502624512,
+      12.433055877685547,
+      12.516403198242188,
+      12.542925834655762,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.4,
+      540.37,
+      530.0,
+      556.91
+    ],
+    "text": "circumstances the Court of Appeal cannot transfer an appeal from the High Court of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.422030448913574,
+      12.442626953125,
+      12.506591796875,
+      12.542036056518555,
+      12.554981231689453,
+      12.792924880981445
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.78,
+      562.94,
+      299.06,
+      579.48
+    ],
+    "text": "province to High Court of another province.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.410144805908203,
+      12.542036056518555,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.62,
+      607.09,
+      530.52,
+      623.63
+    ],
+    "text": "The Petitioner's grievance is that he had lodged an appeal to the High Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.442626953125,
+      12.494588851928711,
+      12.506591796875,
+      12.542036056518555,
+      12.546977996826172,
+      12.668444633483887,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.13,
+      629.65,
+      530.28,
+      646.19
+    ],
+    "text": "Kalmunai under the provisions of law against the order of the District Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.487589836120605,
+      12.506591796875,
+      12.543667793273926,
+      12.645029067993164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.14,
+      651.73,
+      530.9,
+      668.28
+    ],
+    "text": "Kalmunai, and that he is now deprived of presenting his case before the said High",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.485901832580566,
+      12.486398696899414,
+      12.508326530456543,
+      12.546977996826172,
+      12.663402557373047,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54.83,
+      674.05,
+      530.88,
+      690.59
+    ],
+    "text": "Court as he is finding it difficult to retain a Counsel as Respondent is practising in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.506591796875,
+      12.508326530456543
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54.9,
+      696.13,
+      531.16,
+      712.67
+    ],
+    "text": "Kalmunai as an Attorney-at-Law. The Petitioner in this Application has also sought",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.418087005615234,
+      12.42677116394043,
+      12.56263256072998,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.51,
+      33.34,
+      298.39,
+      47.35
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.09,
+      68.78,
+      532.3,
+      85.32
+    ],
+    "text": "that if this Court is not inclined to transfer the case from the High Court of Kalmunai to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401949882507324,
+      12.542036056518555,
+      12.554981231689453,
+      12.575704574584961
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.75,
+      91.34,
+      532.2,
+      107.88
+    ],
+    "text": "another High Court, the Court of Appeal may order to transfer the case to the Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.458014488220215,
+      12.478849411010742,
+      12.486398696899414,
+      12.49176025390625,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.86,
+      113.9,
+      489.6,
+      130.44
+    ],
+    "text": "Appeal for this Court to hear and conclude this Appeal in the interests of justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.415689468383789,
+      12.554981231689453,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.53,
+      159.02,
+      532.1,
+      175.57
+    ],
+    "text": "The Petitioner, when preferring the appeal to the High Court, was well aware the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.40304946899414,
+      12.456123352050781,
+      12.542036056518555,
+      12.637770652770996
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.52,
+      181.34,
+      532.15,
+      197.88
+    ],
+    "text": "difficulties he would face because he faced the same difficulties when he was pursuing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.481035232543945,
+      12.528335571289062,
+      12.611151695251465,
+      12.688640594482422
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.61,
+      203.66,
+      531.0,
+      220.2
+    ],
+    "text": "the District Court action in Kalmunai. The High Court of the Province (Special",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.542036056518555,
+      12.554981231689453,
+      12.56263256072998,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.57,
+      226.22,
+      532.06,
+      242.76
+    ],
+    "text": "Provisions Act) as amended in Section 5( d) provides that if an appeal from a District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.327085494995117,
+      12.399999618530273,
+      12.400500297546387,
+      12.415689468383789,
+      12.474674224853516,
+      12.576247215270996,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.03,
+      248.78,
+      531.62,
+      265.32
+    ],
+    "text": "Court is filed in the Court of Appeal, the Court of Appeal may transfer that case to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.474674224853516,
+      12.478849411010742,
+      12.506591796875,
+      12.56263256072998,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.38,
+      271.34,
+      532.16,
+      287.88
+    ],
+    "text": "relevant High Court of the Province as may be determined by the President of the Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.423328399658203,
+      12.428367614746094,
+      12.450447082519531,
+      12.458014488220215,
+      12.478849411010742,
+      12.542036056518555,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.52,
+      293.9,
+      532.1,
+      310.44
+    ],
+    "text": "of Appeal, and upon such reference, the said High Court shall hear and determine such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.440932273864746,
+      12.455177307128906,
+      12.542036056518555,
+      12.554981231689453,
+      12.621275901794434,
+      12.697969436645508,
+      12.727767944335938
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.04,
+      316.22,
+      531.83,
+      332.76
+    ],
+    "text": "appeal. As the Petitioner was aware of the difficulties he is going to face in the High",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.430562019348145,
+      12.456123352050781,
+      12.495928764343262,
+      12.56263256072998
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.03,
+      338.77,
+      532.0,
+      355.31
+    ],
+    "text": "Court of Kalmunai, he should have preferred the appeal to the Court of Appeal so that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.401949882507324,
+      12.442626953125,
+      12.459407806396484,
+      12.46811294555664,
+      12.506591796875,
+      12.508326530456543,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.13,
+      361.33,
+      531.91,
+      377.87
+    ],
+    "text": "the Court of Appeal under the above provisions would have transferred to an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.459407806396484,
+      12.554981231689453,
+      12.567320823669434,
+      12.645029067993164,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.03,
+      383.65,
+      531.43,
+      400.19
+    ],
+    "text": "appropriate High Court to hear and determine this appeal or the Court of Appeal itself",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.416838645935059,
+      12.440932273864746,
+      12.442626953125,
+      12.554981231689453,
+      12.597428321838379,
+      12.597674369812012,
+      12.621275901794434
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.9,
+      406.21,
+      531.38,
+      422.75
+    ],
+    "text": "would have heard that appeal. The Petitioner, without filing the appeal directly in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.415689468383789,
+      12.442626953125,
+      12.506790161132812,
+      12.50981330871582,
+      12.523286819458008,
+      12.546977996826172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.55,
+      428.77,
+      531.02,
+      445.31
+    ],
+    "text": "Court of Appeal had filed an appeal in the High Court of Kalmunai. In these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.415689468383789,
+      12.506591796875,
+      12.542036056518555,
+      12.554981231689453,
+      12.668444633483887,
+      12.673924446105957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.79,
+      451.33,
+      531.55,
+      467.87
+    ],
+    "text": "circumstances the Court of Appeal has no jurisdiction to transfer the appeal from one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.505105018615723,
+      12.603184700012207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.86,
+      473.65,
+      531.17,
+      490.19
+    ],
+    "text": "High Court of the province to another High Court of the province and, therefore, this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.410144805908203,
+      12.42287826538086,
+      12.486398696899414,
+      12.542036056518555,
+      12.554981231689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.55,
+      496.21,
+      531.01,
+      512.75
+    ],
+    "text": "Court refuses the Application of the Petitioner to transfer the appeal and dismiss this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.506591796875,
+      12.697969436645508
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.79,
+      518.77,
+      195.87,
+      535.31
+    ],
+    "text": "application without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.542234420776367
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      310.03,
+      585.25,
+      488.29,
+      601.79
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.603184700012207
+    ]
+  }
+]
