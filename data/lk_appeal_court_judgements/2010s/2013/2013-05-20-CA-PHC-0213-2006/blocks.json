@@ -1,0 +1,448 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.21,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      191.81
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (PHC) No. 213/2006 P.H.C. Avissawella No. 28/06",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      194.93,
+      538.01,
+      294.44
+    ],
+    "text": "Senanayaka Danaseeli Liyanage Siril Gamini No : 12/293, Thalapathpitiya, Temple Road, Nugegoda.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      297.44,
+      459.03,
+      585.01
+    ],
+    "text": "PETITIONER VS. P. Nimal Ranjith Nanayakkara No: 77/7, 7th Lane, Niyadagala, Pannipitiya. OIC Police Station, Homagama.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      588.01,
+      442.59,
+      602.05
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.87,
+      69.97,
+      474.36,
+      86.56
+    ],
+    "text": "C.A. (PHC) No. 213/2006 P.H.C. Avissawella No. 28/06",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.475608825683594,
+      12.516205787658691,
+      12.640421867370605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.94,
+      118.7,
+      133.42,
+      135.24
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.526999473571777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.87,
+      167.41,
+      142.08,
+      183.95
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.18,
+      215.65,
+      162.5,
+      232.19
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.420483589172363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.74,
+      278.99,
+      190.59,
+      296.02
+    ],
+    "text": "A.W.A. SALAM, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.94,
+      118.7,
+      345.43,
+      135.24
+    ],
+    "text": "A.W.A. SALAM, J. &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.399999618530273,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.69,
+      142.94,
+      370.47,
+      159.48
+    ],
+    "text": "SUNIL RAJAPAKSHE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.17,
+      167.17,
+      450.57,
+      183.71
+    ],
+    "text": "Appellant absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.73117733001709,
+      13.012092590332031,
+      13.224020957946777,
+      13.2958402633667
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.82,
+      215.41,
+      316.7,
+      232.0
+    ],
+    "text": "20th May, 2013",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.027114868164062,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.44,
+      239.55,
+      284.2,
+      255.02
+    ],
+    "text": "***********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.461573600769043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.21,
+      355.33,
+      518.22,
+      371.87
+    ],
+    "text": "Appellant is absent and unrepresented. Notice has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.75812816619873,
+      12.825209617614746,
+      12.877939224243164,
+      12.994498252868652,
+      13.222613334655762,
+      13.224020957946777,
+      13.309076309204102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.37,
+      384.13,
+      519.32,
+      400.67
+    ],
+    "text": "issued on the appellant by registered post calling for the deposit of brief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.565396308898926,
+      12.6698637008667,
+      12.732053756713867,
+      12.733903884887695,
+      12.768960952758789,
+      12.839993476867676,
+      12.947799682617188,
+      12.952347755432129,
+      13.015093803405762,
+      13.02437973022461,
+      13.030234336853027,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.34,
+      412.45,
+      517.94,
+      428.99
+    ],
+    "text": "fees. For failure on the part of the appellant to deposit brief fees this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.598018646240234,
+      12.601119041442871,
+      12.638554573059082,
+      12.733903884887695,
+      12.782451629638672,
+      12.876446723937988,
+      12.973727226257324,
+      12.976306915283203,
+      13.015093803405762,
+      13.058941841125488,
+      13.101601600646973,
+      13.254413604736328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.58,
+      441.26,
+      187.76,
+      457.8
+    ],
+    "text": "appeal is rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.543420791625977,
+      12.625351905822754,
+      12.856111526489258
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.56,
+      479.41,
+      516.6,
+      495.95
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.538278579711914,
+      12.630949020385742,
+      12.72084903717041,
+      12.841248512268066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.77,
+      518.51,
+      232.11,
+      535.54
+    ],
+    "text": "SUNIL RAJAPAKSHE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.11,
+      556.94,
+      197.32,
+      573.48
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.581324577331543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.04,
+      594.62,
+      516.84,
+      611.16
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.538278579711914,
+      12.630949020385742,
+      12.841248512268066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.62,
+      634.69,
+      121.94,
+      651.23
+    ],
+    "text": "Kwk/=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.636739730834961
+    ]
+  }
+]

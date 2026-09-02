@@ -1,0 +1,468 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      399.46,
+      189.41
+    ],
+    "text": "REPUBLIC OF SRI LANKA. C.A [PHC] APN 48/2013 H.C.BA. 321/2012 M.C. Colombo B 3932/1/2011",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      192.41,
+      509.07,
+      291.92
+    ],
+    "text": "Hettiarachchige Asoka Ranjani Amarasinghe. No. 297/07 J A, Baseline Road, Dematagoda, Colombo 09.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      295.04,
+      455.19,
+      497.02
+    ],
+    "text": "PETITIONER. Vs. The Hon. Attorney -General, Attorney-General's Department, Colombo 12. Officer-in-charge Special Investigation unit 3 Criminal Investigation Department, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      500.14,
+      539.33,
+      599.77
+    ],
+    "text": "RESPONDENTS. And in between Sirinayaka Pathiranalage Chaminda Ravi Jayanath.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      615.37,
+      378.24,
+      629.41
+    ],
+    "text": "SUSPECT",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.18,
+      96.01,
+      411.15,
+      110.43
+    ],
+    "text": "C.A.(PHC) Apn. No. 48/2013 HC. B.A. 321/2012",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.079336166381836,
+      10.300000190734863,
+      10.435410499572754,
+      10.440886497497559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.86,
+      149.3,
+      102.05,
+      163.48
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.69,
+      202.82,
+      107.05,
+      217.52
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.86,
+      283.94,
+      124.36,
+      298.12
+    ],
+    "text": "Decided on:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.25,
+      336.92,
+      107.08,
+      352.57
+    ],
+    "text": "Salam, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.37,
+      148.55,
+      266.96,
+      164.4
+    ],
+    "text": "A.W.A. Salam, J &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.300000190734863,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.25,
+      175.64,
+      270.29,
+      191.29
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.83,
+      123.13,
+      489.45,
+      137.31
+    ],
+    "text": "M.C. Colombo No. B 3932/1/2011",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.51760196685791
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.05,
+      202.82,
+      344.21,
+      217.52
+    ],
+    "text": "Tenny Fernando for the Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.61,
+      229.7,
+      395.91,
+      244.4
+    ],
+    "text": "Ms. Anoopa de Silva SC for the Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.650311470031738,
+      10.699100494384766,
+      10.699999809265137,
+      10.720580101013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.25,
+      283.94,
+      232.35,
+      298.12
+    ],
+    "text": "31.05.2013.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.2,
+      310.0,
+      264.77,
+      327.59
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.848158836364746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.85,
+      364.33,
+      536.03,
+      379.03
+    ],
+    "text": "Counsel for Petitioner moves to have this application withdrawn as the accused has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.543861389160156,
+      10.699999809265137,
+      10.9070463180542,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.63,
+      393.85,
+      535.29,
+      408.55
+    ],
+    "text": "been granted bail by the High Court. Accordingly the application for withdrawal is allowed and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.684839248657227,
+      10.699999809265137,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.83,
+      423.13,
+      245.84,
+      437.83
+    ],
+    "text": "the Revision application is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.13,
+      462.49,
+      173.81,
+      477.19
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.79,
+      502.56,
+      385.55,
+      517.27
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.77,
+      541.78,
+      161.44,
+      556.79
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.59,
+      581.29,
+      172.65,
+      595.99
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.56,
+      620.89,
+      385.31,
+      635.59
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.186155319213867,
+      11.318523406982422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.89,
+      699.14,
+      92.2,
+      713.84
+    ],
+    "text": "Kpm/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  }
+]

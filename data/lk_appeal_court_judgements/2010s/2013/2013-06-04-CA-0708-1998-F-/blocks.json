@@ -1,0 +1,1583 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.03,
+      198.77
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. No. 708/98(F) D.C. Balangoda Case No. 346/L",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      201.77,
+      469.59,
+      267.2
+    ],
+    "text": "P. Malam Arachchi Main Road, Rakwana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      270.2,
+      492.03,
+      438.1
+    ],
+    "text": "Appellant Vs. D.A. Marbram R.M. Somasiri No: 78, Deniyaya Road, Rakwana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      432.1,
+      441.1,
+      505.23,
+      455.14
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.03,
+      67.75,
+      220.16,
+      84.28
+    ],
+    "text": "C.A. No. 708/98(F)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.09,
+      123.21,
+      174.04,
+      139.0
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.27,
+      150.81,
+      183.0,
+      166.6
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.12,
+      219.93,
+      201.58,
+      249.16
+    ],
+    "text": "ARGUED& DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.437288284301758,
+      11.568751335144043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.33,
+      302.11,
+      241.77,
+      318.73
+    ],
+    "text": "K. T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      328.44,
+      31.76,
+      337.86,
+      47.29
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      374.12,
+      67.3,
+      539.0,
+      83.09
+    ],
+    "text": "D.C. Balangoda Case No. 346/L",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.33,
+      121.62,
+      385.53,
+      138.24
+    ],
+    "text": "K. T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.33,
+      148.78,
+      524.77,
+      179.08
+    ],
+    "text": "E. Ariyarathne with Indika Kuruppuarachchi for the Respondent-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.809000968933105,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.39,
+      189.81,
+      514.16,
+      205.95
+    ],
+    "text": "Vidura Gunerathne for the Plaintiff-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.51,
+      231.81,
+      325.32,
+      247.95
+    ],
+    "text": "04.06.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.34,
+      356.14,
+      444.61,
+      372.28
+    ],
+    "text": "Heard both Counsel in support of their respective cases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.31,
+      383.48,
+      542.74,
+      399.63
+    ],
+    "text": "This is an appeal seeking to set aside the two orders dated 23.4.1998",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.51,
+      411.33,
+      542.98,
+      427.47
+    ],
+    "text": "and 13.08.1998 of the learned District Judge of Balangoda. The aforesaid two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.52,
+      438.7,
+      543.11,
+      454.84
+    ],
+    "text": "orders are found in the journal entries made by the learned Judge on those",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.63,
+      466.29,
+      543.79,
+      482.43
+    ],
+    "text": "respective dates. The order made on the 23.04.1998 is to refix the trial consequent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.88,
+      494.14,
+      543.45,
+      510.28
+    ],
+    "text": "upon an application made by the Defendant subject to a payment of Rs.2000/= being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.84,
+      521.98,
+      543.5,
+      538.12
+    ],
+    "text": "made to the plaintiff as the costs of that date. The said payment of costs is to be made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.004271507263184,
+      12.05275821685791,
+      12.060686111450195,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.0,
+      549.58,
+      543.32,
+      565.72
+    ],
+    "text": "on or before the next date namely 13.08.1998. When it was taken up for trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.075825691223145,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.0,
+      577.18,
+      543.99,
+      593.32
+    ],
+    "text": "on 13.08.1998, it was brought to the notice of Court that the Defendant had not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.9,
+      604.77,
+      543.72,
+      620.91
+    ],
+    "text": "paid the costs as ordered on the previous day and accordingly an order had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.13,
+      633.08,
+      409.23,
+      649.23
+    ],
+    "text": "been made deciding the case in favour of the plaintiff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      319.85,
+      31.47,
+      328.55,
+      46.94
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185.74,
+      66.94,
+      534.07,
+      83.08
+    ],
+    "text": "At the commencement of the argument today, learned Counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.075825691223145,
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.97,
+      94.29,
+      534.72,
+      110.43
+    ],
+    "text": "the Plaintiff-Respondent raising a preliminary objection submitted that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.98,
+      121.65,
+      534.05,
+      137.79
+    ],
+    "text": "Appellant cannot have and maintain this appeal as he has chosen to file a final",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.9,
+      149.02,
+      536.93,
+      165.16
+    ],
+    "text": "appeal instead of making an application to obtain leave from this Court, in terms of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.02,
+      176.61,
+      534.75,
+      192.75
+    ],
+    "text": "Section 754(2) of the Civil Procedure Code since the impugned decisions do not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.948653221130371,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.85,
+      204.46,
+      534.86,
+      220.6
+    ],
+    "text": "fall into the category of a 'judgment\". Therefore the issue now before this Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.66,
+      232.05,
+      534.79,
+      248.19
+    ],
+    "text": "is to determine whether the two orders dated 23.4.1998 and 13.08.1998 amount",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.25,
+      259.9,
+      270.88,
+      276.04
+    ],
+    "text": "to a \"judgment\" or an \"order\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.21,
+      287.26,
+      534.78,
+      303.4
+    ],
+    "text": "Learned Counsel for the Appellant submitted that the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.48,
+      315.34,
+      462.71,
+      331.48
+    ],
+    "text": "Judge after taking up the case for trial on 13.08.1998, had stated thus:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.21,
+      343.71,
+      403.03,
+      359.15
+    ],
+    "text": "\"~~Sdil@t\u00a7@ tJJ!J~o l!.DfdtJ daM &JJOS\".",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.018338203430176,
+      7.54280424118042,
+      10.108238220214844,
+      10.53314208984375,
+      12.305720329284668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.16,
+      371.49,
+      534.21,
+      387.63
+    ],
+    "text": "On the basis of the manner in which the said sentence is worded he contended",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.26,
+      399.09,
+      533.64,
+      415.23
+    ],
+    "text": "that the said decision of the Trial Judge amounts it to be a 'judgment\", as far as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.004271507263184,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.4,
+      426.94,
+      534.31,
+      443.08
+    ],
+    "text": "appellant is concerned. Accordingly, learned Counsel for the appellant submitted that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.01,
+      454.54,
+      534.21,
+      470.68
+    ],
+    "text": "the impugned decision should be interpreted as a \"judgment\". He further submitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.004271507263184,
+      12.056119918823242,
+      12.060686111450195,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.77,
+      481.42,
+      534.87,
+      499.24
+    ],
+    "text": "that the decision in Rajendran Chettair vs. Narayanan Chettiar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.126371383666992,
+      12.14406967163086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.47,
+      509.73,
+      533.4,
+      525.87
+    ],
+    "text": "[S.C.H.C.C.A.L.A.174/2008 dated 10.06.201 0] is not applicable in this instance as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.764087677001953,
+      12.004271507263184,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.92,
+      537.33,
+      533.45,
+      553.47
+    ],
+    "text": "appeal has been filed on the basis of the manner in which the learned District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.77,
+      564.94,
+      533.94,
+      581.08
+    ],
+    "text": "has made his order on 13.08.1998. Several judicial pronouncements also had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.03,
+      592.54,
+      533.75,
+      608.68
+    ],
+    "text": "referred to in the written submissions filed on behalf of the appellant in support of his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.92,
+      620.13,
+      534.09,
+      636.27
+    ],
+    "text": "contention. However, the learned Counsel, now unable to point out any decision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.77,
+      647.73,
+      533.78,
+      663.87
+    ],
+    "text": "where this particular issue had been discussed from amongst those decisions referred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.77,
+      676.77,
+      256.33,
+      692.91
+    ],
+    "text": "to in the written submissions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319.78,
+      33.27,
+      328.55,
+      48.88
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149.18,
+      69.09,
+      533.5,
+      85.23
+    ],
+    "text": "The relief prayed for m the petition of appeal is to set aside two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113.15,
+      96.94,
+      533.4,
+      113.08
+    ],
+    "text": "orders made on the 23.04.1998 and 13.08.1998. Therefore on the face of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.58,
+      124.78,
+      532.67,
+      140.92
+    ],
+    "text": "petition of appeal these two decisions have been considered and accepted as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.849353790283203,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.33,
+      152.37,
+      533.31,
+      168.51
+    ],
+    "text": "\"orders\" by the appellant himself. Moreover, upon a careful perusal of the journal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.19,
+      171.14,
+      556.78,
+      200.08
+    ],
+    "text": "entry made on 13.08.1998'I am unable to find the word \"dd~E>\" in that entry y",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.177691459655762,
+      12.100000381469727,
+      23.70009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.57,
+      209.49,
+      532.2,
+      225.63
+    ],
+    "text": "though the learned Counsel for the appellant is of the view that it as a \"judgment\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.84,
+      237.81,
+      531.79,
+      253.95
+    ],
+    "text": "(dd~E>) Therefore, the learned Counsel for the Appellant seems to have come to",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.115567207336426,
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.24,
+      266.85,
+      458.89,
+      282.99
+    ],
+    "text": "an erroneous conclusion as to the decision of the learned District Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.004271507263184,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110.83,
+      313.17,
+      531.59,
+      329.31
+    ],
+    "text": "Be that as it may, section 754(5) of the Civil Procedure Code defines the word",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.978692054748535,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110.5,
+      340.29,
+      268.32,
+      356.43
+    ],
+    "text": "'judgment\" and it reads thus.:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      153.56,
+      369.75,
+      491.23,
+      384.64
+    ],
+    "text": "\"Judgment means any judgment or order having the effect of a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.184590339660645,
+      12.199999809265137,
+      13.334454536437988
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.16,
+      383.42,
+      369.57,
+      398.32
+    ],
+    "text": "final judgment made by any civil court\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.82,
+      414.7,
+      533.09,
+      430.84
+    ],
+    "text": "This section has been interpreted in numerous occasions. In the case of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.74,
+      442.54,
+      530.68,
+      459.37
+    ],
+    "text": "Siriwardane Vs. Air Ceylon Ltd [1984 (1) SLR at 286], Sharvananda J (as he then",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.022552490234375,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.42,
+      470.61,
+      529.94,
+      486.75
+    ],
+    "text": "was) introduced the \"order approach\" in interpreting the word 'judgment\". In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.024515151977539,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.93,
+      498.45,
+      530.38,
+      515.28
+    ],
+    "text": "the case of Ranjith Vs Kusumawathie, [1998 (3) SLR 232] Deerarathne, J",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.86,
+      526.05,
+      529.12,
+      542.88
+    ],
+    "text": "introduced the application approach. In the case of Rajendran Chettair vs.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.43,
+      553.89,
+      529.79,
+      570.72
+    ],
+    "text": "Narayanan Chettiar (supra) these two approaches have been discussed in length",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.36,
+      581.49,
+      528.4,
+      597.63
+    ],
+    "text": "and in that decision the Supreme Court preferred to adopt the application approach.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.43,
+      609.33,
+      529.27,
+      625.47
+    ],
+    "text": "Whatever the approach is being applied in this instance, the particular decision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.97,
+      637.41,
+      529.34,
+      653.56
+    ],
+    "text": "that is been challenged does not fall into the category of a 'judgment\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.74,
+      631.99,
+      566.09,
+      690.21
+    ],
+    "text": "Accordingly, agreeing with the contention of the learned Counsel for the respondent_,I r",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.920671463012695,
+      12.100000381469727,
+      12.444350242614746,
+      43.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.64,
+      32.89,
+      322.56,
+      47.59
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.88,
+      67.65,
+      528.46,
+      83.79
+    ],
+    "text": "decide that the two impugned decisions of the learned District Judge do not fall into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.07512378692627,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.72,
+      94.52,
+      252.43,
+      110.67
+    ],
+    "text": "the category of a \"judgment\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.19,
+      140.37,
+      528.54,
+      156.51
+    ],
+    "text": "In the circumstances, it is my considered v1ew that the two orders that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.769537925720215,
+      12.061840057373047,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.39,
+      168.22,
+      527.87,
+      184.36
+    ],
+    "text": "are being impugned do not fall within the category of a judgment. Accordingly,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.07512378692627,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.01,
+      195.81,
+      530.54,
+      211.95
+    ],
+    "text": "the party who is aggrieved with such an order should have first obtained leave of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.01,
+      223.41,
+      528.07,
+      239.55
+    ],
+    "text": "the Court of Appeal in terms of Section 754(2) of the Civil Procedure adopting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.77,
+      250.78,
+      528.0,
+      266.92
+    ],
+    "text": "the procedure mentioned in Section 757 found therein. Therefore. it is clear that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.93,
+      278.61,
+      527.67,
+      294.75
+    ],
+    "text": "appellant has failed to follow the procedure stipulated in the Civil Procedure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.91,
+      305.97,
+      527.84,
+      322.63
+    ],
+    "text": "Code when he filed this appeal. In the case of Fernando vs. Sybil Fernando",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.15,
+      334.05,
+      527.52,
+      350.88
+    ],
+    "text": "[1997 (3) SLR 1], it is stated that the procedural law is also as important as the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.004271507263184,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.87,
+      361.65,
+      527.66,
+      377.79
+    ],
+    "text": "substantive law. Hence, adoption of incorrect procedure in this instance should",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.54,
+      389.73,
+      275.27,
+      405.87
+    ],
+    "text": "result in dismissal of the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178.27,
+      444.44,
+      527.06,
+      460.59
+    ],
+    "text": "For the aforesaid reasons the appeal IS dismissed with costs fixed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.44,
+      472.53,
+      345.49,
+      488.68
+    ],
+    "text": "at Rs. 50,000/=. Appeal dismissed with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.987678527832031,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      177.54,
+      515.66,
+      266.28,
+      529.95
+    ],
+    "text": "Appeal dismissed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.29,
+      568.98,
+      506.97,
+      585.6
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.06,
+      610.31,
+      134.19,
+      628.86
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.006908416748047
+    ]
+  }
+]

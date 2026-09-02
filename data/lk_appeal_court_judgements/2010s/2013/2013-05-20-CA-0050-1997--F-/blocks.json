@@ -1,0 +1,1454 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      73.79,
+      104.92,
+      522.99,
+      128.27
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.5,
+      17.503250122070312,
+      17.517990112304688,
+      17.69466781616211,
+      17.75444984436035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      127.84,
+      125.09,
+      468.78,
+      148.44
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.5,
+      17.562288284301758,
+      17.75444984436035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.51,
+      246.88,
+      182.19,
+      264.89
+    ],
+    "text": "C.A. No. 50 I 97 (F)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.83839225769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.83,
+      278.09,
+      221.91,
+      296.1
+    ],
+    "text": "D.C. Tangalle No. 2071 I L",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.2,
+      180.91,
+      516.86,
+      213.82
+    ],
+    "text": "W eligamage N andaseeli Wamasooriya, No. 29, Government Quarters Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.8,
+      213.31,
+      370.23,
+      230.38
+    ],
+    "text": "Hambantota.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.37,
+      260.6,
+      371.63,
+      277.68
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.54,
+      307.4,
+      418.91,
+      356.62
+    ],
+    "text": "Piyaratne Wijeweera, Dickwella Road, Beliatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      456.18,
+      243.07,
+      506.27,
+      260.14
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      461.23,
+      353.0,
+      522.05,
+      370.07
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.01,
+      401.36,
+      429.03,
+      419.5
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      448.52,
+      520.46,
+      481.66
+    ],
+    "text": "W eligamage N andaseeli Wamasooriya, No. 29, Government Quarters Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.41,
+      481.15,
+      373.84,
+      498.22
+    ],
+    "text": "Hambantota.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.21,
+      544.27,
+      372.64,
+      561.35
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.62,
+      590.83,
+      423.02,
+      640.06
+    ],
+    "text": "Piyaratne Wijeweera, Dickwella Road, Beliatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      424.51,
+      510.91,
+      531.62,
+      527.98
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      405.07,
+      652.51,
+      533.57,
+      669.59
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.66,
+      104.95,
+      121.11,
+      123.09
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.86,
+      152.22,
+      130.87,
+      170.37
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.25,
+      270.32,
+      148.15,
+      288.46
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.46,
+      294.07,
+      151.51,
+      312.21
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.26,
+      341.36,
+      228.98,
+      359.5
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.53,
+      70.82,
+      300.23,
+      86.29
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.98,
+      105.91,
+      469.98,
+      124.05
+    ],
+    "text": "UPALY ABEYRATHNEJ.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.94,
+      152.95,
+      496.38,
+      171.09
+    ],
+    "text": "Ms. Aparajitha Ariyadasa for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.94,
+      176.47,
+      418.36,
+      194.61
+    ],
+    "text": "Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.57,
+      200.23,
+      483.31,
+      218.37
+    ],
+    "text": "Nimal Muthukumarana for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.69,
+      223.75,
+      441.27,
+      241.9
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.68,
+      271.03,
+      376.57,
+      289.17
+    ],
+    "text": "20.06.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.68,
+      294.56,
+      376.04,
+      312.7
+    ],
+    "text": "20.05.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.0,
+      389.12,
+      526.44,
+      407.26
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.41,
+      412.63,
+      525.87,
+      430.78
+    ],
+    "text": "instituted an action against the Defendant Respondent (hereinafter referred to as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.517802238464355,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      436.15,
+      526.52,
+      454.29
+    ],
+    "text": "the Respondent) in the District Court of Tangalle seeking for a judgment ejecting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      459.43,
+      526.24,
+      477.57
+    ],
+    "text": "the Respondent from the land described in the 2nd paragraph of the Plaint. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.26181411743164,
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      483.43,
+      526.26,
+      501.58
+    ],
+    "text": "Appellant has averred that by a deed of transfer bearing No 3026 dated 21.01.1964",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.27,
+      506.96,
+      526.49,
+      525.1
+    ],
+    "text": "he became the owner of the land in suit and thereafter by lease agreement bearing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.85,
+      530.7,
+      526.82,
+      548.85
+    ],
+    "text": "No.l8893 dated 04.09.1976 leased the land in suit to the Respondent for a period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.38,
+      554.47,
+      526.38,
+      572.61
+    ],
+    "text": "of 03 years commencing from 02.09.1975 and after the expiration of said lease",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.152642250061035,
+      13.600000381469727,
+      13.891721725463867,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.07,
+      577.98,
+      528.81,
+      596.13
+    ],
+    "text": "period on 02.09.1978 the Respondent was in wrongful and unlawful occupation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.891721725463867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      601.51,
+      139.31,
+      619.65
+    ],
+    "text": "the said land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.0,
+      625.02,
+      526.1,
+      643.17
+    ],
+    "text": "The Respondent has admitted the said lease agreement. He has further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.39,
+      648.54,
+      526.53,
+      666.69
+    ],
+    "text": "averred that after the expiration of the lease period he vacated the said premises",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.14,
+      672.06,
+      526.57,
+      690.21
+    ],
+    "text": "and handed over the vacant possession thereof to the Appellant. The Respondent's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.06,
+      695.59,
+      529.14,
+      713.74
+    ],
+    "text": "position was that thereafter he bought certain rights of the land in suit by deed of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.01,
+      719.12,
+      525.1,
+      737.26
+    ],
+    "text": "transfer bearing No 3432 dated 10.01.1983 and he became a eo-owner of 2/3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.567110061645508,
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.9,
+      69.63,
+      301.6,
+      85.1
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.94,
+      104.36,
+      527.34,
+      122.64
+    ],
+    "text": "portion of the land of which the subject matter of the action form part of and in fact",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.43,
+      128.12,
+      401.97,
+      146.4
+    ],
+    "text": "his possession was in respect of said portion of a larger land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.3,
+      175.16,
+      528.57,
+      193.45
+    ],
+    "text": "At the trial the Respondent has produced his title deeds marked V 4, V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.362953186035156,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.26,
+      198.92,
+      527.66,
+      217.2
+    ],
+    "text": "5, V 6 and V 7. The Appellant has not challenged the said title deeds of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.367720603942871,
+      13.452718734741211,
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.89,
+      222.45,
+      444.28,
+      240.74
+    ],
+    "text": "Respondent and the same has been admitted as evidence of the case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.567408561706543,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.66,
+      269.73,
+      530.73,
+      288.01
+    ],
+    "text": "On the other hand if the Respondent was in unlawful occupation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363,
+      14.112586975097656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.92,
+      293.48,
+      528.28,
+      311.76
+    ],
+    "text": "the land in suit after the expiration of the said lease agreement on 02.09.1978 an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.06,
+      317.01,
+      527.43,
+      335.28
+    ],
+    "text": "action should have been instituted to eject the Respondent from the land in suit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.89,
+      340.77,
+      527.91,
+      359.05
+    ],
+    "text": "But the Appellant has not done so. He has instituted the present action against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.633086204528809,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.9,
+      364.05,
+      530.82,
+      382.33
+    ],
+    "text": "Respondent on 01 st of December 1983 more than 05 years after the expiration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.200909614562988,
+      13.4623384475708,
+      13.693648338317871,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.68,
+      388.05,
+      528.53,
+      406.33
+    ],
+    "text": "the said lease agreement. By that time the Respondent had acquired an undivided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.673173904418945,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.92,
+      411.56,
+      528.14,
+      429.84
+    ],
+    "text": "title of the land in suit. The delay in filing the present action clearly shows that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.88,
+      435.09,
+      528.6,
+      453.38
+    ],
+    "text": "Respondent was not in possession of the land in suit after the expiration of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.32,
+      458.6,
+      528.14,
+      476.88
+    ],
+    "text": "lease agreement and the Appellant has instituted the said action after the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.29,
+      482.6,
+      528.51,
+      500.88
+    ],
+    "text": "acquisition of rights of the land in suit by the Respondent by deed of transfer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.22,
+      506.13,
+      528.36,
+      524.4
+    ],
+    "text": "bearing No 3432 dated 10.01.1983. Hence the Appellant now cannot have and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.4,
+      529.65,
+      527.83,
+      547.94
+    ],
+    "text": "maintained an action against the Respondent upon a dead lease agreement to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.18,
+      553.4,
+      295.36,
+      571.68
+    ],
+    "text": "recover the possession of the land in suit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.87,
+      600.69,
+      528.6,
+      618.97
+    ],
+    "text": "It must be noted that the learned District Judge in his judgment has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.683144569396973,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.52,
+      624.2,
+      528.53,
+      642.48
+    ],
+    "text": "come to a conclusion that the appellant's action has prescribed in law. He has come",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.4,
+      647.73,
+      528.61,
+      666.0
+    ],
+    "text": "to the said conclusion on the basis that the Appellant has failed to institute the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.53,
+      671.24,
+      528.37,
+      689.53
+    ],
+    "text": "action within 03 years after the expiration of the lease agreement. It seems that the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.332263946533203,
+      13.683144569396973,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.79,
+      694.52,
+      528.36,
+      712.8
+    ],
+    "text": "learned District Judge was of the view that the provisions contained in Section 10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.28975772857666,
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.02,
+      718.28,
+      531.45,
+      736.56
+    ],
+    "text": "of the Prescription Ordinance were applicable to said position. This conclusion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      22.32,
+      56.88,
+      299.3,
+      85.01
+    ],
+    "text": "' 4",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.73,
+      104.57,
+      526.36,
+      122.58
+    ],
+    "text": "the trial judge is not tenable in law. The Appellant has not sued the respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.0,
+      128.1,
+      526.47,
+      146.11
+    ],
+    "text": "upon the lease agreement. At the time of the institution of the action there had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.74,
+      151.86,
+      526.64,
+      169.87
+    ],
+    "text": "no valid lease agreement between the Appellant and the Respondent since it had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.488094329833984,
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      175.61,
+      526.6,
+      193.62
+    ],
+    "text": "been expired on the due date. The Appellant has instituted the said action against",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.52,
+      199.37,
+      526.54,
+      217.38
+    ],
+    "text": "the Respondent on the basis that the Respondent was in unlawful possession of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.89,
+      222.89,
+      526.22,
+      240.9
+    ],
+    "text": "land in suit. Therefore provisions contained in Section 10 have no relevance to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.329068183898926,
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.3,
+      246.43,
+      527.43,
+      264.43
+    ],
+    "text": "such a situation. Hence the learned District Judge's conclusion that the Appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.35,
+      270.9,
+      300.82,
+      288.91
+    ],
+    "text": "action was prescribed in law is bad in law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.63,
+      317.22,
+      527.26,
+      335.24
+    ],
+    "text": "When I consider the evidence of the case I am of the view that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.44,
+      341.22,
+      527.3,
+      359.24
+    ],
+    "text": "Appellant has failed to prove his case on a balance of probability. Hence I see no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.69,
+      364.73,
+      530.25,
+      382.74
+    ],
+    "text": "reason to interfere with the dismissal of the Appellant's action by the judgement of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.69,
+      388.5,
+      527.74,
+      406.51
+    ],
+    "text": "the learned District Judge dated 28.01.1997. Therefore I dismiss the appeal of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.840555191040039
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.92,
+      413.47,
+      185.15,
+      431.47
+    ],
+    "text": "Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.72,
+      461.92,
+      202.81,
+      478.03
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349.36,
+      482.33,
+      512.31,
+      500.34
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.975573539733887,
+      14.10930061340332
+    ]
+  }
+]

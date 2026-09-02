@@ -1,0 +1,395 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      203.57
+    ],
+    "text": "C.A. (PHC) No. 122/04 PHC. Avissawella Case No. 73/03",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      206.57,
+      439.59,
+      271.88
+    ],
+    "text": "Warnakulasuriya Austin Dabrare Angampitiya, Waikkala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      275.0,
+      420.03,
+      408.7
+    ],
+    "text": "Appellant Vs. OIC Vice Detection Unit, Mirihana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      411.7,
+      438.39,
+      494.14
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      497.14,
+      438.87,
+      511.18
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.01,
+      95.18,
+      445.77,
+      110.02
+    ],
+    "text": "C.A.(PHC) No. 122/04 PHC. Avissawella Case No. 73/03",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.359882354736328,
+      10.519096374511719,
+      10.677101135253906,
+      10.800000190734863,
+      10.804848670959473
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.41,
+      148.56,
+      265.28,
+      163.79
+    ],
+    "text": "Before: A.W.A. Salam, J &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.78,
+      175.34,
+      268.49,
+      190.18
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.48,
+      229.59,
+      355.74,
+      245.14
+    ],
+    "text": "Counsel: Appellant absent and unrepresented.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.87,
+      283.83,
+      231.27,
+      299.14
+    ],
+    "text": "Decided on: 31.05.2013.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.23,
+      308.75,
+      263.39,
+      328.54
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      338.07,
+      106.24,
+      352.91
+    ],
+    "text": "Salam, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.41,
+      364.46,
+      535.71,
+      379.3
+    ],
+    "text": "Appellant has failed to pay brief fees as directed by Court and no order has been made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.194846153259277,
+      10.674166679382324,
+      10.800000190734863,
+      11.017166137695312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.77,
+      393.98,
+      536.91,
+      408.82
+    ],
+    "text": "consequent upon such default. By reason of the failure on the part of the appellant to pay brief",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.443516731262207,
+      10.776824951171875,
+      10.800000190734863,
+      10.826717376708984,
+      11.017166137695312,
+      11.238306045532227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.85,
+      423.98,
+      221.95,
+      438.82
+    ],
+    "text": "fees this appeal stands rejected.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.13,
+      463.58,
+      144.61,
+      478.42
+    ],
+    "text": "Appeal rejected.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.8,
+      517.1,
+      388.64,
+      531.94
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      10.987129211425781,
+      11.238306045532227,
+      11.37129020690918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.22,
+      571.1,
+      161.2,
+      585.94
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.07,
+      598.22,
+      173.1,
+      613.06
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.28,
+      624.86,
+      389.12,
+      639.7
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      10.987129211425781,
+      11.37129020690918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.85,
+      679.35,
+      93.15,
+      694.19
+    ],
+    "text": "Kpm/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  }
+]

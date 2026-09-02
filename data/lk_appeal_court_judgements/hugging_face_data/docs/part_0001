@@ -96125,6 +96125,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-11-CA-0644-1997--F-",
+    "num": "CA/0644/1997 (F)",
+    "date_str": "2017-09-11",
+    "description": "Sithy Manjuma Perera Vs. Sithy Niloufer Ratnavibushana Sithy Manjuma Perera Vs. Sithy Niloufer Ratnavibushana View More before Hon. M.M.A. Gaffoor, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_644_97.pdf",
+    "parties": "Sithy Manjuma Perera Vs. Sithy Niloufer Ratnavibushana Sithy Manjuma Perera Vs. Sithy Niloufer Ratnavibushana View More",
+    "judgement_by": "Hon. M.M.A. Gaffoor, J.",
+    "keywords": "irrevocable deed of gift, deed of revocation, Muslim law",
+    "legistation": "Civil Procedure Code Ordinance, No. 2 of 1889, Muslim Intestate Succession Ordinance, No. 10 of 1931"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2017-09-11-CADC-289-99",
     "num": "CADC 289/99",
     "date_str": "2017-09-11",
@@ -96349,6 +96363,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-12-CA-0477-2000--F-",
+    "num": "CA/0477/2000 (F)",
+    "date_str": "2017-09-12",
+    "description": "Amarasiri Jayasundara and others Vs. Chandrani Jayasundara Amarasiri Jayasundara and others Vs. Chandrani Jayasundara View More before Hon. A.H.M.D. Nawaz, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca-dc-477_2000.pdf",
+    "parties": "Amarasiri Jayasundara and others Vs. Chandrani Jayasundara Amarasiri Jayasundara and others Vs. Chandrani Jayasundara View More",
+    "judgement_by": "Hon. A.H.M.D. Nawaz, J.",
+    "keywords": "declaration of title, ejectment, transfer deed, Mahaweli authority",
+    "legistation": "Evidence Ordinance, No. 14 of 1895, Mahaweli Authority of Sri Lanka Act, No. 23 of 1979"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2017-09-12-CATR-09-2017",
     "num": "CATR 09/2017",
     "date_str": "2017-09-12",
@@ -96429,6 +96457,48 @@
     "parties": "",
     "judgement_by": "",
     "keywords": "",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-15-CA-0227-2011",
+    "num": "CA/0227/2011",
+    "date_str": "2017-09-15",
+    "description": "Aloysius Marie Silva Vs. The Attorney General Aloysius Marie Silva Vs. The Attorney General View More before Hon. S. Thurairaja, PC, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_227_2011.pdf",
+    "parties": "Aloysius Marie Silva Vs. The Attorney General Aloysius Marie Silva Vs. The Attorney General View More",
+    "judgement_by": "Hon. S. Thurairaja, PC, J.",
+    "keywords": "Appeal, chain of custody, exclusive custody, dock statement, minimum mandatory sentence",
+    "legistation": "Code of Criminal Procedure Act, No. 15 of 1979, Poisons, Opium and Dangerous Drugs Ordinance, No. 17 of 1929"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-15-CA-CHC-APN-0137-2017",
+    "num": "CA/CHC/APN/0137/2017",
+    "date_str": "2017-09-15",
+    "description": "Informatics International Lanka (Pvt) Ltd v. IFS AS Informatics International Lanka (Pvt) Ltd v. IFS AS View More before Hon. P. Padman Surasena, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_chc_apn_137_2017.pdf",
+    "parties": "Informatics International Lanka (Pvt) Ltd v. IFS AS Informatics International Lanka (Pvt) Ltd v. IFS AS View More",
+    "judgement_by": "Hon. P. Padman Surasena, J.",
+    "keywords": "revisionary jurisdiction, extraordinary jurisdiction, arbitral award, stay order",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-18-CA-0597-1997--F-",
+    "num": "CA/0597/1997 (F)",
+    "date_str": "2017-09-18",
+    "description": "S.A.W. Premadasa Vs. M.K. Raththaranhamy S.A.W. Premadasa Vs. M.K. Raththaranhamy View More before Hon. Janak De Silva, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_597_97.pdf",
+    "parties": "S.A.W. Premadasa Vs. M.K. Raththaranhamy S.A.W. Premadasa Vs. M.K. Raththaranhamy View More",
+    "judgement_by": "Hon. Janak De Silva, J.",
+    "keywords": "annual permit, declaration of title, ejectment, counterclaim, Rei Vindicatio",
     "legistation": ""
   },
   {
@@ -96559,6 +96629,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-21-CA-0247-1999--F-",
+    "num": "CA/0247/1999 (F)",
+    "date_str": "2017-09-21",
+    "description": "Peramunaralage Loku Banda of Thalagama, Mahakelwela and others Vs. Thalagaharalage Bandara Menike and others Peramunaralage Loku Banda of Thalagama, Mahakelwela and others Vs. Thalagaharalage Bandara Menike and others View More before Hon. S. Devika De Livera Tennekoon, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_247_99.pdf",
+    "parties": "Peramunaralage Loku Banda of Thalagama, Mahakelwela and others Vs. Thalagaharalage Bandara Menike and others Peramunaralage Loku Banda of Thalagama, Mahakelwela and others Vs. Thalagaharalage Bandara Menike and others View More",
+    "judgement_by": "Hon. S. Devika De Livera Tennekoon, J.",
+    "keywords": "ownership, possession, damages, Rei Vindicatio",
+    "legistation": "Primary Courts Procedure Act, No. 44 of 1979"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2017-09-21-CADC-886-97",
     "num": "CADC 886/97",
     "date_str": "2017-09-21",
@@ -96598,6 +96682,20 @@
     "judgement_by": " A.L. Shiran Gooneratne, J",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-22-CA-0188-2015",
+    "num": "CA/0188/2015",
+    "date_str": "2017-09-22",
+    "description": "Kamburawela Kankanamalage Dayarathne alias \\\"Chuti mama\\\" Vs. The Attorney General Kamburawela Kankanamalage Dayarathne alias \\\"Chuti mama\\\" Vs. The Attorney General View More before Hon. S. Thurairaja, PC, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_188_2015.pdf",
+    "parties": "Kamburawela Kankanamalage Dayarathne alias \\\"Chuti mama\\\" Vs. The Attorney General Kamburawela Kankanamalage Dayarathne alias \\\"Chuti mama\\\" Vs. The Attorney General View More",
+    "judgement_by": "Hon. S. Thurairaja, PC, J.",
+    "keywords": "appeal, indictment time limit, mistaken date, fair trial, alibi",
+    "legistation": "Code of Criminal Procedure Act, No. 15 of 1979"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -96727,6 +96825,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-28-CA-0154-1999--F-",
+    "num": "CA/0154/1999 (F)",
+    "date_str": "2017-09-28",
+    "description": "Semgodan Arumugam and others Vs. Danasuriyalage Vinitha Rupasinghe and others Semgodan Arumugam and others Vs. Danasuriyalage Vinitha Rupasinghe and others View More before Hon. S. Devika De Livera Tennekoon, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_154_99.pdf",
+    "parties": "Semgodan Arumugam and others Vs. Danasuriyalage Vinitha Rupasinghe and others Semgodan Arumugam and others Vs. Danasuriyalage Vinitha Rupasinghe and others View More",
+    "judgement_by": "Hon. S. Devika De Livera Tennekoon, J.",
+    "keywords": "declaration of title, ejectment, tenancy rights",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2017-09-28-CAHC-147-2014",
     "num": "CAHC 147/2014",
     "date_str": "2017-09-28",
@@ -96765,6 +96877,20 @@
     "parties": "Kamburawela Kankanamalage Dayarathne alias \"Chuti mama\" Vs. Hon.Attorney General",
     "judgement_by": " Hon. S. Thurairaja, P.C, J",
     "keywords": "",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-09-29-CA-0677-1997--F-",
+    "num": "CA/0677/1997 (F)",
+    "date_str": "2017-09-29",
+    "description": "Godayalage Hawadiya Vs. The President Development Sabawa Kegalle and others Godayalage Hawadiya Vs. The President Development Sabawa Kegalle and others View More before Hon. M.M.A. Gaffoor, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_677_97.pdf",
+    "parties": "Godayalage Hawadiya Vs. The President Development Sabawa Kegalle and others Godayalage Hawadiya Vs. The President Development Sabawa Kegalle and others View More",
+    "judgement_by": "Hon. M.M.A. Gaffoor, J.",
+    "keywords": "partition action, prescriptive title, adverse possession",
     "legistation": ""
   },
   {
@@ -97787,6 +97913,20 @@
     "parties": "",
     "judgement_by": "",
     "keywords": "",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2017-10-30-CA-1239-98--F-",
+    "num": "CA/1239/98 (F)",
+    "date_str": "2017-10-30",
+    "description": "M. Gunasekara Vs. Chandani Wijerathne M. Gunasekara Vs. Chandani Wijerathne View More before Hon. L.T.B. Dehideniya, J. (P/CA) and Hon. S. Thurairaja, PC, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2017&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_1239_1998_f.pdf",
+    "parties": "M. Gunasekara Vs. Chandani Wijerathne M. Gunasekara Vs. Chandani Wijerathne View More",
+    "judgement_by": "Hon. L.T.B. Dehideniya, J. (P/CA) and Hon. S. Thurairaja, PC, J.",
+    "keywords": "appeal, damages, excavation, lateral support, soil settlement",
     "legistation": ""
   },
   {

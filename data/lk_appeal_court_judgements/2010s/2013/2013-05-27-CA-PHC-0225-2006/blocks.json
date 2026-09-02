@@ -1,0 +1,515 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      210.71
+    ],
+    "text": "C.A. (PHC) No. 225/2006 P.H.CPanadura No.51/05",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      213.89,
+      363.48,
+      296.36
+    ],
+    "text": "Kalpage Wimalasiri No: 215, Ambagas Handiya, Kiriwaththuduwa.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      299.36,
+      420.03,
+      381.8
+    ],
+    "text": "Appellant Vs.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      384.8,
+      445.71,
+      484.3
+    ],
+    "text": "Gayan Padmakumara Abeysekara No: 216/13, Ambagas Handiya, Kiriwaththuduwa.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      487.42,
+      433.23,
+      501.46
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.27,
+      71.89,
+      435.45,
+      88.67
+    ],
+    "text": "C.A. (PHC) No. 225/2006 P.H.CPanadura No.51/05",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.912748336791992,
+      13.006278991699219,
+      13.376592636108398
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.34,
+      124.69,
+      117.3,
+      141.23
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.468311309814453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.27,
+      177.73,
+      125.91,
+      194.27
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.66,
+      230.78,
+      148.64,
+      247.32
+    ],
+    "text": "ARGUED AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.58,
+      256.93,
+      146.18,
+      273.48
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.9,
+      310.2,
+      174.03,
+      327.23
+    ],
+    "text": "A.W.A. SALAM, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.62,
+      124.93,
+      327.0,
+      141.47
+    ],
+    "text": "A.W.A. SALAM, J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.399999618530273,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.37,
+      151.34,
+      353.91,
+      167.88
+    ],
+    "text": "SUNIL RAJAPAKSHE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.85,
+      177.73,
+      378.62,
+      194.27
+    ],
+    "text": "Appellant present in person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.73117733001709,
+      12.851480484008789,
+      12.95962142944336,
+      13.059083938598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.28,
+      256.69,
+      296.99,
+      273.23
+    ],
+    "text": "27h May, 2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.423526763916016,
+      12.89107608795166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.13,
+      282.74,
+      267.64,
+      298.21
+    ],
+    "text": "***********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.437765121459961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.1,
+      371.62,
+      536.58,
+      392.74
+    ],
+    "text": "By letter dated 20 I 5 I 2013 addressed to the Registrar of this Court the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.528879165649414,
+      12.597674369812012,
+      12.601119041442871,
+      12.758517265319824,
+      12.810989379882812,
+      12.84037971496582,
+      12.888574600219727,
+      12.904006958007812,
+      12.938410758972168,
+      12.945117950439453,
+      13.015093803405762,
+      13.030900001525879,
+      13.064163208007812,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      403.57,
+      537.16,
+      420.11
+    ],
+    "text": "appellant has moved to withdraw the appeal by reason of the pending",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597674369812012,
+      12.601119041442871,
+      12.699482917785645,
+      12.79030704498291,
+      12.859920501708984,
+      12.862041473388672,
+      12.88049030303955,
+      12.928055763244629,
+      12.937212944030762,
+      12.988723754882812,
+      13.309076309204102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.66,
+      432.13,
+      536.58,
+      448.67
+    ],
+    "text": "partition action No.8400/P. Application for withdrawal is allowed and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.459059715270996,
+      12.578563690185547,
+      12.743638038635254,
+      12.801403045654297,
+      12.822308540344238,
+      12.84037971496582,
+      12.877939224243164,
+      12.879961013793945,
+      13.148933410644531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      460.69,
+      257.52,
+      477.23
+    ],
+    "text": "appeal dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.733222961425781,
+      12.815343856811523,
+      12.893816947937012,
+      12.994688987731934
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.9,
+      499.34,
+      207.8,
+      515.88
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.526900291442871,
+      12.84988784790039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.57,
+      537.72,
+      470.43,
+      554.75
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.349052429199219,
+      12.425658226013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.69,
+      576.84,
+      215.55,
+      593.87
+    ],
+    "text": "SUNIL RAJAPAKSHE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.79,
+      615.02,
+      180.79,
+      631.56
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.625843048095703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.05,
+      652.91,
+      470.91,
+      669.94
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.3414306640625,
+      12.347757339477539,
+      12.425658226013184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.83,
+      692.53,
+      100.73,
+      709.07
+    ],
+    "text": "WC/=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.722748756408691
+    ]
+  }
+]
