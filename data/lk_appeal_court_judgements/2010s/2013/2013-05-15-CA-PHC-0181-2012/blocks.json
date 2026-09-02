@@ -1,0 +1,400 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.22,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Arial",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      119.45,
+      197.2,
+      212.09
+    ],
+    "text": "CA (PHC) 181/2012 PHC-Badulla 53/2012",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      217.73,
+      490.11,
+      290.72
+    ],
+    "text": "Prasanth Wijendra Manawadu De Hewan Pries Road, Bandarawela.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      296.36,
+      403.92,
+      506.98
+    ],
+    "text": "Appellant Vs. Chaminda Wijesiri Municipal Council, Bandarawela. D.B.W. Chandrani De Silva Municipal Council, Bandarawela.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      512.5,
+      402.84,
+      526.54
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.24,
+      112.68,
+      495.47,
+      128.98
+    ],
+    "text": "CA (PHC) 181/2012 PHC-Badulla 53/2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.55,
+      153.72,
+      171.94,
+      169.07
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.24,
+      209.41,
+      181.16,
+      224.75
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.11,
+      154.2,
+      308.91,
+      183.46
+    ],
+    "text": "A.W.A. Salam, J. & Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.761113166809082,
+      10.899999618530273,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.54,
+      209.88,
+      393.4,
+      225.22
+    ],
+    "text": "Appellant absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.624228477478027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.04,
+      237.48,
+      445.05,
+      252.82
+    ],
+    "text": "W. Dayaratne, P.C. with R. Jayawardene for the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.390693664550781,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.01,
+      250.68,
+      328.9,
+      266.02
+    ],
+    "text": "1st and 2nd Respondents.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.464113235473633,
+      8.504446029663086,
+      11.5,
+      11.701484680175781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.07,
+      292.2,
+      263.26,
+      307.54
+    ],
+    "text": "Decided on: 15.05.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.1,
+      344.61,
+      223.31,
+      363.48
+    ],
+    "text": "A.W.A. Salam, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.74763011932373,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.65,
+      388.92,
+      535.91,
+      404.26
+    ],
+    "text": "Notice has been issued on the appellant directing him to pay the brief fees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.553326606750488,
+      11.577240943908691,
+      11.616460800170898,
+      11.711358070373535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.76,
+      409.81,
+      536.96,
+      425.15
+    ],
+    "text": "on or before 14.05.2013. As he has failed to pay the brief fees this appeal now",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.53878402709961,
+      11.573266983032227,
+      11.692440032958984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.96,
+      430.25,
+      217.2,
+      447.06
+    ],
+    "text": "stands rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.523575782775879,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.53,
+      498.88,
+      495.31,
+      515.22
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.835795402526855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.95,
+      532.32,
+      242.37,
+      549.09
+    ],
+    "text": "Sunil Rajapakshe , I.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.263172149658203,
+      11.996710777282715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.28,
+      560.77,
+      209.8,
+      576.11
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.53,
+      620.8,
+      495.31,
+      637.14
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.804099082946777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.59,
+      665.07,
+      175.3,
+      681.28
+    ],
+    "text": "Mm/-.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.482937812805176
+    ]
+  }
+]

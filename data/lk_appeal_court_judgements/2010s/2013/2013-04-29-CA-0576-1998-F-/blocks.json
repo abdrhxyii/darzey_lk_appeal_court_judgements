@@ -1,0 +1,441 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.29,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      399.46,
+      161.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA. CA 576/98(F) DC Matale 3443/X",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "MS Mincho",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      7.559999942779541,
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      164.09,
+      424.71,
+      229.49
+    ],
+    "text": "Peoples' Bank No. 75, Sir Chiththampalam A Gardiner Mawatha, Colombo 02.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      232.52,
+      315.36,
+      332.0
+    ],
+    "text": "Petitioner Vs. H. Rohini Udula Kumari No. 757, Meepitiya, Kegalle.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      335.12,
+      326.28,
+      400.4
+    ],
+    "text": "E.W.P.William Silva 433, Trincomalee Street, Matale.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      403.42,
+      362.64,
+      571.33
+    ],
+    "text": "Respondent And Between E.W.P.William Silva, (Deceased) 433, Trincomalee Street, Matale. E.W.P.William Silva 433, Trincomalee Street, Matale.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      574.33,
+      518.07,
+      690.97
+    ],
+    "text": "Substituted 2nd Respondent-Appellant Vs. Peoples' Bank No. 75, Sir Chiththampalam A Gardiner Mawatha, Colombo 02.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      694.09,
+      429.63,
+      708.13
+    ],
+    "text": "Petitioner \u2013Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.99,
+      67.09,
+      461.77,
+      84.12
+    ],
+    "text": "C.A.Appeal No.576/98 D.C.Matale No.3443/X",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.54,
+      111.73,
+      118.3,
+      128.27
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.47,
+      156.13,
+      127.99,
+      172.67
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.54,
+      275.41,
+      145.83,
+      306.59
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.399999618530273,
+      12.60849666595459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.54,
+      332.55,
+      170.68,
+      351.38
+    ],
+    "text": "K.T.Chitrasiri, I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.78,
+      109.23,
+      283.25,
+      129.43
+    ],
+    "text": "K.T.Chitrasiri, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.37,
+      156.38,
+      462.79,
+      172.92
+    ],
+    "text": "Sampath Perera for the 2nd Respondent-Appellant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.535359382629395,
+      12.399999618530273,
+      12.547769546508789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.54,
+      186.14,
+      515.97,
+      217.56
+    ],
+    "text": "Hiran de Alwis with Kalpa Virajith for the Petitioner-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.425673484802246,
+      12.56875228881836,
+      12.626923561096191,
+      12.6607084274292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.78,
+      230.77,
+      519.26,
+      262.19
+    ],
+    "text": "Mahanama de Silva with Nadeeka Senanayake for the 1st Respondent-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.264294624328613,
+      12.399999618530273,
+      12.46229362487793,
+      12.504212379455566,
+      12.540701866149902,
+      12.56875228881836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.77,
+      290.05,
+      247.19,
+      306.59
+    ],
+    "text": "29.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.3,
+      393.01,
+      442.43,
+      409.55
+    ],
+    "text": "Heard all three Counsel in support of their respective cases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.541789054870605,
+      12.56263256072998,
+      12.612872123718262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.3,
+      452.77,
+      519.82,
+      469.31
+    ],
+    "text": "Having concluded the arguments, Counsel for appellant moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.423827171325684,
+      12.483667373657227,
+      12.499848365783691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.58,
+      483.01,
+      519.24,
+      499.55
+    ],
+    "text": "withdraw the appeal. Application for withdrawal of the appeal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.400500297546387,
+      12.443424224853516,
+      12.520514488220215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.3,
+      513.26,
+      335.31,
+      529.81
+    ],
+    "text": "Accordingly appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.442626953125,
+      12.471195220947266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.55,
+      573.9,
+      204.94,
+      589.53
+    ],
+    "text": "Appeal dismissed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.97,
+      631.58,
+      469.69,
+      648.12
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.5,
+      662.77,
+      116.39,
+      679.31
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.476116180419922
+    ]
+  }
+]

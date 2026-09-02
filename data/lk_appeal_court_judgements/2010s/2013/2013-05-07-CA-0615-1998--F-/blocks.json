@@ -1,0 +1,373 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      109.37,
+      425.67,
+      297.8
+    ],
+    "text": "C.A.615/98 (F) D.C.Kalutara No.3944/MR T.M. Nobal Mendis \u201cNobal Bathik\u201d Police Bangalawa Road, Moragalla, Beruwala.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      303.44,
+      497.55,
+      474.7
+    ],
+    "text": "Complainant Appellant Vs. Aruna Shantha Abeygunawardana No: 07, Station Road, Pinnawatte, Panadura",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      480.34,
+      498.03,
+      494.38
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.79,
+      86.43,
+      201.26,
+      103.1
+    ],
+    "text": "C.A.615/98(F)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.34,
+      131.07,
+      159.64,
+      147.74
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.26,
+      175.48,
+      169.6,
+      192.15
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.82,
+      279.87,
+      187.89,
+      311.42
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.5,
+      12.505048751831055,
+      12.77380084991455
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.04,
+      337.53,
+      214.77,
+      356.5
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.589544296264648,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      339.78,
+      85.23,
+      490.1,
+      101.9
+    ],
+    "text": "D.C.Kalutara No.3944/MR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.28,
+      128.03,
+      323.25,
+      148.27
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.929158210754395,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.82,
+      174.75,
+      396.1,
+      191.42
+    ],
+    "text": "Appellant is present in Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.613187789916992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.58,
+      204.28,
+      466.9,
+      236.06
+    ],
+    "text": "Udaya Bandara with Sarath de Silva for the Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.543523788452148,
+      12.591167449951172,
+      12.619331359863281
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.77,
+      248.67,
+      501.96,
+      265.34
+    ],
+    "text": "Plaintiff-Respondent is absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.825657844543457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.71,
+      294.04,
+      288.62,
+      310.71
+    ],
+    "text": "07.05.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.99,
+      381.39,
+      527.89,
+      398.06
+    ],
+    "text": "Counsel appearing for the appellant moves to withdraw this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.543923377990723,
+      12.686213493347168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.58,
+      411.39,
+      528.53,
+      428.06
+    ],
+    "text": "Application for withdrawal of the appeal is allowed. Accordingly, appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.54202938079834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.49,
+      441.86,
+      269.05,
+      458.54
+    ],
+    "text": "is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.628242492675781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.31,
+      501.9,
+      249.0,
+      517.53
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.97,
+      559.0,
+      511.03,
+      575.67
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124.26,
+      591.15,
+      158.39,
+      607.82
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.570650100708008
+    ]
+  }
+]

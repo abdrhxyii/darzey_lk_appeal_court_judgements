@@ -1,0 +1,417 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      106.97,
+      309.24,
+      172.37
+    ],
+    "text": "C.A. No. 558/98F D.C. Horana No. 3828/P",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      175.37,
+      466.35,
+      223.61
+    ],
+    "text": "Ratuge Kumudini Chanralekha, No 352, Bellapitiya Junction, Horana.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      226.61,
+      479.67,
+      326.12
+    ],
+    "text": "Substituted Plaintiff Vs. lA. A. Josalin Pulleperuma, Bellapitiya Junction, Horana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      329.24,
+      441.99,
+      445.78
+    ],
+    "text": "Defendants. AND NOW BETWEEN Gamage Dona Dayawathie Bellapitiya, Horana.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      448.9,
+      527.79,
+      702.13
+    ],
+    "text": "26th Defendant Respondent Appellant Petitioner Vs. 1A. A. Josalin Pulleperuma, Bellapitiya Junction, Horana 2A A.Wimalawathie Kathriarchchie,Bellapitiya, Horana And Others Respondents - Respondents",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      455.28,
+      33.3,
+      464.34,
+      53.44
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.44,
+      95.07,
+      482.58,
+      114.14
+    ],
+    "text": "CA 558/98 (F) D.C. Horana Case No: 3828/P",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.516900062561035,
+      11.609868049621582,
+      11.811136245727539,
+      12.540271759033203,
+      12.580117225646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.82,
+      157.33,
+      260.21,
+      173.87
+    ],
+    "text": "BEFORE : K.T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.468311309814453,
+      12.754385948181152,
+      13.386971473693848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.51,
+      189.49,
+      444.56,
+      206.03
+    ],
+    "text": "COUSNEL : S. Gunasekara for the 14th Defendant-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.67343521118164,
+      13.015093803405762,
+      13.187305450439453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153.35,
+      221.9,
+      517.93,
+      238.44
+    ],
+    "text": "Shyamal A. Collure for the Substituted Plaintiff-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.124847412109375,
+      12.399999618530273,
+      12.588615417480469,
+      12.611595153808594,
+      12.951103210449219,
+      13.015093803405762,
+      13.074789047241211
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.94,
+      249.49,
+      143.35,
+      266.03
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.38,
+      281.65,
+      236.8,
+      298.19
+    ],
+    "text": "DECIDED ON: 14.05.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.84255313873291
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.42,
+      343.82,
+      173.19,
+      360.36
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.40894603729248,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.94,
+      377.89,
+      545.21,
+      394.43
+    ],
+    "text": "Mr. S. Gunasekara, Counsel for the Appellant having argued the case, moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.45706844329834,
+      12.574176788330078,
+      12.704217910766602,
+      12.732053756713867,
+      12.78846549987793,
+      12.909867286682129,
+      12.928055763244629,
+      13.000986099243164,
+      13.009519577026367,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.02,
+      406.22,
+      544.73,
+      422.76
+    ],
+    "text": "withdraw this appeal. Counsel for the Plaintiff-Respondent has no objection to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.45706844329834,
+      12.555524826049805,
+      12.677348136901855,
+      12.749232292175293,
+      12.794814109802246,
+      12.841634750366211,
+      12.877361297607422,
+      12.928055763244629,
+      12.976306915283203,
+      13.387109756469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.01,
+      433.82,
+      543.44,
+      450.36
+    ],
+    "text": "this application. Application for the withdrawal of the appeal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.623879432678223,
+      12.62741470336914,
+      12.711780548095703,
+      12.733903884887695,
+      12.77784252166748,
+      12.831299781799316,
+      12.937212944030762,
+      13.015093803405762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.06,
+      461.41,
+      377.52,
+      477.95
+    ],
+    "text": "Accordingly, this appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.711780548095703,
+      12.733222961425781,
+      12.867101669311523,
+      12.9260892868042,
+      12.97754955291748,
+      13.04820728302002
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.8,
+      499.27,
+      177.95,
+      514.9
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.954666137695312,
+      12.995015144348145
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.28,
+      571.1,
+      471.71,
+      587.64
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.479544639587402,
+      12.630949020385742,
+      12.72084903717041,
+      12.806680679321289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.46,
+      630.37,
+      96.33,
+      646.91
+    ],
+    "text": "NR/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.677201271057129
+    ]
+  }
+]

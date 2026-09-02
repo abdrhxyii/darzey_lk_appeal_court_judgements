@@ -1,0 +1,655 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.17,
+      88.55,
+      399.46,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      188.45
+    ],
+    "text": "C.A.No.648/98 (F) & C.A.648B/98 (F) D.C.Kalutara No.5857/P",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      191.45,
+      445.83,
+      273.92
+    ],
+    "text": "Mohamed Fawzy Mohamed Fazly No.179/2, Main Street, Dharga Town.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      276.92,
+      541.13,
+      393.56
+    ],
+    "text": "Substituted 1st Defendant-Appellant -Vs- Mohamed Ismail Mohamed Najeeb Aluthgam Street, Darga Town.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      396.58,
+      519.03,
+      701.17
+    ],
+    "text": "Substituted-Plaintiff-Respondent AND 2. Mausan Marikkar Mesthriyar Mohamed Riskan No.34, Main Street, Darga Town. 3. Abdul Majeed Mohamed Zahir -(Dead) Main Street, Darga Town. 4. Asana Lebbe Marikkar Mohamed Ismail No.32 Main Street, Darga Town -(Dead) And 12 others",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      704.29,
+      474.39,
+      718.33
+    ],
+    "text": "Defendants-Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.28,
+      31.76,
+      323.7,
+      47.29
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.67,
+      68.17,
+      515.11,
+      84.04
+    ],
+    "text": "C.A.N0.648/98(F) & C.A.648B/98(F) D.C.KALUTARA N0.5857/P",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.25,
+      124.65,
+      164.2,
+      140.44
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.19,
+      152.01,
+      172.92,
+      167.8
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.56,
+      305.62,
+      191.02,
+      335.08
+    ],
+    "text": "ARGUED& DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.437288284301758,
+      11.568751335144043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.71,
+      375.45,
+      198.97,
+      391.24
+    ],
+    "text": "CHITRASIRI,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.73,
+      124.42,
+      409.35,
+      140.21
+    ],
+    "text": "K. T.CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.57,
+      151.48,
+      537.89,
+      180.9
+    ],
+    "text": "Plaintiff-Appellant in C.A.648/98(F) is absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.53,
+      193.01,
+      563.27,
+      222.67
+    ],
+    "text": "M.Nizam Kariapper with M.I.M.Iynullah for Substituted-! st Defendant-Appellant in C.A.648B/98(F)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.90855884552002,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.26,
+      234.77,
+      533.46,
+      264.9
+    ],
+    "text": "M.U.M.Alisabry PC for the 5th and 6th Defendant-Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.833356857299805,
+      10.87759780883789,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.58,
+      276.52,
+      555.2,
+      292.28
+    ],
+    "text": "S.A.U.Kulasooriya for the 2nd Defendant-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.789043426513672,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.2,
+      318.29,
+      354.44,
+      334.04
+    ],
+    "text": "06. 05.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.32,
+      415.01,
+      565.24,
+      430.76
+    ],
+    "text": "When this matter was mentioned on 2nd March 2012, it has been noted that the notice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.695619583129883,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.66,
+      443.32,
+      565.3,
+      459.06
+    ],
+    "text": "sent to the Substituted-Plaintiff-Appellant had been returned with an endorsement that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.47,
+      471.17,
+      565.33,
+      486.91
+    ],
+    "text": "address is insufficient. In that journal entry, it is also minuted that the Registered Attorney",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.29,
+      498.76,
+      565.67,
+      514.51
+    ],
+    "text": "Mr.A.C.M.A.Mashood of the Substituted-Plaintiff-Appellant has expired and the notice sent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.09,
+      526.13,
+      562.33,
+      541.87
+    ],
+    "text": "to him also had been returned accordingly. Therefore, the appeal filed by the Substituted-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.31,
+      553.96,
+      564.79,
+      569.71
+    ],
+    "text": "Plaintiff-Appellant cannot be proceeded with. Accordingly, the appeal in the appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.5,
+      582.29,
+      458.41,
+      598.03
+    ],
+    "text": "C.A.648/98 is abated and the proceedings in that appeal are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.96,
+      637.25,
+      565.36,
+      653.0
+    ],
+    "text": "'When this matter was mentioned on the last occasion, Court was informed that the 3rd and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.63853931427002,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.56,
+      664.6,
+      565.55,
+      680.35
+    ],
+    "text": "4th Defendant-Respondents have died in the year 2006 and 2001 respectively. Even though",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.791011810302734,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.68,
+      691.96,
+      564.52,
+      707.71
+    ],
+    "text": "so many years have lapsed no steps have been taken to substitute the heirs of the 3rd and 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.63853931427002,
+      10.680328369140625,
+      11.691400527954102,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32.23,
+      28.51,
+      323.12,
+      48.07
+    ],
+    "text": "\u2022 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.26,
+      67.62,
+      565.9,
+      83.53
+    ],
+    "text": "Defendant-Respondents. It is the duty of the appellant to take necessary steps to substitute",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.967391967773438,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.05,
+      95.47,
+      566.29,
+      111.34
+    ],
+    "text": "the heirs of the parties who are dead. He has not taken this step for many years. Without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.39,
+      123.55,
+      439.8,
+      139.43
+    ],
+    "text": "substitution being effected this appeal could not be proceeded with.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.97,
+      178.75,
+      566.43,
+      194.62
+    ],
+    "text": "Therefore, it is seen that the appellant is not prosecuting the appeal diligently. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.27,
+      207.07,
+      414.09,
+      222.94
+    ],
+    "text": "these circumstances Court makes an order abating this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.28,
+      262.02,
+      566.08,
+      277.9
+    ],
+    "text": "Appeal is abated. Accordingly the proceedings in this appeal (C.A.648B/98) are also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.49,
+      292.02,
+      168.82,
+      307.9
+    ],
+    "text": "terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.65,
+      348.48,
+      268.92,
+      362.64
+    ],
+    "text": "Proceedings terminated",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      371.4,
+      400.26,
+      529.0,
+      416.13
+    ],
+    "text": "OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  }
+]

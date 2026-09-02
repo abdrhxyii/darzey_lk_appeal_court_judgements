@@ -1,0 +1,820 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      116.82,
+      293.38,
+      183.17
+    ],
+    "text": "CA (PHC) APN 150/2012 Revision High Court \u2013 Badulla 06/2011",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      13.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      186.17,
+      465.87,
+      234.41
+    ],
+    "text": "Hon. Attorney General, The Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      237.56,
+      533.93,
+      713.05
+    ],
+    "text": "Complainant. Vs. 1. Paranaga.mage Chaminda Rohana Alias paranamanage Dhanushaka Priyamaal Alias Manju alias Kalu Sagara. 02. Tennakoon Mudiyanselage Buddhika Prasad Thennakoon alias Chutta 03. Subramaniam Lakshaman alias bada 04. Rupasinhge Arachchige Chaminda Rupasinghe 05. Thilak Jayasekara alias sabha 06. Thomas Anton George 07. Karunasinghage Asanka Dilruk Jayawardane 08. Thennakoon Mudiyanselage Nilan Abeyratne alias Illangakoon Nilan Abeyratne alias Milan. 09. Don Ranjith Edirisinghe alias Ranji 10. Rajapakshe Pathiranage Lasantha Sanjeewa 11. Prasad Mangala Alagiriya Vithana alias Buddhika.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      74.81,
+      507.39,
+      140.09
+    ],
+    "text": "12. Walle Kangkanamlage Chamila Suranga alias Sudhu Sagara.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      143.21,
+      520.59,
+      242.69
+    ],
+    "text": "Suspects. AND NOW 04. Rupasinghe Arachchige Chaminda Rupasinghe.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      245.72,
+      438.39,
+      276.92
+    ],
+    "text": "Suspect-Petitioner.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      279.92,
+      272.86,
+      311.0
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      314.12,
+      441.51,
+      379.4
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      382.4,
+      479.79,
+      413.62
+    ],
+    "text": "Complainant-Respondent.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      416.62,
+      357.6,
+      482.02
+    ],
+    "text": "Officer in Charge, Police Station, Badulla.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      485.02,
+      400.92,
+      499.06
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38.4,
+      -1.19,
+      67.67,
+      60.1
+    ],
+    "text": "I",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      50.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.48,
+      829.58,
+      54.18,
+      843.98
+    ],
+    "text": "/",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.71,
+      73.42,
+      265.6,
+      101.98
+    ],
+    "text": "CA (PHC) APN 150/2012 06/2011",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.830607414245605,
+      10.100000381469727,
+      10.336970329284668,
+      10.388626098632812
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.09,
+      130.99,
+      310.2,
+      146.38
+    ],
+    "text": "Before: A.W.A. Salam, J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.509636878967285,
+      10.699999809265137,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.66,
+      161.05,
+      313.79,
+      175.75
+    ],
+    "text": "Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.509636878967285,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      339.53,
+      37.33,
+      347.62,
+      50.66
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.74,
+      74.15,
+      510.07,
+      88.06
+    ],
+    "text": "Revision High Court - Badulla",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.69,
+      205.21,
+      368.45,
+      220.16
+    ],
+    "text": "Counsel: S. Wellappili for the Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.518802642822266,
+      10.699999809265137,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.66,
+      234.73,
+      374.42,
+      249.43
+    ],
+    "text": "Samadari Piyasena SC for State.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.549216270446777,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.37,
+      277.87,
+      277.22,
+      307.99
+    ],
+    "text": "Argued & Decided on: 15.05.2013 ..",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.606667518615723,
+      10.699999809265137,
+      11.009795188903809,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.1,
+      351.29,
+      227.35,
+      366.67
+    ],
+    "text": "A. W .A. Sal am, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.020434379577637,
+      10.829760551452637,
+      11.086892127990723,
+      11.09224796295166,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.53,
+      408.73,
+      542.49,
+      423.43
+    ],
+    "text": "This is a revision application made against the order of the learned High",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699999809265137,
+      10.776476860046387,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.21,
+      437.7,
+      542.59,
+      452.48
+    ],
+    "text": "Court Judge dated 18.08.2011 refusing bail to the 2\"d accused Tennakoon",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.680768013000488,
+      10.699999809265137,
+      10.966042518615723,
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.61,
+      466.97,
+      542.28,
+      481.75
+    ],
+    "text": "Mudiyanselage Buddhika Prasad Thennakkon alias Chutta. Except the 2\"d",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.491705894470215,
+      10.667951583862305,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.25,
+      496.57,
+      544.65,
+      511.27
+    ],
+    "text": "accused, admittedly all others have been released on bail. Almost one and half",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.07,
+      525.85,
+      542.41,
+      540.55
+    ],
+    "text": "years have lapsed since the refusal of the bail application by the learned High",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.21,
+      555.05,
+      543.83,
+      569.83
+    ],
+    "text": "Court Judge. There are 137 witnesses listed by the prosecution and presently",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.776476860046387,
+      11.073504447937012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.26,
+      584.41,
+      543.19,
+      599.12
+    ],
+    "text": "only 8 witnesses have given evidence. lt is to be aobserved that certain articles",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.631278991699219,
+      10.699999809265137,
+      10.790467262268066,
+      10.966042518615723,
+      11.23354721069336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.0,
+      613.37,
+      542.28,
+      628.15
+    ],
+    "text": "concerning the commission of the offence, have been recovered from the 2\"d",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.491705894470215,
+      10.699999809265137,
+      11.186155319213867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.25,
+      643.21,
+      543.85,
+      657.91
+    ],
+    "text": "accused. However, this cannot constitute a ground to refuse bail as the other",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.147537231445312,
+      10.699999809265137,
+      11.09896183013916
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.24,
+      672.25,
+      542.41,
+      686.95
+    ],
+    "text": "accused from whom such articles have been recovered have already been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.666397094726562,
+      10.699999809265137,
+      10.747295379638672
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.16,
+      701.45,
+      542.42,
+      716.23
+    ],
+    "text": "released on bail. The 2\"d accused has now been on remand for more than",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.543861389160156,
+      10.58663272857666,
+      10.699999809265137,
+      10.736936569213867,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      43.35,
+      63.7,
+      49.18,
+      75.33
+    ],
+    "text": "r",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      331.13,
+      34.97,
+      339.38,
+      49.64
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133.41,
+      72.5,
+      535.38,
+      87.2
+    ],
+    "text": "four and half years. This itself is a ground which give rights to the accused to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699999809265137,
+      10.720680236816406,
+      10.776427268981934,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      133.47,
+      102.02,
+      534.72,
+      116.72
+    ],
+    "text": "maintain an application for bail. As such we direct the learned High Court Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.215218544006348,
+      10.588872909545898,
+      10.699999809265137,
+      10.814190864562988
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132.67,
+      130.96,
+      535.26,
+      146.08
+    ],
+    "text": "to release 2\"d accused on bail, subject to conditions to be imposed by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.382889747619629,
+      10.699999809265137,
+      10.831491470336914,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132.76,
+      160.33,
+      262.19,
+      175.03
+    ],
+    "text": "learned High Court Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314.35,
+      220.85,
+      487.51,
+      235.3
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.1260404586792,
+      10.199911117553711,
+      10.232029914855957,
+      10.259956359863281,
+      10.427751541137695
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      131.89,
+      277.88,
+      231.97,
+      293.53
+    ],
+    "text": "Sunil Rajapakshe, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.342536926269531,
+      10.670738220214844,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.31,
+      307.94,
+      203.66,
+      322.64
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313.87,
+      338.67,
+      487.04,
+      353.13
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.1260404586792,
+      10.199911117553711,
+      10.232029914855957,
+      10.259956359863281,
+      10.427751541137695
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      131.76,
+      396.75,
+      165.91,
+      411.73
+    ],
+    "text": "Mm/-.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.988788604736328
+    ]
+  }
+]

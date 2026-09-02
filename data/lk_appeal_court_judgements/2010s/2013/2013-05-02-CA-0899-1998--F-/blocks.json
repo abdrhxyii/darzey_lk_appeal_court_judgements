@@ -1,0 +1,706 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.17,
+      88.55,
+      399.46,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      192.53
+    ],
+    "text": "C.A. No: 899/98(F) D.C.Kurunegala No:4934/L",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      195.65,
+      529.47,
+      312.2
+    ],
+    "text": "(Deceased) Jayalath Dharamaratne, Dilshan Manjula Jayalath, llandarige Karunawathi, Both of",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      315.2,
+      468.03,
+      466.06
+    ],
+    "text": "Samagi Mawatha, Jayanthipura, Kurunegala. Vipula Menaka Jayalath, Samagi Mawatha, Jayanthipura, Kurunegala.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      469.06,
+      531.99,
+      602.77
+    ],
+    "text": "Defendant - Appellant. Vs. Ethugalge Nelson Jayaratne, Hewanamada, GonnaKohilagedera.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      605.89,
+      526.47,
+      619.93
+    ],
+    "text": "Plaintiff- Respondent.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.15,
+      81.42,
+      489.6,
+      99.33
+    ],
+    "text": "C.A.Appeal No.899/98 D.C.Kurunegala No.4934/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.45,
+      140.22,
+      120.13,
+      157.16
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.91,
+      184.39,
+      129.35,
+      201.34
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.22,
+      259.27,
+      147.51,
+      290.85
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.2,
+      318.78,
+      172.65,
+      335.26
+    ],
+    "text": "K.T.Chitrasiri, I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.68,
+      138.0,
+      285.59,
+      159.33
+    ],
+    "text": "K.T.Chitrasiri, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      15.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.21,
+      184.86,
+      517.88,
+      201.8
+    ],
+    "text": "Jacob Joseph for the 2nd and 3rd Substituted Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.665409088134766,
+      12.00767993927002,
+      12.699999809265137,
+      12.773040771484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.74,
+      199.74,
+      256.57,
+      216.68
+    ],
+    "text": "Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.7,
+      229.74,
+      438.85,
+      246.68
+    ],
+    "text": "Kamal Nissanka for the Plaintiff- Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.64,
+      274.15,
+      248.76,
+      291.09
+    ],
+    "text": "02.05.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.87,
+      347.34,
+      520.37,
+      364.28
+    ],
+    "text": "Mr. Jacob Joseph submits that the plaint in this case is filed to obtain a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.17,
+      377.34,
+      521.31,
+      394.28
+    ],
+    "text": "declaration of title to a land to which the plaintiff claims title by Deed bearing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.33,
+      407.34,
+      520.46,
+      424.28
+    ],
+    "text": "No.7701 dated 07.10.1993. However he further submits that the judgment in this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.713692665100098,
+      12.72213077545166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.9,
+      437.33,
+      519.85,
+      454.28
+    ],
+    "text": "case had been delivered on the basis of a deed bearing No.7702 dated 07.10.1993.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.743276596069336,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.94,
+      467.58,
+      521.19,
+      484.52
+    ],
+    "text": "Therefore his contention is that the judgment is ex -facie wrong since the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.763142585754395
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.17,
+      497.83,
+      440.63,
+      514.77
+    ],
+    "text": "impugned order is not in relation to the land claimed in the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.713692665100098,
+      12.813790321350098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.98,
+      558.06,
+      521.18,
+      575.0
+    ],
+    "text": "However, this appeal is to set aside the order dated 29.05.1998 wherein the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.772940635681152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.16,
+      588.05,
+      521.75,
+      605.0
+    ],
+    "text": "learned District Judge made order in respect of an application made under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.70050048828125,
+      12.743575096130371,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.81,
+      617.82,
+      521.22,
+      634.76
+    ],
+    "text": "Section 86 of the Civil Procedure Code. Hence, this appeal is not to challenge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.673272132873535,
+      12.699999809265137,
+      12.813790321350098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.49,
+      648.3,
+      521.74,
+      665.24
+    ],
+    "text": "the judgment which according to Mr. J.Joseph is erroneous. Therefore this Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      513.0,
+      739.04,
+      522.42,
+      754.57
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      34.84,
+      524.42,
+      88.26
+    ],
+    "text": "\"\" e is unable to look into the merits of the judgment since no appeal is before this",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.533904075622559,
+      12.566771507263184,
+      12.669055938720703,
+      20.583248138427734,
+      28.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.51,
+      95.31,
+      288.65,
+      111.98
+    ],
+    "text": "Court challenging the said judgment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.508147239685059,
+      12.533904075622559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.86,
+      155.8,
+      523.86,
+      172.47
+    ],
+    "text": "Having considered the above circumstances, Mr. Jacob Joseph moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.550149917602539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.9,
+      185.07,
+      524.22,
+      201.74
+    ],
+    "text": "withdraw this appeal reserving his right to file an action to vindicate the title of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.507197380065918,
+      12.57089900970459,
+      12.724925994873047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.65,
+      214.59,
+      523.29,
+      231.27
+    ],
+    "text": "the plaintiff that derived under the Deed bearing No.7701. Counsel for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.597469329833984,
+      12.648122787475586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.38,
+      243.62,
+      343.6,
+      260.3
+    ],
+    "text": "Respondent has no objection to this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.555426597595215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.94,
+      304.6,
+      522.78,
+      321.28
+    ],
+    "text": "Application for withdrawal of the appeal is allowed. Accordingly, appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.54202938079834
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.87,
+      334.12,
+      522.86,
+      350.8
+    ],
+    "text": "is dismissed reserving the rights of the plaintiff to file an action to vindicate her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.507197380065918,
+      12.844406127929688
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.46,
+      363.39,
+      427.36,
+      380.07
+    ],
+    "text": "rights derived from the Deed bearing No.7701 dated 07.10.1993.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.62155818939209
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.71,
+      423.33,
+      288.35,
+      439.08
+    ],
+    "text": "Appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.502165794372559,
+      12.62317943572998,
+      12.879633903503418,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.41,
+      513.87,
+      471.33,
+      530.65
+    ],
+    "text": "JUDGE 0 THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.49,
+      543.31,
+      117.65,
+      559.94
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.371014595031738
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      511.13,
+      739.95,
+      519.83,
+      755.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  }
+]
