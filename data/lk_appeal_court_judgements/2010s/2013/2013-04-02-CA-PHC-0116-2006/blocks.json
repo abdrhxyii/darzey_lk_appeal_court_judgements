@@ -1,0 +1,391 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.21,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      180.05
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) Appeal No.116/06 P.H.C.Colombo No.959/2005",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      185.57,
+      438.15,
+      278.36
+    ],
+    "text": "Jaila Baleen Sithy Fathima No: 381/40, Madampitiya Road, Colombo 14.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      283.88,
+      420.03,
+      317.72
+    ],
+    "text": "Appellant Vs.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      333.2,
+      471.39,
+      484.9
+    ],
+    "text": "Officer In-Charge Police Station, Granpass. Hon. Attorney General, Attorney General\u2019s Department Colombo 12.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      490.42,
+      438.87,
+      504.46
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.39,
+      98.32,
+      448.45,
+      115.37
+    ],
+    "text": "C.A.(PHC)Appeal No.l16/06 P.H.C.Colombo No.959/2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.778584480285645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.46,
+      142.49,
+      108.15,
+      159.3
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.38,
+      201.3,
+      117.57,
+      218.1
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.7,
+      246.17,
+      135.75,
+      262.99
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.709772109985352
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.74,
+      289.4,
+      160.72,
+      308.61
+    ],
+    "text": "A.W.A.Salam, I.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.470447540283203
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.74,
+      139.78,
+      286.85,
+      174.94
+    ],
+    "text": "A.W.A.Salam, J. Sunil Rajapakse, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.785287857055664,
+      13.866886138916016,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.98,
+      201.53,
+      393.23,
+      218.34
+    ],
+    "text": "Appellant is absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.72265338897705
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.63,
+      246.41,
+      236.78,
+      263.22
+    ],
+    "text": "02.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.46,
+      321.28,
+      508.91,
+      338.09
+    ],
+    "text": "Despite the notice having been sent to the appellant requesting him to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.611345291137695
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.77,
+      351.04,
+      509.59,
+      367.85
+    ],
+    "text": "pay brief fees on or before 1.4.2013 by registered post, the direction has not been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.676716804504395,
+      12.698862075805664,
+      12.82479476928711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.63,
+      380.81,
+      508.92,
+      397.62
+    ],
+    "text": "complied with by the appellant. For failure on the part of the appellant to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.669707298278809,
+      12.709772109985352,
+      12.81531047821045
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.64,
+      411.28,
+      341.49,
+      428.09
+    ],
+    "text": "deposit brief fees, this appeal now stands rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.765118598937988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.93,
+      471.28,
+      422.61,
+      488.09
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.01,
+      500.5,
+      174.3,
+      518.78
+    ],
+    "text": "Sunil Rajapakse, I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.62841796875,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.43,
+      531.53,
+      149.3,
+      548.34
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.17,
+      561.53,
+      422.85,
+      578.34
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.94,
+      592.48,
+      106.07,
+      609.29
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.620832443237305
+    ]
+  }
+]

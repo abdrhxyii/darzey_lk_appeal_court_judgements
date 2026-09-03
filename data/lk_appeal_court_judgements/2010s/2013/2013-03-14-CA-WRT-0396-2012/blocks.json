@@ -1,0 +1,744 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.32,
+      48.11,
+      524.55,
+      66.83
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      64.19,
+      397.6,
+      167.64
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. Writ No. 396/2012",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.99,
+      166.95,
+      471.06,
+      287.29
+    ],
+    "text": "Seyed Yaseen Moulana Sayed Hussain Moulana, No. 187 /5 A, Jayasamagi Mawatha, Kalubowila, Dehiwala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.99,
+      286.5,
+      465.65,
+      475.34
+    ],
+    "text": "PETITIONER Vs. Divisional Secretary of Thibirigasyaya Divisional Secretariat, No. 7, Vajira Lane, Colombo 05. And 06 Others.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.0,
+      474.44,
+      413.1,
+      492.37
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      24.78,
+      32.72,
+      311.22,
+      54.7
+    ],
+    "text": ".. 1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.353975296020508,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.22,
+      111.7,
+      279.63,
+      130.9
+    ],
+    "text": "C.A. Writ Appln; No. 39612012",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.06,
+      159.46,
+      128.04,
+      177.87
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.58,
+      191.63,
+      139.25,
+      210.04
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.81,
+      336.82,
+      154.24,
+      371.3
+    ],
+    "text": "Argued& Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.39,
+      159.46,
+      367.11,
+      178.66
+    ],
+    "text": "S. Sriskandarajah, J (PICA)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.06,
+      191.39,
+      480.14,
+      209.8
+    ],
+    "text": "M.U.M. Ali Sabry, P.C., with Ruwanthi Cooray",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.69,
+      207.45,
+      304.46,
+      225.86
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.1,
+      239.14,
+      508.16,
+      274.68
+    ],
+    "text": "Anusha Samaranayake, S.SC., for the 1st to 5th and ih Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.903948783874512,
+      13.800000190734863,
+      16.785432815551758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.05,
+      288.1,
+      503.67,
+      322.83
+    ],
+    "text": "Geethaka Gunawardane with U. Senevirathne for 6th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.000542640686035,
+      13.59487533569336,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.11,
+      353.85,
+      265.51,
+      371.05
+    ],
+    "text": "14.03.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.53,
+      399.11,
+      261.01,
+      419.79
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.12813949584961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.91,
+      449.87,
+      258.44,
+      469.07
+    ],
+    "text": "S. Sriskandarajah, J (PICA)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.56,
+      506.75,
+      523.79,
+      525.16
+    ],
+    "text": "D.M.D. Prashadini the Administrative Officer of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.57,
+      531.22,
+      524.25,
+      549.63
+    ],
+    "text": "Divisional Secretariat of Thibirigasyaya is present in Court and produced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.6,
+      555.47,
+      523.56,
+      573.87
+    ],
+    "text": "the department file in relation to the inquiry held in relation to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.67,
+      579.7,
+      524.44,
+      598.11
+    ],
+    "text": "payment of compensation in respect of the award made under section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.63,
+      604.18,
+      523.62,
+      622.59
+    ],
+    "text": "17 in relation to the land that is the subject matter of this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.730775833129883,
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.77,
+      628.18,
+      524.49,
+      646.59
+    ],
+    "text": "The section 17 award made on the 08th of August 2012, it is brought",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.627470970153809,
+      12.899999618530273,
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.6,
+      652.66,
+      524.1,
+      671.07
+    ],
+    "text": "to the notice of court that the Divisional Secretary when arriving at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.6,
+      677.15,
+      523.66,
+      695.56
+    ],
+    "text": "the decision after an mqmry under section 9 has not g1ven an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.61115837097168,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.75,
+      701.38,
+      524.06,
+      719.79
+    ],
+    "text": "opportunity for the petitioner to present his case before the Divisional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      23.08,
+      33.86,
+      306.95,
+      59.56
+    ],
+    "text": "\" 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.23,
+      69.92,
+      521.42,
+      88.06
+    ],
+    "text": "Secretary and in this circumstances the award has been made in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.09,
+      93.92,
+      521.56,
+      112.07
+    ],
+    "text": "favour of the 6th Respondent who is present in this court. The learned",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.221193313598633,
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.47,
+      118.39,
+      521.12,
+      136.53
+    ],
+    "text": "Senior State Counsel who is appearing for the respondents submits to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.12,
+      142.62,
+      544.05,
+      160.77
+    ],
+    "text": "court that it is titfelevant to give an opportunity for the petitioner to .,PL.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.458761215209961,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.09,
+      166.63,
+      521.17,
+      184.77
+    ],
+    "text": "establish his claim before arriving at a decision and in these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.86,
+      190.18,
+      521.0,
+      208.59
+    ],
+    "text": "circumstances this Court quash the section 1 7 award made by the 1st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.456335067749023,
+      13.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.74,
+      214.87,
+      554.65,
+      233.01
+    ],
+    "text": "respondent which is dated 08.08.2012 and a certified copy of which is ./ ~-",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.297341823577881,
+      13.600000381469727,
+      13.61489200592041,
+      14.426204681396484,
+      16.01655387878418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.09,
+      229.51,
+      520.38,
+      257.01
+    ],
+    "text": "/ filed of record and the order is in the departmental file which 1s",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.082036018371582,
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.78,
+      262.87,
+      520.88,
+      281.01
+    ],
+    "text": "produced today in court. The Court direct the Divisional Secretary to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.74,
+      287.1,
+      521.5,
+      305.25
+    ],
+    "text": "hold a fresh inquiry under section 9 after giving notice to the relevant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.78,
+      311.11,
+      521.06,
+      329.25
+    ],
+    "text": "parties including the Petitioner and the 6th Respondent. This application",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.1,
+      336.07,
+      520.41,
+      354.21
+    ],
+    "text": "for writ of certiorari as prayed for in prayer 'b' of the petition is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.434796333312988,
+      13.600000381469727,
+      14.161460876464844,
+      14.346511840820312,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.1,
+      360.31,
+      219.65,
+      378.45
+    ],
+    "text": "allowed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.18,
+      433.28,
+      496.42,
+      451.42
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.53,
+      530.31,
+      118.11,
+      549.14
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.810057640075684
+    ]
+  }
+]

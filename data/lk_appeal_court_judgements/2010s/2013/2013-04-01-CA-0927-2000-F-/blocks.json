@@ -1,0 +1,950 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      298.97,
+      70.92,
+      307.06,
+      84.25
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.86,
+      104.92,
+      528.01,
+      128.75
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.86,
+      125.07,
+      466.56,
+      148.9
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.82,
+      276.41,
+      197.7,
+      294.42
+    ],
+    "text": "C.A. No. 927 I 2000 F",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.66,
+      307.85,
+      255.82,
+      325.86
+    ],
+    "text": "D.C. Avissawella No. 20342 I M",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.77,
+      181.56,
+      459.61,
+      246.56
+    ],
+    "text": "Liyanagamaralalage Saman Ratnawardena, Doranuwa, Ruwanwella.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      389.97,
+      292.68,
+      411.46,
+      310.15
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      460.74,
+      260.53,
+      510.79,
+      278.0
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.84,
+      339.24,
+      523.52,
+      483.44
+    ],
+    "text": "1. Kambakara Nekathige Sirisena, 2. Kambakara Nekathige Hemapala, 3. J othiratna Ganithayalage Gunapala, 4. Kambakara N ekathige Maitripala, 5. Kambakara Nekathige Sumathipala, 6. Kambakara Nekathige Dayapala, 7. Kambakara Nekathige Thilakasoma, All ofDehiowita, Debegama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69674301147461,
+      13.071720123291016,
+      13.097749710083008,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      461.2,
+      481.56,
+      526.68,
+      499.04
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.89,
+      529.1,
+      464.27,
+      547.38
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.56,
+      576.13,
+      524.24,
+      719.6
+    ],
+    "text": "1. Kambakara Nekathige Sirisena, 2. Kambakara N ekathige Hemapala, 3. J othiratna Ganithayalage Gunapala, 4. Kambakara Nekathige Maitripala, 5. Kambakara Nekathige Sumathipala, 6. Kambakara N ekathige Dayapala, 7. Kambakara Nekathige Thilakasoma, All of Dehiowita, Debegama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.887680053710938,
+      13.071720123291016,
+      13.097749710083008,
+      13.100000381469727,
+      13.766971588134766
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.02,
+      717.49,
+      534.95,
+      734.97
+    ],
+    "text": "Defendant Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.26,
+      245.41,
+      125.52,
+      262.88
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.94,
+      293.17,
+      143.19,
+      310.64
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.74,
+      71.3,
+      306.24,
+      84.64
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      353.73,
+      106.68,
+      371.9,
+      124.15
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.11,
+      137.89,
+      458.66,
+      202.39
+    ],
+    "text": "Liyanagamaralalage Saman Ratnawardena, Doranuwa, Ruwanwella.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      412.27,
+      217.8,
+      528.44,
+      235.27
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.62,
+      247.8,
+      421.89,
+      265.27
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.1058988571167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.34,
+      295.56,
+      459.89,
+      313.03
+    ],
+    "text": "Defendant Appellants - Absent and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.1,
+      318.6,
+      342.53,
+      336.07
+    ],
+    "text": "unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.53,
+      343.09,
+      492.0,
+      360.56
+    ],
+    "text": "T. Weragoda for the Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080235481262207,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.3,
+      388.67,
+      323.35,
+      406.15
+    ],
+    "text": "WRITTEN SUBMISSIONS ON: 06.02.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.85,
+      411.24,
+      152.33,
+      428.71
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.58,
+      434.76,
+      155.21,
+      452.23
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.37,
+      482.53,
+      231.05,
+      500.01
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.994173049926758,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.3,
+      413.16,
+      323.8,
+      430.63
+    ],
+    "text": "04.09.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.06,
+      436.67,
+      323.03,
+      454.15
+    ],
+    "text": "01.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.25,
+      531.96,
+      529.11,
+      549.43
+    ],
+    "text": "The Plaintiff Respondent (hereinafter referred to as the Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.06,
+      555.23,
+      528.57,
+      572.71
+    ],
+    "text": "instituted the said action against the Defendant Appellants (hereinafter referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.54,
+      579.0,
+      531.54,
+      596.47
+    ],
+    "text": "as the Appellants) in the District Court of A vissawelle seeking to recover a sum of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.766971588134766
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.14,
+      602.76,
+      528.34,
+      620.23
+    ],
+    "text": "Rs. 103,000/- which had been paid to the Appellants by the Respondent in order to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.97,
+      626.27,
+      528.61,
+      643.75
+    ],
+    "text": "purchase 11 jack trees. The Appellants filed answer praying for a dismissal of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.442183494567871,
+      13.100000381469727,
+      13.240793228149414,
+      13.633967399597168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.89,
+      649.79,
+      528.37,
+      667.27
+    ],
+    "text": "Respondent's action. The case proceeded to trial on 11 issues. After trial the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300024032592773,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.08,
+      673.31,
+      528.66,
+      690.79
+    ],
+    "text": "learned District Judge has delivered a judgment in favour of the Respondent. Being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.898701667785645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.82,
+      696.59,
+      527.61,
+      714.07
+    ],
+    "text": "aggrieved by the said judgment dated 13 .11.2000 the Appellants have appealed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.58279037475586,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.45,
+      718.21,
+      123.2,
+      735.69
+    ],
+    "text": "this court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.12,
+      70.29,
+      307.99,
+      84.3
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.73,
+      127.89,
+      534.93,
+      146.17
+    ],
+    "text": "According to the facts of the case an agreement had been entered into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.17,
+      151.89,
+      535.11,
+      170.17
+    ],
+    "text": "between the Respondent and the Appellants to purchase 11 jack trees from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.578550338745117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.37,
+      175.65,
+      535.22,
+      193.93
+    ],
+    "text": "Appellants. Said agreement dated 27.03.1996 had been produced at the trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.62,
+      199.4,
+      535.39,
+      217.68
+    ],
+    "text": "marked P 1. It was the position of the Respondent that the Appellants did not have",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.9842529296875,
+      13.683144569396973,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.61,
+      223.16,
+      536.06,
+      241.44
+    ],
+    "text": "title to the land mentioned in the said agreement and therefore the Appellants could",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.87,
+      247.4,
+      278.72,
+      265.68
+    ],
+    "text": "not fulfil the terms of the agreement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.92,
+      293.96,
+      538.89,
+      312.25
+    ],
+    "text": "At the trial the Respondent has closed his case leading the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.32,
+      317.73,
+      536.32,
+      336.01
+    ],
+    "text": "the Respondent and one other witness. The Appellants have closed their case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.81,
+      341.48,
+      536.72,
+      359.77
+    ],
+    "text": "without leading any evidence. Accordingly the Appellants have failed to prove",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.8,
+      366.46,
+      153.99,
+      384.73
+    ],
+    "text": "their position.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.11,
+      412.52,
+      537.53,
+      430.81
+    ],
+    "text": "When I consider the said evidence of the Respondent I am of the view",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.27,
+      436.29,
+      537.2,
+      454.57
+    ],
+    "text": "that the learned District Judge has rightly concluded that the Respondent was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.9,
+      460.76,
+      351.76,
+      479.04
+    ],
+    "text": "entitled for a judgment as prayed for in the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.38,
+      507.33,
+      538.38,
+      525.61
+    ],
+    "text": "In the said circumstances I see no reason to interfere with the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.41,
+      531.08,
+      538.23,
+      549.36
+    ],
+    "text": "judgement of the learned District Judge dated 13.11.2000. Therefore I dismiss the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.63,
+      555.8,
+      275.55,
+      574.08
+    ],
+    "text": "appeal of the Appellants with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.08,
+      605.1,
+      248.6,
+      621.34
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.16,
+      648.68,
+      523.05,
+      666.96
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  }
+]

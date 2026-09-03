@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.21,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      199.61
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) Appeal No.109/06 P.H.C.Galle No.188/2002",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      205.25,
+      452.07,
+      297.92
+    ],
+    "text": "Kandage Don Nalini No: 88, Susilachara Mawatha, Hikkaduwa.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      303.56,
+      456.03,
+      337.4
+    ],
+    "text": "Appellant Vs.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      352.88,
+      480.75,
+      465.22
+    ],
+    "text": "Sumith Mendis Rajapakshe Muththettuwe Watta, Susilachara Mawatha, Pannamgoda, Hikkaduwa.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      470.86,
+      469.23,
+      484.9
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.71,
+      97.98,
+      425.67,
+      115.17
+    ],
+    "text": "C.A.(PHC)Appeal No.109/06 P.H.C.Galle No.188/2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.78,
+      142.15,
+      106.45,
+      159.09
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.7,
+      201.18,
+      116.15,
+      218.12
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.01,
+      245.59,
+      134.07,
+      262.53
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.82,
+      290.37,
+      158.78,
+      307.27
+    ],
+    "text": "A.W.A.Salam, I.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.780487060546875,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.06,
+      140.34,
+      285.88,
+      175.79
+    ],
+    "text": "A.W.A.Salam, J. Sunil Rajapakse, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.614797592163086,
+      12.199999809265137,
+      12.264330863952637,
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.02,
+      201.42,
+      362.23,
+      218.36
+    ],
+    "text": "Parties absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.773040771484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.95,
+      245.59,
+      235.07,
+      262.53
+    ],
+    "text": "02.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.42,
+      319.98,
+      507.69,
+      336.92
+    ],
+    "text": "Notice has been sent to the appellant requesting the appellant to pay brief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.22,
+      349.75,
+      507.28,
+      366.69
+    ],
+    "text": "fees on or before 1.4.2013, the direction has not been complied with by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.749155044555664,
+      12.76010799407959,
+      12.813790321350098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.72,
+      379.26,
+      506.86,
+      396.2
+    ],
+    "text": "appellant. For failure on the part of the appellant to deposit brief fees, this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.795937538146973,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.71,
+      409.5,
+      219.83,
+      426.44
+    ],
+    "text": "appeal now stands rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.750101089477539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.01,
+      469.75,
+      420.59,
+      486.69
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.9,
+      500.38,
+      173.09,
+      517.28
+    ],
+    "text": "Sunil Rajapakse, I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.51,
+      528.78,
+      147.12,
+      545.72
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.01,
+      559.03,
+      420.64,
+      575.97
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.03,
+      589.98,
+      103.68,
+      606.92
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  }
+]

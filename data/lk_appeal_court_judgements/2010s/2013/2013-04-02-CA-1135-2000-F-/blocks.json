@@ -1,0 +1,744 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.17,
+      88.55,
+      399.46,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      204.53
+    ],
+    "text": "Court of Appeal Case No: 1135/2000 (F) D.C. Colombo Case No : 8027/RE",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Calibri,BoldItalic",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      207.53,
+      486.39,
+      238.73
+    ],
+    "text": "Colamba Thanthanthrige Indira Wethmi Perera",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      241.76,
+      379.68,
+      358.4
+    ],
+    "text": "Plaintiff. Vs. 1. A.R Sikkandar, (deceased) 1 (a) Isha Sickandar.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      361.4,
+      428.19,
+      512.14
+    ],
+    "text": "Substituted-Defendant. And Mohamed Sabry, No: 1, Sunethra Lane, Colombo 05.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      515.26,
+      489.27,
+      666.01
+    ],
+    "text": "Substituted-Defendant-Appellant. Vs. Colamba Thanthanthrige Indira Wethmi Perera No: 76, Gothami Road, Colombo 8.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      669.13,
+      418.47,
+      683.17
+    ],
+    "text": "Plaintiff- Respondent.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.58,
+      80.22,
+      256.79,
+      97.16
+    ],
+    "text": "C.A.No. 1135/2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.813889503479004,
+      13.416820526123047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.66,
+      142.63,
+      188.92,
+      159.57
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.7661771774292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.59,
+      204.31,
+      197.49,
+      221.25
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.22,
+      318.79,
+      220.27,
+      335.73
+    ],
+    "text": "ARGUED AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.91,
+      349.98,
+      217.83,
+      366.92
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.58,
+      80.71,
+      474.78,
+      97.65
+    ],
+    "text": "D.C.Colombo No.8027/RE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.713043212890625,
+      13.073216438293457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.38,
+      142.86,
+      429.99,
+      159.8
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.56230354309082,
+      12.699999809265137,
+      13.3289155960083
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.89,
+      204.31,
+      422.43,
+      221.25
+    ],
+    "text": "Appellant is absent and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.856979370117188,
+      12.864632606506348,
+      13.423775672912598,
+      13.529462814331055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.4,
+      235.27,
+      370.62,
+      252.21
+    ],
+    "text": "unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.115067481994629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.49,
+      266.46,
+      468.44,
+      283.4
+    ],
+    "text": "Chandra Perera for the plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.022993087768555,
+      13.259140968322754,
+      13.312385559082031
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.38,
+      287.59,
+      348.78,
+      304.53
+    ],
+    "text": "respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.191008567810059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.51,
+      349.51,
+      376.41,
+      366.45
+    ],
+    "text": "02nd April 2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.009918212890625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.17,
+      407.21,
+      338.75,
+      421.88
+    ],
+    "text": "***********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.4,
+      459.84,
+      291.0,
+      477.02
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.123209953308105
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.86,
+      512.46,
+      499.65,
+      529.4
+    ],
+    "text": "Mr. S. Rupasinghe Attorney-at-Law informs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.82953929901123,
+      12.891752243041992,
+      13.035859107971191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.82,
+      541.02,
+      499.94,
+      557.96
+    ],
+    "text": "Court that the proxy issued to the defendant-appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.752640724182129,
+      12.815424919128418,
+      13.103248596191406,
+      13.17159366607666,
+      13.185567855834961,
+      13.192934036254883,
+      13.259140968322754,
+      13.469110488891602,
+      13.681428909301758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.58,
+      569.82,
+      264.7,
+      586.76
+    ],
+    "text": "already been revoked.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.037124633789062,
+      13.152103424072266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.85,
+      607.27,
+      500.27,
+      624.21
+    ],
+    "text": "Learned Counsel for the plaintiff-respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.93193244934082,
+      12.954696655273438,
+      12.999274253845215,
+      13.17159366607666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.85,
+      636.06,
+      499.67,
+      653.0
+    ],
+    "text": "informs Court that this matter has been settled between the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.914636611938477,
+      12.926529884338379,
+      13.011137962341309,
+      13.08350944519043,
+      13.094812393188477,
+      13.132340431213379,
+      13.232583045959473,
+      13.249128341674805,
+      13.548083305358887,
+      13.613542556762695
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.98,
+      664.14,
+      500.86,
+      681.08
+    ],
+    "text": "parties in the District Court of Colombo. Certified copy of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.775425910949707,
+      12.887022972106934,
+      12.90991497039795,
+      13.006012916564941,
+      13.09107780456543,
+      13.129100799560547,
+      13.259140968322754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.92,
+      692.46,
+      499.82,
+      709.4
+    ],
+    "text": "the proceedings dated 29.05.2003 and the journal entries",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.935564994812012,
+      13.061456680297852,
+      13.074041366577148,
+      13.172172546386719,
+      13.259140968322754,
+      13.353154182434082,
+      13.45571517944336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.78,
+      -6.82,
+      606.12,
+      21.21
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      525.72,
+      31.29,
+      535.14,
+      46.82
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.74,
+      80.32,
+      498.6,
+      97.13
+    ],
+    "text": "have been produced before Court. I have perused the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.852274894714355,
+      12.87558650970459,
+      12.910036087036133,
+      13.007219314575195,
+      13.043156623840332,
+      13.060099601745605,
+      13.119634628295898,
+      13.205167770385742
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.63,
+      108.41,
+      498.14,
+      125.22
+    ],
+    "text": "order of the learned Additional District Judge, Colombo",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.632508277893066,
+      12.659608840942383,
+      12.894264221191406,
+      12.972007751464844,
+      13.030157089233398,
+      13.055757522583008,
+      13.206836700439453,
+      13.211893081665039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.63,
+      136.73,
+      498.15,
+      153.54
+    ],
+    "text": "dated 29.05.2003. It appears that the appellant has given",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.014532089233398,
+      13.106422424316406,
+      13.169097900390625,
+      13.18478012084961,
+      13.206836700439453,
+      13.320594787597656,
+      13.49463939666748,
+      13.55984115600586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.62,
+      164.81,
+      498.6,
+      181.62
+    ],
+    "text": "consent to withdraw this appeal. In view of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.84585189819336,
+      12.860262870788574,
+      12.929393768310547,
+      12.972007751464844,
+      12.993650436401367,
+      13.007219314575195,
+      13.119634628295898,
+      13.153014183044434,
+      13.234904289245605
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.05,
+      192.64,
+      410.22,
+      209.45
+    ],
+    "text": "settlement I dismiss this appeal without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.93022346496582,
+      13.00029182434082,
+      13.064537048339844,
+      13.077261924743652,
+      13.101374626159668,
+      13.153014183044434
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.72,
+      231.66,
+      241.6,
+      247.29
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.069855690002441,
+      13.071813583374023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      276.88,
+      307.44,
+      496.77,
+      323.85
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.34451961517334,
+      12.545844078063965,
+      12.669451713562012,
+      12.754937171936035,
+      12.758359909057617
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.94,
+      345.91,
+      175.05,
+      362.85
+    ],
+    "text": "Kwk/=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.907997131347656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      524.33,
+      30.88,
+      533.1,
+      46.49
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  }
+]

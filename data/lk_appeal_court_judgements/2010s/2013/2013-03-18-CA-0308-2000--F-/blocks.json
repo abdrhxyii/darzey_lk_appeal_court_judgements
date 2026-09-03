@@ -1,0 +1,1631 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      13.08,
+      27.32,
+      25.9,
+      33.51
+    ],
+    "text": "I .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.500100135803223
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.57,
+      71.88,
+      304.66,
+      85.21
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      76.22,
+      105.78,
+      525.33,
+      129.74
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.46,
+      125.93,
+      463.86,
+      149.89
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.42,
+      277.36,
+      195.06,
+      295.37
+    ],
+    "text": "C.A. No. 308 I 2000 F",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.25,
+      309.24,
+      219.77,
+      326.71
+    ],
+    "text": "D.C. Panadura No. 615/ L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.5,
+      182.76,
+      488.42,
+      200.23
+    ],
+    "text": "Raigamage Darmadasa Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.26,
+      198.61,
+      479.87,
+      247.53
+    ],
+    "text": "15/6 \"Muditha\" ' ' Rukmal Mawatha, Paraththa, Keselwatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.09,
+      261.73,
+      508.14,
+      279.2
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.33,
+      293.88,
+      408.46,
+      311.35
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.74,
+      340.69,
+      473.33,
+      358.16
+    ],
+    "text": "Raigamage Jinadasa Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.74,
+      356.52,
+      480.35,
+      405.67
+    ],
+    "text": "15/6 \"Muditha\" ' ' Rukmal Mawatha, Paraththa, Keselwatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.1,
+      404.04,
+      518.58,
+      421.51
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.57,
+      435.76,
+      420.44,
+      454.32
+    ],
+    "text": "AND",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      352.05,
+      467.16,
+      491.29,
+      484.63
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.160112380981445
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.98,
+      498.6,
+      489.14,
+      516.07
+    ],
+    "text": "Raigamage Darmadasa Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.98,
+      514.44,
+      480.59,
+      563.6
+    ],
+    "text": "15/6 \"Muditha\" ' ' Rukmal Mawatha, Paraththa, Keselwatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      408.67,
+      577.55,
+      514.36,
+      595.02
+    ],
+    "text": "Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      423.57,
+      609.23,
+      444.71,
+      626.7
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.23,
+      640.68,
+      474.05,
+      658.16
+    ],
+    "text": "Raigamage Jinadasa Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.46,
+      656.52,
+      481.07,
+      705.66
+    ],
+    "text": "15/6 \"Muditha\" ' ' Rukmal Mawatha, Paraththa, Keselwatta.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.85,
+      719.16,
+      520.54,
+      736.63
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.78,
+      105.19,
+      124.8,
+      123.33
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.94,
+      128.95,
+      142.4,
+      147.09
+    ],
+    "text": "COUNSELS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.57,
+      176.48,
+      152.23,
+      194.62
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.78,
+      199.99,
+      156.07,
+      218.13
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.82,
+      247.27,
+      233.54,
+      265.41
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.32,
+      71.64,
+      304.41,
+      84.97
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.14,
+      105.19,
+      420.99,
+      123.33
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.8,
+      128.95,
+      519.55,
+      147.09
+    ],
+    "text": "T.R.S. Nanayakkara for the Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.34,
+      152.71,
+      480.62,
+      170.85
+    ],
+    "text": "H. Peiris for the Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.539666175842285,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.89,
+      176.24,
+      324.17,
+      194.38
+    ],
+    "text": "17.01.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.89,
+      199.98,
+      324.17,
+      218.13
+    ],
+    "text": "18.03.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.16,
+      294.8,
+      530.98,
+      312.94
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.2,
+      318.54,
+      530.46,
+      336.69
+    ],
+    "text": "instituted the said action against the Defendant Respondent (hereinafter referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.16,
+      342.32,
+      533.94,
+      360.46
+    ],
+    "text": "as the Respondent) in the District Court of Panadura praying for a declaration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.891721725463867,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.81,
+      365.84,
+      369.11,
+      383.98
+    ],
+    "text": "title to the land described in the schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      413.35,
+      530.8,
+      431.49
+    ],
+    "text": "On the date of trial the Appellant was absent in Court. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.18,
+      436.88,
+      531.36,
+      455.02
+    ],
+    "text": "Counsel for the Appellant had informed Court that he had no instructions to appear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.42,
+      460.62,
+      531.4,
+      478.77
+    ],
+    "text": "and prosecute the case. Thereafter the learned trial Judge had dismissed the action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.18,
+      484.39,
+      530.84,
+      502.53
+    ],
+    "text": "of the Appellant. Thereafter the Appellant had made an application to vacate the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.38,
+      508.16,
+      533.85,
+      526.3
+    ],
+    "text": "said order of dismissal of the action. The Respondent had filed her statement of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.891721725463867,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.43,
+      531.67,
+      531.76,
+      549.81
+    ],
+    "text": "objection to the said application. The learned District judge had dismissed the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.29,
+      555.44,
+      531.19,
+      573.58
+    ],
+    "text": "Application of the Appellant without giving him an opportunity to lead evidence to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.64,
+      579.18,
+      534.09,
+      597.33
+    ],
+    "text": "establish reasons for his non appearance. Being aggrieved by the said order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.891721725463867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.67,
+      602.95,
+      450.8,
+      621.09
+    ],
+    "text": "dismissal dated 19.05.1995 the Appellant had appealed to this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.28,
+      649.99,
+      531.85,
+      668.13
+    ],
+    "text": "The Court of Appeal set aside the said order of the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.48,
+      673.75,
+      531.92,
+      691.89
+    ],
+    "text": "Judge and sent the case back to the District Court to fix the matter for inquiry on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.54,
+      697.03,
+      531.56,
+      715.17
+    ],
+    "text": "the petition and affidavit filed by the Plaintiff Appellant and to enable the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.78,
+      720.8,
+      222.92,
+      738.95
+    ],
+    "text": "Appellant to lead evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.28,
+      71.25,
+      304.15,
+      85.26
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.56,
+      105.43,
+      530.83,
+      123.57
+    ],
+    "text": "Thereafter the said application has been fixed for inquiry and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.81,
+      129.2,
+      530.61,
+      147.34
+    ],
+    "text": "Appellant has led evidence to establish his reasons for nonappearance on the trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.17,
+      152.72,
+      531.26,
+      170.86
+    ],
+    "text": "date. Thereafter the learned District Judge has dismissed the Appellant's said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.55,
+      176.47,
+      531.07,
+      194.62
+    ],
+    "text": "Application to purge default. Being aggrieved by the said order dated 18.01.2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.81,
+      200.23,
+      396.85,
+      218.37
+    ],
+    "text": "the Appellant has preferred the instant appeal to this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.27,
+      247.52,
+      531.17,
+      265.7
+    ],
+    "text": "It appears from the proceedings of the case that at the aforesaid",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.845080375671387,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.45,
+      271.52,
+      531.22,
+      289.67
+    ],
+    "text": "inquiry the Appellant has led evidence to prove that on the relevant date he could",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.05,
+      295.27,
+      531.05,
+      313.41
+    ],
+    "text": "not come to Court due to his illness. In support of this fact the Appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.85,
+      318.78,
+      531.31,
+      336.93
+    ],
+    "text": "produced a medical certificate marked P 1. Said medical Certificate has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.936779022216797,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.11,
+      342.56,
+      531.11,
+      360.7
+    ],
+    "text": "proved by the evidence of the Doctor who had issued it. Said Doctor in his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.94,
+      366.07,
+      531.15,
+      384.22
+    ],
+    "text": "evidence has said that he had given treatments to the Appellant. The Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.06,
+      389.83,
+      406.76,
+      407.98
+    ],
+    "text": "has not adduced any material to disbelieve the said evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.27,
+      437.11,
+      531.05,
+      455.29
+    ],
+    "text": "It is apparent from the alleged order that the learned District Judge has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.18,
+      460.88,
+      531.06,
+      479.02
+    ],
+    "text": "dismissed the Appellant's application considering some contradiction in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.16,
+      484.63,
+      530.83,
+      502.77
+    ],
+    "text": "evidence with regard to the ailment of the Appellant. But he has not rejected the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.06,
+      508.39,
+      531.19,
+      526.53
+    ],
+    "text": "medical certificate produced by the Appellant upon the said contradictions. If the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.146807670593262
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.43,
+      532.16,
+      531.21,
+      550.3
+    ],
+    "text": "learned District Judge was of the view that the said contradictions were material",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.2,
+      555.67,
+      531.08,
+      573.82
+    ],
+    "text": "contradictions then the said medical certificate should have been rejected. He has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.33,
+      579.43,
+      138.13,
+      597.58
+    ],
+    "text": "not done so.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.467656135559082,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.82,
+      626.71,
+      531.22,
+      644.85
+    ],
+    "text": "In the said circumstances when I consider the said evidence it seems",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.02,
+      650.47,
+      531.82,
+      668.61
+    ],
+    "text": "to me that the learned District Judge without paying his attention to the provisions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.508441925048828,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.18,
+      673.98,
+      531.07,
+      692.13
+    ],
+    "text": "contained in Section 87(3) of the Civil Procedure Code has dismissed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.29,
+      697.52,
+      531.17,
+      715.7
+    ],
+    "text": "Appellant's said Application. It must be noted that Section 87(3) of the Code has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.845080375671387,
+      14.027238845825195
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297.32,
+      71.94,
+      305.05,
+      85.68
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.5,
+      106.29,
+      532.78,
+      124.57
+    ],
+    "text": "not laid down such a simple procedure when an action is dismissed under Section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.76,
+      130.05,
+      390.94,
+      148.33
+    ],
+    "text": "87( 1) of the Code. Subsection (3) of Section 87 read thus;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.453940391540527,
+      13.689496040344238,
+      13.699999809265137,
+      13.942700386047363,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.09,
+      177.32,
+      534.9,
+      195.6
+    ],
+    "text": "87(3) The plaintiff may apply within a reasonable time from the date of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.23,
+      201.08,
+      532.59,
+      219.36
+    ],
+    "text": "dismissal, by way of petition supported by affidavit, to have the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.23,
+      224.85,
+      532.87,
+      243.13
+    ],
+    "text": "dismissal set aside, and if on the hearing of such application, of which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363,
+      14.078715324401855,
+      14.112586975097656
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.09,
+      248.36,
+      532.25,
+      266.64
+    ],
+    "text": "the defendant shall be given notice, the court is satisfied that there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.09,
+      272.36,
+      532.47,
+      290.64
+    ],
+    "text": "were reasonable grounds for the non-appearance of the plaintiff, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.22,
+      296.12,
+      532.19,
+      314.4
+    ],
+    "text": "court shall make order setting aside the dismissal upon such terms as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.3,
+      319.88,
+      532.24,
+      338.15
+    ],
+    "text": "to costs or otherwise as it thinks fit, and shall appoint a day for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.37,
+      343.65,
+      532.24,
+      361.92
+    ],
+    "text": "proceeding with the action as from the stage at which the dismissal for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.46,
+      367.4,
+      243.82,
+      385.68
+    ],
+    "text": "default was made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.56,
+      414.91,
+      532.44,
+      433.2
+    ],
+    "text": "According to Subsection (3) if the court is satisfied that there are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      13.930460929870605
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      438.44,
+      532.8,
+      456.72
+    ],
+    "text": "reasonable grounds for the non-appearance of the plaintiff, then the court shall",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.97,
+      462.2,
+      532.39,
+      480.48
+    ],
+    "text": "make order setting aside the dismissal. Hence the duty of the trial judge is to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.664002418518066,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.1,
+      486.2,
+      533.47,
+      504.48
+    ],
+    "text": "consider whether the evidence before him reveals reasonable grounds for setting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.13,
+      509.73,
+      180.01,
+      528.0
+    ],
+    "text": "aside the dismissal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.76,
+      557.25,
+      533.81,
+      575.53
+    ],
+    "text": "In the said circumstances I am of the view that the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.698749542236328,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.16,
+      581.0,
+      532.94,
+      599.29
+    ],
+    "text": "Judge has erred in law in dismissing the action for non-appearance of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.21,
+      604.76,
+      533.73,
+      623.04
+    ],
+    "text": "Appellant. Hence I set aside the order of the learned District Judge dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73.68,
+      628.52,
+      533.52,
+      646.8
+    ],
+    "text": "18.01.2000 and allow the appeal of the Appellant without costs. I direct that this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.82,
+      652.05,
+      532.46,
+      670.32
+    ],
+    "text": "case be sent back to Panadura District Court to proceed with the trial expeditiously.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.81,
+      700.01,
+      233.37,
+      717.34
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.64,
+      722.84,
+      517.25,
+      741.12
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855,
+      14.21342945098877
+    ]
+  }
+]

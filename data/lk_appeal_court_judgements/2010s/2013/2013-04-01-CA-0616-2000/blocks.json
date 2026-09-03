@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      204.53
+    ],
+    "text": "CA Appeal No.616/00 D.C.Maho No.3247/M",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      207.53,
+      397.8,
+      272.96
+    ],
+    "text": "J.M. Kapuru Banda Thumbulla, Nikaweratiya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      273.26,
+      486.03,
+      443.86
+    ],
+    "text": "1st Plaintiff Appellant Vs. S.V. Muthubanda Agrarian Service Office, Nikaweratiya And another",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      445.42,
+      498.47,
+      461.38
+    ],
+    "text": "Defendant Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      11.81,
+      794.57,
+      16.78,
+      806.93
+    ],
+    "text": ":j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.944847583770752
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.91,
+      96.07,
+      375.66,
+      113.72
+    ],
+    "text": "C.A.Appeal No.616/00 D.C.Maho No.3247/M",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.97,
+      140.21,
+      107.65,
+      157.15
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.67,
+      184.14,
+      117.11,
+      201.08
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.75,
+      243.65,
+      134.85,
+      260.6
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.3,
+      286.6,
+      179.66,
+      304.48
+    ],
+    "text": "Upaly Abeyratne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.40369987487793,
+      12.434700965881348,
+      12.510904312133789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.02,
+      138.33,
+      289.28,
+      158.88
+    ],
+    "text": "Upaly Abeyratne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.525117874145508,
+      13.866886138916016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.33,
+      185.1,
+      487.33,
+      216.92
+    ],
+    "text": "A.K.Chandrakantha for the Plaintiff-Appellant. S.S.C.Vikum de Abrew fo the 2nd Defendant-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.84914779663086,
+      12.664249420166016,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.67,
+      244.15,
+      235.79,
+      261.09
+    ],
+    "text": "01.04.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.77,
+      316.86,
+      507.19,
+      333.8
+    ],
+    "text": "Learned Counsel for the Plaintiff-Appellant makes an application to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.946752548217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.06,
+      347.1,
+      507.25,
+      364.04
+    ],
+    "text": "withdraw this appeal. Learned SSC for 2nd Defendant-Respondent has no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.757637023925781,
+      12.588107109069824,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.19,
+      377.09,
+      506.47,
+      394.04
+    ],
+    "text": "objection to this application. Application for withdrawal of the appeal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.95,
+      406.85,
+      308.85,
+      423.79
+    ],
+    "text": "allowed. Appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.55,
+      467.09,
+      507.29,
+      484.03
+    ],
+    "text": "Registrar is directed to send the main case record to the relevant District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.49,
+      496.84,
+      106.06,
+      513.78
+    ],
+    "text": "Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.53,
+      557.35,
+      419.87,
+      574.29
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.55,
+      587.57,
+      103.2,
+      604.51
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  }
+]
