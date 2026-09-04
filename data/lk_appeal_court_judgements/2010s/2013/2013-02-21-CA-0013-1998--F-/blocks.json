@@ -1,0 +1,1698 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.21,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      180.41
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA Case No: 13/1998(F) DC Colombo Case No: 6213/ZL",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      185.93,
+      430.71,
+      285.56
+    ],
+    "text": "Duleep Mangala de Silva 289 2/1, Dean's Road, Colombo 10.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      288.56,
+      494.43,
+      439.3
+    ],
+    "text": "-Defendant-Appellant- Vs. Maris Primali Dilanthi No: 48, Muhandiram Lane, Dehiwala.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      442.54,
+      492.03,
+      456.58
+    ],
+    "text": "-Plaintiff-Respondent-",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.64,
+      66.05,
+      187.11,
+      83.5
+    ],
+    "text": "C.A. 13/1998",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.97,
+      115.8,
+      171.09,
+      131.87
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.16,
+      157.33,
+      179.49,
+      173.39
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.06,
+      254.35,
+      188.26,
+      270.84
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.04,
+      275.65,
+      203.8,
+      291.72
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.013046264648438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.77,
+      331.08,
+      228.27,
+      347.15
+    ],
+    "text": "K.T.CHITRASIRI, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.48,
+      68.45,
+      500.25,
+      84.84
+    ],
+    "text": "D.C.Colombo Case No.6213/ZL",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.21,
+      116.53,
+      340.13,
+      132.59
+    ],
+    "text": "K.T.CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226.76,
+      158.28,
+      494.26,
+      174.34
+    ],
+    "text": "Nihal Jayamanne PC with Anandalal Nanayakkara",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226.64,
+      179.4,
+      553.84,
+      195.46
+    ],
+    "text": "and Dilhan de Silva Attorneys-at-Law for Defendant-Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226.48,
+      213.96,
+      486.14,
+      230.03
+    ],
+    "text": "Plaintiff-Respondent is absent and unrepresented.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225.75,
+      274.85,
+      289.04,
+      292.3
+    ],
+    "text": "21.02.2013",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153.32,
+      378.9,
+      525.69,
+      394.77
+    ],
+    "text": "When this matter was mentioned on the last date namely 21.11.2012, it had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.38,
+      406.75,
+      525.15,
+      422.62
+    ],
+    "text": "been recorded that the notice issued on the plaintiff-respondent (hereinafter referred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.85,
+      434.58,
+      524.81,
+      450.45
+    ],
+    "text": "to as the plaintiff) was returned with an endorsement that she is not found at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.25,
+      462.16,
+      527.57,
+      478.05
+    ],
+    "text": "given address. The said notice had been sent to the address given in the petition of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.0,
+      489.78,
+      525.04,
+      505.65
+    ],
+    "text": "appeal. Notice issued on the Registered Attorney of the plaintiff also had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.62,
+      517.63,
+      524.89,
+      533.5
+    ],
+    "text": "returned stating that he is dead. Accordingly this appeal is taken up for hearing in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.6,
+      545.47,
+      306.34,
+      561.35
+    ],
+    "text": "the absence of the plaintiff-respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152.07,
+      591.3,
+      524.47,
+      607.17
+    ],
+    "text": "This is an appeal seeking to set aside the judgment dated 17.11.1997 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.790092468261719,
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.54,
+      619.15,
+      524.15,
+      635.02
+    ],
+    "text": "learned District Judge of Colombo. By that judgment, the learned District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.27,
+      646.73,
+      524.92,
+      662.61
+    ],
+    "text": "decided the case in favour of the plaintiff as prayed for in the prayer to the plaint",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.06983757019043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.27,
+      675.79,
+      204.21,
+      691.66
+    ],
+    "text": "dated 24.11.1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.21,
+      31.7,
+      325.91,
+      47.17
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153.29,
+      67.86,
+      525.43,
+      83.73
+    ],
+    "text": "Learned Counsel for the defendant-appellant (hereinafter referred to as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.72,
+      95.47,
+      525.7,
+      111.34
+    ],
+    "text": "defendant) submits that the learned District Judge had not considered the matters",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.36,
+      123.05,
+      525.29,
+      138.93
+    ],
+    "text": "pertaining to the issues bearing Nos. 8, 9 and 14 raised by the defendant. He further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.586007118225098,
+      11.594016075134277,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.67,
+      150.66,
+      525.19,
+      166.53
+    ],
+    "text": "submits that had the learned District Judge properly evaluated the evidence relating",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.1,
+      178.26,
+      525.49,
+      194.14
+    ],
+    "text": "to those issues, he would have dismissed the action of the plaintiff having answered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.09,
+      205.85,
+      312.89,
+      221.73
+    ],
+    "text": "the said issues 8, 9 and 14 affirmatively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.723134994506836,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.63,
+      252.42,
+      525.68,
+      268.3
+    ],
+    "text": "Aforesaid three issues are on the basis of fraud alleged to have committed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.15,
+      280.27,
+      525.37,
+      296.14
+    ],
+    "text": "by the plaintiff with the knowledge of the Notary who executed the deeds upon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.1,
+      307.85,
+      524.93,
+      323.73
+    ],
+    "text": "which the claim of the plaintiff had been made. Committing fraud had been raised",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.474531173706055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.0,
+      335.96,
+      199.71,
+      351.83
+    ],
+    "text": "on the basis that:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.93,
+      381.18,
+      525.14,
+      397.67
+    ],
+    "text": "> The signatures found on the two deeds marked P4 and P7 have been",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.44,
+      409.15,
+      525.04,
+      425.02
+    ],
+    "text": "placed on blank forms which were intended to use as the deeds upon which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.18,
+      436.98,
+      375.76,
+      452.85
+    ],
+    "text": "the plaintiff claim title to the land in dispute;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.68,
+      463.79,
+      524.83,
+      480.83
+    ],
+    "text": "> The two signatures of the Notary found on the Deed of Transfer and on the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.399999618530273,
+      12.474531173706055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.38,
+      492.43,
+      525.14,
+      508.31
+    ],
+    "text": "Agreement to Sell are visibly different to the naked eye even though both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.37,
+      520.01,
+      525.46,
+      535.89
+    ],
+    "text": "the deeds had been executed by one and the same Notary namely, Susantha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.37,
+      548.34,
+      252.24,
+      564.21
+    ],
+    "text": "Mahes Munasinghe.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.34,
+      593.7,
+      524.92,
+      609.57
+    ],
+    "text": "I will now consider whether the learned District Judge had properly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.76,
+      621.78,
+      524.91,
+      637.66
+    ],
+    "text": "evaluated the evidence relating to the said issues suggested by the defendant in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.53,
+      649.38,
+      524.62,
+      665.25
+    ],
+    "text": "order to ascertain whether any fraud had been committed when executing the two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.55,
+      676.97,
+      524.42,
+      692.85
+    ],
+    "text": "deeds marked P4 and P7. The defendant in his evidence had clearly stated that he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319.78,
+      31.35,
+      328.55,
+      46.96
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.22,
+      66.93,
+      527.49,
+      83.07
+    ],
+    "text": "was asked to sign on blank sheets and he did so. (Page 168 of the brief) This",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.967170715332031,
+      12.022552490234375,
+      12.028237342834473,
+      12.051753997802734,
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.87,
+      94.53,
+      527.59,
+      110.67
+    ],
+    "text": "evidence of the defendant had not been controverted at any time. The witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.69,
+      122.14,
+      527.97,
+      138.28
+    ],
+    "text": "Lesley Gratian Fernando, who had been working as the Manager in the Institution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.004271507263184,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.53,
+      149.73,
+      527.17,
+      165.87
+    ],
+    "text": "by the name of T.M.L.Associates where the deeds in question supposed to have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.07893180847168,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.39,
+      177.58,
+      527.45,
+      193.72
+    ],
+    "text": "executed, had said that large number of blank deeds were given for him to obtain",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.11,
+      205.17,
+      527.16,
+      221.31
+    ],
+    "text": "signatures of various vendors whose deeds were executed by the Notary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.73,
+      232.28,
+      295.1,
+      248.43
+    ],
+    "text": "Munasinghe. (Page 197 of the brief)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.056119918823242,
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.01,
+      288.2,
+      526.64,
+      304.34
+    ],
+    "text": "Even the plaintiff herself in her evidence had admitted that she had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.52,
+      316.06,
+      526.09,
+      332.2
+    ],
+    "text": "working as one of the clerks at T.M.L. Associates owned by Susantha Mahes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.25,
+      343.89,
+      525.29,
+      360.03
+    ],
+    "text": "Munasinghe who is the Notary who executed the two deeds P4 and P7. (Page 78",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.656575202941895,
+      12.016008377075195,
+      12.046682357788086,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.2,
+      371.49,
+      526.1,
+      387.63
+    ],
+    "text": "and 79 of the brief) On one hand, she being a person who had been working with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.918540000915527,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.82,
+      399.33,
+      528.38,
+      415.47
+    ],
+    "text": "witness Lesley Fernando at T.M.L.Associates should have known the practice of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.57,
+      426.93,
+      526.06,
+      443.07
+    ],
+    "text": "the Notary Munasinghe as described by the said witness Fernando and on the other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.07893180847168,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      454.54,
+      524.76,
+      470.68
+    ],
+    "text": "hand, had the plaintiff disputed the practice of obtaining signatures on blank forms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.308356285095215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.34,
+      482.38,
+      525.6,
+      498.52
+    ],
+    "text": "that were being used to execute deeds, Counsel for the plaintiff who appeared in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.73,
+      510.21,
+      525.97,
+      526.35
+    ],
+    "text": "lower Court should have questioned the witness Fernando on this aspect. No such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.48,
+      538.29,
+      310.48,
+      554.43
+    ],
+    "text": "evidence is found in the original record.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152.8,
+      593.25,
+      525.08,
+      609.39
+    ],
+    "text": "The plaintiff herself in her evidence had admitted that the two signatures",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.0,
+      621.09,
+      525.0,
+      637.23
+    ],
+    "text": "alleged to have placed on the two deeds marked P4 and P7 by the Notary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.016008377075195,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.06,
+      648.93,
+      525.27,
+      665.07
+    ],
+    "text": "Munasinghe are clearly different to each other. She, without any hesitation had said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.95,
+      676.53,
+      527.42,
+      692.67
+    ],
+    "text": "so even though those signatures are of the one and the same person. (Page 108 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.877504348754883,
+      11.986164093017578,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.63,
+      32.31,
+      322.4,
+      47.92
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.97,
+      68.23,
+      521.56,
+      84.24
+    ],
+    "text": "the brief) Moreover, she had said that she did not intend to call the Notary or the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.73,
+      95.84,
+      521.28,
+      111.85
+    ],
+    "text": "two witnesses to the deeds in order to prove proper execution of the two deeds P4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.839527130126953,
+      11.845961570739746,
+      12.0,
+      12.526835441589355
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.88,
+      122.96,
+      412.42,
+      138.97
+    ],
+    "text": "and P7 though those were marked subject to proof at the trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.43,
+      169.28,
+      523.63,
+      185.29
+    ],
+    "text": "The evidence referred to above shows that the deeds on which the plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.62,
+      197.11,
+      521.43,
+      213.12
+    ],
+    "text": "claim title had been completed or written after the signatures were obtained on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.51,
+      224.72,
+      521.08,
+      240.73
+    ],
+    "text": "blank forms prior to the placing of the signatures of the Notary. Furthermore, two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.392820358276367,
+      12.526835441589355
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.6,
+      252.31,
+      521.45,
+      268.32
+    ],
+    "text": "signatures of the Notary who executed the two deeds upon which the plaintiff claim",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.24,
+      279.91,
+      521.27,
+      295.92
+    ],
+    "text": "title are visibly different to each other even according to the plaintiff even though",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.0,
+      307.76,
+      453.47,
+      323.77
+    ],
+    "text": "those two signatures are of the same Notary namely S.M.Munasinghe.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.82,
+      363.43,
+      520.62,
+      379.44
+    ],
+    "text": "Such evidence alone is sufficient to prove fraud committed at the time, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.03,
+      391.03,
+      521.04,
+      407.04
+    ],
+    "text": "two deeds P4 and P7 were executed. Even though the evidence mentioned above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.78,
+      418.87,
+      521.11,
+      434.88
+    ],
+    "text": "had been referred to by the learned District Judge in his judgment, he has not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.91,
+      446.47,
+      520.69,
+      462.48
+    ],
+    "text": "evaluated the said evidence and its possible outcome. Also, it is incorrect on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.55,
+      474.08,
+      520.72,
+      490.09
+    ],
+    "text": "part of the learned District Judge to have disregarded the consequences of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.257389068603516,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.67,
+      501.91,
+      520.72,
+      517.92
+    ],
+    "text": "evidence in relation to the fraud alleged to have committed at the time the two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.46,
+      529.76,
+      520.69,
+      545.77
+    ],
+    "text": "deeds P4 and P7 were executed. Had he addressed his mind on those lines, learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.972768783569336,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.54,
+      557.59,
+      438.94,
+      573.6
+    ],
+    "text": "trial Judge would have decided the issues 8, 9 and 14 affirmatively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.634586334228516,
+      11.82309627532959,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.24,
+      612.79,
+      520.49,
+      628.8
+    ],
+    "text": "In view of the above, it is my opinion that the learned District Judge had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.854214668273926,
+      12.0,
+      12.526835441589355
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.54,
+      640.63,
+      520.65,
+      656.64
+    ],
+    "text": "misdirected himself when answering the issues 8, 9 and 14 even though adequate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.772289276123047,
+      11.82309627532959,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.67,
+      668.23,
+      520.52,
+      684.24
+    ],
+    "text": "evidence was available to answer those issues affirmatively. Against this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      313.79,
+      33.52,
+      322.96,
+      48.64
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.25,
+      69.27,
+      522.46,
+      84.88
+    ],
+    "text": "background, the plaintiff cannot claim title to the land in question particularly when",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.97,
+      96.64,
+      284.97,
+      112.24
+    ],
+    "text": "there is evidence to establish fraud.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.95,
+      151.35,
+      522.23,
+      166.96
+    ],
+    "text": "For the aforesaid reasons, I set aside the judgment dated 17.11.997 of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.94,
+      178.96,
+      246.78,
+      194.57
+    ],
+    "text": "District Judge of Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.369258880615234
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149.26,
+      234.39,
+      376.1,
+      250.0
+    ],
+    "text": "Accordingly, this appeal is allowed with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.52,
+      289.79,
+      228.37,
+      305.66
+    ],
+    "text": "Appeal allowed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      293.45,
+      345.28,
+      489.87,
+      360.89
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  }
+]

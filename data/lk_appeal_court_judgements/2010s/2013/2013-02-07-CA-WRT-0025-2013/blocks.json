@@ -1,0 +1,882 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      170.33
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA Writ 25/2013",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      173.33,
+      466.59,
+      290.0
+    ],
+    "text": "Sadna Indunil Kasthuriarachchi No: 87/40, Gemunupura, 2nd Land, Kottawa, Pannipitiya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      293.0,
+      438.63,
+      460.9
+    ],
+    "text": "Petitioner Vs. Mahara Pradeshiya Sabha Pahala Karagahamuna, Kadawatha. And 02 others.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      464.14,
+      438.87,
+      478.18
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.25,
+      96.26,
+      173.73,
+      112.46
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.71,
+      165.38,
+      180.5,
+      181.58
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.84,
+      206.67,
+      195.2,
+      236.54
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.82,
+      98.18,
+      385.38,
+      114.38
+    ],
+    "text": "S. Sriskandarajah, J PICA",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.661437034606934,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.2,
+      126.02,
+      372.34,
+      142.22
+    ],
+    "text": "P.W.D.C. Jayathilaka, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.66,
+      166.78,
+      412.23,
+      196.11
+    ],
+    "text": "M. Rathnayaka with L.L.De Silva for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.864202499389648,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.2,
+      221.02,
+      303.46,
+      237.17
+    ],
+    "text": "07.02 2012.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.46,
+      262.34,
+      274.42,
+      278.54
+    ],
+    "text": "S. Sriskandarajah, J PICA",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      448.9,
+      72.25,
+      507.51,
+      89.43
+    ],
+    "text": "CA2512013",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.20435619354248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.82,
+      305.02,
+      517.2,
+      321.16
+    ],
+    "text": "The petitioner in this application is seeking a writ of certiorari to quash the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.32,
+      332.86,
+      516.79,
+      349.0
+    ],
+    "text": "decision contain in P4 & P6 of the respondents particularly the wall is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      12.016008377075195,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.09,
+      359.49,
+      355.28,
+      375.63
+    ],
+    "text": "dangerous to users of the adjoining road way.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.05275821685791,
+      12.100000381469727,
+      12.444350242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.62,
+      388.29,
+      515.65,
+      404.43
+    ],
+    "text": "The respondent contended under section 35 ofthe Pradeshiya Saba Act No. 15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.253201484680176,
+      11.5,
+      12.100000381469727,
+      12.177153587341309
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.11,
+      413.36,
+      516.16,
+      433.0
+    ],
+    "text": "of 1987. \"if any house or building, bounding wall or gateway adjoining any",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.578922271728516,
+      16.82120704650879
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.81,
+      444.72,
+      516.21,
+      459.5
+    ],
+    "text": "street or thoroughfare in any area or anything affixed thereon, be deemed by",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.00124740600586,
+      12.008000373840332,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.63,
+      472.56,
+      515.07,
+      487.34
+    ],
+    "text": "the Pradeshiya Sabha of that area to be in a ruinous state, whether dangerous",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.00124740600586,
+      12.008000373840332,
+      12.083588600158691,
+      12.100000381469727,
+      13.279693603515625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.17,
+      496.39,
+      515.73,
+      516.03
+    ],
+    "text": "or not, or to be likely to fall, the Pradeshiya Sabha shall immediately if it",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.91919994354248,
+      12.083588600158691,
+      12.100000381469727,
+      15.04201889038086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.72,
+      528.24,
+      513.91,
+      543.02
+    ],
+    "text": "appears to be necessary, cause a proper boarding or fence to be put up for the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.980964660644531,
+      12.083588600158691,
+      12.100000381469727,
+      12.126521110534668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.53,
+      556.09,
+      513.89,
+      570.87
+    ],
+    "text": "protection of persons using such street or thoroughfare, and shall cause",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.100000381469727,
+      13.279693603515625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.25,
+      582.69,
+      513.19,
+      598.83
+    ],
+    "text": "notice in writing to be served on the \" owner or occupier forthwith to take",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.91919994354248,
+      12.083588600158691,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.78,
+      611.77,
+      513.69,
+      626.55
+    ],
+    "text": "down, secure, or repair such house, building, boundary wall, 'gateway or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.06971263885498,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.46,
+      638.64,
+      360.81,
+      653.42
+    ],
+    "text": "thing affixed thereon, as the case may require\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.03,
+      665.49,
+      512.72,
+      681.63
+    ],
+    "text": "In view of the above section the Pradeshiya Sabaha is entitled to issue notice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.578922271728516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.61,
+      692.85,
+      512.04,
+      708.99
+    ],
+    "text": "to the owner or occupier of the house, building, or boundary wall1 that if the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      12.100000381469727,
+      12.444350242614746,
+      12.5643892288208
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      503.84,
+      745.08,
+      512.46,
+      760.42
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.92,
+      70.82,
+      519.25,
+      86.29
+    ],
+    "text": "structure is in ruinous state whether dangerous or not or to be likely to fall and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.97,
+      98.43,
+      519.12,
+      113.9
+    ],
+    "text": "if it appears to the Pradeshiya Sabaha that is it necessary it could course a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.302055358886719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.81,
+      126.5,
+      398.99,
+      141.97
+    ],
+    "text": "notice in writing to the owner in terms of that section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.98,
+      153.86,
+      519.89,
+      169.33
+    ],
+    "text": "The learned counsel for the petitioner submitted that the boundary wall that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.08,
+      181.69,
+      519.43,
+      197.17
+    ],
+    "text": "was complained of was not in a state of ruinous state and not dangerous to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418,
+      12.316285133361816
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.11,
+      209.3,
+      519.74,
+      224.78
+    ],
+    "text": "public. The petitioner submitted that he has got a report from a Structural",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.26,
+      236.89,
+      481.77,
+      252.37
+    ],
+    "text": "Engineer, and the said Structural Engineer's Report is marked as \"P7\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.22,
+      264.26,
+      522.38,
+      279.73
+    ],
+    "text": "The Structural Engineer's Report has stated during the visual inspections of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.05,
+      291.87,
+      519.7,
+      307.34
+    ],
+    "text": "the existing boundary wall he has observed that the boundary wall has got",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.64,
+      319.95,
+      522.14,
+      335.42
+    ],
+    "text": "slightly slanted at some locations and some crakes had appeared in some of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.29,
+      347.79,
+      480.02,
+      363.26
+    ],
+    "text": "the wall planters one of the covering plasters has subjected to spalling.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.316285133361816
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.47,
+      375.38,
+      520.18,
+      390.86
+    ],
+    "text": "In view of the above observation and the fact that the test that the Pradeshiya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.83,
+      397.86,
+      558.12,
+      419.79
+    ],
+    "text": "Saba has to apply..ing in arriving at a decision under section 35 i(s a subjective ;L.L-",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.520326614379883,
+      11.600000381469727,
+      12.625473022460938,
+      16.329185485839844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.29,
+      430.58,
+      520.45,
+      446.05
+    ],
+    "text": "test, this court cannot interfere in the said decisions of the said Pradeshiya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.316285133361816
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.83,
+      458.67,
+      484.53,
+      474.14
+    ],
+    "text": "Saba and therefore this court refuses to issue notice on the respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.4,
+      528.02,
+      495.88,
+      544.22
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.11373519897461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.72,
+      556.34,
+      264.34,
+      572.55
+    ],
+    "text": "P.W.D.C. Jayathilaka, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.96,
+      598.1,
+      172.51,
+      613.57
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      326.13,
+      639.38,
+      480.08,
+      655.58
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.11373519897461,
+      12.247633934020996
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.61,
+      681.45,
+      157.98,
+      696.53
+    ],
+    "text": "Na!-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      511.85,
+      742.83,
+      520.55,
+      758.3
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  }
+]

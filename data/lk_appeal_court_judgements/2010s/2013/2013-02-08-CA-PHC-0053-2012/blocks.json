@@ -1,0 +1,480 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      194.57
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) APN 53/2012 HC- Negombo 187/2010",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      197.57,
+      525.99,
+      245.84
+    ],
+    "text": "Mohamed Razik Riyal Deen (Presently incarcerated at the Negombo Prison)",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      248.84,
+      523.95,
+      280.04
+    ],
+    "text": "ACCUSED APPELLANT PETITIONER",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      283.04,
+      438.39,
+      365.48
+    ],
+    "text": "Vs. The Hon. Attorney General Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      385.64,
+      490.11,
+      399.68
+    ],
+    "text": "RESPONDENT-RESPONDENT",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      8.2,
+      -6.57,
+      22.71,
+      28.77
+    ],
+    "text": "I ,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.5,
+      26.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.18,
+      84.63,
+      527.13,
+      102.18
+    ],
+    "text": "CA (PHC) APN 53/2012 HC- Negombo 187/2010",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      13.403544425964355
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.01,
+      128.06,
+      175.56,
+      145.37
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.18,
+      186.14,
+      185.22,
+      203.45
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.05,
+      260.31,
+      203.44,
+      277.62
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.66895866394043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.46,
+      125.38,
+      380.04,
+      160.26
+    ],
+    "text": "Rohini Marasinghe, J. & Deepali Wijesundera, J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.929158210754395,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.46,
+      185.82,
+      458.17,
+      202.76
+    ],
+    "text": "Dr. Ranjith Fernando for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.45,
+      215.57,
+      479.37,
+      232.52
+    ],
+    "text": "Ms. Haripriya Jayasundera SSC for the AG.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.578619956970215,
+      12.660287857055664,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.16,
+      260.83,
+      304.8,
+      276.7
+    ],
+    "text": "08.02.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.02,
+      303.45,
+      258.69,
+      322.42
+    ],
+    "text": "Rohini Marasinghe, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.589544296264648,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.02,
+      348.3,
+      537.85,
+      365.24
+    ],
+    "text": "Heard submissions of both counsel. Counsel for the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.733654975891113,
+      12.828845977783203
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.91,
+      370.85,
+      537.57,
+      387.8
+    ],
+    "text": "submits that the sentence imposed by the High Court Judge after trial was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.803329467773438,
+      12.804668426513672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.84,
+      393.18,
+      537.96,
+      410.12
+    ],
+    "text": "unduly excessive. The sentence imposed on the accused was a 10 year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.958456993103027,
+      12.699999809265137,
+      12.733805656433105,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.42,
+      415.73,
+      538.08,
+      432.68
+    ],
+    "text": "jail term. Having considered the facts and the circumstances under which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.748906135559082,
+      13.004596710205078
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.58,
+      438.29,
+      537.75,
+      455.24
+    ],
+    "text": "the offence had been committed we are not inclined to reduce the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.726921081542969,
+      12.793009757995605,
+      12.974287986755371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.66,
+      460.38,
+      187.41,
+      477.32
+    ],
+    "text": "sentence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.3,
+      505.52,
+      296.26,
+      522.46
+    ],
+    "text": "Application is refused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.73,
+      569.82,
+      524.93,
+      586.77
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.32,
+      591.21,
+      268.21,
+      610.18
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.388017654418945,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.52,
+      606.78,
+      214.18,
+      623.72
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.85,
+      667.03,
+      527.81,
+      683.97
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.54,
+      689.58,
+      174.88,
+      706.52
+    ],
+    "text": "Mm/-.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.845368385314941
+    ]
+  }
+]

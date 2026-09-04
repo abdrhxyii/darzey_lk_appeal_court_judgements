@@ -1,0 +1,377 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      129.26,
+      72.47,
+      486.37,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DECMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      109.37,
+      309.24,
+      202.13
+    ],
+    "text": "CA 123/98(F) DC Kuliyapitiya 3334/D",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      207.65,
+      480.63,
+      290.12
+    ],
+    "text": "Ilangadassa Rajakaruna Herath Mudiyanselage Jayathilake Rajakaruna Wari Marga Town, Kochchukattiya Post.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      293.12,
+      417.99,
+      426.82
+    ],
+    "text": "Appellant Vs. Nishshanka Mallika Sriyani De Silva Nelummulla, Galpola, Ilukhena.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      429.94,
+      397.2,
+      443.98
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.54,
+      75.96,
+      488.49,
+      92.03
+    ],
+    "text": "Case No. CA 123/98(F) DC Kuliyapitiya 3334/D",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.864729881286621,
+      11.901872634887695,
+      12.231225967407227,
+      12.667941093444824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.61,
+      128.66,
+      339.3,
+      144.83
+    ],
+    "text": "BEFORE K.T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.902214050292969,
+      12.622598648071289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.31,
+      181.94,
+      406.57,
+      198.11
+    ],
+    "text": "COUNSEL Appellant is present in Court.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.915947914123535,
+      11.937976837158203,
+      11.966946601867676,
+      12.291111946105957,
+      12.314542770385742
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.7,
+      261.49,
+      168.0,
+      277.56
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.16,
+      287.64,
+      182.23,
+      303.71
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.89,
+      340.68,
+      225.77,
+      356.75
+    ],
+    "text": "K. T. CHITRASIRI, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.413804054260254
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.47,
+      208.1,
+      455.62,
+      223.57
+    ],
+    "text": "D.D.P. Dassanayake for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.781529426574707,
+      12.18690299987793,
+      12.247954368591309
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.04,
+      287.88,
+      305.9,
+      303.22
+    ],
+    "text": "15.02.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.01094913482666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.75,
+      393.86,
+      510.58,
+      409.33
+    ],
+    "text": "Counsel for the appellant moves to withdraw this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.765026092529297,
+      11.863898277282715,
+      11.87264633178711,
+      12.039234161376953,
+      12.053967475891113,
+      12.130279541015625,
+      12.161415100097656,
+      12.197131156921387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.46,
+      420.27,
+      511.64,
+      435.74
+    ],
+    "text": "Application for withdrawal is allowed. Accordingly, appeal is dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.622528076171875,
+      11.786795616149902,
+      11.966946601867676,
+      12.011887550354004,
+      12.05160903930664,
+      12.115592002868652,
+      12.132049560546875
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.7,
+      446.9,
+      183.12,
+      462.37
+    ],
+    "text": "without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.945164680480957,
+      12.062192916870117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.75,
+      500.55,
+      238.67,
+      515.44
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.265225410461426,
+      12.279044151306152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.37,
+      579.49,
+      484.77,
+      595.56
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.669790267944336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.45,
+      607.02,
+      127.48,
+      622.27
+    ],
+    "text": "KL/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.833514213562012
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.56,
+      729.17,
+      309.54,
+      741.57
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  }
+]
