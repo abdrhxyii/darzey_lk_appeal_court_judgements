@@ -1,0 +1,641 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.53,
+      122.03
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      134.57,
+      218.74,
+      148.61
+    ],
+    "text": "CA Appeal No.183/98(F)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      160.25,
+      177.58,
+      174.29
+    ],
+    "text": "DC Matale 3683/L",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      215.21,
+      380.76,
+      348.92
+    ],
+    "text": "Mohommadu Abdul Kareem Saladeen Napidu Niya Both are Ukuwela",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      351.92,
+      417.27,
+      485.62
+    ],
+    "text": "Complainants Vs. Ritigahamula watte Gedara Suraba Madawala, Ulpatha, Katawala.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      488.62,
+      352.92,
+      519.94
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.67,
+      80.95,
+      400.25,
+      98.85
+    ],
+    "text": "C.A.Appeal No.183/98(F) D.C.Matale 3683/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.98,
+      125.34,
+      113.66,
+      142.28
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.44,
+      169.03,
+      122.88,
+      185.97
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.79,
+      213.42,
+      132.63,
+      230.36
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.74,
+      235.74,
+      140.79,
+      252.68
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.36,
+      302.33,
+      170.29,
+      320.89
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.262640953063965,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.96,
+      123.12,
+      276.76,
+      144.45
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.497655868530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.98,
+      169.5,
+      391.74,
+      186.44
+    ],
+    "text": "Parties are absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.67,
+      236.22,
+      241.79,
+      253.16
+    ],
+    "text": "01.02.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.97,
+      362.23,
+      514.17,
+      379.17
+    ],
+    "text": "The Registrar of this Court has issued notices on the defendant-appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.705948829650879,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.43,
+      392.39,
+      512.82,
+      409.57
+    ],
+    "text": "as well as to his Registered Attorney on several occasions directing them to be",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.737918853759766,
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.58,
+      422.46,
+      514.08,
+      439.4
+    ],
+    "text": "present in this Court to proceed with this appeal. In the journal entry made on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.754732131958008
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.44,
+      452.45,
+      513.79,
+      469.4
+    ],
+    "text": "05.11.12, it is stated that the notices sent to the defendant-appellant had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.743276596069336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.3,
+      482.7,
+      513.63,
+      499.64
+    ],
+    "text": "returned with an endorsement that he has passed away. Notice sent to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.7798490524292,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.5,
+      512.69,
+      513.57,
+      529.64
+    ],
+    "text": "Registered Attorney had also been returned with an endorsement that he has left",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.820775985717773,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.53,
+      543.42,
+      143.04,
+      560.36
+    ],
+    "text": "the country.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.23,
+      603.18,
+      513.21,
+      620.13
+    ],
+    "text": "In the circumstances, this Court is unable to proceed with this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.705948829650879
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.53,
+      633.66,
+      378.66,
+      650.6
+    ],
+    "text": "Accordingly, Court makes an order abating the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.754732131958008,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      505.49,
+      737.66,
+      514.79,
+      754.2
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.46,
+      67.47,
+      515.33,
+      84.14
+    ],
+    "text": "Appeal abated and accordingly the proceedings in this Court are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.508147239685059,
+      12.749069213867188
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.93,
+      96.99,
+      142.26,
+      113.67
+    ],
+    "text": "terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.81,
+      156.78,
+      233.9,
+      172.41
+    ],
+    "text": "Proceedings terminated.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.58606243133545,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.13,
+      213.95,
+      465.67,
+      230.23
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.257265090942383
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.14,
+      244.18,
+      112.79,
+      260.46
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.331145286560059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      508.49,
+      738.99,
+      517.19,
+      754.46
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.14,
+      -16.68,
+      606.51,
+      82.43
+    ],
+    "text": "IlII f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.599999904632568,
+      19.799999237060547,
+      21.5,
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.81,
+      152.74,
+      601.67,
+      201.38
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      35.40010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.51,
+      245.43,
+      601.29,
+      259.51
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.57,
+      412.82,
+      600.29,
+      426.29
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.07,
+      431.39,
+      603.98,
+      498.81
+    ],
+    "text": "r'",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.299999237060547,
+      42.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.69,
+      571.23,
+      601.59,
+      584.69
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  }
+]

@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_10:46:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--04_22:20:56-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**16,989** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.8 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**17,023** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.9 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (98%), **TXT** (98%) & **🤗 Hugging Face** (98%)
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-09-25 | `CA/WRT/383/2018` | Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-25-CA-WRT-383-2018)
+- 2026-09-04 | `CPA/0038/2024` | Anthony Terrence Dilranjan Thampapillai Vs. Don Hettiarachchige Charmaine Kanusha Nanayakkara Anthony Terrence Dilranjan Thampapillai Vs. Don Hettiarachchige Charmaine Kanusha Nanayakkara View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-04-CPA-0038-2024)
 - 2026-09-03 | `CA/TAX/31/2014` | Commissioner General of Inland Revenue Vs. Diamond Cutters Ltd Commissioner General of Inland Revenue Vs. Diamond Cutters Ltd View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-03-CA-TAX-31-2014)
 - 2026-09-03 | `CA/TAX/23/2024` | Lexinton Holdings (Pvt) Ltd Vs. Commissioner General of Inland Revenue Lexinton Holdings (Pvt) Ltd Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-03-CA-TAX-23-2024)
 - 2026-09-02 | `CA/HCC/ 0226-0228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-02-CA-HCC--0226-0228-2019)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-08-28 | `CA (HCC)0043/2023` | Ranhotige Suresh Shelton Jayasundara Vs. Hon. Attorney General Ranhotige Suresh Shelton Jayasundara Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-28-CA--HCC-0043-2023)
 - 2026-08-25 | `No.CA/HCC/0154/2024` | The Democratic Socialist Republic of Sri Lanka. Vs. Mohamed Jifry Mohamed Wahil The Democratic Socialist Republic of Sri Lanka. Vs. Mohamed Jifry Mohamed Wahil View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-25-No-CA-HCC-0154-2024)
 - 2026-08-25 | `CA/TAX/116/2023` | Commissioner General of Inland Revenue Vs. Agro Micro Finance Ltd Commissioner General of Inland Revenue Vs. Agro Micro Finance Ltd View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-25-CA-TAX-116-2023)
-- 2026-08-25 | `CA/PHC/0137/2018` | Padma Warnalatha Thennakoon and 2 Others Vs. Commissioner General of Agrarian Development and Others. Padma Warnalatha Thennakoon and 2 Others Vs. Commissioner General of Agrarian Development and Others. View More before Hon. K.M.S. Dissanayake, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-25-CA-PHC-0137-2018)
 
 ---
 

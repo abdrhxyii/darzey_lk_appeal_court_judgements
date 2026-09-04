@@ -1,0 +1,2199 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      151.61
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A.948/98F D.C Horana No:3074/P",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      167.58,
+      422.77,
+      241.34
+    ],
+    "text": "Kandage Leeladasa Perera Appukutti Arachchige Sirisena Bamunumulla, Bandaragama.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      10.5600004196167,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      242.13,
+      439.57,
+      656.55
+    ],
+    "text": "Plaintiff -Vs- (1) Liyanage Robo Singo Barnunumulla,Bandaragama. Kandage Liladasa Bandaragama. (3) Kandage Karunawathi Bamunumulla, Bandaragama. (4) Kandage Alawathi Bamunumulla, Bandaragama. (5) Kandage Gilin Nona Bamunumulla, Bandaragarna. (6) Appukutti Arachchige Elo Singho Bamunumulla, Bandaragama. (7) Appukutti Arachchige Violet Bamunumulla, Bandaragama. (8) Kandage Leelawathi (dead) Bamunumulla, Bandaragama. (BA) Kandage Kamalawathi",
+    "fonts": [
+      "Arial",
+      "MS Mincho",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      7.559999942779541,
+      8.520000457763672,
+      13.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      657.14,
+      428.29,
+      719.29
+    ],
+    "text": "Bamunumulla, Bandaragama. (9) Kandage Daya Premasiri Perera Bamunumulla, Bandaragama.",
+    "fonts": [
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      13.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.24,
+      86.71,
+      381.66,
+      103.65
+    ],
+    "text": "(lO)Kandage Munis Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.777314186096191,
+      13.002449035644531,
+      13.678643226623535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.5,
+      100.63,
+      415.83,
+      117.57
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.719534873962402,
+      12.898646354675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.47,
+      128.71,
+      396.54,
+      145.65
+    ],
+    "text": "(ll)Kandage Gulanis Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.563494682312012,
+      13.678643226623535,
+      13.702252388000488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.94,
+      141.9,
+      416.31,
+      173.48
+    ],
+    "text": "Barnunurnulla, Bandaragarna. (12)Pathirage Punawathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.701499938964844,
+      12.898646354675293,
+      13.197216033935547,
+      13.835305213928223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.46,
+      169.51,
+      416.79,
+      186.45
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.701499938964844,
+      12.898646354675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.42,
+      197.34,
+      374.56,
+      214.28
+    ],
+    "text": "(13)Pathirage Alan Nona",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.185759544372559,
+      13.853560447692871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.18,
+      209.82,
+      419.46,
+      226.76
+    ],
+    "text": "Barnunurnulla, Bandara~arna.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.335671424865723,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.14,
+      237.66,
+      383.26,
+      254.6
+    ],
+    "text": "(14)Pathirage Ratnawathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.393182754516602,
+      13.835305213928223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.66,
+      250.39,
+      420.72,
+      267.33
+    ],
+    "text": "Barnunurnulla, Bandara~ama.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.754637718200684,
+      12.701499938964844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.62,
+      278.71,
+      420.89,
+      295.65
+    ],
+    "text": "(15)Hidallage Piyadasa Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.548271179199219,
+      13.72868824005127,
+      13.837691307067871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.14,
+      292.39,
+      418.72,
+      309.33
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.701499938964844,
+      12.917142868041992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.11,
+      321.91,
+      340.6,
+      338.85
+    ],
+    "text": "(16)Liyanage Dirnan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.393372535705566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.39,
+      333.91,
+      462.29,
+      350.85
+    ],
+    "text": "Wapala Mahruthrna Road, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.733206748962402,
+      12.87307071685791
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      209.82,
+      362.7,
+      407.42,
+      379.64
+    ],
+    "text": "(17)Pitipanage Simon Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.798078536987305,
+      13.834892272949219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.1,
+      375.91,
+      419.67,
+      392.85
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.719534873962402,
+      12.898646354675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.32,
+      404.46,
+      385.68,
+      421.4
+    ],
+    "text": "(18)Kandage Liyan Singho",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.021870613098145,
+      13.152006149291992,
+      13.430585861206055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.82,
+      417.42,
+      420.15,
+      434.36
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.898646354675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.78,
+      445.74,
+      415.58,
+      462.68
+    ],
+    "text": "(19)Pathirage Richard Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5369234085083,
+      13.798078536987305,
+      13.835305213928223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.3,
+      458.7,
+      420.64,
+      475.64
+    ],
+    "text": "Bamunumulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890569686889648,
+      12.917142868041992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.09,
+      485.58,
+      400.68,
+      502.52
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.363945007324219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      529.02,
+      329.52,
+      545.96
+    ],
+    "text": "Now and Between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.963493347167969,
+      13.056933403015137,
+      13.156688690185547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219.45,
+      569.58,
+      421.25,
+      586.52
+    ],
+    "text": "(2) Kandage Leeladasa (dead)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.8651762008667,
+      13.028940200805664,
+      13.632933616638184
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238.74,
+      583.27,
+      422.07,
+      600.21
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.701499938964844,
+      12.898646354675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.24,
+      609.42,
+      468.54,
+      626.36
+    ],
+    "text": "2nd Defendant Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.875931739807129,
+      13.281439781188965,
+      13.78117847442627
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.2,
+      638.22,
+      467.33,
+      681.8
+    ],
+    "text": "(2a)Arnaratungage Leelawathi \u00a5 (Wife of the Deceased) No:44,Bamunurnulla, Bandaragama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      12.85085391998291,
+      13.010747909545898,
+      13.029378890991211,
+      13.081762313842773,
+      13.130212783813477,
+      13.584125518798828,
+      13.940696716308594,
+      14.186235427856445
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.09,
+      691.98,
+      477.05,
+      708.92
+    ],
+    "text": "(2~Kandage Chandana Sanjeewa Perera",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.452009201049805,
+      12.926185607910156,
+      13.149640083312988,
+      13.837691307067871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.93,
+      706.63,
+      386.82,
+      723.57
+    ],
+    "text": "(s~n of the Deceased)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.813834190368652,
+      13.055086135864258,
+      14.022220611572266,
+      14.066845893859863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.78,
+      719.35,
+      468.04,
+      736.29
+    ],
+    "text": "No:44,Barnunumulla, Bandaragama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.998589515686035,
+      13.06315803527832
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.56,
+      114.43,
+      487.13,
+      131.51
+    ],
+    "text": "(2c)Kandage Nadeeka Sanjeewani Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.039754867553711,
+      13.13891315460205,
+      13.41397476196289,
+      13.892064094543457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.94,
+      128.84,
+      470.36,
+      159.83
+    ],
+    "text": "(daughter of the deceased) No:44,Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.978307723999023,
+      13.023548126220703,
+      13.479940414428711,
+      13.6940279006958,
+      13.91075611114502,
+      14.122118949890137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.32,
+      172.04,
+      414.12,
+      189.12
+    ],
+    "text": "(2d)Kandage Jayantha Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.073038101196289,
+      13.804254531860352,
+      13.812458038330078
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.94,
+      186.2,
+      470.36,
+      217.19
+    ],
+    "text": "(son of the deceased) No:44,Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.978307723999023,
+      13.023548126220703,
+      13.256074905395508,
+      13.453564643859863,
+      13.995473861694336,
+      14.24197769165039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.32,
+      228.91,
+      428.54,
+      245.99
+    ],
+    "text": "(2e)Kandage Krishanthi Perera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.13891315460205,
+      13.852295875549316,
+      14.007312774658203
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.46,
+      242.6,
+      470.46,
+      273.36
+    ],
+    "text": "(daughter of the dec~ased) No:44,Barnunurnulla, Bandaragama.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.572600841522217,
+      13.002645492553711,
+      13.151815414428711,
+      13.72064208984375,
+      13.994284629821777,
+      14.247638702392578
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      257.44,
+      283.63,
+      522.81,
+      300.71
+    ],
+    "text": "2nd Defendant Substituted .Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.00146484375,
+      13.459794998168945,
+      13.506122589111328,
+      14.272636413574219
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.11,
+      312.43,
+      249.06,
+      329.51
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.625153541564941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220.29,
+      352.27,
+      436.17,
+      383.51
+    ],
+    "text": "Appukutti Arachchige Sirisena Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.986492156982422,
+      13.556495666503906,
+      13.631540298461914,
+      14.324110984802246
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      323.68,
+      393.07,
+      471.95,
+      410.15
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.33468246459961,
+      14.918745994567871
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      421.15,
+      384.66,
+      438.23
+    ],
+    "text": "(1) Liyanage Robe Singe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.458035469055176,
+      13.460745811462402
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      435.07,
+      418.78,
+      452.15
+    ],
+    "text": "Barnunurnulla,Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.959111213684082
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      463.87,
+      363.38,
+      480.95
+    ],
+    "text": "(2) Kandage Liladasa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85378646850586,
+      14.049239158630371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      477.31,
+      425.91,
+      494.39
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.949329376220703
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.85,
+      505.4,
+      383.89,
+      522.48
+    ],
+    "text": "(3) Kandage Karunawathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.884819030761719,
+      13.345141410827637
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      518.84,
+      425.76,
+      535.92
+    ],
+    "text": "Barnunurnulla, Bandaragama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.058342933654785
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      546.2,
+      362.54,
+      563.28
+    ],
+    "text": "(4) Kandage Alawathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85378646850586,
+      13.595905303955078
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      559.15,
+      425.66,
+      576.23
+    ],
+    "text": "Bamunurnull.a, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.930732727050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      587.23,
+      376.27,
+      604.31
+    ],
+    "text": "(5) Kandage Gilin Nona",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85378646850586,
+      14.349333763122559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      600.44,
+      425.91,
+      617.52
+    ],
+    "text": "Barnunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.949329376220703
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      628.03,
+      472.2,
+      645.11
+    ],
+    "text": "(6) Appukutti Arachchige Elo Singho",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.309124946594238,
+      13.393108367919922,
+      13.534004211425781,
+      13.656822204589844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      641.23,
+      435.34,
+      658.31
+    ],
+    "text": "Barnunurnulla, Bandaragarna. \u00b7or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.718109607696533,
+      12.800000190734863,
+      12.930732727050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      669.8,
+      442.8,
+      686.88
+    ],
+    "text": "(7) Appukutti Arachchige Violet",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.488959312438965,
+      13.68210506439209,
+      14.128462791442871
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      683.47,
+      425.91,
+      700.55
+    ],
+    "text": "Bamunurnulla, Bandaragarna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.85428524017334,
+      12.949329376220703
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.09,
+      711.8,
+      425.06,
+      728.88
+    ],
+    "text": "(8) .Kandage Leelawathi (dead)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.941913604736328,
+      13.03788948059082,
+      13.706686973571777
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.58,
+      725.0,
+      425.75,
+      742.08
+    ],
+    "text": "Barnunurnulla, Bandaragama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.039558410644531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      72.23,
+      383.5,
+      87.77
+    ],
+    "text": "(BA) Kandage Kamalawathi",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      88.31,
+      434.77,
+      184.37
+    ],
+    "text": "Bamunumulla, Bandaragama. (9) Kandage Daya Premasiri Perera Bamunumulla, Bandaragama. (lO) Kandage Munis Perera",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      184.91,
+      424.81,
+      232.61
+    ],
+    "text": "Barnunurnulla, Bandaragarna. (11) Kandage Gulanis Perera",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      233.3,
+      423.13,
+      281.0
+    ],
+    "text": "Barnunumulla, Bandaragama. (12) Pathirage Punawathi",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      281.54,
+      422.29,
+      329.24
+    ],
+    "text": "Bamunumulla, Bandaragama. (13) Pathirage Alan Nona",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      329.78,
+      422.29,
+      377.6
+    ],
+    "text": "Bamunumulla, Bandaragama. (14) Pathirage Ratnawathi",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      378.14,
+      422.29,
+      425.86
+    ],
+    "text": "Bamunumulla, Bandaragama. (15) Hidallage Piyadasa Perera",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      426.4,
+      422.29,
+      474.22
+    ],
+    "text": "Bamunumulla, Bandaragama. (16) Liyanage Diman",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      474.76,
+      468.25,
+      522.46
+    ],
+    "text": "Wapala Mahruthrna Road, Wadduwa. (17) Pitipanage Simon Perera",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      523.0,
+      422.29,
+      570.85
+    ],
+    "text": "Bamunumulla, Bandaragama. (18) Kandage Liyan Singho",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.05,
+      571.39,
+      422.29,
+      619.09
+    ],
+    "text": "Bamunumulla, Bandaragama. (19) Pathirage Richard Perera",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252.05,
+      619.63,
+      422.29,
+      651.25
+    ],
+    "text": "Bamunumulla, Bandaragama.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      652.15,
+      469.57,
+      667.69
+    ],
+    "text": "Defendant Respondents",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      310.2,
+      34.17,
+      319.62,
+      49.7
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.18,
+      101.15,
+      490.92,
+      120.28
+    ],
+    "text": "C.A. No. 948/98(F) D.C. Horana Case No. 3074/P",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.5,
+      13.800000190734863,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.02,
+      149.27,
+      141.27,
+      167.82
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.17,
+      181.44,
+      148.81,
+      199.98
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.01,
+      213.37,
+      167.6,
+      247.74
+    ],
+    "text": "Argued& Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      208.26,
+      149.27,
+      312.73,
+      167.82
+    ],
+    "text": "K. T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.592549324035645,
+      13.881637573242188,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      208.25,
+      181.19,
+      496.46,
+      199.74
+    ],
+    "text": "Harendra K. Perera for the Plaintiff-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.752467155456543,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      208.64,
+      229.85,
+      278.42,
+      247.72
+    ],
+    "text": "05.02.2013.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209.11,
+      259.79,
+      268.76,
+      284.8
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.23,
+      309.51,
+      214.09,
+      329.04
+    ],
+    "text": "K. T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.99,
+      357.11,
+      528.36,
+      375.66
+    ],
+    "text": "2nd, 9th and 19th Defendant-Appellants have filed notices",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.578255653381348,
+      11.623751640319824,
+      11.934701919555664,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.93,
+      389.76,
+      528.51,
+      408.31
+    ],
+    "text": "of appeal challenging the judgment dated 11.12.1997. However, 2nd and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.353193283081055,
+      13.0,
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.93,
+      422.39,
+      527.56,
+      440.94
+    ],
+    "text": "19th Defendant-Appellants have not filed petitions of appeal. Only the 9th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.623751640319824,
+      11.859908103942871,
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.77,
+      455.76,
+      528.52,
+      474.31
+    ],
+    "text": "Defendant-Appellant had filed a petition of appeal which is dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.780435562133789,
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.92,
+      488.58,
+      168.64,
+      506.45
+    ],
+    "text": "09.03.1998.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.58,
+      552.23,
+      528.31,
+      570.78
+    ],
+    "text": "Upon considering the aforementioned dates of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.96,
+      584.87,
+      527.27,
+      603.42
+    ],
+    "text": "impugned judgment and the petition of appeal filed by the 9th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.519495964050293,
+      13.899999618530273,
+      14.584447860717773
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.71,
+      617.99,
+      528.48,
+      636.54
+    ],
+    "text": "defendant-appellant, it is clear that the petition of appeal had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.92,
+      650.15,
+      528.09,
+      668.7
+    ],
+    "text": "filed 60 days after the delivery of the impugned judgment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.71,
+      668.19,
+      605.57,
+      731.65
+    ],
+    "text": "Therefore, it is seen that the petition of appeal had been filed Il,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957,
+      17.600000381469727,
+      21.0,
+      43.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.39,
+      726.0,
+      606.01,
+      834.96
+    ],
+    "text": "~ ! I t ! I I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.045286178588867,
+      8.5,
+      9.399999618530273,
+      11.5,
+      16.299999237060547,
+      18.20009994506836,
+      49.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      593.25,
+      819.0,
+      599.24,
+      829.58
+    ],
+    "text": "y",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308.57,
+      33.67,
+      316.89,
+      48.48
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.98,
+      68.43,
+      526.34,
+      87.24
+    ],
+    "text": "contravening the prov1s1ons of the procedure stipulated in law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.878256797790527,
+      14.074026107788086,
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.76,
+      100.34,
+      527.27,
+      119.15
+    ],
+    "text": "Therefore, this appeal should stand dismissed for not complying with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.1,
+      132.26,
+      370.95,
+      151.07
+    ],
+    "text": "Section 754 (4) of the Civil Procedure Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      207.32,
+      195.87,
+      524.01,
+      214.68
+    ],
+    "text": "At this stage Miss. Hemamala Kumari, Attorney-at-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.77,
+      227.78,
+      523.96,
+      246.59
+    ],
+    "text": "Law informs court that she had been appearing for the 9th defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.661468505859375,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.21,
+      260.2,
+      527.86,
+      279.01
+    ],
+    "text": "appellant previously. However, she further submits that she has not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.1,
+      292.1,
+      527.93,
+      310.92
+    ],
+    "text": "received instructions from the appellant to app~ar in this case thereafter",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.930901527404785,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.2,
+      324.5,
+      527.8,
+      343.31
+    ],
+    "text": "even though she has informed him to give instructions by way of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.419432640075684
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.61,
+      357.16,
+      153.43,
+      375.97
+    ],
+    "text": "telegram.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      207.2,
+      421.46,
+      527.02,
+      440.28
+    ],
+    "text": "9th defendant-appellant is absent and unrepresented in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.993195533752441,
+      14.076129913330078,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.6,
+      454.1,
+      527.71,
+      472.91
+    ],
+    "text": "this Court today. Having perused the docket, I note that the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.87,
+      486.74,
+      527.44,
+      505.55
+    ],
+    "text": "were given several dates, since 29.8.2011 to file substitution papers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.25,
+      519.15,
+      527.64,
+      537.97
+    ],
+    "text": "in order to substitute the heirs of the deceased parties. The appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.85,
+      551.55,
+      527.24,
+      570.36
+    ],
+    "text": "has not taken steps to do so. Without substitution being effected,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.063152313232422,
+      14.079285621643066,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.09,
+      584.19,
+      526.92,
+      603.0
+    ],
+    "text": "merits of this appeal cannot be considered. It is the duty of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.04719066619873,
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.97,
+      616.83,
+      527.59,
+      635.64
+    ],
+    "text": "appellant to have the substitutions effected in order to proceed with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.84,
+      649.23,
+      527.5,
+      668.05
+    ],
+    "text": "the appeal. In the circumstances, it is clear that the appellant is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.879220962524414,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.14,
+      681.86,
+      299.88,
+      700.67
+    ],
+    "text": "prosecuting the appeal diligently.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.94,
+      33.89,
+      312.79,
+      49.64
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167.01,
+      100.91,
+      389.73,
+      120.76
+    ],
+    "text": "Accordingly, I decide that this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      373.04,
+      99.23,
+      523.54,
+      121.99
+    ],
+    "text": "I appeal should be",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.63,
+      133.79,
+      462.34,
+      152.2
+    ],
+    "text": "dismissed under Rule 34 of the Supreme Court Rules as well.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167.93,
+      196.91,
+      524.73,
+      215.32
+    ],
+    "text": "For the aforesaid reasons I make order dismissing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.8,
+      231.46,
+      206.62,
+      249.87
+    ],
+    "text": "appeal with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      168.45,
+      263.98,
+      276.24,
+      280.95
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      278.8,
+      324.82,
+      511.91,
+      343.23
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.13,
+      377.19,
+      131.81,
+      394.93
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.74,
+      531.09,
+      602.21,
+      574.71
+    ],
+    "text": "! iI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      15.0,
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.77,
+      605.28,
+      606.25,
+      662.03
+    ],
+    "text": "~ i I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.5919909477233887,
+      6.199999809265137,
+      41.29999923706055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      596.28,
+      718.79,
+      600.9,
+      741.13
+    ],
+    "text": "t.!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.491085052490234,
+      14.600000381469727
+    ]
+  }
+]

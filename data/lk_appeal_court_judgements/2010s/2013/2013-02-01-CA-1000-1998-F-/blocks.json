@@ -1,0 +1,884 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.53,
+      122.03
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      134.57,
+      225.82,
+      148.61
+    ],
+    "text": "CA Appeal No.1000/98(F)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      157.28,
+      178.48,
+      175.28
+    ],
+    "text": "DC Matale 4505/L",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      185.93,
+      345.6,
+      268.28
+    ],
+    "text": "Karupaiya Gandimathi No: 46, Raththota, Matale.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      271.4,
+      431.07,
+      405.08
+    ],
+    "text": "Complainant Vs. Abeysekara Arachchilage Abeyrathne No 653, Mandandawela, Matale.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      408.1,
+      352.92,
+      439.3
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.71,
+      67.99,
+      398.87,
+      85.64
+    ],
+    "text": "C.A.Appeal No.1000/98(F) D.C.Matale 4505/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.78,
+      112.14,
+      112.16,
+      129.08
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.48,
+      156.07,
+      121.92,
+      173.01
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.83,
+      200.45,
+      131.43,
+      217.39
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.54,
+      222.55,
+      139.59,
+      239.49
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.42,
+      288.2,
+      169.82,
+      306.48
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.650176048278809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.78,
+      109.78,
+      276.32,
+      130.33
+    ],
+    "text": "K.T.Chitrasiri, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.866886138916016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.78,
+      156.55,
+      387.67,
+      173.49
+    ],
+    "text": "Parties are absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.773040771484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.47,
+      222.79,
+      240.59,
+      239.73
+    ],
+    "text": "01.02.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      111.06,
+      319.02,
+      512.42,
+      335.96
+    ],
+    "text": "Registrar of this Court has sent notices to both parties on several occasions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.754732131958008,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.24,
+      348.79,
+      512.83,
+      365.73
+    ],
+    "text": "directing them to be present in this Court to proceed with the appeal. No party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.719883918762207
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.33,
+      378.54,
+      512.69,
+      395.49
+    ],
+    "text": "has come to Court on any of those occasions. When this matter was mentioned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.705948829650879,
+      12.87558650970459
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.24,
+      408.3,
+      512.58,
+      425.24
+    ],
+    "text": "on 28.11.12, it is recorded that the notice sent to the Registered Attorney of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.76010799407959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.02,
+      438.55,
+      509.13,
+      455.49
+    ],
+    "text": "appellant had been returned with an endorsement that the registered Attorney-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.719883918762207,
+      12.743276596069336,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      468.55,
+      512.9,
+      485.49
+    ],
+    "text": "had left the given address. Even after the last date, the Registrar of this Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.743276596069336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.1,
+      498.79,
+      512.8,
+      515.73
+    ],
+    "text": "has sent a notice to the plaintiff-appellant by his letter dated 05.12.12, directing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.72213077545166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      529.27,
+      512.51,
+      546.21
+    ],
+    "text": "her to be present in this Court today. The said letter has also been returned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.705948829650879,
+      12.713692665100098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.63,
+      559.26,
+      512.27,
+      576.21
+    ],
+    "text": "with an endorsement that the appellant has left the country. Therefore, it is clear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.770652770996094,
+      12.826321601867676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.88,
+      589.25,
+      436.46,
+      606.19
+    ],
+    "text": "that the plaintiff-appellant is not prosecuting this appeal diligently.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110.31,
+      648.78,
+      512.35,
+      665.73
+    ],
+    "text": "This is an appeal, seeking to set aside the judgment dated 09.10.1998 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.72213077545166,
+      12.725174903869629,
+      12.946752548217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.85,
+      679.03,
+      512.54,
+      695.97
+    ],
+    "text": "the learned District Judge of Matale. In the said petition of appeal, it is stated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      504.06,
+      739.03,
+      513.06,
+      755.04
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.34,
+      2.05,
+      74.48,
+      27.33
+    ],
+    "text": ". '",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.800000190734863,
+      18.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.41,
+      68.19,
+      516.27,
+      84.86
+    ],
+    "text": "that the learned District Judge had not properly evaluated the evidence led",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.53953742980957,
+      12.642537117004395
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.22,
+      97.47,
+      141.86,
+      114.15
+    ],
+    "text": "before him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.75,
+      156.99,
+      516.6,
+      173.66
+    ],
+    "text": "This is an action to demarcate the boundary between the two lands",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.517987251281738,
+      12.57572078704834,
+      12.724925994873047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.19,
+      186.51,
+      516.24,
+      203.19
+    ],
+    "text": "referred to in the two schedules found in the plaint dated 04.06.1992. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.500550270080566,
+      12.62155818939209,
+      12.637642860412598
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.09,
+      216.28,
+      516.76,
+      232.96
+    ],
+    "text": "learned District Judge having considered the evidence as to the boundary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.21,
+      245.79,
+      516.68,
+      262.47
+    ],
+    "text": "between the two lands, particularly the evidence of the two surveyors had come",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.563091278076172,
+      12.637642860412598,
+      12.7194242477417
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.41,
+      275.79,
+      516.7,
+      292.46
+    ],
+    "text": "to the conclusion that the defendant had not altered the boundary between the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.53953742980957,
+      12.597469329833984,
+      12.633536338806152,
+      12.642537117004395
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.18,
+      305.31,
+      516.51,
+      321.99
+    ],
+    "text": "two lands. Learned District Judge having analyzed the evidence in this regard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.07,
+      335.31,
+      516.47,
+      351.98
+    ],
+    "text": "and also having considered the evidence as to the damages, claimed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.520882606506348,
+      12.594542503356934
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.23,
+      365.31,
+      261.59,
+      381.98
+    ],
+    "text": "plaintiff had dismissed the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.642537117004395
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.64,
+      425.56,
+      516.07,
+      442.23
+    ],
+    "text": "I do not see any wrong on the part of the learned District Judge when he",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.5,
+      12.55453109741211,
+      12.585905075073242,
+      12.589777946472168,
+      12.594542503356934,
+      12.6190824508667,
+      12.626312255859375,
+      12.659235954284668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.59,
+      455.56,
+      516.22,
+      472.23
+    ],
+    "text": "came to his conclusion and therefore there is no reason to interfere with his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.507197380065918,
+      12.555426597595215,
+      12.557318687438965,
+      12.749069213867188
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.82,
+      485.31,
+      474.73,
+      501.98
+    ],
+    "text": "findings. Accordingly the appeal of the appellant is dismissed with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.681038856506348
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.43,
+      546.54,
+      203.65,
+      562.78
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.03164291381836,
+      13.090144157409668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.61,
+      604.35,
+      466.24,
+      621.02
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.15,
+      635.07,
+      112.8,
+      651.75
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      507.29,
+      739.95,
+      515.99,
+      755.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.56,
+      404.5,
+      603.81,
+      588.24
+    ],
+    "text": "i ! ' I l! f Ii I ll",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.7000999450683594,
+      6.800099849700928,
+      7.199999809265137,
+      7.500100135803223,
+      7.699999809265137,
+      10.100000381469727,
+      11.0,
+      17.20009994506836,
+      17.799999237060547,
+      21.799999237060547,
+      50.70009994506836,
+      52.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      589.93,
+      575.78,
+      605.38,
+      713.35
+    ],
+    "text": "~ II( I I l",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.451336860656738,
+      6.199999809265137,
+      9.100000381469727,
+      25.399999618530273,
+      27.0,
+      39.0,
+      40.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.25,
+      716.35,
+      597.25,
+      730.09
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  }
+]
