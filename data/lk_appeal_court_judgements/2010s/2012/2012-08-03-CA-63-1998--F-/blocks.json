@@ -1,0 +1,4439 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      83.94,
+      71.99,
+      516.56,
+      87.92
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.517436981201172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.0,
+      85.27,
+      344.47,
+      101.28
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.156381607055664
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      81.72,
+      253.2,
+      181.32,
+      282.09
+    ],
+    "text": "C.A 63/1998 (F) D.C. Matara 7928/L",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.24,
+      154.69,
+      490.12,
+      198.55
+    ],
+    "text": "I. W. A. Gunadasa \"Wickramawala\", Kohiliyadda, Hakmana.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.72,
+      239.02,
+      403.03,
+      254.95
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.77,
+      280.8,
+      353.02,
+      296.0
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.54,
+      308.63,
+      455.43,
+      351.67
+    ],
+    "text": "A. K. Piyasena Koskaha Pittaniya Kohuliyadda, Hakmana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.0,
+      392.39,
+      413.16,
+      408.32
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.78,
+      433.67,
+      455.4,
+      476.95
+    ],
+    "text": "A. K. Piyasena Koskaha Pittaniya Kohuliyadda, Hakmana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.0,
+      503.99,
+      490.62,
+      519.92
+    ],
+    "text": "DEFENDANT -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.01,
+      531.35,
+      353.61,
+      546.55
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.73,
+      572.54,
+      490.6,
+      616.15
+    ],
+    "text": "I. W. A. Gunadasa \"Wickramawala\", Kohiliyadda, Hakmana.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.399999618530273,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.96,
+      670.3,
+      490.16,
+      686.23
+    ],
+    "text": "PLAINTIFF -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.21,
+      72.19,
+      138.15,
+      87.84
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.91,
+      113.95,
+      146.92,
+      129.6
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.02,
+      197.52,
+      162.27,
+      212.72
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.470879554748535,
+      11.503579139709473
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.23,
+      239.28,
+      165.59,
+      254.48
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.437288284301758,
+      11.5087308883667
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.39,
+      308.11,
+      183.93,
+      324.73
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.333700180053711,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.02,
+      71.2,
+      284.16,
+      86.81
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.7,
+      112.96,
+      414.46,
+      128.57
+    ],
+    "text": "T. Palliyaguruge for the Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.91,
+      140.79,
+      370.64,
+      170.57
+    ],
+    "text": "M.1. M. Naleen with K. Marasinghe for the Plaintiff-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.496225357055664,
+      11.666452407836914,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.97,
+      197.28,
+      247.82,
+      212.48
+    ],
+    "text": "28.03.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.16,
+      239.03,
+      248.05,
+      254.23
+    ],
+    "text": "03.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      511.37,
+      34.55,
+      519.92,
+      49.75
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.22,
+      391.06,
+      521.59,
+      409.47
+    ],
+    "text": "Plaintiff filed action III the District Court of Matara for a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.353119850158691,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.62,
+      423.46,
+      521.35,
+      441.87
+    ],
+    "text": "declaration of title to the land described in the schedule to the plaint and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.36,
+      455.86,
+      521.18,
+      474.27
+    ],
+    "text": "eviction /damages against the Defendant. At the trial 4 admissions were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.51,
+      488.27,
+      521.71,
+      506.69
+    ],
+    "text": "recorded. Viz. ( a) Plaintiff is the owner of the land described in paragraph 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.62,
+      520.67,
+      521.5,
+      539.08
+    ],
+    "text": "of plaint by virtue of partition decree in case P/8041, (b) that fiscal handed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.65,
+      553.06,
+      521.84,
+      571.47
+    ],
+    "text": "over possession to Plaintiff on 28.4.1992 (but Defendant refer to it as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.8,
+      585.7,
+      521.93,
+      604.1
+    ],
+    "text": "symbolic or constructive delivery) (c) that Rev. Wipularatne was a co-owner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.86,
+      618.1,
+      521.39,
+      636.51
+    ],
+    "text": "of the corpus in case P 8041, (d) that Defendant-Appellant cultivated the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.88,
+      650.25,
+      178.66,
+      668.66
+    ],
+    "text": "land in question.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      512.26,
+      34.35,
+      520.96,
+      49.82
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155.46,
+      70.18,
+      516.44,
+      88.59
+    ],
+    "text": "Parties proceeded to trial on 8 issues. Plaintiff has concentrated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.85,
+      102.59,
+      521.22,
+      121.0
+    ],
+    "text": "on forceful occupation of Defendant from June 1992. (issue No.1). The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.292173385620117,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.45,
+      134.98,
+      520.9,
+      153.39
+    ],
+    "text": "Defendant's position was that he was the tenant cultivator of the above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.74,
+      167.15,
+      521.48,
+      185.56
+    ],
+    "text": "named Rev. Wipularatne who was a co-owner of the land as above and that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.48,
+      199.3,
+      524.26,
+      217.71
+    ],
+    "text": "the Defendant-Appellant would be a tenant cultivator (issue No.5) of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      14.859200477600098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.7,
+      231.95,
+      345.67,
+      250.36
+    ],
+    "text": "Plaintiff and that he is not liable to be evicted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155.4,
+      264.59,
+      521.62,
+      282.99
+    ],
+    "text": "The Defendant-Appellant had commenced the case by giving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.61,
+      296.97,
+      521.14,
+      315.39
+    ],
+    "text": "evidence and it appears to court that the burden of proof was on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.69,
+      329.13,
+      521.15,
+      347.55
+    ],
+    "text": "Defendant-Appellant in view of the admissions recorded in the case. In this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.61,
+      361.29,
+      517.66,
+      379.7
+    ],
+    "text": "case the main question appears to be whether in fact the Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.5,
+      393.69,
+      521.19,
+      412.11
+    ],
+    "text": "Appellant was the tenant cultivator of the Plaintiff? A mere cultivator would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.47,
+      426.11,
+      521.22,
+      444.52
+    ],
+    "text": "not mean that one becomes a tenant cultivator of the party concerned. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.72,
+      458.73,
+      521.11,
+      477.15
+    ],
+    "text": "Appellant's counsel argue that lots 7 & 8 for which the Plaintiff became",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.6,
+      491.14,
+      521.25,
+      509.55
+    ],
+    "text": "entitled from the above partition decree, was contained in a larger land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.5,
+      523.55,
+      520.79,
+      541.97
+    ],
+    "text": "which was cultivated by the Appellant who was the tenant cultivator of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.62,
+      555.95,
+      520.82,
+      574.36
+    ],
+    "text": "above Rev. Wipularatne Thero. Documents VI - V17 had been produced by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.49,
+      588.1,
+      520.88,
+      606.51
+    ],
+    "text": "the Defendant-Appellant. He further argues that by V4, V5, V7 & V16",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.26,
+      620.5,
+      520.25,
+      638.91
+    ],
+    "text": "would establish that he was the tenant cultivator of the above Rev.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.7,
+      652.65,
+      521.3,
+      671.07
+    ],
+    "text": "Wipularatne and the divided lots 7/8 are included in the corpus in case No. P",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.75,
+      684.59,
+      117.24,
+      703.0
+    ],
+    "text": "8041.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      511.87,
+      34.24,
+      520.65,
+      49.85
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.4,
+      69.95,
+      520.79,
+      88.36
+    ],
+    "text": "The Appellant also argues that based on admission No. 3 the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.45,
+      102.34,
+      521.87,
+      120.75
+    ],
+    "text": "Defendant-Appellant was the tenant cultivator of Rev. Wipularatne, (answer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.54,
+      134.98,
+      520.77,
+      153.39
+    ],
+    "text": "by DJ to issue No.3) and contends that the learned District Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.635083198547363,
+      14.830475807189941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.49,
+      167.63,
+      520.82,
+      186.04
+    ],
+    "text": "misdirected, on the question whether rights of the tenant cultivator was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.62,
+      200.03,
+      521.64,
+      218.51
+    ],
+    "text": "extinguished by partition decree. It is contended on behalf of the Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.005144119262695,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.48,
+      232.18,
+      521.29,
+      250.59
+    ],
+    "text": "that in view of Section 5(2) of the Agrarian Services Act the Appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.25,
+      264.33,
+      521.26,
+      282.75
+    ],
+    "text": "rights as tenant cultivator would be preserved and becomes the tenant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.36,
+      296.98,
+      416.89,
+      315.39
+    ],
+    "text": "cultivator of the Plaintiff-Respondent, by operation of law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.98,
+      329.39,
+      218.7,
+      347.8
+    ],
+    "text": "Section 5(2) reads thus:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.85,
+      362.07,
+      522.77,
+      377.68
+    ],
+    "text": "Notwithstanding anything in any other law, the tenant cultivator of any extent of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.06,
+      382.71,
+      522.48,
+      398.32
+    ],
+    "text": "paddy land which is purchased by any person under the Partition Law, No. 210f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.07,
+      403.6,
+      520.38,
+      419.21
+    ],
+    "text": "1977; or which is allocated to a co-owner under a decree for partition shall be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.17,
+      424.48,
+      520.95,
+      440.09
+    ],
+    "text": "deemed to be the tenant cultivator of that extent of paddy land of such purchaser",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.18,
+      445.35,
+      520.42,
+      460.96
+    ],
+    "text": "or such co-owner, as the case may be, and the provisions of this Act shall apply",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.16,
+      465.99,
+      180.9,
+      481.6
+    ],
+    "text": "accordingly.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.16,
+      507.46,
+      520.55,
+      525.87
+    ],
+    "text": "The learned counsel supported his case by referring to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.57,
+      539.86,
+      520.51,
+      558.27
+    ],
+    "text": "several matters urged in paragraph 5 of the Petition of Appeal which deal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.49,
+      572.26,
+      520.9,
+      590.67
+    ],
+    "text": "with the law and several decided cases to demonstrate that the trial Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.38,
+      604.66,
+      520.54,
+      623.07
+    ],
+    "text": "erred in law and facts. The position of the Plaintiff-Respondent was that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.24,
+      637.06,
+      523.7,
+      655.47
+    ],
+    "text": "Appellant can be a tenant cultivator only on compliance with Section 2(1) of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.0,
+      668.98,
+      521.11,
+      687.39
+    ],
+    "text": "the Agrarian Services law, and as such there was no agreement oral or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.39,
+      700.91,
+      411.91,
+      719.32
+    ],
+    "text": "otherwise in terms of the requirements of the said section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      512.75,
+      33.53,
+      521.92,
+      48.65
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.47,
+      69.94,
+      223.06,
+      88.35
+    ],
+    "text": "Section 2( 1) reads thus::",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.50295352935791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.96,
+      102.52,
+      521.2,
+      118.27
+    ],
+    "text": "Where any person is the cultivator of any extent of paddy land let to him under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.41,
+      123.16,
+      521.08,
+      138.91
+    ],
+    "text": "any oral or written agreement then, if he is a citizen of Sri Lanka, he shall, subject",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.229098320007324
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.47,
+      143.8,
+      443.29,
+      159.55
+    ],
+    "text": "to the provisions of this Act, be the tenant cultivator of that extent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.64,
+      185.15,
+      521.63,
+      203.56
+    ],
+    "text": "The learned trial Judge observes that by P3 (writ of possession)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.580504417419434,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.01,
+      218.03,
+      524.42,
+      236.44
+    ],
+    "text": "possession had been handed over to the Plaintiff-Respondent by virtue of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.09,
+      250.42,
+      521.65,
+      268.83
+    ],
+    "text": "final decree in the partition case No. 8041 and thereby Plaintiff became",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.738965034484863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.85,
+      282.83,
+      521.47,
+      301.24
+    ],
+    "text": "entitled to lots 7 & 8 in the corpus that was partitioned. As such trial Judge",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.84,
+      315.23,
+      522.46,
+      333.64
+    ],
+    "text": "observe that the Defendant-Appellant's evidence on possession of Plaintiffs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.02,
+      347.62,
+      522.04,
+      366.03
+    ],
+    "text": "based on P3 is contrary to V3, since the Defendant merely states that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.580504417419434,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.98,
+      380.03,
+      521.42,
+      398.44
+    ],
+    "text": "handing over of possession was only symbolic. Further as regards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.02,
+      412.43,
+      519.53,
+      430.84
+    ],
+    "text": "possession, Judge states it is safe to rely on P3. I have examined folios 80/81",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.852256774902344,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.86,
+      445.06,
+      521.39,
+      463.47
+    ],
+    "text": "of the judgment and the trial Judge has considered the evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.93,
+      477.47,
+      521.64,
+      495.88
+    ],
+    "text": "Defendant as follows in that part of the judgment to decide as to whether the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.93,
+      509.87,
+      316.43,
+      528.28
+    ],
+    "text": "Defendant is in fact the tenant cultivator.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.62,
+      539.75,
+      520.55,
+      559.22
+    ],
+    "text": "e>tliQ)ooz;em Q)~ er~ (i)~ es>~e)C) er~)@ e>~co e)c5oJee> eC5.\u00bbe>rnz;es5 tS)B\u00ae",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.712495803833008,
+      6.868361949920654,
+      7.3285231590271,
+      7.683064937591553,
+      9.545846939086914,
+      11.323321342468262,
+      11.631901741027832,
+      12.65983772277832,
+      13.028191566467285,
+      13.608804702758789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.66,
+      569.99,
+      520.08,
+      589.46
+    ],
+    "text": "C)5) ~~oz; emes5ees5 gz;~d \u00aeffi~. e\u00ae Q~5\u00bb (i)~ gz;~ocoC) oz;8co@ 5)Z;C)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.78610372543335,
+      7.207995891571045,
+      7.8359174728393555,
+      7.98524808883667,
+      8.381980895996094,
+      8.79198169708252,
+      8.907848358154297,
+      11.516607284545898,
+      12.054193496704102,
+      13.32957649230957,
+      13.981185913085938
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.45,
+      602.38,
+      526.49,
+      621.85
+    ],
+    "text": "(601-) Q)z;ffies5 e(5)e)~. e)z;8oe\u00ae t'lDDgaJ o\u00aerm~ (i)~ C)5) ~oz;e)es5em ~e>",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.904954433441162,
+      6.994054317474365,
+      7.351166248321533,
+      8.848876953125,
+      9.095335006713867,
+      9.266196250915527,
+      11.529439926147461,
+      11.53522777557373,
+      12.809887886047363,
+      13.998457908630371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.77,
+      635.02,
+      520.82,
+      654.49
+    ],
+    "text": "~rne) er@@a ~~ed e(5)e>eco~ Q\u00ae(5) S~oo~. e>tliQ)OOz; e(5)CO\u00ae &m;8e\u00ae",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.563999176025391,
+      8.762524604797363,
+      9.063508987426758,
+      9.44271183013916,
+      12.649627685546875,
+      12.687716484069824,
+      12.789206504821777,
+      13.000370025634766,
+      13.464385032653809
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.77,
+      667.42,
+      534.49,
+      686.89
+    ],
+    "text": "~>d~ @Qooes5ees5 es>z;rn. (i)~ ~~@ e(5)e\u00bb (5)Z;5)Z;~ erco @e\u00bb e\u00ae\u00ae ~gtlirn ~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.526940822601318,
+      6.949646949768066,
+      8.391204833984375,
+      8.547842025756836,
+      9.486327171325684,
+      11.5669527053833,
+      12.097658157348633,
+      12.611656188964844,
+      12.839110374450684,
+      12.990707397460938,
+      13.07284164428711,
+      13.752396583557129
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.52,
+      699.34,
+      519.96,
+      718.81
+    ],
+    "text": "oo~. e\u00ae Q\u00aeQ)es5wecoes5 ~~ erco~C) oz;8co@ 5)z;tlirnte>~ (701-) o\u00aerm e(5)OO.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.776191711425781,
+      7.357761383056641,
+      8.797785758972168,
+      9.765080451965332,
+      12.384385108947754,
+      12.90804386138916,
+      13.32957649230957,
+      13.379321098327637,
+      13.97220230102539,
+      13.981185913085938
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      513.24,
+      34.82,
+      522.16,
+      49.52
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.12,
+      160.67,
+      521.89,
+      179.08
+    ],
+    "text": "The trial Judge as stated above refer to Section 63 of the Statute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.532915115356445,
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.58,
+      193.06,
+      522.36,
+      211.47
+    ],
+    "text": "and consider the following decided cases and relies on the dicta in cases",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.48,
+      225.47,
+      521.87,
+      243.88
+    ],
+    "text": "reported in 70 NLR pg 85 and 72 NLR pg. 10. Based on these cases the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.47763442993164,
+      13.609890937805176,
+      13.66246509552002,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.84,
+      257.86,
+      522.28,
+      276.27
+    ],
+    "text": "learned District Judge holds that the Defendant-Appellant is not a tenant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.58,
+      290.03,
+      269.28,
+      308.44
+    ],
+    "text": "cultivator in terms of the statute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.65,
+      336.5,
+      355.75,
+      355.89
+    ],
+    "text": "In Visuvanathan V s. Thurairajah 70 NLR 83 ...",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.128419876098633,
+      13.47763442993164,
+      13.532405853271484,
+      13.79074764251709,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.14,
+      369.16,
+      521.61,
+      384.91
+    ],
+    "text": "The protection conferred by the Paddy Lands Act to an individual is enjoyed only",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.99,
+      390.04,
+      521.67,
+      405.79
+    ],
+    "text": "by a person who by his own labour and that of members of his family cultivates a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.02,
+      410.93,
+      520.79,
+      426.68
+    ],
+    "text": "paddy land. A person is not a \"tenant-cultivator\" within the meaning of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.14,
+      431.8,
+      521.48,
+      447.55
+    ],
+    "text": "definition of that term in section 63 of the Paddy Lands Act if he employs hired",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.511113166809082,
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877,
+      12.407654762268066
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.13,
+      452.69,
+      521.15,
+      468.44
+    ],
+    "text": "labour for any two of the three different kinds of work contemplated in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.89,
+      473.32,
+      521.1,
+      489.06
+    ],
+    "text": "definition, viz., ploughing, sowing and reaping; and in regard to the watching and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.75,
+      493.97,
+      520.77,
+      509.72
+    ],
+    "text": "tending of crops, this must be done only by the tenant himself or members of his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.11,
+      514.6,
+      155.86,
+      530.34
+    ],
+    "text": "family.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.17,
+      535.22,
+      319.75,
+      554.61
+    ],
+    "text": "In Dodanwela V s. Bandiya 72 NLR 10 ...",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.128419876098633,
+      13.319276809692383,
+      13.47635555267334,
+      13.79074764251709,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.96,
+      568.13,
+      520.54,
+      583.88
+    ],
+    "text": "Where, in an action for declaration of title and ejectment in respect of a land, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.89,
+      589.25,
+      523.58,
+      605.0
+    ],
+    "text": "defendant pleads that the land is a paddy land and that he, being the cultivator of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.66,
+      610.12,
+      520.79,
+      625.87
+    ],
+    "text": "it as tenant under the plaintiff, cannot be ejected by reason of the provisions of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.71,
+      630.76,
+      520.8,
+      646.51
+    ],
+    "text": "Paddy Lands Act, the burden is on the defendant to prove that he did not employ",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.51,
+      651.4,
+      523.34,
+      667.15
+    ],
+    "text": "hired labour for the work specified in paragraph (b) of the definition of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.54,
+      671.8,
+      520.79,
+      687.55
+    ],
+    "text": "\"cultivator\" in section 63 of the Paddy Lands Act and that he did not employ",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.641180992126465,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      598.78,
+      138.93,
+      600.34,
+      146.62
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.599999904632568
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.85,
+      275.03,
+      600.91,
+      300.72
+    ],
+    "text": "f!t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.300000190734863,
+      9.100000381469727,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.46,
+      348.02,
+      601.79,
+      385.02
+    ],
+    "text": "ii",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727,
+      19.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.67,
+      415.57,
+      599.62,
+      427.66
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      513.44,
+      34.67,
+      523.03,
+      50.47
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.46,
+      71.33,
+      521.27,
+      87.08
+    ],
+    "text": "hired labour for at least two of the operations mentioned in paragraph (a) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.37,
+      92.21,
+      172.21,
+      107.95
+    ],
+    "text": "definition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156.36,
+      112.43,
+      522.58,
+      130.84
+    ],
+    "text": "The cases referred to above would be relevant to the period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.74,
+      145.05,
+      522.24,
+      163.47
+    ],
+    "text": "prior to enacting the Agrarian Services Act No. 58 of 1974. I would state",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.732686042785645,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.43,
+      177.7,
+      521.79,
+      196.11
+    ],
+    "text": "that Section 63 of the Agricultural Lands Laws which was replaced by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.532915115356445,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.21,
+      209.85,
+      522.0,
+      228.27
+    ],
+    "text": "Section 68 of the Agrarian Services Act which, law was in operation at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.66241455078125,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.7,
+      242.01,
+      522.63,
+      260.43
+    ],
+    "text": "time of institution of the case in hand contemplate a different interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.68,
+      274.9,
+      522.41,
+      293.32
+    ],
+    "text": "to the definition of tenant cultivator by expanding the functions jointly with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.82,
+      307.06,
+      184.08,
+      325.47
+    ],
+    "text": "any other person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156.59,
+      339.22,
+      522.69,
+      357.63
+    ],
+    "text": "There is a change in the law on this aspect after enacting Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.53,
+      371.63,
+      175.48,
+      390.04
+    ],
+    "text": "No. 58 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.732686042785645,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156.95,
+      404.25,
+      448.09,
+      422.67
+    ],
+    "text": "Section 68 of the Agrarian Services Act reads thus:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.79069709777832,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.74,
+      436.85,
+      521.65,
+      452.6
+    ],
+    "text": "\"cultivator\" with reference to an extent of paddy land means any person, other than an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.93,
+      457.73,
+      522.41,
+      473.48
+    ],
+    "text": "Agrarian Services Committee, who by himself or by any member of his family, or jointly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.93,
+      478.61,
+      325.35,
+      494.35
+    ],
+    "text": "with any other person, carries out on such extent:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.81,
+      520.12,
+      456.53,
+      535.87
+    ],
+    "text": "(a) two or more of the operations of ploughing, sowing and reaping; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.83,
+      541.01,
+      521.74,
+      556.76
+    ],
+    "text": "(b) the operation of tending or watching the crop in each season during which paddy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.58,
+      561.64,
+      258.26,
+      577.39
+    ],
+    "text": "is cultivated on such extent;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.82,
+      603.22,
+      514.4,
+      621.63
+    ],
+    "text": "On the very same point a judgment of the Court of Appeal need to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.05,
+      635.39,
+      521.8,
+      653.8
+    ],
+    "text": "considered and applied although the above cases relied upon by the trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.62,
+      667.54,
+      522.36,
+      685.95
+    ],
+    "text": "Judge are judgments of the Supreme Court which dealt with the provisions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.82,
+      699.71,
+      522.1,
+      718.12
+    ],
+    "text": "of the Paddy Lands Act and the Agricultural Lands Law. As such those",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      513.95,
+      33.91,
+      523.21,
+      49.16
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.06,
+      69.56,
+      522.84,
+      87.84
+    ],
+    "text": "cases cannot be relied upon and applied to the case in hand which was based",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.33,
+      101.97,
+      390.18,
+      120.25
+    ],
+    "text": "in terms of the Agrarian Services Act No. 58 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.553163528442383,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.11,
+      134.12,
+      468.07,
+      152.4
+    ],
+    "text": "In Kamalaratne Vs. Samaratunge 1998(2) SLR 288 at 289 & 290 ...",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.88,
+      166.5,
+      521.52,
+      182.37
+    ],
+    "text": "I have heard both the learned counsel for the appellant and the learned counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.45,
+      187.38,
+      522.28,
+      203.26
+    ],
+    "text": "the respondent. The Assistant commissioner of Agrarian Services, Gampaha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.66,
+      208.26,
+      522.01,
+      224.14
+    ],
+    "text": "District, has arrived at the conclusion that since the applicant reaped the paddy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.8,
+      228.9,
+      522.21,
+      244.77
+    ],
+    "text": "jointly with the assistance of hired agricultural labourers that there has been a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.46,
+      249.55,
+      521.99,
+      265.42
+    ],
+    "text": "violation of the prohibition laid down by the law and, consequently, there results a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.61,
+      270.18,
+      522.28,
+      286.06
+    ],
+    "text": "forfeiture of his ande rights. I hold that this finding is due to a misdirection both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.804718971252441,
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.88,
+      291.06,
+      521.71,
+      306.94
+    ],
+    "text": "in regard to the law and in regard to the facts established at the inquiry. Under the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.5,
+      311.69,
+      521.78,
+      327.57
+    ],
+    "text": "provisions of the Paddy Lands Act and under the provisions of the Agricultural",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.64,
+      332.83,
+      521.59,
+      348.71
+    ],
+    "text": "Lands Law, one came across a stringent definition of the term \"cultivator\". The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.58,
+      353.46,
+      521.91,
+      369.34
+    ],
+    "text": "engagement of agricultural labour, even jointly with the ande cultivator, resulted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.64,
+      374.34,
+      521.2,
+      390.22
+    ],
+    "text": "in a forfeiture of ande rights. The provisions of the Agrarian Services Act has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.6,
+      395.22,
+      521.47,
+      411.1
+    ],
+    "text": "effected a departure from such an exposition of the law. Section 68 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.819578170776367,
+      11.899999618530273,
+      12.206210136413574,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.7,
+      416.1,
+      521.76,
+      431.98
+    ],
+    "text": "Agrarian Services Act in defining the expression \"cultivator\" sets out that any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.26,
+      436.74,
+      522.09,
+      452.62
+    ],
+    "text": "person who by himself or by any member of his family or jointly with any other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.52,
+      457.62,
+      521.52,
+      473.5
+    ],
+    "text": "person, carries out two or more of the operations of ploughing, sowing and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.46,
+      478.5,
+      521.22,
+      494.38
+    ],
+    "text": "reaping and the operations of tending or watching over the crop during the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.54,
+      499.38,
+      521.36,
+      515.26
+    ],
+    "text": "seasons when paddy is cultivated on such paddy field, is a tenant cultivator. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.37,
+      520.02,
+      522.15,
+      535.89
+    ],
+    "text": "change in the law has been effected by the enactment of the expression \"or jointly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.45,
+      540.9,
+      523.97,
+      556.78
+    ],
+    "text": "with any other person\". Thus, a tenant cultivator who himself takes part in two of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.21,
+      561.55,
+      521.46,
+      577.42
+    ],
+    "text": "these operations jointly with hired agricultural labourers, by engaging such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.35,
+      582.67,
+      521.65,
+      598.55
+    ],
+    "text": "agricultural labour on hire, does not violate any prohibition enacted by then law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.38,
+      603.31,
+      411.33,
+      619.18
+    ],
+    "text": "and, consequently there would be no forfeiture of his rights.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.81434154510498,
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156.12,
+      656.12,
+      522.0,
+      674.4
+    ],
+    "text": "The other matter that the trial Judge had considered (folios",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.48,
+      688.28,
+      521.55,
+      706.56
+    ],
+    "text": "81182) in the judgment is the denial of status or title of Plaintiff by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.620922088623047,
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      511.31,
+      34.92,
+      519.93,
+      50.26
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.21,
+      70.91,
+      520.72,
+      89.32
+    ],
+    "text": "Defendant-Appellant and his land lord prior to the decree in the partition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.14,
+      103.3,
+      520.07,
+      121.71
+    ],
+    "text": "case P 8041. As such trial Judge observes by this denial the rights of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.73,
+      135.7,
+      520.19,
+      154.11
+    ],
+    "text": "Defendant-Appellant which is available under Section 5(2) and 2(1) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.01,
+      167.85,
+      519.94,
+      186.26
+    ],
+    "text": "Agrarian Services Act would not apply and could not be enforced. The trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.0,
+      200.27,
+      520.27,
+      218.68
+    ],
+    "text": "Judge relies to support his view in the cases reported in 1987(1) SLR 367",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.15,
+      233.14,
+      520.05,
+      251.55
+    ],
+    "text": "and 1982 (2) CLR 318. I wish to observe that both the above cases are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.18,
+      265.56,
+      520.9,
+      283.97
+    ],
+    "text": "judgments under the Rent Laws and or on the Rent Act. This cannot have a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.31,
+      297.71,
+      519.55,
+      316.12
+    ],
+    "text": "bearing on the tenant cultivator's rights under the Agrarian Services Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.0,
+      329.88,
+      520.58,
+      348.29
+    ],
+    "text": "Further land lord under the Rent Act and the Agrarian Services Act would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.29,
+      362.28,
+      520.58,
+      380.69
+    ],
+    "text": "not be the same. I cannot agree that the same or similar definition applies to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.19,
+      394.66,
+      520.38,
+      413.08
+    ],
+    "text": "each other. These are two separate laws. Where the scheme of each statute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.15,
+      427.06,
+      212.08,
+      445.47
+    ],
+    "text": "differ from each other.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.92,
+      459.47,
+      520.46,
+      477.89
+    ],
+    "text": "This distinction is further supported in the case of Leelawathie",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.21,
+      492.09,
+      520.07,
+      510.51
+    ],
+    "text": "Ratnayake Vs. S.M. sirisena C.A 101175 decided on 9.12.1983. Though the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.435406684875488,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.14,
+      524.27,
+      520.74,
+      542.68
+    ],
+    "text": "above case was based on the Agricultural Lands Laws which was succeeded",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.08,
+      556.66,
+      520.34,
+      575.06
+    ],
+    "text": "by the Agrarian Services Act the main important provisions are geared to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.11,
+      588.81,
+      289.31,
+      607.22
+    ],
+    "text": "protect the tenant cultivator's rights.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.98,
+      621.45,
+      520.03,
+      639.87
+    ],
+    "text": "The following extract from the judgment at pgs. 617 are",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.944104194641113,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.02,
+      653.61,
+      512.66,
+      672.02
+    ],
+    "text": "relevant. It's rational cannot be ignored on agricultural disputes and matters",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.26,
+      685.99,
+      519.64,
+      702.0
+    ],
+    "text": "A \"landlord\" in tenns of the Agricultural Lands Law means a person \"who will for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.392820358276367
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.01,
+      704.12,
+      519.54,
+      723.5
+    ],
+    "text": "time being be entitled to the rent in respect of such extent if it were let on rent to any",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.876514434814453,
+      11.965951919555664,
+      12.0,
+      12.392820358276367,
+      15.474459648132324
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      507.03,
+      35.58,
+      520.48,
+      50.83
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.634489059448242
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.78,
+      70.71,
+      523.1,
+      86.32
+    ],
+    "text": "person. (The underlining is mine). Under the Rent Act, a purchaser becomes entitled of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.73,
+      91.36,
+      520.9,
+      106.97
+    ],
+    "text": "the rent by attornment,.. that is, by the tenant acknowledging him as the landlord. But",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.74,
+      112.24,
+      520.55,
+      127.85
+    ],
+    "text": "under the Agricultural Lands Law a purchaser will be entitled to the rent if the field has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.35496711730957
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.76,
+      133.36,
+      519.95,
+      148.97
+    ],
+    "text": "been already let to any person. No attornment is necessary by the tenant cultivator to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.48,
+      154.71,
+      520.2,
+      170.32
+    ],
+    "text": "the new owner because the purchaser by reason of his ownership becomes entitlement to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.5,
+      175.59,
+      522.53,
+      191.2
+    ],
+    "text": "the rent. The status of the tenant cultivator is established at the time of the first letting of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.25,
+      196.24,
+      520.21,
+      211.85
+    ],
+    "text": "the field to him under section 3(1) of the Paddy Lands Act. A tenant cultivator is defined",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.5,
+      216.88,
+      520.18,
+      232.49
+    ],
+    "text": "there, as a person who \"is the cultivator of any extent of paddy land let to him under any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.42,
+      237.51,
+      520.1,
+      253.12
+    ],
+    "text": "oral or written agreement ..... \". In the present case the field had been first let to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.49,
+      258.39,
+      519.83,
+      274.0
+    ],
+    "text": "respondent on an oral agreement by Alexander Keppitipola on behalf of the owner,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.39,
+      279.27,
+      520.26,
+      294.88
+    ],
+    "text": "George keppitipola. He therefore became the tenant cultivator of the field and remained",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.58,
+      300.15,
+      519.67,
+      315.76
+    ],
+    "text": "so at the time of its purchase by the appellant, who would then be entitled to the rent as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.5,
+      321.03,
+      520.55,
+      336.65
+    ],
+    "text": "new owner. The appellant is thus the landlord of the field in terms of the definition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652,
+      12.369258880615234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.4,
+      341.68,
+      520.13,
+      357.29
+    ],
+    "text": "contained in section 54 of the Law. Attornment to the new owner as landlord is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.49,
+      362.55,
+      520.4,
+      378.16
+    ],
+    "text": "required, under this Law. This is in consonance with the policy of the Law that maximum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.16,
+      383.19,
+      519.98,
+      398.8
+    ],
+    "text": "amount of security of tenure should be provided for tenant cultivators. See the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.41,
+      404.07,
+      519.76,
+      419.69
+    ],
+    "text": "observations of Athukorale, J., in Bempi v. Davith (1978-79 SLR Vol. 2 Pt 7 page 215,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.428295135498047,
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.2,
+      424.96,
+      519.61,
+      440.57
+    ],
+    "text": "217) in regard to the Paddy Lands Act. Indeed under section 3 (11) of the Agricultural",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.45,
+      445.59,
+      519.71,
+      461.2
+    ],
+    "text": "Lands Law the rights of a tenant cultivator of any extent of paddy land is not affected in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.14,
+      466.47,
+      496.54,
+      482.08
+    ],
+    "text": "any manner by the sale ... of the right, title and interest of the landlord of such extent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      154.68,
+      519.32,
+      520.1,
+      537.6
+    ],
+    "text": "The above judgment in respect of the land would demonstrate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.76,
+      551.97,
+      520.07,
+      570.25
+    ],
+    "text": "that the Paddy Lands Act would hold good even in regard to certain matters",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.76,
+      584.36,
+      520.28,
+      602.64
+    ],
+    "text": "to the Act now in force namely the Agrarian Services Act. The evidence led",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.94,
+      616.53,
+      520.36,
+      634.81
+    ],
+    "text": "In the Original Court which had not been contradicted would be good",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.349442481994629,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.89,
+      648.44,
+      519.85,
+      666.72
+    ],
+    "text": "evidence and remain as evidence in the case and should be considered and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.92,
+      680.6,
+      436.74,
+      698.88
+    ],
+    "text": "identified. The following items of evidence would be relevant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.28,
+      380.96,
+      602.34,
+      438.87
+    ],
+    "text": "ttI!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      13.600000381469727,
+      18.20009994506836,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      596.39,
+      441.92,
+      604.79,
+      488.44
+    ],
+    "text": "1I!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      15.100000381469727,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      597.6,
+      684.53,
+      602.8,
+      710.22
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.70009994506836
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      598.24,
+      700.45,
+      602.8,
+      722.98
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      598.48,
+      747.73,
+      603.04,
+      770.26
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.74,
+      34.6,
+      519.47,
+      50.35
+    ],
+    "text": "11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.828726768493652
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      102.34,
+      70.6,
+      521.48,
+      86.35
+    ],
+    "text": "(a) Documents V4, V5, V7 to V16 would establish that Defendant was the tenant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.79640007019043,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117.59,
+      91.48,
+      521.44,
+      107.23
+    ],
+    "text": ". cultivator of Rev.--Wipularatne Thero of the land inclusive of two undivided lots",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877,
+      12.422006607055664
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.52,
+      112.13,
+      521.53,
+      127.88
+    ],
+    "text": "allotted to Plaintiff. No specific denial by Plaintiff. Some of the above documents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.65,
+      132.77,
+      521.15,
+      148.52
+    ],
+    "text": "being an entry in the Register would be prima facie evidence of the case land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.777128219604492,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.47,
+      153.65,
+      521.4,
+      169.39
+    ],
+    "text": "stated therein. That evidence would be sufficient to establish that fact unless",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.39,
+      174.53,
+      521.33,
+      190.28
+    ],
+    "text": "resulted or overcome by other evidence. Plaintiff-Appellant had not led evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.54,
+      195.64,
+      520.57,
+      211.4
+    ],
+    "text": "in resulted to demolish that evidence. Herath Vs. Peter 1989 (2) SLR 325",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.51,
+      216.52,
+      169.58,
+      232.26
+    ],
+    "text": "followed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      102.34,
+      237.39,
+      518.3,
+      253.15
+    ],
+    "text": "(b) Plaintiff admitted in evidence that the said Rev. Wipularatne Thero though a co-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.54,
+      258.04,
+      520.86,
+      273.78
+    ],
+    "text": "owner possessed the entire land which formed the corpus in the partition case and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.36,
+      278.93,
+      481.43,
+      294.68
+    ],
+    "text": "Defendant-Appellant was his tenant cultivator of the entire extent ofland.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      102.34,
+      299.33,
+      521.2,
+      315.08
+    ],
+    "text": "(c) Defendant offered to Plaintiff the 'paravenial' share in respect of the two lots",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.51,
+      320.44,
+      521.44,
+      336.19
+    ],
+    "text": "allotted to Plaintiff and upon refusal to accept deposited same in Kirinda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.35,
+      341.32,
+      305.02,
+      357.07
+    ],
+    "text": "Puhulwatta Agrarian Services Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      120.14,
+      382.43,
+      509.63,
+      400.84
+    ],
+    "text": "In the above circumstances I am compelled to reject the views of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.84,
+      414.83,
+      521.73,
+      433.24
+    ],
+    "text": "learned District Judge, Matara. Section 5(2) of the Agrarian Services Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.59,
+      447.47,
+      521.83,
+      465.87
+    ],
+    "text": "deals with a situation after final decree in a partition suit. The said section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.2,
+      480.09,
+      521.27,
+      498.51
+    ],
+    "text": "would lend support to the position of the Defendant-Appellant that he is the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.35,
+      512.25,
+      520.63,
+      530.67
+    ],
+    "text": "duly authorized tenant cultivator by operation of law, of the land in dispute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.37,
+      544.43,
+      521.23,
+      562.84
+    ],
+    "text": "Therefore I set aside the judgment of District Court dated 3.12.1997 and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.35,
+      576.83,
+      524.5,
+      595.24
+    ],
+    "text": "grant the relief as prayed for in sub paragraphs ((f) & ((f\u00bb of the Petition of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.563773155212402,
+      13.300000190734863,
+      13.600000381469727,
+      13.800000190734863,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.45,
+      609.22,
+      190.48,
+      627.63
+    ],
+    "text": "Appeal with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      155.98,
+      641.62,
+      250.46,
+      660.03
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      280.33,
+      666.23,
+      442.57,
+      713.93
+    ],
+    "text": "(j}~c-",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      32.12236785888672
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      300.41,
+      706.12,
+      497.55,
+      721.87
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.798049926757812,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      597.75,
+      590.38,
+      601.48,
+      608.8
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      598.03,
+      623.7,
+      601.36,
+      644.31
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0
+    ]
+  }
+]

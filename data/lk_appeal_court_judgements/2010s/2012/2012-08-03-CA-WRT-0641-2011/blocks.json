@@ -1,0 +1,621 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.62,
+      481.2,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.04,
+      88.7,
+      437.45,
+      104.18
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      145.6,
+      180.51,
+      161.08
+    ],
+    "text": "CA Writ 641/2011",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      169.72,
+      448.2,
+      346.18
+    ],
+    "text": "01. D.P.P.Sarath Kumara, Police Sergeant, Karandeniya Police Station, Karandeniya. And of: Meegaspitiya Road, Wendesi Wattse, Uragasmanhandiya.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      347.02,
+      458.64,
+      378.58
+    ],
+    "text": "Petitioner Vs.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      379.0,
+      510.83,
+      528.14
+    ],
+    "text": "01. A.S.K.Munasinghe, Senior Superintendent of Police, Director, Physical Assets Management Division, Colombo-03 and three (3) others",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      10.979999542236328,
+      13.979999542236328,
+      16.020000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.04,
+      531.6,
+      475.73,
+      547.08
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      19.93,
+      10.28,
+      26.62,
+      38.86
+    ],
+    "text": "..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.499984741210938
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.39,
+      109.17,
+      284.55,
+      125.31
+    ],
+    "text": "C.A. Application No. 64112011 (Writ)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.03311538696289,
+      12.100000381469727,
+      12.468829154968262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.74,
+      164.14,
+      122.92,
+      180.28
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.92,
+      246.99,
+      127.44,
+      262.46
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.5,
+      330.51,
+      142.38,
+      359.89
+    ],
+    "text": "Argued & Decided on:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.5,
+      399.57,
+      164.86,
+      415.75
+    ],
+    "text": "Ranjith Silva, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.72,
+      164.61,
+      417.6,
+      180.75
+    ],
+    "text": "W.L.R. Silva, J (Acting P, CIA) &",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.0,
+      12.100000381469727,
+      12.170246124267578,
+      12.736095428466797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.7,
+      192.21,
+      349.6,
+      208.35
+    ],
+    "text": "Deepali Wijesundera, J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.5,
+      247.7,
+      403.8,
+      263.17
+    ],
+    "text": "A. Wijesurendra for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.47,
+      275.55,
+      463.18,
+      291.02
+    ],
+    "text": "Ms. Nayomi Kahawita SC for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230.52,
+      344.66,
+      287.36,
+      360.13
+    ],
+    "text": "03.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.1,
+      370.36,
+      284.41,
+      393.3
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.908960342407227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.2,
+      456.74,
+      519.68,
+      472.21
+    ],
+    "text": "Counsel appearing for both parties submit that they are prepared to settle the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      484.59,
+      519.06,
+      500.06
+    ],
+    "text": "matter in accordance with the terms and conditions laid down in the settlement referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.47,
+      511.94,
+      310.13,
+      527.41
+    ],
+    "text": "in the motion dated 17.05.2012 filed of record.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.316285133361816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.35,
+      567.86,
+      519.38,
+      583.33
+    ],
+    "text": "Subject to the alterations of item 'b' mentioned therein to read as 15.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.316285133361816,
+      12.318686485290527
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.22,
+      596.19,
+      519.05,
+      611.66
+    ],
+    "text": "instead of 01.06.2012 and item 'c' by interpolating the words 'with effect from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.316285133361816,
+      12.332427024841309
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.35,
+      624.26,
+      368.7,
+      639.73
+    ],
+    "text": "September 2012', immediately after the word ' Petitioner'.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.24,
+      743.13,
+      306.66,
+      758.66
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.95,
+      68.42,
+      520.63,
+      83.89
+    ],
+    "text": "Both parties consent and agree to the terms and conditions laid down, subject to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.89,
+      95.78,
+      224.81,
+      111.25
+    ],
+    "text": "alterations mentioned above.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.75,
+      150.98,
+      384.02,
+      166.46
+    ],
+    "text": "Accordingly the matter is settled. Proceedings are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      234.37,
+      509.35,
+      250.44
+    ],
+    "text": "Acting President of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.06185531616211,
+      12.195180892944336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.96,
+      261.97,
+      206.42,
+      278.03
+    ],
+    "text": "Deepali Wiiesundera, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.91,
+      317.53,
+      121.74,
+      333.0
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.17,
+      373.07,
+      454.68,
+      389.15
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.927088737487793,
+      12.06185531616211
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.19,
+      428.76,
+      114.72,
+      444.1
+    ],
+    "text": "Kpml-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.21,
+      744.27,
+      307.91,
+      759.74
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      591.6,
+      9.72,
+      606.06,
+      45.44
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.03,
+      98.98,
+      603.16,
+      183.78
+    ],
+    "text": "l i t [ !!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.599999904632568,
+      7.900100231170654,
+      10.699999809265137,
+      14.5,
+      26.299999237060547,
+      32.5
+    ]
+  }
+]

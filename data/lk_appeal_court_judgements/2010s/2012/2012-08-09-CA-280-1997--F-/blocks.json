@@ -1,0 +1,2659 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      57.52,
+      10.67,
+      74.09,
+      51.62
+    ],
+    "text": "\u00b7 ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.699999809265137,
+      29.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.54,
+      71.5,
+      520.16,
+      87.43
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.84,
+      84.77,
+      348.67,
+      100.52
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.824275970458984,
+      12.054652214050293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.32,
+      265.83,
+      204.07,
+      295.36
+    ],
+    "text": "C.A 28011997 (F) D.C Kurunegala 2213/L",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.024567604064941,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.3,
+      182.32,
+      485.72,
+      225.76
+    ],
+    "text": "H. M. Abeyrathna Banda Temple Road, Dehelgamuwa, Ibbagamuwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.551963806152344,
+      11.666452407836914,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.32,
+      252.7,
+      406.36,
+      268.63
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.37,
+      293.66,
+      356.57,
+      309.0
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.14,
+      335.43,
+      462.56,
+      378.88
+    ],
+    "text": "B. M. Weerakoon Banda Atalla, Ibbagamuwa.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.353806495666504,
+      11.666452407836914,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.6,
+      405.35,
+      416.76,
+      421.28
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.14,
+      446.44,
+      401.12,
+      462.19
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.93052864074707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.08,
+      474.39,
+      485.71,
+      517.6
+    ],
+    "text": "H. M. Abeyrathna Banda Temple Road, Dehelgamuwa, Ibbagamuwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.666452407836914,
+      11.682486534118652,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.08,
+      544.06,
+      483.93,
+      559.99
+    ],
+    "text": "PLAINTIFF -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.38,
+      571.32,
+      356.58,
+      586.66
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.08,
+      613.11,
+      462.32,
+      656.56
+    ],
+    "text": "B. M. Weerakoon Banda Atalla, Ibbagamuwa.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.353806495666504,
+      11.666452407836914,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.88,
+      682.78,
+      503.1,
+      698.71
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      513.99,
+      34.16,
+      523.41,
+      49.69
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.39,
+      98.0,
+      286.14,
+      114.01
+    ],
+    "text": "BEFORE: Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.437867164611816,
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.31,
+      153.44,
+      388.78,
+      169.45
+    ],
+    "text": "COUNSEL: Jacob Joseph for the Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.33,
+      181.69,
+      435.61,
+      197.17
+    ],
+    "text": "Thilak Wijesinghe for the Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.18,
+      223.27,
+      244.07,
+      239.42
+    ],
+    "text": "ARGUED ON: 30.4.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.4,
+      265.03,
+      249.89,
+      281.56
+    ],
+    "text": "DECIDED ON: 09.08.2012",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.32,
+      334.63,
+      186.61,
+      350.64
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.167579650878906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.84,
+      403.78,
+      523.21,
+      422.19
+    ],
+    "text": "This was a land case filed in the District Court of Kurunegala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.53,
+      435.95,
+      523.63,
+      454.36
+    ],
+    "text": "for a declaration of title. Original plaint was presented to the District Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.09,
+      468.57,
+      522.99,
+      486.98
+    ],
+    "text": "on 5.1.1984. Thereafter amended plaint has been filed and Journal Entry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.43,
+      501.21,
+      523.43,
+      519.62
+    ],
+    "text": "8.6.1984 indicates that amended plaint had been tendered. The Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.96,
+      533.61,
+      523.29,
+      552.02
+    ],
+    "text": "had objected to same and Journal Entry 29.5.1985 indicates that this matter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.95,
+      565.77,
+      522.41,
+      584.17
+    ],
+    "text": "was inquired by court and date was given after accepting amended plaint for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.09,
+      597.93,
+      522.88,
+      616.36
+    ],
+    "text": "answer of Defendant. On 20.12 1985 answer was filed. In the original record",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.1,
+      630.59,
+      523.27,
+      649.0
+    ],
+    "text": "I find two amended plaints, but perusal of the Journal Entries would given a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.81,
+      662.49,
+      525.0,
+      680.9
+    ],
+    "text": "clue that the amended plaint was filed on 27.1.1988 on which Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.72,
+      694.66,
+      523.0,
+      713.07
+    ],
+    "text": "proceeded to trial. The record does not seem to have been maintained in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      514.43,
+      34.21,
+      523.05,
+      49.55
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.72,
+      69.47,
+      523.33,
+      87.88
+    ],
+    "text": "systematic way or method. When this appeal was listed for hearing in this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.54,
+      102.11,
+      523.54,
+      120.52
+    ],
+    "text": "court it was brought to the notice of court that documents VI - V2 were not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.55,
+      134.73,
+      523.29,
+      153.14
+    ],
+    "text": "contained in the original brief or record and this court with the kind",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.55,
+      167.37,
+      522.85,
+      185.79
+    ],
+    "text": "assistance of counsel was able to obtain same and registered Attorney for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.36,
+      199.79,
+      521.74,
+      218.24
+    ],
+    "text": "Defendant-Respondent by motion of 28.11.2011 tendered documents VI &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.41,
+      232.18,
+      522.95,
+      250.59
+    ],
+    "text": "V2 to this court. Attention of this court was drawn to Section 114 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.711063385009766,
+      13.789496421813965,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.3,
+      264.35,
+      470.37,
+      282.76
+    ],
+    "text": "Civil Procedure Code relating to the principles contained therein as:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.3,
+      297.24,
+      354.87,
+      312.58
+    ],
+    "text": "(a) no document be placed on record unless proved",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.3,
+      318.36,
+      369.47,
+      333.71
+    ],
+    "text": "(b) proved document to be marked and filed of record.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.131890296936035
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.3,
+      339.0,
+      304.6,
+      354.34
+    ],
+    "text": "( c) Documents not proved to be returned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.08,
+      392.02,
+      487.9,
+      410.43
+    ],
+    "text": "The above principal was discussed in Chandrasena V s. Piyasena",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.319276809692383,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.4,
+      424.42,
+      522.85,
+      442.83
+    ],
+    "text": "1999(3) SLR 201. I have also made a note of Journal Entries in the docket,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.05,
+      456.57,
+      522.69,
+      474.99
+    ],
+    "text": "especially to Journal Entry of 19.10.2011, 13.12.2011 & 30.4.2012.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.43,
+      488.75,
+      522.16,
+      507.16
+    ],
+    "text": "Subsequent to a oral hearing both counsel were given an opportunity to file",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.2,
+      521.15,
+      495.82,
+      539.56
+    ],
+    "text": "written submissions before 6.6.2012, but it was not done by either party.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.9,
+      553.79,
+      522.34,
+      572.2
+    ],
+    "text": "Plaintiff-Appellant in this case claim title on prescription. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.93,
+      586.18,
+      522.84,
+      604.59
+    ],
+    "text": "has no paper title. As such Plaintiff-Appellant should have established the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.762800216674805,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.83,
+      618.33,
+      522.36,
+      636.75
+    ],
+    "text": "case according to the ingredients of Section 3 of the Prescription Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.9,
+      650.5,
+      520.62,
+      668.91
+    ],
+    "text": "Parties proceeded to trial on 16 issues. Plaintiff raised 7 issues. His issue No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.47635555267334,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      513.8,
+      32.86,
+      523.31,
+      48.53
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.4,
+      69.22,
+      519.45,
+      87.63
+    ],
+    "text": "1 refer to identity of the land in dispute with reference to a survey plans (81-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.99,
+      101.63,
+      525.25,
+      120.04
+    ],
+    "text": "'X') in extent of 1 Rood 11.3 perches. Issue 2 is to the effect that Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.139572143554688,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.95,
+      134.03,
+      522.11,
+      152.44
+    ],
+    "text": "was from 1965 in possession of the above land by cultivating same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.14,
+      166.65,
+      523.33,
+      185.06
+    ],
+    "text": "Defendant disputed his rights in 1983 and on 3.1.1984 Defendant caused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.32,
+      199.05,
+      416.88,
+      217.46
+    ],
+    "text": "damage and attempted to put up a house (issue Nos. 2 - 4)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      231.47,
+      526.18,
+      249.88
+    ],
+    "text": "Plaintiff in his evidence state that he came into occupation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.92,
+      263.86,
+      523.41,
+      282.27
+    ],
+    "text": "the land in dispute in 1965 and constructed a building and resided for about",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.54,
+      296.27,
+      523.67,
+      314.68
+    ],
+    "text": "7/8 years. He also states he cultivated. He refers to coconut trees. Bread",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.51,
+      328.67,
+      522.65,
+      347.09
+    ],
+    "text": "fruits, jack etc. He also states he got permission to tap toddy (PI). There is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.06,
+      360.83,
+      522.61,
+      379.24
+    ],
+    "text": "also evidence to state that Plaintiff changed his place of residence since he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.18,
+      393.23,
+      523.06,
+      411.64
+    ],
+    "text": "went for chena cultivation, in another land. In cross-examination the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.37,
+      425.38,
+      523.55,
+      443.79
+    ],
+    "text": "Plaintiff stated when he gave instructions to file action the land was in extent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.29,
+      458.27,
+      524.1,
+      476.68
+    ],
+    "text": "of about 2 acres. His answer is reproduced as follows: erOOd C3~C3~1m o\u00aein",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.212061405181885,
+      12.800000190734863,
+      13.209160804748535,
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.96,
+      490.42,
+      522.88,
+      508.95
+    ],
+    "text": "@ID\u00ae~. aC3~ ~~ C31m)C)cS rn\u00ae) \u00ae\u00ae 1ml;C3@ a@OOC3CS)5) @eDC3eD. Then in further",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.006796836853027,
+      8.00685977935791,
+      9.65086555480957,
+      10.35918140411377,
+      10.417646408081055,
+      11.29521656036377,
+      11.670187950134277,
+      12.295924186706543,
+      12.326335906982422,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.05,
+      522.83,
+      278.86,
+      541.24
+    ],
+    "text": "cross-examination Plaintiff states:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.81,
+      554.89,
+      522.18,
+      573.58
+    ],
+    "text": "Q: rn~eD 00) rnC3Q)es>e\u00bb rn\u00ae)C3cs5 Ol;\u00aerIB@C3@ eOC3@Q)\u00aeX.o ~o~ C3cSOl; 4",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.523980617523193,
+      10.617178916931152,
+      10.6726713180542,
+      11.027876853942871,
+      11.335636138916016,
+      11.57558822631836,
+      11.859230041503906,
+      12.762946128845215,
+      12.800000190734863,
+      14.065000534057617
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.83,
+      579.14,
+      282.31,
+      597.83
+    ],
+    "text": "o\u00aein ~~ erl;rn @ID\u00ae~ 00) ?",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.51915454864502,
+      12.240732192993164,
+      12.800000190734863,
+      13.209160804748535,
+      14.065000534057617,
+      14.878064155578613
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.74,
+      600.79,
+      275.58,
+      622.86
+    ],
+    "text": "e: ~C300 ~~ C31m)C)m \u00aeC) ercorn.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.376026153564453,
+      9.713330268859863,
+      10.608796119689941,
+      11.43529987335205,
+      12.364025115966797,
+      15.39820384979248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.81,
+      628.75,
+      282.61,
+      645.83
+    ],
+    "text": "Q: rn\u00aeeDC3cs5 @ID\u00ae \u00ae)co\u00ae C3\u00ae)es>e)~?",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.876429080963135,
+      10.870230674743652,
+      11.227224349975586,
+      11.859230041503906,
+      12.02589225769043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.18,
+      652.75,
+      345.23,
+      669.83
+    ],
+    "text": "rn\u00aeeD ~e:> ID)o C3~5) E)C) @ID\u00ae \u00ael;5)@ 5)l;(3)l;?",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.889296054840088,
+      8.067713737487793,
+      8.263940811157227,
+      8.767219543457031,
+      9.926976203918457,
+      11.100000381469727,
+      11.227224349975586,
+      11.719985961914062
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.74,
+      672.55,
+      131.76,
+      694.62
+    ],
+    "text": "e: 5)l;(3)l;",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.10374927520752,
+      15.39820384979248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      514.19,
+      34.0,
+      523.36,
+      49.12
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.08,
+      69.71,
+      525.86,
+      88.12
+    ],
+    "text": "The above evidence does not correctly give the boundaries of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.92,
+      102.34,
+      522.89,
+      120.75
+    ],
+    "text": "the land in dispute or the correct extent possessed by Plaintiff. For further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.31,
+      134.74,
+      455.82,
+      153.15
+    ],
+    "text": "clarification I would incorporate the following items of evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.81,
+      167.37,
+      525.07,
+      185.44
+    ],
+    "text": "Q: m\u00aeeD @tm)@5)\u00ae~ tkoeD@6) ~5)eD @cioz; 4 ~ a\u00aein tko)? m~eD 6)~e>",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.3378801345825195,
+      7.902627944946289,
+      8.346688270568848,
+      8.720293998718262,
+      9.84000015258789,
+      11.764081001281738,
+      11.899999618530273,
+      12.223414421081543,
+      12.800000190734863,
+      12.887420654296875,
+      13.359461784362793
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.2,
+      191.47,
+      522.04,
+      208.55
+    ],
+    "text": "@~C3orn 00 6)@Q)eD@eD m~eDO ercorn m~eD er(36)e\u00bbStm@) tko6) ~05)eD @cioz;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.909137725830078,
+      8.057059288024902,
+      8.4835844039917,
+      8.631996154785156,
+      10.896105766296387,
+      11.714962005615234,
+      12.212728500366211,
+      12.348123550415039,
+      12.800000190734863,
+      14.867779731750488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.14,
+      214.03,
+      391.29,
+      231.11
+    ],
+    "text": "4 tm @ID\u00ae~ E)rniDtm)oco) Q)@5)rntm)O@COeD CS)rnm) tko)?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.181853294372559,
+      10.993990898132324,
+      11.274495124816895,
+      11.433621406555176,
+      12.068339347839355,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.96,
+      238.52,
+      370.24,
+      255.62
+    ],
+    "text": "C : \u00ae\u00ae er~ 114 fmC) E)mo er(36)e\u00bbStm\u00ae tkoeD@6).",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.76983642578125,
+      9.351489067077637,
+      10.974588394165039,
+      12.210211753845215,
+      12.26992416381836,
+      12.300000190734863,
+      12.70333480834961,
+      12.793498039245605
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.85,
+      262.52,
+      428.55,
+      279.6
+    ],
+    "text": "Q : 6)~@E) tko) iD@Q)eD@6) ~05)eD @cioz; 4 tm e>oeJC3co tko)?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4102630615234375,
+      7.838367462158203,
+      10.699999809265137,
+      11.024336814880371,
+      11.130584716796875,
+      11.706216812133789,
+      11.714962005615234,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.64,
+      286.76,
+      129.65,
+      303.84
+    ],
+    "text": "C : (i)e)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.823989868164062,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.85,
+      335.72,
+      521.85,
+      352.8
+    ],
+    "text": "Q : m~eD 8~cs)eD~) m~eD (i)co 6)~ ~)@) iD@co6) @tm@OeJ ~)@ @ID\u00aetm",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.606523513793945,
+      7.785524845123291,
+      8.131715774536133,
+      8.346688270568848,
+      8.381980895996094,
+      10.077142715454102,
+      10.699999809265137,
+      11.226540565490723,
+      11.288960456848145,
+      11.550071716308594,
+      11.563972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.45,
+      359.72,
+      170.42,
+      376.8
+    ],
+    "text": "@tm)C)eJ~ tko)?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.994420051574707,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.71,
+      384.19,
+      129.41,
+      401.27
+    ],
+    "text": "C : (i)E)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.237821578979492,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.85,
+      408.68,
+      406.54,
+      425.76
+    ],
+    "text": "Q : ~ @ID\u00aeO m~eDO 5S\u00ae (i)~ iDo~ @\u00ae)6)e)rn 6)Z;5)z;?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.423966407775879,
+      8.97997760772705,
+      9.295160293579102,
+      10.699999809265137,
+      11.466263771057129,
+      11.547024726867676,
+      12.133075714111328,
+      13.645570755004883
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.64,
+      431.95,
+      137.43,
+      449.03
+    ],
+    "text": "C : 6)Z;5)Z;",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.692920684814453,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.61,
+      456.91,
+      521.79,
+      473.99
+    ],
+    "text": "Q : m~es5C) 5S\u00ae @coE)@@~ 6)Z;5)Z; @\u00ae @ID\u00aeO erC3iDe\u00bbStm@) tko~? @\u00aetm \u00aeO",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.161086559295654,
+      8.275711059570312,
+      9.423171997070312,
+      10.699999809265137,
+      10.738133430480957,
+      11.007255554199219,
+      11.176775932312012,
+      11.58730411529541,
+      11.740447044372559,
+      12.280196189880371,
+      13.645570755004883
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.11,
+      480.7,
+      528.01,
+      498.89
+    ],
+    "text": "etC3iDC3 tkoeD6) sa\u00ae @coE)@@~ 6)Z;5)z;? C)o)@ mcl e5J6)tm \u00aez;~mes50 m~ ~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.405555725097656,
+      8.239903450012207,
+      9.091534614562988,
+      11.334054946899414,
+      11.347824096679688,
+      11.753875732421875,
+      11.971700668334961,
+      12.175411224365234,
+      12.786643028259277,
+      13.100000381469727,
+      14.435955047607422
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.83,
+      505.63,
+      343.04,
+      522.71
+    ],
+    "text": "@ID@\u00ae m~eD@cs3 er(36)c.o tkoeD@eD @tm)@5)\u00ae~?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.416802883148193,
+      7.784291744232178,
+      10.937026977539062,
+      11.739737510681152,
+      11.94847583770752
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.65,
+      530.6,
+      192.44,
+      547.68
+    ],
+    "text": "C: Crnmoco~ 6)z;m.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.393998146057129,
+      11.600000381469727,
+      12.022539138793945
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.06,
+      585.95,
+      205.14,
+      604.36
+    ],
+    "text": "Questioned by Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.57,
+      618.8,
+      384.42,
+      636.87
+    ],
+    "text": "Q : m\u00aeeD tme>~)e>rn @\u00ae @ID@\u00ae o~ oE)e> SD@aS 6)Z;~~?",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.973228931427002,
+      7.247890949249268,
+      9.201738357543945,
+      10.977154731750488,
+      11.052167892456055,
+      11.092916488647461,
+      11.899999618530273,
+      12.01369857788086,
+      12.887420654296875
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.48,
+      643.87,
+      522.11,
+      660.95
+    ],
+    "text": "C : er~z;~ 2 ~ 2 ~ ~ E)mo SDco). ~ ere>ciC) @E) Oe5@aS @ID\u00ae~ oe>O)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.981578826904297,
+      8.547504425048828,
+      9.201738357543945,
+      9.587992668151855,
+      9.83707332611084,
+      9.959277153015137,
+      10.534271240234375,
+      11.349178314208984,
+      11.691555976867676,
+      12.300000190734863,
+      12.443536758422852,
+      12.689876556396484,
+      12.736241340637207,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.24,
+      667.39,
+      521.73,
+      684.47
+    ],
+    "text": "~~). \u00ae\u00ae am6) ~~ e>CS)00 @CS)6) ooco>. ~oo @\u00aeoo @~tm\u00ae Q)@) @CS)6)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      8.131715774536133,
+      9.123946189880371,
+      9.473161697387695,
+      11.196285247802734,
+      12.210211753845215,
+      12.446929931640625,
+      12.773523330688477,
+      12.800000190734863,
+      12.859910011291504,
+      13.130033493041992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.49,
+      691.15,
+      120.02,
+      708.23
+    ],
+    "text": "SDco).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.643138885498047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      514.42,
+      33.97,
+      523.04,
+      49.31
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.53,
+      62.2,
+      601.37,
+      81.16
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.17,
+      69.7,
+      599.76,
+      88.11
+    ],
+    "text": "~At this point of the evidence Plaintiff states he possessed for",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.9686360359191895,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.79,
+      102.35,
+      523.47,
+      120.88
+    ],
+    "text": "about 2 Yz years with his family. He cannot produce electoral lists to prove",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.135622024536133,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.39,
+      134.75,
+      137.37,
+      153.16
+    ],
+    "text": "the facts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.3,
+      166.9,
+      523.67,
+      185.31
+    ],
+    "text": "The other evidence led on behalf of Plaintiff party was to show",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.39,
+      199.55,
+      523.04,
+      217.96
+    ],
+    "text": "that Plaintiff was in possession may be to prove long years of possession.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.61,
+      232.19,
+      523.8,
+      250.6
+    ],
+    "text": "However what is lacking in the entirety of Plaintiff s version is the correct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.8,
+      264.81,
+      523.85,
+      283.23
+    ],
+    "text": "length of time of possession, and the identity of land showing exact extent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.3,
+      297.22,
+      522.55,
+      315.63
+    ],
+    "text": "of possession. I cannot accept mere possession to be adverse possession to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.713781356811523,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.72,
+      329.39,
+      526.1,
+      347.8
+    ],
+    "text": "satisfy the requirements of prescriptive possession in terms of Section 3 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.16,
+      361.55,
+      242.04,
+      379.96
+    ],
+    "text": "the Prescription Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.13,
+      394.17,
+      523.16,
+      412.58
+    ],
+    "text": "Defendant-Respondent relies on paper title and has testified to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.3,
+      426.57,
+      523.69,
+      444.99
+    ],
+    "text": "court the Plaintiff was not in possession of the land in dispute. Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.49,
+      458.99,
+      523.37,
+      477.4
+    ],
+    "text": "states his title is derived from his predecessor who had been in long",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.22,
+      491.39,
+      519.57,
+      509.8
+    ],
+    "text": "possessIOn. The Defendant denies any kind of possession by Plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.16,
+      523.29,
+      146.07,
+      541.7
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.83,
+      556.18,
+      522.8,
+      574.59
+    ],
+    "text": "The learned trial Judge at folios 152and 153 of the original",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.611563682556152,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.18,
+      588.35,
+      522.72,
+      606.76
+    ],
+    "text": "record gives several reasons to reject Plaintiffs case. As observed above the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.3,
+      620.73,
+      364.95,
+      639.14
+    ],
+    "text": "following had been considered by the trial Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.34,
+      69.86,
+      387.28,
+      85.33
+    ],
+    "text": "(a) Identity of the land in dispute not correctly established",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.33,
+      90.49,
+      189.55,
+      105.97
+    ],
+    "text": "(b) No paper title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      513.24,
+      33.62,
+      521.94,
+      49.09
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.34,
+      111.37,
+      521.72,
+      126.85
+    ],
+    "text": "(c) Beginning of adverse possession not properly established, and against whom was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.6,
+      132.27,
+      256.68,
+      147.74
+    ],
+    "text": "adverse possession proved?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.1,
+      153.62,
+      436.3,
+      169.1
+    ],
+    "text": "(d) Whether document PI, issued for the land in dispute is in doubt?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.97227668762207
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.1,
+      194.98,
+      516.11,
+      213.39
+    ],
+    "text": "On a consideration of the totality of the evidence led in support of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.42,
+      227.15,
+      522.01,
+      245.56
+    ],
+    "text": "Plaintiff-Appellant's case, would point In the direction that posseSSIon",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.648927688598633,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.22,
+      259.54,
+      521.6,
+      277.95
+    ],
+    "text": "which was attempted to be proved by the Plaintiff never turned out to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.32,
+      291.71,
+      521.55,
+      310.12
+    ],
+    "text": "adverse possession, and rather doubtful as to who was at the receiving end,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.94,
+      324.33,
+      522.39,
+      342.75
+    ],
+    "text": "to succeed on the plea of prescription. There had been numerous occasions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.46,
+      356.49,
+      522.02,
+      374.91
+    ],
+    "text": "where courts have held that mere possession is not adverse possession in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.95,
+      388.9,
+      362.52,
+      407.31
+    ],
+    "text": "tenns of Section 3 of the Prescription Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155.9,
+      420.34,
+      522.47,
+      439.71
+    ],
+    "text": "In Walter Pereira's Laws of Ceylon 2nd Ed. Pg. 396. \"As",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.467021942138672,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.98,
+      453.7,
+      521.79,
+      472.11
+    ],
+    "text": "regards the mode of proof of prescriptive possession, mere general",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.04,
+      486.11,
+      522.3,
+      504.52
+    ],
+    "text": "statements of witnesses that the Plaintiff possessed the land in dispute for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.96,
+      518.5,
+      521.51,
+      536.91
+    ],
+    "text": "number of years exceeding the prescriptive period are not evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.0,
+      550.9,
+      521.54,
+      569.31
+    ],
+    "text": "uninterrupted and adverse possessions necessary to support a title by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.03,
+      583.54,
+      521.98,
+      601.95
+    ],
+    "text": "prescription. Witness is required to speak to specific facts, and the question",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.86,
+      615.95,
+      521.07,
+      634.36
+    ],
+    "text": "of possession has to be decided thereupon by court. Peynis V s. Pedro 3 SCC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.319276809692383,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.98,
+      648.4,
+      110.61,
+      666.14
+    ],
+    "text": "125.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.56,
+      6.46,
+      601.74,
+      85.3
+    ],
+    "text": ", 1tf I KI l",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      6.199999809265137,
+      6.800099849700928,
+      9.100000381469727,
+      10.399999618530273,
+      10.5,
+      12.5,
+      22.799999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      515.39,
+      33.9,
+      524.65,
+      49.15
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158.09,
+      69.2,
+      524.01,
+      89.14
+    ],
+    "text": "In all the above circumstances of this case, I affirm the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.458629608154297,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.26,
+      102.35,
+      492.03,
+      120.76
+    ],
+    "text": "judgment of the learned District Judge and reject this appeal with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.91,
+      134.74,
+      263.69,
+      153.15
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      266.33,
+      161.76,
+      486.29,
+      215.25
+    ],
+    "text": "r:a,~G\"'~ ~} ~ JUDGE OF THE COUR lOF APPEAL",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      13.45884895324707,
+      14.887739181518555,
+      22.7628173828125,
+      27.698984146118164
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      598.47,
+      21.22,
+      603.53,
+      46.23
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.20009994506836
+    ]
+  }
+]

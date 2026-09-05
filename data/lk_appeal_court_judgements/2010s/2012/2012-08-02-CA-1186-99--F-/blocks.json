@@ -1,0 +1,525 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.62,
+      481.2,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.04,
+      88.7,
+      437.45,
+      104.18
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      117.14,
+      273.41,
+      152.32
+    ],
+    "text": "CA 1186/99 (F) DC Kurunegala Case No: 4415/L.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      194.62,
+      401.65,
+      287.38
+    ],
+    "text": "Chandrasiri Bandara Molagoda No: 38/2, Mihindu Mawatha, Kurunegala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      290.5,
+      464.29,
+      344.98
+    ],
+    "text": "Defendant\u2013 Appellant Vs.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      358.0,
+      416.17,
+      565.86
+    ],
+    "text": "Yahampath Arachchige Gunapala No: 185, Bandaranayaka Pura, Malkaduwawa, Kurunegala. Suriya Arachchilage Siriyawathi No: 02/14, Kandy Road, Kurunegala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.04,
+      569.1,
+      458.93,
+      584.58
+    ],
+    "text": "Plaintiff - Respondent",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.06,
+      68.0,
+      213.98,
+      86.41
+    ],
+    "text": "C.A.1186/99(F)",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      13.894168853759766
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.89,
+      100.19,
+      150.26,
+      119.8
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.04,
+      133.55,
+      163.54,
+      153.16
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.144286155700684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.37,
+      183.72,
+      184.59,
+      203.33
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.792707443237305,
+      15.487410545349121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.45,
+      233.16,
+      218.23,
+      252.77
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      15.31460189819336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.81,
+      67.31,
+      524.19,
+      86.92
+    ],
+    "text": "D.C. Kurunegala Case No.4415/L.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.969286918640137,
+      14.699999809265137,
+      15.17081069946289,
+      15.187176704406738
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.89,
+      100.19,
+      362.89,
+      119.8
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      15.220919609069824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.16,
+      133.8,
+      407.97,
+      169.97
+    ],
+    "text": "Parties are absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.058820724487305,
+      15.230671882629395,
+      15.362950325012207,
+      15.538392066955566,
+      15.624150276184082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.72,
+      183.72,
+      331.04,
+      203.33
+    ],
+    "text": "02.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.182385444641113
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.26,
+      266.51,
+      555.7,
+      286.12
+    ],
+    "text": "Notice issued on the Appellant through the fiscal, Kurunegala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.963292121887207,
+      15.073065757751465,
+      15.349932670593262,
+      15.397692680358887,
+      15.415058135986328,
+      15.487410545349121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.93,
+      291.48,
+      555.31,
+      311.09
+    ],
+    "text": "has been returned with the endorsement that the Appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.854092597961426,
+      15.027647972106934,
+      15.262439727783203,
+      15.32904052734375,
+      15.33095932006836,
+      15.349932670593262,
+      15.453155517578125,
+      15.559616088867188,
+      15.638773918151855,
+      15.774527549743652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.07,
+      316.44,
+      555.93,
+      336.05
+    ],
+    "text": "left the address. Notice issued on the registered Attorney-at-law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.83017349243164,
+      15.004643440246582,
+      15.262439727783203,
+      15.269950866699219,
+      15.3310546875,
+      15.349932670593262,
+      15.376388549804688
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.04,
+      341.63,
+      555.37,
+      361.24
+    ],
+    "text": "also has been returned with the endorsement that he too has left",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.967957496643066,
+      15.027647972106934,
+      15.262439727783203,
+      15.32904052734375,
+      15.33095932006836,
+      15.34322738647461,
+      15.422114372253418,
+      15.559616088867188,
+      15.774527549743652,
+      15.795992851257324
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.4,
+      366.6,
+      554.86,
+      386.21
+    ],
+    "text": "the address. No intimation has been made to the Registry as to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.915273666381836,
+      15.168339729309082,
+      15.237667083740234,
+      15.262439727783203,
+      15.274089813232422,
+      15.341071128845215,
+      15.349932670593262,
+      15.459528923034668,
+      15.71757984161377
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.27,
+      391.32,
+      555.12,
+      410.93
+    ],
+    "text": "any change of address of the Appellant or the registered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.84300422668457,
+      14.963292121887207,
+      14.998273849487305,
+      15.133993148803711,
+      15.225699424743652,
+      15.262439727783203,
+      15.26850700378418,
+      15.326498985290527,
+      15.349932670593262,
+      15.403897285461426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.69,
+      416.27,
+      554.05,
+      435.88
+    ],
+    "text": "Attorney-at-law. For failure to take steps to deposit brief fees,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.771177291870117,
+      14.774958610534668,
+      14.85107421875,
+      14.915273666381836,
+      14.976058006286621,
+      15.010519981384277,
+      15.051204681396484,
+      15.227245330810547,
+      15.397024154663086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.4,
+      441.23,
+      555.96,
+      460.84
+    ],
+    "text": "this appeal is dismissed in terms or rule 13(b) of the preparation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      15.061504364013672,
+      15.133993148803711,
+      15.152582168579102,
+      15.165528297424316,
+      15.181465148925781,
+      15.18775749206543,
+      15.262439727783203,
+      15.26850700378418,
+      15.268892288208008,
+      15.283326148986816,
+      15.328226089477539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.29,
+      466.19,
+      418.37,
+      485.8
+    ],
+    "text": "of the appeal briefs - Court of Appeal - 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.827446937561035,
+      14.839241027832031,
+      14.915914535522461,
+      14.998273849487305,
+      15.259839057922363,
+      15.268892288208008,
+      15.349932670593262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.55,
+      540.35,
+      540.26,
+      559.96
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.699999809265137,
+      14.88473892211914,
+      15.06696891784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.54,
+      569.38,
+      127.62,
+      585.66
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.91674518585205
+    ]
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.38,
+      72.62,
+      520.6,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.94,
+      88.7,
+      397.61,
+      104.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      104.84,
+      309.51,
+      156.7
+    ],
+    "text": "CA 446/99 DC Colombo 15813/MR",
+    "fonts": [
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      162.4,
+      375.98,
+      210.58
+    ],
+    "text": "Bank of Ceylon York Street, Colombo 01.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      213.69,
+      445.1,
+      330.21
+    ],
+    "text": "Plaintiff Vs. Develo Ltd. No 35, Arethusa Lane, Colombo 06.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      333.28,
+      460.88,
+      449.82
+    ],
+    "text": "Defendant And Now Develo Ltd. No 35, Arethusa Lane, Colombo 06.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      452.94,
+      521.9,
+      552.35
+    ],
+    "text": "Defendant-Appellant Vs. Bank of Ceylon York Street, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      555.48,
+      519.38,
+      586.55
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.88,
+      98.35,
+      171.13,
+      114.0
+    ],
+    "text": "CA 446/99(F)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.857017517089844,
+      12.465313911437988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.68,
+      152.84,
+      130.35,
+      168.49
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.486824989318848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.85,
+      193.4,
+      137.17,
+      209.05
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.204314231872559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.26,
+      288.91,
+      159.04,
+      318.49
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.93642807006836,
+      12.04550838470459,
+      12.367525100708008
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.26,
+      357.07,
+      193.18,
+      372.72
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.54563045501709,
+      12.451345443725586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      372.68,
+      98.11,
+      513.75,
+      113.76
+    ],
+    "text": "DC-COLOMBO-15813/MR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.98,
+      152.35,
+      374.36,
+      168.0
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.613744735717773,
+      12.423998832702637
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.69,
+      192.84,
+      473.74,
+      208.18
+    ],
+    "text": "Viran Fernando for Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.511974334716797,
+      12.820577621459961,
+      12.832680702209473,
+      13.431025505065918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.45,
+      213.72,
+      332.87,
+      229.06
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.016420364379883
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.77,
+      234.12,
+      479.23,
+      249.46
+    ],
+    "text": "N.G. Balasuriya for Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.875518798828125,
+      13.162700653076172,
+      13.431025505065918,
+      14.114173889160156
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265.14,
+      254.53,
+      339.63,
+      269.87
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.511927604675293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265.53,
+      302.28,
+      339.67,
+      317.62
+    ],
+    "text": "08.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.743879318237305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.1,
+      384.36,
+      516.46,
+      399.7
+    ],
+    "text": "Counsel who had earlier appeared for the Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.490540504455566,
+      12.494867324829102,
+      12.745097160339355,
+      12.851263046264648,
+      13.343317985534668,
+      13.350857734680176,
+      14.176003456115723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.73,
+      411.73,
+      521.74,
+      427.07
+    ],
+    "text": "Appellant appearing for the limited purpose of assisting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.888435363769531,
+      12.967426300048828,
+      13.073193550109863,
+      13.26461410522461,
+      13.265741348266602,
+      13.350857734680176,
+      13.482172966003418,
+      13.766918182373047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.09,
+      439.08,
+      520.55,
+      454.42
+    ],
+    "text": "Courts, tenders documents to establish that the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.448208808898926,
+      12.541947364807129,
+      12.915397644042969,
+      13.26461410522461,
+      13.333317756652832,
+      13.443649291992188,
+      13.764036178588867,
+      13.892067909240723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.12,
+      466.45,
+      521.04,
+      481.79
+    ],
+    "text": "Company has been struck off. Upon being satisfied that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.627691268920898,
+      11.630509376525879,
+      12.623700141906738,
+      12.741352081298828,
+      12.973854064941406,
+      13.185441017150879,
+      13.496495246887207,
+      13.709663391113281,
+      13.75814437866211,
+      14.107450485229492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.65,
+      493.8,
+      519.28,
+      509.38
+    ],
+    "text": "Defendant-Appellant Company has been struck off,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.712879180908203,
+      12.665308952331543,
+      12.677515983581543,
+      12.914685249328613,
+      13.496495246887207,
+      13.562031745910645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.65,
+      521.4,
+      483.72,
+      536.74
+    ],
+    "text": "Proceedings relating to this appeal are now terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.806127548217773,
+      12.955138206481934,
+      13.246482849121094,
+      13.313724517822266,
+      13.56754207611084,
+      13.871025085449219,
+      14.002554893493652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.93,
+      603.31,
+      505.33,
+      618.96
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.814574241638184,
+      10.837536811828613,
+      10.969104766845703,
+      11.051518440246582,
+      11.061635971069336,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.17,
+      644.76,
+      111.23,
+      660.1
+    ],
+    "text": "LA/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.191555976867676
+    ]
+  }
+]

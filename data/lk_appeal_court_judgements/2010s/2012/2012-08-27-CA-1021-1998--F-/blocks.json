@@ -1,0 +1,3312 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      76.26,
+      68.52,
+      509.07,
+      84.59
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      247.55,
+      79.78,
+      336.2,
+      98.19
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.274234771728516,
+      13.482497215270996,
+      13.515722274780273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.91,
+      248.6,
+      217.58,
+      277.58
+    ],
+    "text": "C.A 102111998 (F) D.C. Anuradhapura 16824/M",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.93832015991211,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.45,
+      151.89,
+      490.67,
+      208.58
+    ],
+    "text": "People's Bank No. 75, Srimath Chiththampalam A. Gardiner Mawatha, Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.231206893920898
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.8,
+      234.6,
+      394.79,
+      250.67
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.86,
+      276.45,
+      344.83,
+      291.39
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.24,
+      303.96,
+      422.7,
+      347.07
+    ],
+    "text": "1. W. A. Piyasena, Govi Sampatha Thambuththegama.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.957871437072754,
+      11.100000381469727,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.09,
+      359.26,
+      482.31,
+      402.49
+    ],
+    "text": "2. J. H. M. Sunil Herath \"Sunil\", No. 119, Bendi Wewa, Thambuththegama.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.196999549865723,
+      11.199999809265137,
+      11.204421997070312,
+      11.388458251953125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.03,
+      415.5,
+      422.46,
+      472.34
+    ],
+    "text": "3. B. A. Sunil \"Sunil Motors\", Industrial Place, Thambuththegama.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.36,
+      512.28,
+      410.92,
+      528.35
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.9,
+      554.04,
+      452.43,
+      570.11
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.52,
+      595.88,
+      422.22,
+      638.67
+    ],
+    "text": "1. W. A. Piyasena, Govi Sampatha Thambuththegama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.813998222351074,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.3,
+      664.2,
+      500.15,
+      680.27
+    ],
+    "text": "1 ST DEFENDANT -APPELLANT",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.062555313110352,
+      10.699999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.42,
+      693.09,
+      343.75,
+      708.03
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.7,
+      459.52,
+      134.81,
+      474.9
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.39,
+      514.72,
+      144.2,
+      530.1
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.5,
+      597.48,
+      159.45,
+      612.82
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.47,
+      652.44,
+      161.85,
+      667.78
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      299.92,
+      224.04,
+      310.59,
+      238.61
+    ],
+    "text": "2.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.418903350830078
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.11,
+      278.76,
+      310.64,
+      294.1
+    ],
+    "text": "3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.412568092346191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.5,
+      458.9,
+      284.57,
+      474.37
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.81,
+      70.92,
+      500.46,
+      127.79
+    ],
+    "text": "People's Bank No. 75, Srimath Chiththampalam B. Gardiner Mawatha, Colombo.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.16,
+      168.65,
+      482.99,
+      184.03
+    ],
+    "text": "PLAINTIFF-RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.14,
+      222.55,
+      491.95,
+      266.26
+    ],
+    "text": "J. H. M. Sunil Herath \"Sunil\", No. 119, Bendi Wewa, Thambuththegama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.452803611755371,
+      11.45666790008545,
+      11.5,
+      11.839323997497559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.0,
+      278.52,
+      432.43,
+      335.63
+    ],
+    "text": "B. A. Sunil \"Sunil Motors\", Industrial Place, Thambuththegama.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.44,
+      376.49,
+      508.36,
+      391.87
+    ],
+    "text": "DEFENDANTS-RESPONDENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.21,
+      514.2,
+      375.75,
+      529.54
+    ],
+    "text": "E. M. D. Upali with S. Wijayalath for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.288148880004883,
+      11.48634147644043,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.08,
+      527.4,
+      310.57,
+      542.74
+    ],
+    "text": "1 st Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.060869216918945,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.47,
+      555.72,
+      415.47,
+      584.99
+    ],
+    "text": "R. Dissanayake instructed by C. Induruwa for Plaintiff-Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.474922180175781,
+      11.48574161529541,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.4,
+      597.24,
+      248.27,
+      612.58
+    ],
+    "text": "09.07.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.2,
+      652.44,
+      248.04,
+      667.78
+    ],
+    "text": "27.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      511.61,
+      34.69,
+      520.24,
+      50.03
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.21,
+      240.74,
+      601.01,
+      267.2
+    ],
+    "text": "Ii",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      511.54,
+      34.24,
+      520.32,
+      49.85
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.13,
+      71.39,
+      178.08,
+      87.09
+    ],
+    "text": "GOONERATNE J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154.68,
+      152.98,
+      521.12,
+      171.39
+    ],
+    "text": "This was an action filed in the District Court of Anuradhapura",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.04,
+      185.63,
+      520.76,
+      204.04
+    ],
+    "text": "under the provisions of the Debt Recovery Law No. 2 of 1990 as amended",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.3,
+      217.78,
+      519.85,
+      236.19
+    ],
+    "text": "by Act No.9 of 1994. The Plaintiff-Respondent is the People's Bank. The 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863,
+      14.18935775756836,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.21,
+      250.42,
+      395.15,
+      268.83
+    ],
+    "text": "Defendant-Appellant is the Principle Debtor and the 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      395.27,
+      249.61,
+      441.14,
+      268.83
+    ],
+    "text": "nd and 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      441.35,
+      249.37,
+      521.01,
+      268.83
+    ],
+    "text": "rd Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.15,
+      282.34,
+      520.58,
+      300.75
+    ],
+    "text": "are guarantors (P5) to the loan application. The 1 st Defendant-Appellant was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.39,
+      314.98,
+      521.54,
+      333.38
+    ],
+    "text": "also having a Current Account bearing No. 1315 at the Thambuththegama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.53,
+      346.57,
+      517.66,
+      365.55
+    ],
+    "text": "branch of the People's Bank. On or about 2nd April 1997 the 1st Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.01,
+      379.29,
+      521.12,
+      397.7
+    ],
+    "text": "Appellant had applied for a loan from the Plaintiff-Respondent Bank in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.33,
+      411.69,
+      520.33,
+      430.11
+    ],
+    "text": "sum of Rs. 16,50,0001=. The application is marked P2 annexed to the plaint.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      13.84343433380127,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.45,
+      444.02,
+      520.57,
+      463.41
+    ],
+    "text": "In the plaint filed of record it is also pleaded that promissory note P3 was",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.984952926635742,
+      13.45867919921875,
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.38,
+      476.5,
+      521.01,
+      494.91
+    ],
+    "text": "also executed to secure the loan. Loan had been granted and having given",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.38,
+      508.67,
+      520.67,
+      527.08
+    ],
+    "text": "credit to the amounts repaid by the 1 st Defendant-Appellant the prayer to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.3,
+      541.29,
+      520.68,
+      559.71
+    ],
+    "text": "plaint shows that a sum of Rs. 1,306,5001- with interest is due to the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.899999618530273,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.22,
+      573.23,
+      205.79,
+      591.64
+    ],
+    "text": "P laintiff-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154.68,
+      605.63,
+      517.17,
+      624.04
+    ],
+    "text": "The proceedings of 19.8.l998 indicates that the Plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.2,
+      638.25,
+      520.3,
+      656.66
+    ],
+    "text": "Respondent application under the Debt Recovery Law was supported on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.55,
+      670.17,
+      520.59,
+      688.58
+    ],
+    "text": "said date and decree nisi was entered on the same date. At the hearing before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.2,
+      702.1,
+      520.98,
+      720.51
+    ],
+    "text": "this Court the Appellant's position was that the trial Judge has erred by not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.05,
+      0.16,
+      606.09,
+      63.23
+    ],
+    "text": "i !I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.599999904632568,
+      19.5,
+      39.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.04,
+      75.74,
+      602.04,
+      117.33
+    ],
+    "text": "iI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727,
+      21.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.65,
+      142.89,
+      603.16,
+      326.78
+    ],
+    "text": "[![tIf i Ii Ii",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.800000190734863,
+      10.399999618530273,
+      12.199999809265137,
+      16.600000381469727,
+      21.600000381469727,
+      23.70009994506836,
+      23.799999237060547,
+      27.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.61,
+      387.23,
+      600.2,
+      398.04
+    ],
+    "text": "I'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.477687358856201
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      512.11,
+      33.93,
+      520.59,
+      49.01
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.64,
+      70.18,
+      521.9,
+      88.59
+    ],
+    "text": "granting him leave to proceed as required by the provisions of the Debt",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.74,
+      102.59,
+      521.52,
+      121.0
+    ],
+    "text": "recovery Law. (Section 6 of the Law more particularly 6 (2) (c)) The learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.62,
+      135.21,
+      276.76,
+      153.62
+    ],
+    "text": "Counsel for appellant argued that:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.57,
+      167.47,
+      521.27,
+      183.34
+    ],
+    "text": "(1) A loan was obtained by his client from the Plaintiff Bank. On the amount",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.18,
+      188.1,
+      520.87,
+      203.98
+    ],
+    "text": "received by way of a loan his client purchased paddy and stored it. The gist of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.08,
+      209.22,
+      523.25,
+      225.1
+    ],
+    "text": "argument suggest that the stores in question had been locked by the officials of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.206210136413574
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.93,
+      229.86,
+      520.99,
+      245.73
+    ],
+    "text": "the People's Bank and as a result of delay in giving access to the stores the paddy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.27,
+      250.74,
+      520.71,
+      266.62
+    ],
+    "text": "stored as above had got spoilt. The position demonstrated to court seems to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.16,
+      271.15,
+      520.16,
+      287.03
+    ],
+    "text": "reflected in paragraphs 17, 18, 19,20 & 21 of the objections of 3.9.1998 of the 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.400100231170654,
+      10.899999618530273,
+      11.259936332702637,
+      11.899999618530273,
+      11.903099060058594,
+      12.206210136413574,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.38,
+      292.03,
+      378.44,
+      307.9
+    ],
+    "text": "Respondent. As such order 'Nisi\" should be vacated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.892897605895996,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.87,
+      333.77,
+      520.83,
+      349.65
+    ],
+    "text": "(2) The affidavit filed in the District court by the People's Bank is defective and in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.58,
+      354.66,
+      520.99,
+      370.67
+    ],
+    "text": "law cannot be acted upon such affidavit. i.e Plaintiff is not a deponent. It is the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.914292335510254
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.39,
+      375.55,
+      521.02,
+      391.42
+    ],
+    "text": "People's Bank who is the Plaintiff, contrary to Section 183 A of the Civil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.689386367797852,
+      11.804718971252441,
+      11.899999618530273,
+      12.34107494354248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.39,
+      396.18,
+      203.42,
+      412.05
+    ],
+    "text": "Procedure Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.7,
+      430.9,
+      485.22,
+      449.31
+    ],
+    "text": "Perusal of all the material and proceedings in the Original Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.36,
+      461.6,
+      521.31,
+      481.24
+    ],
+    "text": "indicates that the 2nd & 3 rd Defendants who were the guarantors had no",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.610100746154785,
+      8.800000190734863,
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.86,
+      495.23,
+      522.16,
+      513.64
+    ],
+    "text": "objection for 'Decree Nisi' being made absolute\". I have perused the order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.1,
+      527.39,
+      520.14,
+      545.8
+    ],
+    "text": "of the learned trial Judge who has considered the position of the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.758151054382324,
+      13.800000190734863,
+      14.1300048828125,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.17,
+      560.02,
+      521.38,
+      578.43
+    ],
+    "text": "Defendant-Appellant in the Original Court. Having considered the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.11,
+      591.95,
+      521.66,
+      610.36
+    ],
+    "text": "objections of the 1 st Defendant-Appellant the trial Judge very correctly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.758151054382324,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.87,
+      624.59,
+      521.01,
+      642.99
+    ],
+    "text": "observes that a loan was granted by the Plaintiff-Respondent according to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.73,
+      656.49,
+      521.32,
+      674.91
+    ],
+    "text": "the over draft facility to store paddy (column 14 of P2 OlD). in that no",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.61318588256836,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.12,
+      688.42,
+      521.13,
+      706.83
+    ],
+    "text": "inference could be drawn to give any concessions or relief not to pay the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      512.24,
+      34.66,
+      520.72,
+      49.74
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      70.18,
+      521.65,
+      88.59
+    ],
+    "text": "default sum. As such objection on the lines suggested by Appellant cannot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.74,
+      102.33,
+      521.21,
+      120.74
+    ],
+    "text": "have a direct bearing on his liability to repay. Further the trial Judge takes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.22,
+      134.97,
+      521.35,
+      153.39
+    ],
+    "text": "the view that the objection relate to the question of stocks in the stores and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.5,
+      167.39,
+      521.13,
+      185.8
+    ],
+    "text": "not directly connected to the loan obtained. I would incorporate the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.83,
+      199.54,
+      521.33,
+      217.96
+    ],
+    "text": "following extract from the order of the learned District Judge which indicate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.72,
+      231.95,
+      460.73,
+      250.36
+    ],
+    "text": "that the trial Judge has given his mind to the provisions of the law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.36,
+      265.78,
+      520.24,
+      305.88
+    ],
+    "text": "OC) (f\u00aemo~ E)\u00aeoJ(Jm) \u00ae@Q @~aam tm@ oo~~ \u00ae~Q Q)~@\u00ae\u00ae~~ e>E.055 emoo \u00aeCS)~ SO\u00aeC) @ID~\u00aec) oo\u00ae Qt\u00ae(S)ei) oo~~ \u00aeei\u00bb~ei) Q)~ \u00aea\u00ae55. \u00aeC)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.999199867248535,
+      7.672562122344971,
+      7.807934284210205,
+      7.843292236328125,
+      8.498847007751465,
+      8.839909553527832,
+      9.191300392150879,
+      9.3968505859375,
+      9.6179838180542,
+      9.631150245666504,
+      9.972187042236328,
+      10.546958923339844,
+      10.718698501586914,
+      10.744390487670898,
+      11.047530174255371,
+      11.050597190856934,
+      11.300000190734863,
+      12.795666694641113,
+      18.8190860748291
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.77,
+      310.69,
+      528.85,
+      327.23
+    ],
+    "text": "(f\u00aemO~ 1 ~ei) E)m6)oo~ E)S55 \u00ae\u00ae\u00ae ~~@ \u00aeCS)~ei) Q)~C) \u00ae(S)J ~~@ m~~m",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.632103443145752,
+      6.742462635040283,
+      7.142236709594727,
+      7.929539680480957,
+      8.51019287109375,
+      9.220499038696289,
+      9.26308822631836,
+      10.152985572814941,
+      10.251399993896484,
+      11.191429138183594,
+      11.300000190734863,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.58,
+      326.57,
+      523.37,
+      350.99
+    ],
+    "text": "00 emmO \u00aeCS)~ SO\u00aeC) ~(6) Q)~C) (fwoormc.o @~a\u00aeaS @@@\u00ae~ 00",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.314363479614258,
+      7.900339126586914,
+      8.450765609741211,
+      9.210342407226562,
+      9.726960182189941,
+      11.300000190734863,
+      13.969484329223633,
+      14.063566207885742,
+      17.115724563598633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.77,
+      356.26,
+      319.21,
+      371.34
+    ],
+    "text": "ei)~m. \u00ae\u00ae (f~~ E)\u00aeoJ(Jm) Q6)\u00ae~ oo\u00ae.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.52877950668335,
+      8.067713737487793,
+      9.953492164611816,
+      10.892294883728027,
+      11.300000190734863,
+      12.539833068847656
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.4,
+      392.27,
+      521.03,
+      410.68
+    ],
+    "text": "This court observes that 'Debt' as defined in Section 30 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.93,
+      424.42,
+      521.18,
+      442.83
+    ],
+    "text": "Debt Recovery Law is given a very wide meaning which is a sum of money",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.86,
+      456.57,
+      524.42,
+      474.99
+    ],
+    "text": "ascertainable and capable of being ascertained at the time of institution of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.48,
+      489.23,
+      521.79,
+      507.64
+    ],
+    "text": "the action. The loan granted is not denied, by the Appellant. A Debtor under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.5,
+      521.38,
+      521.6,
+      539.8
+    ],
+    "text": "the said law is bound to resort to the provisions of the law and cannot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.87,
+      553.78,
+      521.6,
+      572.19
+    ],
+    "text": "deviate from the provisions contained therein to contest the position of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.12,
+      585.95,
+      521.62,
+      604.36
+    ],
+    "text": "lending Institution as regards a debt. The 1 st Defendant-Appellant has not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      618.34,
+      521.05,
+      636.75
+    ],
+    "text": "disclosed in the pleadings filed in the Original Court a defence which should",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.77,
+      650.49,
+      520.41,
+      668.91
+    ],
+    "text": "be prima facie sustainable. As a rule in terms of the above statute leave is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.64,
+      682.66,
+      520.99,
+      701.07
+    ],
+    "text": "granted unconditionally, only if a prima facie case is established or triable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.163999557495117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      512.02,
+      34.45,
+      520.65,
+      49.79
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.9,
+      70.91,
+      520.91,
+      89.32
+    ],
+    "text": "Issue suggested. Plaintiff-Respondent claim had not been dealt by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.73,
+      103.06,
+      353.29,
+      121.47
+    ],
+    "text": "Appellant on it's merits and as required by law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.44,
+      167.81,
+      519.8,
+      183.56
+    ],
+    "text": "In Ramanayake V s. Sampath Bank Ltd. and others 1993 (1) SLR at pg.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.494341850280762,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.57,
+      195.88,
+      115.43,
+      211.63
+    ],
+    "text": "153 ...",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.550257682800293,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.95,
+      223.49,
+      173.34,
+      239.24
+    ],
+    "text": "Per Wijeyaratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.53604793548584,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.42,
+      243.88,
+      520.83,
+      259.63
+    ],
+    "text": "The principles applicable to the granting of leave to defend or to show cause",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.51,
+      264.76,
+      520.31,
+      280.51
+    ],
+    "text": "under the two procedures are somewhat similar. However section 6(2)( c) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.5,
+      285.4,
+      520.99,
+      301.15
+    ],
+    "text": "Act expressly provides for the affidavit of the defendant to deal specifically with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.24,
+      306.28,
+      520.27,
+      322.03
+    ],
+    "text": "the plaintiff s claim and his defence thereto and what facts are being relied on in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.685797691345215,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.59,
+      327.16,
+      520.72,
+      342.91
+    ],
+    "text": "support thereof. The defendant has to deal with the plaintiff s claim on its merits;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.76,
+      347.36,
+      520.54,
+      364.13
+    ],
+    "text": "it is not competent for the defendant to merely set out technical objections. It is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.547343254089355,
+      11.755014419555664,
+      11.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.4,
+      368.68,
+      451.4,
+      384.43
+    ],
+    "text": "also incumbent on the defendant to reveal his defence, ifhe has any.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154864311218262
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.66,
+      410.21,
+      521.49,
+      425.96
+    ],
+    "text": "Then the important question arises as to what is meant by the word \"an issue or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.65,
+      431.08,
+      285.5,
+      446.83
+    ],
+    "text": "question which ought to be tried\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.68,
+      472.37,
+      521.44,
+      488.12
+    ],
+    "text": "I am of the view that they mean nothing more than a plausible defence with a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.26,
+      493.24,
+      520.31,
+      508.99
+    ],
+    "text": "triable issue; that is to sayan issue which cannot be summarily disposed of on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.021029472351074,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.39,
+      514.12,
+      520.3,
+      529.87
+    ],
+    "text": "affidavits, but requires investigation and trial. For this purpose the defendant is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.53,
+      535.0,
+      520.56,
+      550.75
+    ],
+    "text": "bound under section 6(2)( c) to deal specifically with the plaintiffs claim on its",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.75,
+      555.88,
+      521.03,
+      571.62
+    ],
+    "text": "merits and his defence thereto and what facts are relied on as supporting such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.66,
+      576.52,
+      520.55,
+      592.27
+    ],
+    "text": "defence. Hence the court is in an advantageous position to examine the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.65,
+      597.16,
+      521.1,
+      612.9
+    ],
+    "text": "defendant's affidavit and any other material to find out whether a plausible",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.39,
+      618.05,
+      520.81,
+      633.8
+    ],
+    "text": "defence with a triable issue is disclosed, in which event leave may be granted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.53,
+      638.92,
+      520.26,
+      654.67
+    ],
+    "text": "unconditionally under section 6(2) (c ). On the other hand mere technical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.334051132202148,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.41,
+      659.33,
+      352.08,
+      675.08
+    ],
+    "text": "objections and evasive denials will not suffice\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.29,
+      -5.02,
+      605.02,
+      47.41
+    ],
+    "text": "II,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.5,
+      22.799999237060547,
+      35.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.45,
+      70.58,
+      600.23,
+      87.47
+    ],
+    "text": "!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.18,
+      85.92,
+      600.96,
+      126.5
+    ],
+    "text": "~ tII:,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.6712939739227295,
+      7.691174030303955,
+      10.5,
+      14.5,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      512.52,
+      34.87,
+      520.85,
+      49.68
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.95,
+      70.37,
+      484.91,
+      86.12
+    ],
+    "text": "People's Bank v. Lanka Queen INT'L Private Limited. 1999 (1) SLR - Pg. 233 ...",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.649591445922852,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.67,
+      112.37,
+      521.09,
+      128.11
+    ],
+    "text": "The learned Additional District Judge allowed the defendants to appear and show cause",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.65,
+      132.76,
+      520.74,
+      148.51
+    ],
+    "text": "against the Decree Nisi entered in terms of section 6 (2) of Act No.2 of 1990 as amended",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.171113967895508,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.77,
+      153.64,
+      520.37,
+      169.39
+    ],
+    "text": "by No.4 of 1994. The defendant-respondent did not file an application for leave to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877,
+      12.654930114746094
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.63,
+      174.28,
+      196.35,
+      190.02
+    ],
+    "text": "appear and show cause",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.94,
+      222.76,
+      112.04,
+      238.5
+    ],
+    "text": "Held:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.36,
+      250.84,
+      520.98,
+      266.59
+    ],
+    "text": "1. Act No.2 of 1990 was amended by Act No.4 of 1994. S. 6(2) of the original Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.765613555908203,
+      11.601378440856934,
+      11.800000190734863,
+      12.171113967895508,
+      12.22581672668457,
+      12.28911304473877,
+      12.422006607055664
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.25,
+      271.73,
+      521.1,
+      287.48
+    ],
+    "text": "was repealed and the word' Application' which appeared in the original section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.448623657226562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.51,
+      292.61,
+      337.03,
+      308.35
+    ],
+    "text": "has been qualified with the following words:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.3,
+      334.12,
+      521.1,
+      349.87
+    ],
+    "text": "\"Upon the filing of an application for leave to appear and show cause supported",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.54,
+      354.77,
+      520.48,
+      370.52
+    ],
+    "text": "by affidavit.\" Thus it is mandatory for the defendant to file an application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.42,
+      375.4,
+      520.45,
+      391.14
+    ],
+    "text": "leave to appear and show cause, further such application must be supported by an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.39,
+      396.28,
+      520.84,
+      412.02
+    ],
+    "text": "affidavit which should deal specifically with the plaintiffs claim and state clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.38,
+      417.4,
+      520.34,
+      433.14
+    ],
+    "text": "and concisely what the defence to the claim is and what facts are relied upon to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.56,
+      437.8,
+      169.99,
+      453.54
+    ],
+    "text": "support it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101.7,
+      479.56,
+      520.91,
+      495.31
+    ],
+    "text": "2. Amended S. 6(2) does not permit unconditional leave to defend the claim, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.230350494384766,
+      11.43443775177002,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.26,
+      500.44,
+      498.71,
+      516.19
+    ],
+    "text": "minimum requirement according to S. 6 (2) C is for the furnishing of security.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.43443775177002,
+      11.755014419555664,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.71,
+      541.49,
+      159.26,
+      557.24
+    ],
+    "text": "Per De Silva, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740249633789062,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.06,
+      583.24,
+      520.61,
+      598.99
+    ],
+    "text": "\"In the absence of an application to show cause in writing, it is possible to say",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.25,
+      603.88,
+      479.16,
+      619.63
+    ],
+    "text": "that there is no proper application supported by an affidavit before court.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      514.11,
+      33.4,
+      522.96,
+      49.15
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.08,
+      69.68,
+      522.81,
+      87.82
+    ],
+    "text": "The dicta in the above cases provides acceptable answers to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.42,
+      102.07,
+      522.46,
+      120.22
+    ],
+    "text": "meet the case of the Appellant, and I could confidently observe that there is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.43,
+      134.95,
+      216.61,
+      153.1
+    ],
+    "text": "no merit in this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.08,
+      166.63,
+      519.58,
+      184.77
+    ],
+    "text": "The other submission of learned counsel for 1 st Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.807772636413574,
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.18,
+      199.51,
+      522.84,
+      217.66
+    ],
+    "text": "Appellant was that the affidavit filed by the Bank along with the plaint was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.56,
+      231.91,
+      522.56,
+      250.15
+    ],
+    "text": "defective. In Sooriya Enterprises International V s. Michael White & Co.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.222408294677734,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.6,
+      264.07,
+      522.83,
+      282.22
+    ],
+    "text": "Ltd. 202 (3) SLR 371. Mark Fernando J. held substitution of an oath for an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.445067405700684,
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.55,
+      296.46,
+      522.83,
+      314.61
+    ],
+    "text": "affirmation or vice versa will not invalidate proceedings or set aside",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.53,
+      328.63,
+      522.57,
+      346.78
+    ],
+    "text": "evidence. The fundamental obligation of a witness or the deponent is to tell",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.17,
+      361.27,
+      523.54,
+      379.41
+    ],
+    "text": "the truth and the purpose of an oath or affirmation is to enforce that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.54,
+      393.19,
+      148.15,
+      411.33
+    ],
+    "text": "obligation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.31,
+      425.58,
+      523.45,
+      443.73
+    ],
+    "text": "The Deponent is the Manger, People's Bank of the relevant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.38,
+      457.98,
+      522.79,
+      476.13
+    ],
+    "text": "Branch Office. The Plaintiff is the People's Bank. Merely because the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.3,
+      490.15,
+      522.8,
+      508.3
+    ],
+    "text": "deponent in the affidavit states that he is the deponent and the Plaintiff does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.41,
+      522.31,
+      522.68,
+      540.46
+    ],
+    "text": "not mean that the deponent is unaware of the loan transaction. He is no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.57,
+      554.96,
+      522.96,
+      573.11
+    ],
+    "text": "doubt the representative of the Plaintiff Bank, who could step into the shoes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.54,
+      587.36,
+      523.36,
+      605.5
+    ],
+    "text": "of the Plaintiff in the context of this case. This court cannot permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.161460876464844,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.16,
+      619.75,
+      522.5,
+      637.9
+    ],
+    "text": "technicalities to take the truth away from the case and allow technical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.33,
+      651.67,
+      522.68,
+      669.82
+    ],
+    "text": "objections to lend support to the Appellant in the way counsel urge. The oath",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      511.07,
+      34.6,
+      519.92,
+      50.35
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.93,
+      70.67,
+      520.78,
+      89.08
+    ],
+    "text": "is correctly stated. The Bank Manger of the branch is more than competent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.42,
+      103.06,
+      519.62,
+      121.47
+    ],
+    "text": "and qualified to testify to the facts of the case and the loan transaction. As",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.61,
+      135.21,
+      331.37,
+      153.63
+    ],
+    "text": "such I reject the contention of the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153.97,
+      167.63,
+      520.07,
+      186.04
+    ],
+    "text": "In all the circumstances of the case the learned District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.59,
+      200.02,
+      520.06,
+      218.43
+    ],
+    "text": "being satisfied with the material placed by the Plaintiff-Bank and having",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.19,
+      232.67,
+      519.22,
+      251.08
+    ],
+    "text": "examined all the documents annexed to the plaint has entered 'Decree Nisi'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.47,
+      263.93,
+      516.46,
+      283.23
+    ],
+    "text": "according to the provisions of the Debt Recovery Law. The 1st Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.05,
+      296.99,
+      519.91,
+      315.4
+    ],
+    "text": "Appellant was not successful in dealing with the Plaintiff Bank claim, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.09,
+      329.39,
+      519.38,
+      347.8
+    ],
+    "text": "present a plausible defence, in terms of the law. The matters urged by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.26,
+      361.54,
+      519.86,
+      379.95
+    ],
+    "text": "Defendant-Appellant does not give any clue to contest the material",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.21,
+      393.95,
+      519.75,
+      412.36
+    ],
+    "text": "contained in documents PI to P5. Document P2 is the loan application which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.44,
+      426.1,
+      522.82,
+      444.52
+    ],
+    "text": "does not suggest or leave room for the debtor to plead anyone or more of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.078146934509277,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.04,
+      458.74,
+      519.72,
+      477.15
+    ],
+    "text": "the matters urged in paragraphs 4 to 22 of the affidavit and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.19,
+      491.14,
+      520.6,
+      509.55
+    ],
+    "text": "corresponding averments in his objection. There is no merit in this appeal. I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.19,
+      523.78,
+      520.12,
+      542.19
+    ],
+    "text": "affirm all orders of the learned District Judge. Appeal dismissed without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.17,
+      555.7,
+      115.78,
+      574.11
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      153.81,
+      587.85,
+      259.35,
+      606.26
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  }
+]

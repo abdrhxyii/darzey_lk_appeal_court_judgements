@@ -1,0 +1,418 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.38,
+      72.62,
+      521.09,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.94,
+      88.7,
+      397.61,
+      104.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      135.99,
+      262.26,
+      189.34
+    ],
+    "text": "CA 889/99 (F) DC Colombo Case No.20039/MR",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      194.98,
+      369.32,
+      267.93
+    ],
+    "text": "P.G.A. Wijerathna 42/A, Suduhumpala Road, Kandy.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      273.58,
+      470.12,
+      464.45
+    ],
+    "text": "Plaintiff-Appellant Vs. Mobitel (Pvt) Ltd. O.T.C. Australia (Pvt) Ltd, 3rd Floor, No: 108, W.A.D. Ramanayaka Road, Colombo 02.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.04,
+      470.16,
+      483.38,
+      484.14
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.48,
+      97.4,
+      174.7,
+      113.05
+    ],
+    "text": "CA 889/99(F)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.857017517089844,
+      12.467035293579102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.78,
+      136.84,
+      133.61,
+      152.59
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.8577880859375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.7,
+      178.13,
+      140.35,
+      193.88
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.656794548034668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.85,
+      239.33,
+      150.04,
+      255.08
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.434111595153809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.02,
+      259.72,
+      162.15,
+      275.47
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.299671173095703,
+      12.616969108581543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.62,
+      307.64,
+      196.78,
+      323.29
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.54563045501709,
+      12.451345443725586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.8,
+      97.4,
+      446.19,
+      113.05
+    ],
+    "text": "DC-Colombo-20039/MR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.755566596984863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267.58,
+      137.47,
+      377.96,
+      153.12
+    ],
+    "text": "A.W.A. Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.613744735717773,
+      12.423998832702637
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.98,
+      178.13,
+      460.14,
+      193.88
+    ],
+    "text": "D.L. & F. De Sararn for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.610477447509766,
+      11.800000190734863,
+      12.048630714416504,
+      12.142723083496094,
+      12.241442680358887,
+      13.436517715454102,
+      13.523879051208496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.97,
+      198.77,
+      416.52,
+      214.52
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.479262351989746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.54,
+      259.94,
+      343.44,
+      275.41
+    ],
+    "text": "10.08.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.864301681518555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.25,
+      334.6,
+      523.54,
+      350.35
+    ],
+    "text": "The notice issued on the legal heirs of the appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.984557151794434,
+      12.299671173095703,
+      12.75190544128418,
+      13.314950942993164,
+      13.356317520141602,
+      13.436517715454102,
+      13.542929649353027,
+      13.54584789276123,
+      13.562954902648926,
+      13.708897590637207,
+      13.810648918151855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.13,
+      361.72,
+      523.87,
+      377.72
+    ],
+    "text": "been returned as they have refused to accept it. For the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.560916900634766,
+      12.659730911254883,
+      12.677520751953125,
+      13.127750396728516,
+      13.275588989257812,
+      13.319646835327148,
+      13.332884788513184,
+      13.417182922363281,
+      13.450386047363281,
+      13.61787223815918,
+      15.46705150604248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.9,
+      388.85,
+      524.42,
+      404.6
+    ],
+    "text": "failure on the part of the appellant to take steps, this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.299671173095703,
+      13.411553382873535,
+      13.436517715454102,
+      13.43765926361084,
+      13.588726043701172,
+      13.61787223815918,
+      13.705023765563965,
+      13.880193710327148,
+      13.925813674926758,
+      14.057924270629883
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.21,
+      415.97,
+      240.28,
+      431.72
+    ],
+    "text": "appeal stands abated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.046917915344238,
+      13.352828025817871,
+      13.375431060791016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.81,
+      484.76,
+      508.21,
+      500.41
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.837536811828613,
+      10.876566886901855,
+      11.051518440246582,
+      11.061635971069336,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.05,
+      511.25,
+      114.11,
+      527.0
+    ],
+    "text": "LA/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.349553108215332
+    ]
+  }
+]
