@@ -1,0 +1,790 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      129.26,
+      72.47,
+      486.37,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DECMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      437.53,
+      155.21
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA CA Writ 275/2012",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.05,
+      158.33,
+      523.95,
+      719.29
+    ],
+    "text": "1. Vithanage Aruna Shantha, No: 669, Velipillewa, Dedigamuwa. 2. Pitipanage Leelawathie No: 669, Velipillewa, Dedigamuwa. Petitioners -Vs- 1. The Minister of Land and Land Development, The Ministry of Land and Land Development, No: 80/5, Govijana Mandiraya, Rajamalwatte Lane, Battaramulla. 2. The Commissioner General of Land, The Land Commissioner General's Department, \"Mihikatha Medura\", Rajamalwatte Lane, Battaramulla. 3. Deputy Land Commissioner-Colombo, The Land Commissioner General's Department, \"Mihikatha Medura\", Rajamalwatte Lane, Battaramulla. 4. District Secretary, District Secretariat, Wella Veediya, Colombo-12.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Calibri,BoldItalic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.05,
+      74.81,
+      446.55,
+      447.82
+    ],
+    "text": "5. Divisional Secretary-Kaduwela, Divisional Secretariat, Malabe. 6. Sripathi Dias, Attorney-at-Law & Notary Public No: 272/2, Vidyala Mawatha, Hanwella. 7. Upathissa Madapathage, Attorney-at-Law & Notary Public No: 117/3, Pitipana-North, Homagama. 8. Jagath Chaminda Abegunasekara, No: 247/40, Deegala Watta, Jalthara, Ranala.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      450.82,
+      402.84,
+      464.86
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      320.46,
+      32.23,
+      329.46,
+      48.24
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.63,
+      95.69,
+      251.47,
+      113.28
+    ],
+    "text": "C.A Writ 275/2012.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.271140098571777,
+      12.699999809265137,
+      13.8192777633667
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.7,
+      151.39,
+      160.09,
+      168.47
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.62,
+      221.23,
+      171.22,
+      238.31
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.050352096557617
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.01,
+      284.35,
+      188.52,
+      315.6
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.800000190734863,
+      12.803099632263184,
+      13.154977798461914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.71,
+      151.88,
+      415.56,
+      168.96
+    ],
+    "text": "S.Sriskandarajah, J. (P, C/ A) &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.80405330657959,
+      12.684630393981934,
+      13.169224739074707,
+      13.659586906433105,
+      13.766045570373535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.9,
+      172.52,
+      370.03,
+      189.6
+    ],
+    "text": "P.W.D.C. Jayathilaka, J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.206786155700684
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.91,
+      221.71,
+      512.67,
+      238.79
+    ],
+    "text": "K. Asoka Fernando with A.R.R. Siriwardane for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.160367965698242,
+      12.800000190734863,
+      12.905664443969727,
+      12.95629596710205,
+      12.996590614318848,
+      13.14344310760498
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.44,
+      242.35,
+      324.22,
+      259.43
+    ],
+    "text": "the Petitioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.807397842407227,
+      13.223349571228027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.7,
+      298.76,
+      302.75,
+      315.84
+    ],
+    "text": "15.01.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.97968864440918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.32,
+      340.97,
+      301.0,
+      358.56
+    ],
+    "text": "S.Sriskandarajah, J. (P,C/A).",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.792364120483398,
+      13.123209953308105
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.45,
+      383.72,
+      527.65,
+      400.8
+    ],
+    "text": "Learned counsel for the Petitioner in support of this application,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.852343559265137,
+      12.875527381896973,
+      12.939044952392578,
+      13.057117462158203,
+      13.074555397033691,
+      13.200581550598145,
+      13.223349571228027,
+      13.25699234008789,
+      13.352572441101074
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.49,
+      412.28,
+      528.74,
+      429.36
+    ],
+    "text": "the Petitioner is seeking a writ of certiorari to quash a document",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802749633789062,
+      12.903135299682617,
+      12.937660217285156,
+      12.964739799499512,
+      12.972685813903809,
+      12.999495506286621,
+      13.083999633789062,
+      13.134918212890625,
+      13.150647163391113,
+      13.517681121826172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.49,
+      440.35,
+      529.07,
+      457.43
+    ],
+    "text": "marked 1 O(b) by which he says that the Divisional Secretary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.320311546325684,
+      12.800000190734863,
+      12.926722526550293,
+      12.97327709197998,
+      12.995556831359863,
+      13.156535148620605,
+      13.169224739074707,
+      13.188212394714355,
+      13.223349571228027,
+      13.598541259765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.4,
+      468.19,
+      528.15,
+      485.27
+    ],
+    "text": "granted written consent for the execution of the deed. After giving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8972806930542,
+      12.95743179321289,
+      13.041913986206055,
+      13.074555397033691,
+      13.124926567077637,
+      13.134918212890625,
+      13.223349571228027,
+      13.270261764526367
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.25,
+      496.75,
+      528.31,
+      513.83
+    ],
+    "text": "this consent a deed was executed and the learned counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.970169067382812,
+      13.017993927001953,
+      13.024826049804688,
+      13.096858024597168,
+      13.160426139831543,
+      13.183941841125488,
+      13.223349571228027,
+      13.304940223693848,
+      13.508586883544922
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.33,
+      525.55,
+      528.41,
+      542.63
+    ],
+    "text": "submitted that there are serious irregularities in the said deed and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.947450637817383,
+      13.028461456298828,
+      13.057117462158203,
+      13.08130931854248,
+      13.110044479370117,
+      13.177678108215332,
+      13.183553695678711,
+      13.207367897033691,
+      13.311241149902344,
+      13.434189796447754,
+      13.667035102844238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.24,
+      554.6,
+      299.97,
+      571.68
+    ],
+    "text": "the signatures are also forged.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.989201545715332,
+      13.223349571228027,
+      13.255592346191406,
+      13.27233600616455
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.19,
+      610.75,
+      528.03,
+      627.83
+    ],
+    "text": "In these circumstances, the quashing of the grant of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.895146369934082,
+      12.937660217285156,
+      12.974164962768555,
+      13.074555397033691,
+      13.134918212890625,
+      13.186368942260742,
+      13.220831871032715,
+      13.223349571228027,
+      13.259695053100586,
+      13.357460975646973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.14,
+      639.31,
+      527.5,
+      656.39
+    ],
+    "text": "consent will not serve any purpose as the deed is now executed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.860357284545898,
+      12.865731239318848,
+      12.931474685668945,
+      13.028461456298828,
+      13.083999633789062,
+      13.165628433227539,
+      13.235444068908691,
+      13.284048080444336,
+      13.291657447814941,
+      13.311241149902344,
+      13.672699928283691
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.69,
+      667.39,
+      528.43,
+      684.47
+    ],
+    "text": "The Petitioner has to get the said deed declared invalid by an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.835301399230957,
+      12.852542877197266,
+      12.858963966369629,
+      12.903135299682617,
+      13.028461456298828,
+      13.037644386291504,
+      13.110044479370117,
+      13.134918212890625,
+      13.470441818237305,
+      13.601317405700684
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.14,
+      657.86,
+      604.61,
+      721.54
+    ],
+    "text": "appropriate court. In these circumstances, this court refuses to II l t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      8.800000190734863,
+      12.800000190734863,
+      13.031163215637207,
+      13.031604766845703,
+      13.07700252532959,
+      13.0899658203125,
+      13.132774353027344,
+      13.169079780578613,
+      13.25699234008789,
+      13.32190990447998,
+      16.399999618530273,
+      32.79999923706055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.15,
+      773.76,
+      600.49,
+      800.14
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.77,
+      793.89,
+      603.89,
+      846.2
+    ],
+    "text": "tI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.100000381469727,
+      32.79999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      20.18,
+      -7.95,
+      320.63,
+      70.92
+    ],
+    "text": ", 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      57.40010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.97,
+      67.85,
+      521.39,
+      84.66
+    ],
+    "text": "issue notice on the Respondents. The Petitioner is seeking to quash",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.751736640930176,
+      12.77513313293457,
+      12.801932334899902,
+      12.813884735107422,
+      12.86227035522461,
+      12.940985679626465,
+      13.051799774169922,
+      13.056674003601074,
+      13.206836700439453,
+      13.231618881225586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.29,
+      95.92,
+      521.96,
+      112.73
+    ],
+    "text": "the said decision which was made in August 2009, in September",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.805179595947266,
+      12.845332145690918,
+      12.89362907409668,
+      12.945512771606445,
+      12.954707145690918,
+      12.986812591552734,
+      13.007219314575195,
+      13.03189754486084,
+      13.035378456115723,
+      13.049483299255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.24,
+      124.0,
+      521.14,
+      140.81
+    ],
+    "text": "2012 by this application for this reason also this court refuses",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.665566444396973,
+      12.73286247253418,
+      12.85399055480957,
+      12.887324333190918,
+      12.898269653320312,
+      13.080536842346191,
+      13.093052864074707,
+      13.153014183044434,
+      13.166131973266602
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.3,
+      152.08,
+      153.86,
+      168.89
+    ],
+    "text": "notice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.60799789428711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.47,
+      291.75,
+      247.42,
+      309.06
+    ],
+    "text": "P.W.D.C Jayathilaka.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.912300109863281
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.71,
+      319.85,
+      162.01,
+      336.66
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.637344360351562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.53,
+      390.88,
+      146.23,
+      407.69
+    ],
+    "text": "Vkg/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.947654724121094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260.79,
+      249.51,
+      520.62,
+      266.82
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.526272773742676
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257.71,
+      347.43,
+      483.9,
+      364.75
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.526272773742676
+    ]
+  }
+]

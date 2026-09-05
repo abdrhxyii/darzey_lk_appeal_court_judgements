@@ -1,0 +1,645 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.47,
+      481.33,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.01,
+      88.55,
+      437.53,
+      104.09
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.58,
+      170.33
+    ],
+    "text": "C.A. (Writ) No. 458/2010",
+    "fonts": [
+      "Calibri,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      173.33,
+      435.75,
+      255.8
+    ],
+    "text": "The Lighthouse Hotel PLC No. 46/26, Navam Mawatha, Colombo 2.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      258.92,
+      502.11,
+      666.01
+    ],
+    "text": "PETITIONER Vs 1.) K.G. Piyatissa Provincial Commissioner of Revenue, Provincial Department, Department of Revenue, Southern Provincial Council , No. 30, Wackwella Road, Galle. 2.) K.L.R. Surasena Senior Assessor, Provincial Department of Revenue, Southern Provincial Council , No. 30, Wackwella Road, Galle. 3.) Attorney General Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      669.13,
+      483.39,
+      683.17
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.39,
+      110.85,
+      293.95,
+      126.99
+    ],
+    "text": "C.A. Writ Application No.458/2010",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.131060600280762,
+      12.244685173034668,
+      12.634112358093262
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.22,
+      138.22,
+      143.4,
+      154.36
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.229111671447754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.15,
+      179.73,
+      151.54,
+      195.87
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.06,
+      234.93,
+      157.7,
+      251.07
+    ],
+    "text": "ARGUED&",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.32844352722168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.74,
+      248.85,
+      170.77,
+      264.99
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.116289138793945
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.67,
+      138.67,
+      408.8,
+      168.97
+    ],
+    "text": "S. Sriskandarajah,J. (PICA) & P.W.D.C. Jayathilaka,J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      12.0,
+      12.22710132598877,
+      12.269131660461426,
+      12.492157936096191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.26,
+      179.98,
+      505.08,
+      196.12
+    ],
+    "text": "Avindra Rodrigo with Harshana de Alwis for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.30186653137207,
+      12.476492881774902,
+      12.50661849975586,
+      12.596944808959961,
+      12.88292121887207
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.71,
+      193.42,
+      452.51,
+      223.71
+    ],
+    "text": "Petitioner. F. Jammel,D.S.G. for the Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.208513259887695,
+      12.458683967590332,
+      12.59166145324707,
+      12.770710945129395
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.44,
+      248.85,
+      296.18,
+      264.99
+    ],
+    "text": "24.01.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.586470603942871
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.88,
+      290.11,
+      256.51,
+      306.73
+    ],
+    "text": ".S.Sriskandaraiah,J. (P/CA)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.254549980163574
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.59,
+      331.18,
+      514.41,
+      347.32
+    ],
+    "text": "Counsel for the Respondents informs Court that the Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.461014747619629,
+      12.481098175048828,
+      12.55046558380127,
+      12.591516494750977,
+      12.59166145324707,
+      12.684102058410645,
+      12.770710945129395,
+      13.019604682922363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.58,
+      358.53,
+      514.61,
+      374.67
+    ],
+    "text": "will not be proceeding with the documents marked P12 and P16 and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.337862968444824,
+      12.3908052444458,
+      12.415780067443848,
+      12.510438919067383,
+      12.675370216369629,
+      12.684102058410645,
+      12.696354866027832,
+      12.698688507080078,
+      12.768104553222656,
+      12.842141151428223,
+      12.856690406799316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.02,
+      386.14,
+      513.84,
+      402.28
+    ],
+    "text": "Petitioner has in fact sought a writ of certiorari to quash P12 and Pl6.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.301718711853027,
+      12.305456161499023,
+      12.308356285095215,
+      12.317593574523926,
+      12.337862968444824,
+      12.339872360229492,
+      12.41431713104248,
+      12.55321216583252,
+      12.678091049194336,
+      12.842141151428223,
+      12.921934127807617,
+      12.937468528747559,
+      12.991508483886719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.34,
+      413.49,
+      514.03,
+      429.63
+    ],
+    "text": "As the Respondents have now given an undertaking that they will not be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.380938529968262,
+      12.480710983276367,
+      12.510438919067383,
+      12.531747817993164,
+      12.571080207824707,
+      12.596944808959961,
+      12.675370216369629,
+      12.746954917907715,
+      12.983541488647461,
+      13.019604682922363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.86,
+      440.85,
+      513.77,
+      456.99
+    ],
+    "text": "proceeding with the said documents, Counsel for the Petitioner moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.295422554016113,
+      12.305456161499023,
+      12.35628604888916,
+      12.366759300231934,
+      12.415780067443848,
+      12.480953216552734,
+      12.526435852050781,
+      12.58993148803711,
+      12.684102058410645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.34,
+      468.69,
+      514.01,
+      484.83
+    ],
+    "text": "withdraw this application. Application for withdrawal is allowed and this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.204400062561035,
+      12.244685173034668,
+      12.339332580566406,
+      12.481583595275879,
+      12.481825828552246,
+      12.55706787109375,
+      12.675131797790527,
+      12.842141151428223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.71,
+      496.29,
+      372.36,
+      512.43
+    ],
+    "text": "application is pro forma dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.357754707336426,
+      12.390512466430664,
+      12.404372215270996,
+      12.449502944946289,
+      12.551284790039062,
+      12.55706787109375,
+      12.597857475280762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.55,
+      564.9,
+      509.85,
+      581.52
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.021830558776855,
+      12.034550666809082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.27,
+      592.74,
+      233.38,
+      609.36
+    ],
+    "text": "P.W.D.C. Jayathilaka,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.47475814819336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.85,
+      606.42,
+      166.12,
+      623.04
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.305170059204102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.13,
+      646.98,
+      480.28,
+      663.6
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.021830558776855,
+      12.030312538146973,
+      12.089118957519531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.37,
+      677.0,
+      107.42,
+      690.92
+    ],
+    "text": "Crf-",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.52,
+      356.95,
+      599.77,
+      370.46
+    ],
+    "text": "0 i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.5000998973846436,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.09,
+      396.23,
+      605.77,
+      518.51
+    ],
+    "text": "IIi f1I~ ,, f l",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.5272653102874756,
+      6.199999809265137,
+      6.800099849700928,
+      6.965590476989746,
+      8.899999618530273,
+      11.699999809265137,
+      15.5,
+      16.299999237060547,
+      18.20009994506836,
+      38.40010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.72,
+      546.77,
+      601.78,
+      598.0
+    ],
+    "text": "\\lt",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      19.100000381469727,
+      26.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.67,
+      590.61,
+      603.14,
+      645.97
+    ],
+    "text": "'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      41.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.88,
+      610.63,
+      601.17,
+      666.52
+    ],
+    "text": ") ' !tt!",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.5000998973846436,
+      11.399999618530273,
+      12.0,
+      14.399999618530273,
+      14.5,
+      17.100000381469727
+    ]
+  }
+]

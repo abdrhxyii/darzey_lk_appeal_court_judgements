@@ -1,0 +1,348 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.38,
+      72.62,
+      520.6,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.94,
+      88.7,
+      397.61,
+      104.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      104.84,
+      309.51,
+      154.17
+    ],
+    "text": "CA Case No: 601/2000(F) DC Colombo Case No 8719/RE",
+    "fonts": [
+      "Calibri",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      157.3,
+      442.76,
+      205.41
+    ],
+    "text": "Seettuhewa Chithra Seneviratne. 143/8, Quarry Road, Dehiwala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      208.54,
+      414.62,
+      359.26
+    ],
+    "text": "Plaintiff Vs. Mohamed Sulthan kybe Mohamed Sulthan Marikkar 221/1, Prince Street, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      362.38,
+      424.88,
+      513.05
+    ],
+    "text": "Defendant And Mohamed Sulthan Kybe Mohamed Sulthan Marikkar 221/1, Prince Street, Colombo 01.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      516.18,
+      484.76,
+      615.59
+    ],
+    "text": "Defendant Appellant Vs. Seettnhewa chithra Seneviratne 143/8, Quarry Road, Dehiwala",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.04,
+      618.72,
+      486.56,
+      649.79
+    ],
+    "text": "Plaintiff- Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.28,
+      32.72,
+      311.7,
+      48.25
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.69,
+      96.47,
+      504.83,
+      115.02
+    ],
+    "text": "C.A. 60112000(F) D.C. Colombo Case No. 87191RE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.3,
+      144.26,
+      331.59,
+      163.07
+    ],
+    "text": "Before Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.448200225830078
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.69,
+      176.64,
+      396.68,
+      195.19
+    ],
+    "text": "Counsel Parties absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.29,
+      208.79,
+      265.78,
+      227.34
+    ],
+    "text": "Decided on 27.08.2012.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.01,
+      238.89,
+      261.49,
+      260.36
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.41816234588623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.34,
+      289.7,
+      222.98,
+      308.51
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.61919116973877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.06,
+      338.39,
+      524.47,
+      356.94
+    ],
+    "text": "Parties are absent and unrepresented. I have perused the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.46,
+      362.64,
+      524.41,
+      381.19
+    ],
+    "text": "order dated 05.07.2002. In view of the said order of this Court this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273,
+      14.451268196105957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.22,
+      387.11,
+      524.49,
+      405.66
+    ],
+    "text": "appeal is dismissed without costs. Registrar is directed to send the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.780435562133789,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.35,
+      411.59,
+      347.78,
+      430.13
+    ],
+    "text": "main record to the relevant District Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.51,
+      501.36,
+      508.21,
+      519.91
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.61,
+      566.55,
+      122.19,
+      585.38
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.810057640075684
+    ]
+  }
+]

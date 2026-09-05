@@ -1,0 +1,810 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      72.62,
+      481.2,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.04,
+      88.7,
+      437.45,
+      104.18
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      117.03,
+      464.27,
+      151.23
+    ],
+    "text": "CA No. 779/1986 (F) DC Kalutara Case No. 4443/P 01. Mohamed Lebbe Abdul Rasak.",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328,
+      13.020000457763672,
+      13.5,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      156.93,
+      520.4,
+      249.52
+    ],
+    "text": "02. Abdul Razak Mariyam Beevi, 03. Abdul Rasak Mohamed Hussain 04. Abdul Razak Mohamed Nalir alias Haleel 05. Abdul Razak Zeenath Umma 06. Abdul Rasak Mohamed Ibrahim",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      261.28,
+      429.44,
+      309.45
+    ],
+    "text": "All of: No: 179, Old Road, Mahagoda, Beruwela.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.02,
+      312.58,
+      532.88,
+      360.7
+    ],
+    "text": "1st, 10th, 11th, 12th, 13th and 14th Defendant-Appellants Vs.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      362.87,
+      501.86,
+      491.33
+    ],
+    "text": "01. Abdul Rahuman Marikkar Mohamed Thahir No. 382, Old Road, Beruwela. 02. Abdul Majeed Marikkar Mohamed Sally No. 14, Awwal Zavia Road, Colombo 14.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      494.46,
+      452.96,
+      536.57
+    ],
+    "text": "Plaintiff-Respondents 03. Abdul Majeed Noorul Naseema.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      548.22,
+      477.5,
+      562.2
+    ],
+    "text": "04. Abdul Majeed Marikkar Noorul Nasma.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      573.84,
+      484.16,
+      587.82
+    ],
+    "text": "05. Abdul Majeed Marikkar Noorul Sanuma.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      599.52,
+      466.16,
+      613.49
+    ],
+    "text": "06. Mohamed Hanifa Mohamed Sameer.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      625.14,
+      473.72,
+      639.11
+    ],
+    "text": "07. Mahamed Hanifa Mohamed Mubarak.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      650.76,
+      461.66,
+      664.73
+    ],
+    "text": "08. Mahamed Hanifa Mohamed Fareed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      676.38,
+      511.34,
+      690.35
+    ],
+    "text": "09. Abdul Rahuman Marikkar Mohamed Husein.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.04,
+      702.02,
+      475.1,
+      715.99
+    ],
+    "text": "Defendant - Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.02,
+      74.78,
+      448.4,
+      140.02
+    ],
+    "text": "And Now Abdul Razak Mohamed Nalir alias Haleel",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      143.13,
+      512.3,
+      326.32
+    ],
+    "text": "13th Defendant- Appellant- Petitioner - Vs \u2013 01. Mohamed Lebbe Abdul Rasak. 02. Abdul Razak Mariyam Beevi, 03. Abdul Rasak Mohamed Hussain 04. Abdul Razak Mohamed Nalir alias Haleel 05. Abdul Razak Zeenath Umma 06. Abdul Raszak Mohamed Ibrahim",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.02,
+      329.44,
+      393.44,
+      394.65
+    ],
+    "text": "All of: No: 179, Old Road, Mahagoda, Beruwela.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.02,
+      397.78,
+      502.52,
+      411.76
+    ],
+    "text": "Defendant-Appellants- Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.16,
+      34.88,
+      308.58,
+      50.41
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.56,
+      112.41,
+      494.29,
+      131.38
+    ],
+    "text": "C.A. No. 779/1986(F) D.C. Kalutara Case No. 44431P.",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.7048921585083,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.66,
+      144.21,
+      125.68,
+      162.49
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.82,
+      176.37,
+      132.96,
+      194.64
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.65,
+      224.59,
+      152.15,
+      258.97
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192.46,
+      143.96,
+      318.1,
+      162.24
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.697349548339844,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192.41,
+      172.88,
+      466.71,
+      210.49
+    ],
+    "text": "A.C.M. Ismail appears for li\\ 13th and 14th Defendant-Appellants.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.81950569152832,
+      13.699999809265137,
+      20.99312400817871
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192.8,
+      240.45,
+      262.87,
+      258.73
+    ],
+    "text": "30.08.2012.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      192.89,
+      270.08,
+      258.63,
+      291.55
+    ],
+    "text": "*********",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.44815444946289
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.63,
+      321.7,
+      218.61,
+      340.67
+    ],
+    "text": "Upaly Abeyrathne, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.17,
+      385.88,
+      521.33,
+      404.16
+    ],
+    "text": "Heard Counsel in support of the application for substitution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.37,
+      409.88,
+      521.8,
+      428.16
+    ],
+    "text": "The 1 st Defendant-Appellant Mohamed Lebbe Abdul Rasak has died",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.2058744430542,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.84,
+      434.6,
+      521.71,
+      452.88
+    ],
+    "text": "on 26.04.1990. Death certificate has been produced marked 'A'. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.928050994873047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.22,
+      458.85,
+      521.21,
+      477.13
+    ],
+    "text": "has died leaving 6 children as heirs of his estate. The petitioner is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.59,
+      483.32,
+      522.04,
+      501.6
+    ],
+    "text": "one of the said 6 children. The petitioner has produced the birth",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.57,
+      507.57,
+      521.69,
+      525.85
+    ],
+    "text": "certificates of the said children marked A, B, C, D, E and G. I have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.486486434936523,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.26,
+      531.8,
+      521.21,
+      550.08
+    ],
+    "text": "perused all required documents. I am of the view that the petitioner is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.35,
+      555.8,
+      520.43,
+      574.08
+    ],
+    "text": "a fit and proper person to be substituted in place of the deceased 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.17,
+      580.28,
+      521.85,
+      598.56
+    ],
+    "text": "Defendant-Appellant. Hence I order to substitute Abdul Razak Mohamed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.83,
+      604.52,
+      452.45,
+      622.8
+    ],
+    "text": "Nalir alias Haleel as the Substituted 1 st Defendant-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.2058744430542,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155.69,
+      677.24,
+      520.95,
+      695.52
+    ],
+    "text": "Registrar is directed to amend the caption accordingly.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.13,
+      695.48,
+      520.72,
+      721.36
+    ],
+    "text": "Tender amended caption. The learned Counsel for the 1 s\\ 10th, 11th,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.837393760681152,
+      13.699999809265137,
+      16.634601593017578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.93,
+      34.1,
+      302.63,
+      49.57
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.26,
+      69.46,
+      517.67,
+      87.87
+    ],
+    "text": "12th and 14th Defendant-Appellants makes an application to withdraw",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.73917007446289,
+      11.888710021972656,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.89,
+      93.95,
+      517.16,
+      112.36
+    ],
+    "text": "this appeal. Application for withdrawal is allowed. Appeal is dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.93,
+      117.95,
+      516.99,
+      136.36
+    ],
+    "text": "without costs. Registrar is directed to send the main record to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.7,
+      142.2,
+      219.73,
+      160.61
+    ],
+    "text": "relevant District Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260.8,
+      214.11,
+      507.39,
+      232.92
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.029122352600098,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.93,
+      295.77,
+      114.23,
+      314.05
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.55240535736084
+    ]
+  }
+]

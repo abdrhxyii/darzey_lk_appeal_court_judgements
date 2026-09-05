@@ -1,0 +1,423 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      86.27,
+      481.33,
+      101.81
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      102.35,
+      436.66,
+      188.69
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA C.A. 1264/99(F) D.C.Panadura No 539/L.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      194.33,
+      501.03,
+      306.68
+    ],
+    "text": "Hadapangodage Layanal Gunarathna No: \u00bc, Deniya Road, Sumara Pola, Piliyandala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      312.2,
+      420.03,
+      365.6
+    ],
+    "text": "Appellant Vs.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      371.24,
+      453.87,
+      483.58
+    ],
+    "text": "Sarath Gamini Hadapangoda No: 41, Yatiyanawatte, Nadigama, Piliyandala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      489.1,
+      433.23,
+      503.14
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.23,
+      91.33,
+      171.43,
+      107.4
+    ],
+    "text": "C.A. 1264/99(F)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.172473907470703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.55,
+      141.56,
+      112.85,
+      156.5
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.301440238952637
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.71,
+      191.24,
+      123.12,
+      206.18
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.701281547546387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.34,
+      241.17,
+      141.69,
+      256.11
+    ],
+    "text": "Argued and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.517450332641602,
+      12.067920684814453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.78,
+      263.97,
+      139.27,
+      278.91
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477853775024414,
+      11.873453140258789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.34,
+      309.72,
+      165.74,
+      325.79
+    ],
+    "text": "A. W .A.Salam,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.752152442932129
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.52,
+      91.57,
+      399.85,
+      107.64
+    ],
+    "text": "D.C.Panadura No 539/L.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.605598449707031,
+      12.308794975280762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.78,
+      141.21,
+      332.84,
+      156.29
+    ],
+    "text": "A.W.A .. Salam, J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.300000190734863,
+      11.668309211730957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238.26,
+      191.24,
+      448.78,
+      206.18
+    ],
+    "text": "Parties are absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.703291893005371,
+      11.734304428100586,
+      11.837080001831055,
+      12.019471168518066,
+      12.067920684814453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.34,
+      263.73,
+      303.39,
+      278.67
+    ],
+    "text": "17.01.2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.689455032348633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.94,
+      355.65,
+      534.28,
+      370.59
+    ],
+    "text": "Appellant is dead and notice has been issued on the legal heirs directing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.415084838867188,
+      11.535378456115723,
+      11.562192916870117,
+      11.602227210998535,
+      11.758809089660645,
+      11.759761810302734,
+      11.801782608032227,
+      11.856082916259766,
+      11.864252090454102,
+      11.873453140258789,
+      11.903316497802734,
+      12.067920684814453,
+      12.271039009094238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.81,
+      381.56,
+      534.29,
+      396.5
+    ],
+    "text": "them to take steps. Notices dispatched to be served on the legal heirs have been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.36414623260498,
+      11.415084838867188,
+      11.56040096282959,
+      11.607969284057617,
+      11.672435760498047,
+      11.690604209899902,
+      11.749710083007812,
+      11.796751976013184,
+      11.801782608032227,
+      11.86618709564209,
+      11.873453140258789,
+      11.875716209411621,
+      11.949895858764648,
+      11.953362464904785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.82,
+      407.72,
+      534.08,
+      422.66
+    ],
+    "text": "returned with the endorsement that no one is found at the address. For failure to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.463207244873047,
+      11.659187316894531,
+      11.700516700744629,
+      11.701186180114746,
+      11.703434944152832,
+      11.7085542678833,
+      11.758809089660645,
+      11.776036262512207,
+      11.776083946228027,
+      11.83424186706543,
+      11.864252090454102,
+      11.93671989440918,
+      12.195507049560547,
+      12.340846061706543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.81,
+      433.65,
+      497.44,
+      448.59
+    ],
+    "text": "take steps in place of the deceased-appellant, this appeal now stands abated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.550175666809082,
+      11.57564926147461,
+      11.660579681396484,
+      11.660820007324219,
+      11.766998291015625,
+      11.785211563110352,
+      11.813070297241211,
+      11.864252090454102,
+      11.914274215698242,
+      11.927756309509277,
+      11.939299583435059,
+      12.128418922424316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.77,
+      540.82,
+      464.82,
+      556.61
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.40539836883545,
+      11.551246643066406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.83,
+      613.5,
+      104.67,
+      628.23
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.276898384094238
+    ]
+  }
+]
