@@ -1,0 +1,4101 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      46.98,
+      24.84,
+      89.89,
+      45.46
+    ],
+    "text": ".---) ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.800099849700928,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.38,
+      77.5,
+      523.35,
+      93.16
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.107908248901367,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.32,
+      91.17,
+      357.03,
+      106.84
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.33,
+      111.58,
+      274.11,
+      143.19
+    ],
+    "text": "i Appeal No.625/95(F)-625A/95(F) .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.500100135803223,
+      11.399999618530273,
+      23.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.78,
+      146.61,
+      226.83,
+      162.28
+    ],
+    "text": "D.C.Kalutara No.5155/P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.05,
+      160.06,
+      467.13,
+      217.24
+    ],
+    "text": "Loku Kankanamge Margaret Peiris, Behind Market, Galle Road, Aluthgama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.01,
+      228.93,
+      405.46,
+      244.6
+    ],
+    "text": "4th Defendant-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.65677261352539,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.79,
+      256.79,
+      294.66,
+      272.45
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.76,
+      284.38,
+      486.37,
+      300.05
+    ],
+    "text": "Weerakanda Aratchige Piyasena Silva,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.81,
+      298.29,
+      419.08,
+      327.64
+    ],
+    "text": "No.46/4, Welipenna Road, Aluthgama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.26,
+      339.81,
+      386.96,
+      355.48
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.09,
+      366.44,
+      405.52,
+      397.0
+    ],
+    "text": "1. Sarath Liyanage, Pitawella, Boosa.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.550518989562988
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.22,
+      408.95,
+      454.01,
+      424.61
+    ],
+    "text": "2. Rochana Rajapske(Minor)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.42,
+      436.53,
+      525.58,
+      507.64
+    ],
+    "text": "3. Rajapkse Udagelara, Mithrasena (for himself and as guardian of 2nd Defendant Both of No.71, Galle Road, Aluthgama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.72039270401001,
+      11.296480178833008,
+      11.399999618530273,
+      11.546260833740234
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.43,
+      519.57,
+      483.43,
+      549.16
+    ],
+    "text": "5. Warnapurage Gamini Fernando of Ganegama, Aluthgama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.127646446228027,
+      11.399999618530273,
+      11.546260833740234
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.18,
+      560.51,
+      483.03,
+      577.03
+    ],
+    "text": "6. Kirakankanamge Laura Nona.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.729296684265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.95,
+      588.13,
+      471.23,
+      632.47
+    ],
+    "text": "7. Cyril Ananda Silva, Both of No.41, Galle Road, . Aluthgama.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.3,
+      644.13,
+      444.12,
+      659.8
+    ],
+    "text": "Defendant-Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.61,
+      40.48,
+      48.57,
+      55.6
+    ],
+    "text": "\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.41,
+      169.7,
+      414.42,
+      188.13
+    ],
+    "text": "Counsel: N.R.M. Daluwatte P.C. with Gayahtri De Silva for the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.58,
+      188.18,
+      306.5,
+      209.18
+    ],
+    "text": "6th and 7th Defendants/Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.893034934997559,
+      9.700474739074707,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.3,
+      214.1,
+      396.93,
+      229.57
+    ],
+    "text": "L.C. Kumarasinghe for the 4th Defendant/Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.915345191955566,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.0,
+      235.22,
+      356.86,
+      250.69
+    ],
+    "text": "C.Laduwahetti for the PlaintifflRespondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.15,
+      254.39,
+      441.81,
+      271.33
+    ],
+    "text": "S.N. Vijithsingh for the 2nd and 3rd DefendantslRespondents.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.519675254821777,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.85,
+      332.43,
+      219.33,
+      350.86
+    ],
+    "text": "Arguments: 19-5-2011",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.61,
+      424.34,
+      412.29,
+      446.61
+    ],
+    "text": "Written Submissions: 31-5-2011(6th Defendants/Appellants)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.504472732543945,
+      11.600000381469727,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.57,
+      446.43,
+      402.46,
+      467.41
+    ],
+    "text": "21-2-2011(4th Defendant/Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.700474739074707,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.36,
+      551.54,
+      240.64,
+      569.97
+    ],
+    "text": "Before: Rohini Marasinghe J",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.0,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.64,
+      641.32,
+      207.44,
+      659.2
+    ],
+    "text": "Judgment: 20-6-2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.0,
+      72.16,
+      128.25,
+      85.76
+    ],
+    "text": "CA 625-95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.27432918548584,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.84,
+      153.25,
+      537.52,
+      170.57
+    ],
+    "text": "The plaintiff-respondent instituted a partition action to partition the land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.523669242858887,
+      12.600000381469727,
+      12.740862846374512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.02,
+      188.04,
+      538.75,
+      205.36
+    ],
+    "text": "called \"Santhakurusiyawatte alias Rendawatte\" described in the schedule to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.740862846374512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.62,
+      222.6,
+      538.34,
+      239.92
+    ],
+    "text": "the plaint. After trial the learned trial judge entered judgment in favour the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.93,
+      252.74,
+      537.61,
+      275.41
+    ],
+    "text": "plaintiff. The 4th defendant the 6th defendant and t h defendant have appealed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.045683860778809,
+      12.597149848937988,
+      12.600000381469727,
+      16.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.55,
+      291.96,
+      234.17,
+      309.28
+    ],
+    "text": "against the said judgment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.12,
+      336.6,
+      411.43,
+      353.92
+    ],
+    "text": "The case of the plaintiff as pleaded was briefly as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      12.258368492126465,
+      12.523669242858887,
+      12.600000381469727,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.64,
+      381.24,
+      537.56,
+      398.56
+    ],
+    "text": "The land in suit was depicted in plan bearing No 118 made in 1903.(P1)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.597149848937988,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.73,
+      415.56,
+      536.43,
+      432.88
+    ],
+    "text": "According to that plan the land was described as lot \"A\" and lot fiB\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.80870246887207,
+      12.461286544799805,
+      12.600000381469727,
+      12.606598854064941,
+      12.65114688873291,
+      12.735373497009277,
+      12.875733375549316
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.82,
+      450.37,
+      538.93,
+      467.69
+    ],
+    "text": "comprising of two distinct lands. Each lot had an equal extent of 8.8 perches of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.200569152832031,
+      12.333940505981445,
+      12.540811538696289,
+      12.600000381469727,
+      12.65114688873291,
+      12.840995788574219,
+      12.852666854858398,
+      12.976863861083984
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.96,
+      484.93,
+      536.32,
+      502.25
+    ],
+    "text": "land. This land was originally owned by one Amaris Silva and Endoris Silva.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.550553321838379,
+      12.571768760681152,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.92,
+      519.49,
+      536.61,
+      536.81
+    ],
+    "text": "The\" said land was surveyed by a commission issued by court. The commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.985148429870605,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.72,
+      553.57,
+      536.84,
+      570.88
+    ],
+    "text": "plan prepared by Licensed Surveyor Ambepitiya bearing No 2059 was marked",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.37,
+      587.89,
+      536.44,
+      605.2
+    ],
+    "text": "as 'X'. In that plan the land in suit was depicted as lots flA\" and \"B\". The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.80870246887207,
+      12.270286560058594,
+      12.597149848937988,
+      12.600000381469727,
+      12.669557571411133
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.86,
+      622.45,
+      537.17,
+      639.76
+    ],
+    "text": "contention of the plaintiff was that though the land was shown as two distinct",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      12.600000381469727,
+      12.669557571411133,
+      12.840995788574219,
+      12.923887252807617
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.0,
+      656.53,
+      536.24,
+      673.85
+    ],
+    "text": "lands in plan 118 and as having two owners, the land was an undivided land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.936373710632324,
+      12.333940505981445,
+      12.600000381469727,
+      12.852666854858398
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.64,
+      690.36,
+      535.88,
+      707.68
+    ],
+    "text": "owned in common by the said owners. On this basis the plaintiff pleaded his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.247159957885742,
+      12.44636344909668,
+      12.570014953613281,
+      12.571518898010254,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.76,
+      724.21,
+      535.6,
+      741.52
+    ],
+    "text": "pedigree. The pl~intiff claimed from the undivided 1/2 share of said Endoris.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.05185604095459,
+      12.597149848937988,
+      12.600000381469727,
+      12.636696815490723,
+      13.11132526397705
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.34,
+      760.29,
+      310.18,
+      773.21
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.85,
+      74.42,
+      479.75,
+      91.87
+    ],
+    "text": "And, according to the plaintiff the share of Amaris devolved on the 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.599905014038086,
+      12.699999809265137,
+      12.791321754455566,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      479.6,
+      72.43,
+      539.36,
+      91.87
+    ],
+    "text": "nd and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.2017183303833,
+      12.598998069763184,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.7,
+      106.99,
+      537.79,
+      126.2
+    ],
+    "text": "3rd defendants. The plaintiff contended that said Endoris had died leaving as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.154983520507812,
+      11.855469703674316,
+      12.601468086242676,
+      12.647039413452148,
+      12.667959213256836,
+      12.699999809265137,
+      12.785810470581055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.84,
+      143.55,
+      538.02,
+      161.0
+    ],
+    "text": "his heirs 7 children. Two of the said children named Henry and Charlotte had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.51596736907959,
+      12.59047794342041,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.23,
+      177.87,
+      538.12,
+      195.32
+    ],
+    "text": "died unmarried. Consequently, their share devolved on their siblings. And",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.752739906311035
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.99,
+      212.65,
+      537.36,
+      230.11
+    ],
+    "text": "another sibling named Isaac had died leaving as his heirs Nicholas and Ramani.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.528947830200195,
+      12.617883682250977,
+      12.619796752929688,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.41,
+      247.22,
+      537.26,
+      264.67
+    ],
+    "text": "All of them other than one named Maggie together by deed no 10766 had",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.512516021728516,
+      12.699999809265137,
+      12.899999618530273,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.1,
+      282.03,
+      537.54,
+      299.48
+    ],
+    "text": "transferred their share to Sirisena. And said Sirisena By deed No 1047 had",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.156155586242676,
+      12.59047794342041,
+      12.672069549560547,
+      12.673421859741211,
+      12.699999809265137,
+      12.899999618530273,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.1,
+      316.59,
+      537.3,
+      334.04
+    ],
+    "text": "transferred his share to the plaintiff. The aforementioned Maggie had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.59047794342041,
+      12.619796752929688,
+      12.699999809265137,
+      12.791321754455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.62,
+      344.73,
+      538.94,
+      368.6
+    ],
+    "text": "transferred her share to the 1st defendant by deed No 6477. That was a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.303794860839844,
+      12.542776107788086,
+      12.699999809265137,
+      12.899999618530273,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.81,
+      385.46,
+      184.55,
+      402.91
+    ],
+    "text": "separate transfer.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.64,
+      474.75,
+      437.88,
+      492.2
+    ],
+    "text": "The case of the 4th defendant-appellant was briefly as follows;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.36888313293457,
+      12.380645751953125,
+      12.647039413452148,
+      12.684540748596191,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.4,
+      519.38,
+      536.65,
+      536.83
+    ],
+    "text": "The 4th defendant is one Margret Peiris. She claimed that Endoris was the sole",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.087059020996094,
+      12.35018253326416,
+      12.380645751953125,
+      12.647039413452148,
+      12.684540748596191,
+      12.699999809265137,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.84,
+      553.94,
+      536.59,
+      571.39
+    ],
+    "text": "owner of the land in suit. And she claimed her title to the land in suit through",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49565601348877,
+      12.580992698669434,
+      12.668009757995605,
+      12.699999809265137,
+      12.926726341247559,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.72,
+      588.01,
+      536.83,
+      605.47
+    ],
+    "text": "her predecessors in title. According to the evidence of the 4th defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.380645751953125,
+      12.668009757995605,
+      12.699999809265137,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.66,
+      622.57,
+      535.68,
+      640.03
+    ],
+    "text": "Endoris was married to one Charlotte. And they had 7 children who bec.ame",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.427016258239746,
+      12.667959213256836,
+      12.684540748596191,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.7,
+      656.42,
+      535.46,
+      673.87
+    ],
+    "text": "the sole heirs of the land in suit, after the death of their parents. And she",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.501091957092285,
+      12.668009757995605,
+      12.669363021850586,
+      12.699999809265137,
+      13.028257369995117,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.49,
+      690.51,
+      536.41,
+      707.96
+    ],
+    "text": "further averred that the said children other than Maggie by deed no 10766",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.672069549560547,
+      12.699999809265137,
+      12.719734191894531,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.55,
+      724.58,
+      535.52,
+      742.03
+    ],
+    "text": "(P2) transferred their shares to one Sirisena Cooray. In the deed 10766 the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.296025276184082,
+      12.318881034851074,
+      12.699999809265137,
+      12.899999618530273,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.1,
+      762.75,
+      309.6,
+      776.09
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.11,
+      74.88,
+      541.61,
+      92.06
+    ],
+    "text": "executants were the heirs of the said Endoris. The land is described in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.39687442779541,
+      12.5,
+      12.56751823425293,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.89,
+      109.44,
+      540.54,
+      126.62
+    ],
+    "text": "schedule to the deed as \"Santhakurusiya watte alias Renda watte bounded on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.014730453491211,
+      12.382749557495117,
+      12.5,
+      12.517087936401367,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.46,
+      143.76,
+      541.25,
+      160.94
+    ],
+    "text": "the north by the land of Basthian Appu, on the East by road South by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.266927719116211,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.76,
+      178.07,
+      541.67,
+      195.25
+    ],
+    "text": "boutique of L.Nicholas Peirs, on the West by the Mahawatte having an extent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.168453216552734,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.15,
+      212.88,
+      541.05,
+      230.06
+    ],
+    "text": "of 16.16 perches. In the preliminary plan the land in suit is described as lots",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.761749267578125,
+      11.991507530212402,
+      12.22149658203125,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.35,
+      247.44,
+      541.27,
+      264.62
+    ],
+    "text": "\"A\" and \"B\". And the 4th defendant stated that said Sirisena by deed No 1048",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.664261817932129,
+      12.372045516967773,
+      12.5,
+      12.5532865524292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.04,
+      281.75,
+      540.06,
+      298.93
+    ],
+    "text": "had sold a portion of his share to her the 4th defendant. According to the deed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.762652397155762,
+      12.490946769714355,
+      12.5,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.88,
+      316.55,
+      541.5,
+      333.73
+    ],
+    "text": "1047 said Sirisena appears to have transferred an extent of 8.8 shares from lot",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.28489875793457,
+      12.5,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.87,
+      350.87,
+      394.42,
+      368.05
+    ],
+    "text": "\"A\" of plan No 118 to the 4th defendant on 29-4-1983.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.664261817932129,
+      12.5,
+      12.789937973022461,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.76,
+      389.27,
+      515.37,
+      413.17
+    ],
+    "text": "The case of the 6th and the 7ht defendant-appellants was briefly as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.669816970825195,
+      11.88891315460205,
+      12.27110481262207,
+      12.473873138427734,
+      12.5,
+      12.574030876159668,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.52,
+      433.43,
+      539.93,
+      457.33
+    ],
+    "text": "The 6th defendant is the mother of the ih defendant. They had claimed the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.669816970825195,
+      11.79655647277832,
+      12.40030288696289,
+      12.5,
+      12.57075023651123,
+      12.92526626586914,
+      14.603638648986816
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.08,
+      474.96,
+      540.04,
+      492.14
+    ],
+    "text": "building bearing the assessment No 65 and the land adjacent to the building",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.409069061279297,
+      12.5,
+      12.56751823425293,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.6,
+      509.52,
+      539.2,
+      526.7
+    ],
+    "text": "bearing assessment No 71 on the basis that they have prescribed to said lots.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.426785469055176,
+      12.5,
+      12.5532865524292,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.56,
+      537.11,
+      539.01,
+      561.26
+    ],
+    "text": "The i h defendant had given evidence at the trial. In his evidence he had stated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.055185317993164,
+      12.490946769714355,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.58,
+      578.15,
+      539.29,
+      595.33
+    ],
+    "text": "that the one Balahamy Dias and one Lanty Silva and Haramanis Fernando were",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.391983032226562,
+      12.440407752990723,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.1,
+      612.48,
+      539.2,
+      629.66
+    ],
+    "text": "the original owners. According to him said Balahamy owned half share and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.64,
+      646.8,
+      541.26,
+      663.98
+    ],
+    "text": "balance were owned in equal shares by Lanty and Haramanis. The ih",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.39687442779541,
+      12.436941146850586,
+      12.473873138427734,
+      12.5,
+      14.733465194702148
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.28,
+      680.88,
+      539.01,
+      698.06
+    ],
+    "text": "defendant had marked several deeds to prove the devolution of his title .. But",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.570849418640137,
+      12.789937973022461,
+      12.82453727722168,
+      13.808828353881836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.38,
+      708.72,
+      538.92,
+      731.9
+    ],
+    "text": "the foundation to his claim was the identity of the corpus. The 6th defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.490471839904785,
+      12.5,
+      12.56751823425293,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      304.68,
+      762.3,
+      312.33,
+      775.91
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.92,
+      72.75,
+      537.09,
+      90.2
+    ],
+    "text": "had taken a commission to establish his claim. The Licensed Surveyor by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.512516021728516,
+      12.619796752929688,
+      12.647039413452148,
+      12.658331871032715,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.67,
+      105.08,
+      536.8,
+      124.75
+    ],
+    "text": "name of one Gunawardena had surveyed the land shown by the 6th defendant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.715486526489258,
+      12.658331871032715,
+      12.667959213256836,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.73,
+      141.86,
+      535.8,
+      159.31
+    ],
+    "text": "And he had superimposed that plan on the surveyor General's plan No 60. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.318881034851074,
+      12.366162300109863,
+      12.46823501586914,
+      12.57245922088623,
+      12.667959213256836,
+      12.669363021850586,
+      12.699999809265137,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.42,
+      176.66,
+      535.63,
+      194.11
+    ],
+    "text": "the Surveyor Generals Plan No 60 the land depicted as lots 493 and 494 was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.480452537536621,
+      12.57245922088623,
+      12.61385726928711,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.37,
+      211.46,
+      535.95,
+      228.91
+    ],
+    "text": "superimposed on plan No 327. And in the plan 827 the land in suit is depicted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.890554428100586,
+      12.668009757995605,
+      12.673421859741211,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.37,
+      246.03,
+      535.34,
+      263.48
+    ],
+    "text": "as lots 1 and 2. But the surveyor had failed to superimpose the plan 827 on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.855469703674316,
+      12.23784065246582,
+      12.667959213256836,
+      12.684040069580078,
+      12.699999809265137,
+      12.791321754455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.7,
+      280.57,
+      536.69,
+      298.03
+    ],
+    "text": "the plan 2059 as directed by the commission. The surveyor was unable to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.658331871032715,
+      12.684540748596191,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.23,
+      313.39,
+      536.13,
+      332.84
+    ],
+    "text": "identify the land from any of the plans already before court. The 6th defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.715486526489258,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.86,
+      349.94,
+      535.01,
+      367.4
+    ],
+    "text": "claimed that the said portion of the land should be excluded from the corpus.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.549154281616211,
+      12.699999809265137,
+      12.785810470581055,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.53,
+      384.26,
+      537.01,
+      401.71
+    ],
+    "text": "And they further pleaded that in the event the court holds that the portions of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.668009757995605,
+      12.669363021850586,
+      12.699999809265137,
+      12.719734191894531,
+      12.733755111694336,
+      12.785810470581055,
+      12.891850471496582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.76,
+      418.82,
+      536.0,
+      436.27
+    ],
+    "text": "land claimed by them formed part and parcel of the land in suit, then, they",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.658331871032715,
+      12.668009757995605,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.27,
+      453.86,
+      536.53,
+      471.31
+    ],
+    "text": "request the court to allot the said portions of land to them on the basis of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.509115219116211,
+      12.699999809265137,
+      12.891850471496582,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.27,
+      486.67,
+      535.17,
+      505.87
+    ],
+    "text": "prescription. The learned trial judge dismissed the claim of the 6th defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.715486526489258,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.79,
+      522.98,
+      533.94,
+      540.43
+    ],
+    "text": "in relation to the identity of the corpus and held that the corpus had been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.59047794342041,
+      12.668009757995605,
+      12.699999809265137,
+      12.719734191894531,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.45,
+      557.3,
+      533.83,
+      574.75
+    ],
+    "text": "sufficiently identified by the respondent. Consequently, he held that the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.601468086242676,
+      12.699999809265137,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.55,
+      589.87,
+      532.8,
+      609.07
+    ],
+    "text": "portion was part and parcel of the corpus. But the trial Judge held that the 6th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.684540748596191,
+      12.699999809265137,
+      12.719734191894531,
+      12.891850471496582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.19,
+      626.18,
+      533.93,
+      643.63
+    ],
+    "text": "defendant had only established his prescriptive title to the building bearing No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.47062873840332,
+      12.699999809265137,
+      12.7396879196167,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.19,
+      658.39,
+      533.22,
+      677.24
+    ],
+    "text": "65 and nothing more. The deeds tendered by the 6th and 7th defendants had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.83881664276123,
+      12.391605377197266,
+      12.59047794342041,
+      12.658331871032715,
+      12.675626754760742,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.07,
+      694.11,
+      534.44,
+      711.56
+    ],
+    "text": "not helped them to establish their claim to the land in suit. I have read the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.668009757995605,
+      12.699999809265137,
+      12.752739906311035,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      299.72,
+      762.27,
+      307.22,
+      775.61
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82.56,
+      76.82,
+      540.71,
+      94.27
+    ],
+    "text": "reasons of the trial Judge for that determination in the impugned judgment. I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49565601348877,
+      12.699999809265137,
+      12.785810470581055,
+      12.850359916687012,
+      12.891850471496582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81.73,
+      111.63,
+      343.39,
+      129.08
+    ],
+    "text": "see no reason to interfere with that decision.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.420729637145996,
+      12.699999809265137,
+      12.711943626403809,
+      12.719734191894531,
+      13.060678482055664
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81.04,
+      200.67,
+      538.8,
+      218.12
+    ],
+    "text": "The land in suit appears to have been a distinct portion of a larger land. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.573266983032227,
+      12.668009757995605,
+      12.699999809265137,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      81.23,
+      234.99,
+      538.16,
+      252.81
+    ],
+    "text": "entire land was called \"Santhakurusiya watte\". Consequently, to the North and",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.598998069763184,
+      12.699999809265137,
+      12.926726341247559,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.82,
+      270.02,
+      538.24,
+      287.47
+    ],
+    "text": "the South West were portions of the land in suit. The land to be partitioned is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.087059020996094,
+      12.549154281616211,
+      12.647039413452148,
+      12.668009757995605,
+      12.699999809265137,
+      12.791321754455566,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.98,
+      304.58,
+      538.53,
+      322.03
+    ],
+    "text": "clearly shown in the preliminary Plan 2059(X) as lots \"A\" and \"B\". The land",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.983646392822266,
+      12.480452537536621,
+      12.675626754760742,
+      12.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.76,
+      339.14,
+      416.52,
+      356.59
+    ],
+    "text": "outside the lots A and B are therefore, outside the corpus.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.08,
+      384.02,
+      407.74,
+      401.47
+    ],
+    "text": "The next issue was with regard to the devolution of title.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.647039413452148,
+      12.684540748596191,
+      12.699999809265137,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79.84,
+      428.67,
+      537.42,
+      446.12
+    ],
+    "text": "The plaintiff submitted that there were two original owners to the land in suit.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49565601348877,
+      12.573266983032227,
+      12.699999809265137,
+      12.785810470581055,
+      12.791321754455566,
+      12.97507095336914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79.6,
+      463.21,
+      537.61,
+      480.67
+    ],
+    "text": "They were one Amaris Silva and Endoris Silva. The plaintiff claimed the share",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.539535522460938,
+      12.647039413452148,
+      12.675375938415527,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.16,
+      497.55,
+      539.14,
+      515.0
+    ],
+    "text": "by making his claim from the original owner Endoris. Additionally, the plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.619796752929688,
+      12.658331871032715,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79.9,
+      530.24,
+      537.46,
+      549.55
+    ],
+    "text": "pleaded that the share of Amaris devolved on the 2nd and the 3rd defendants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.203962326049805,
+      8.250977516174316,
+      12.699999809265137,
+      12.719734191894531,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.88,
+      566.42,
+      536.65,
+      583.87
+    ],
+    "text": "The Court had held that the plan 118 had shown these two lands depicting as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.705947875976562,
+      11.983646392822266,
+      12.647039413452148,
+      12.667959213256836,
+      12.699999809265137,
+      12.785810470581055,
+      12.97507095336914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.9,
+      600.74,
+      536.68,
+      618.19
+    ],
+    "text": "two distinct lands, though they were possessed as one undivided land. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.647039413452148,
+      12.688194274902344,
+      12.699999809265137,
+      12.831666946411133
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      79.44,
+      634.82,
+      536.23,
+      652.27
+    ],
+    "text": "learned trial judge held that the 4th defendant had admitted that the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.284833908081055,
+      12.59047794342041,
+      12.601468086242676,
+      12.699999809265137,
+      12.785810470581055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.49,
+      668.91,
+      536.37,
+      686.36
+    ],
+    "text": "Amaris was living on this land. The 4th defendant came to own this land only in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.18878173828125,
+      12.61385726928711,
+      12.647039413452148,
+      12.668009757995605,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.82,
+      702.99,
+      537.07,
+      720.44
+    ],
+    "text": "1984. The attention was drawn to his evidence dated 28-6-1993. According to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.619796752929688,
+      12.647039413452148,
+      12.699999809265137,
+      12.791321754455566,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.18,
+      736.59,
+      535.62,
+      754.04
+    ],
+    "text": "the trial judge the 4th defendant had admitted that the children of Amaris had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.284833908081055,
+      12.59047794342041,
+      12.699999809265137,
+      12.719734191894531,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.0,
+      765.49,
+      311.09,
+      778.82
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      74.9,
+      538.85,
+      92.35
+    ],
+    "text": "possessed this land. I have examined that evidence. That evidence was not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.607311248779297,
+      12.61385726928711,
+      12.699999809265137,
+      12.785810470581055
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.77,
+      109.45,
+      539.29,
+      126.91
+    ],
+    "text": "sufficient to prove that Amaris possessed this land as the original owner. A",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.855469703674316,
+      12.688194274902344,
+      12.699999809265137,
+      12.785810470581055,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.63,
+      144.27,
+      537.59,
+      161.72
+    ],
+    "text": "mere statement that the sons of Amaris mortgaged this property to one John",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.612900733947754,
+      12.632872581481934,
+      12.699999809265137,
+      12.785810470581055,
+      12.926726341247559,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.27,
+      178.59,
+      537.31,
+      196.04
+    ],
+    "text": "and left the country cannot be construed as proof of ownership. There should",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.549154281616211,
+      12.675626754760742,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.41,
+      213.15,
+      537.23,
+      230.6
+    ],
+    "text": "be evidence to support this proposition. The trial judge should not allot shares",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.4324312210083,
+      12.647039413452148,
+      12.680885314941406,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.79,
+      247.95,
+      537.92,
+      265.4
+    ],
+    "text": "except upon good proof. It is settled law that in partition suits it is the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.890554428100586,
+      12.087059020996094,
+      12.668009757995605,
+      12.699999809265137,
+      12.718585968017578,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.91,
+      282.75,
+      536.52,
+      300.2
+    ],
+    "text": "paramount duty of the judge to fully investigate into the title to the land and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.675626754760742,
+      12.699999809265137,
+      12.7396879196167,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.57,
+      317.3,
+      536.43,
+      334.75
+    ],
+    "text": "shares. I am of the view that the evidence in the case had not been led",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.43059253692627,
+      12.572358131408691,
+      12.668009757995605,
+      12.699999809265137,
+      12.785810470581055,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.33,
+      351.38,
+      536.86,
+      368.84
+    ],
+    "text": "sufficiently to prove the title of Amaris. The 4th defendant had in his evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.51862621307373,
+      12.619796752929688,
+      12.647039413452148,
+      12.668009757995605,
+      12.699999809265137,
+      12.7396879196167,
+      12.926726341247559,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.31,
+      384.11,
+      536.16,
+      403.63
+    ],
+    "text": "affirmed that the 3rd defendant was in possession of the land bearing No 73",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.301054000854492,
+      12.409323692321777,
+      12.47062873840332,
+      12.668009757995605,
+      12.684540748596191,
+      12.699999809265137,
+      12.719734191894531,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.83,
+      420.75,
+      537.65,
+      438.2
+    ],
+    "text": "and 75 depicted in the preliminary plan ItX\". The learned trial judge had not",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.485284805297852,
+      12.525805473327637,
+      12.59047794342041,
+      12.647039413452148,
+      12.668009757995605,
+      12.675626754760742,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.83,
+      455.3,
+      536.72,
+      472.75
+    ],
+    "text": "dealt with the deed 1048 marked by the 4th defendant. Both plaintiff and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.715507507324219,
+      12.399999618530273,
+      12.598998069763184,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.44,
+      489.62,
+      536.48,
+      507.07
+    ],
+    "text": "4th defendant claimed title through the same source. The 4th defendant and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.51862621307373,
+      11.617510795593262,
+      12.647039413452148,
+      12.662193298339844,
+      12.675626754760742,
+      12.699999809265137,
+      12.7396879196167
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.47,
+      524.67,
+      435.55,
+      542.12
+    ],
+    "text": "plaintiff purchased the land in 1984 from one Sirisena Coo ray.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.497129440307617,
+      12.668009757995605,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.2,
+      613.22,
+      454.88,
+      630.67
+    ],
+    "text": "The case of the plaintiff disclosed by the evidence was as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.855469703674316,
+      12.43059253692627,
+      12.647039413452148,
+      12.658331871032715,
+      12.684540748596191,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.92,
+      657.15,
+      535.12,
+      674.6
+    ],
+    "text": "In the cross examination the plaintiff admitted that the said Sirisena Coo ray",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.151244163513184,
+      12.426709175109863,
+      12.687593460083008,
+      12.699999809265137,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.52,
+      691.46,
+      534.58,
+      708.92
+    ],
+    "text": "became the owner by virtue of the deed executed by the heirs of the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.658331871032715,
+      12.672069549560547,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.46,
+      725.31,
+      535.14,
+      742.76
+    ],
+    "text": "Endoris. Consequently, as admitted by the plaintiff the said Sirisena at one",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      301.34,
+      763.79,
+      309.26,
+      776.84
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61.0,
+      11.53,
+      68.38,
+      27.94
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.02,
+      75.86,
+      539.22,
+      93.31
+    ],
+    "text": "time owned the entire property in suit. Out of which one half was transferred",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.668009757995605,
+      12.684540748596191,
+      12.699999809265137,
+      12.891850471496582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.54,
+      109.94,
+      538.53,
+      127.39
+    ],
+    "text": "to the plaintiff and the balance was transferred to the 4th defendant (Vide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.045683860778809,
+      12.684540748596191,
+      12.699999809265137,
+      12.791321754455566,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.83,
+      144.73,
+      317.69,
+      162.43
+    ],
+    "text": "proceedings dated 8-2-1983 at page 28 )",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.674424171447754,
+      12.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.73,
+      189.14,
+      538.86,
+      206.84
+    ],
+    "text": "I have examined the deed 10766. In that deed No 10766 the heirs of Endoris",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.318881034851074,
+      12.673421859741211,
+      12.698750495910645,
+      12.699999809265137,
+      12.719734191894531,
+      12.891850471496582,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.59,
+      223.93,
+      539.71,
+      241.63
+    ],
+    "text": "have transferred 16.16 perches of land. The said deed contains no reference to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.601468086242676,
+      12.647039413452148,
+      12.699999809265137,
+      12.791321754455566,
+      13.163250923156738,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.99,
+      258.74,
+      540.07,
+      276.19
+    ],
+    "text": "any plan. But the deeds by which said Sirisena had transferred to the plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.658331871032715,
+      12.667959213256836,
+      12.672069549560547,
+      12.699999809265137,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.23,
+      292.58,
+      538.68,
+      310.28
+    ],
+    "text": "and the 4th defendant refer to the plan 118(Pl). Consequently, the two deeds",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.122038841247559,
+      12.675626754760742,
+      12.699999809265137,
+      12.903568267822266,
+      12.926726341247559,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.98,
+      327.61,
+      538.02,
+      345.31
+    ],
+    "text": "clearly mention that lot B in plan 118, having an extent of 8.8, had been",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.38278865814209,
+      12.49565601348877,
+      12.667959213256836,
+      12.699999809265137,
+      12.701250076293945,
+      12.719734191894531,
+      13.028257369995117,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.35,
+      362.17,
+      537.58,
+      379.87
+    ],
+    "text": "transferred to the plaintiff. The lot A having an extent of 8.8 perches in plan",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.38278865814209,
+      12.49565601348877,
+      12.699999809265137,
+      12.701250076293945,
+      12.791321754455566,
+      13.028257369995117,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.83,
+      396.49,
+      538.29,
+      414.19
+    ],
+    "text": "No: 118 has been transferred to the 4th defendants. Admitted by both the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.045683860778809,
+      12.502514839172363,
+      12.658331871032715,
+      12.699999809265137,
+      12.926726341247559,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.87,
+      430.82,
+      538.4,
+      448.52
+    ],
+    "text": "plaintiff and the 4th defendant, the assessment No 73 and 75 depicted in the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.045683860778809,
+      12.49565601348877,
+      12.673421859741211,
+      12.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.63,
+      465.86,
+      386.63,
+      483.31
+    ],
+    "text": "preliminary plan had been in the possession of the 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.49565601348877,
+      12.699999809265137,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      386.49,
+      463.87,
+      455.7,
+      483.31
+    ],
+    "text": "nd and the 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.083681106567383,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      455.85,
+      463.87,
+      537.88,
+      483.31
+    ],
+    "text": "rd defendants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.154983520507812,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.55,
+      500.42,
+      537.0,
+      517.87
+    ],
+    "text": "In the plan, some portions of the said lands are to be found within the land in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.318881034851074,
+      12.49565601348877,
+      12.549154281616211,
+      12.699999809265137,
+      12.926726341247559,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.05,
+      534.98,
+      537.6,
+      552.43
+    ],
+    "text": "suit. The parties could claim only the land that is within the corpus. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.890554428100586,
+      12.573266983032227,
+      12.647039413452148,
+      12.699999809265137,
+      12.719734191894531
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.39,
+      569.31,
+      537.49,
+      586.76
+    ],
+    "text": "plaintiff had stated that the original owner Amaris Silva owned part of the land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.539535522460938,
+      12.699999809265137,
+      12.719734191894531,
+      12.891850471496582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.16,
+      603.62,
+      538.16,
+      621.07
+    ],
+    "text": "in suit. In addition to that statement there was no evidence supporting the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.318881034851074,
+      12.49565601348877,
+      12.61385726928711,
+      12.699999809265137,
+      12.719734191894531,
+      12.926726341247559
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.55,
+      637.93,
+      536.82,
+      655.39
+    ],
+    "text": "ownership of Amaris. Therefore, I am of the view that Amaris may have had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.572358131408691,
+      12.59047794342041,
+      12.698750495910645,
+      12.699999809265137,
+      12.719734191894531,
+      13.028257369995117
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.9,
+      671.79,
+      536.72,
+      689.24
+    ],
+    "text": "the legal title to the property in suit at one time. But Endoris had possessed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.607311248779297,
+      12.668009757995605,
+      12.699999809265137,
+      12.807990074157715,
+      13.060678482055664
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.9,
+      705.63,
+      536.86,
+      723.08
+    ],
+    "text": "the land in suit as the sole heir. Consequently, the heirs of Endoris had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.983646392822266,
+      12.667959213256836,
+      12.668009757995605,
+      12.699999809265137,
+      13.163250923156738
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.83,
+      739.22,
+      536.95,
+      756.92
+    ],
+    "text": "alienated the entire land in suit on the deed 10766. Therefore, based on this",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.599905014038086,
+      12.668009757995605,
+      12.697599411010742,
+      12.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      303.73,
+      763.95,
+      311.23,
+      777.29
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.42,
+      9.19,
+      71.21,
+      28.43
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.29,
+      74.39,
+      538.75,
+      91.57
+    ],
+    "text": "finding I vary the judgment and the decree and direct that the judgment and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.619181632995605
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.77,
+      108.71,
+      296.79,
+      125.89
+    ],
+    "text": "the decree should include as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.52,
+      153.12,
+      538.57,
+      170.3
+    ],
+    "text": "The 6th defendant is entitled to the building bearing No 65 in plan \"X\". The 2nd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.39687442779541,
+      12.40030288696289,
+      12.409069061279297,
+      12.473071098327637,
+      12.473873138427734,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.71,
+      187.91,
+      136.87,
+      205.08
+    ],
+    "text": "and the 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      137.13,
+      185.96,
+      539.45,
+      205.09
+    ],
+    "text": "rd defendants are entitled to the lands described as 73 and 75 in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.008013725280762,
+      11.88891315460205,
+      12.39687442779541,
+      12.426785469055176,
+      12.5,
+      12.56751823425293,
+      12.957429885864258
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.6,
+      222.48,
+      538.63,
+      239.66
+    ],
+    "text": "plan \"X\". The plaintiff and the 4th defendant are entitled to the balance share",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.664261817932129,
+      12.473873138427734,
+      12.5,
+      12.690202713012695
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.99,
+      257.03,
+      539.04,
+      274.21
+    ],
+    "text": "of the land in equal shares. But all entitlements should remain within the lots",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.99,
+      291.35,
+      276.03,
+      308.53
+    ],
+    "text": "described in the preliminary plan.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.56751823425293
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.08,
+      336.24,
+      367.52,
+      353.42
+    ],
+    "text": "The issues are answered in the following manner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.481986999511719,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.54,
+      380.87,
+      173.49,
+      398.05
+    ],
+    "text": "Issue No 1. Yes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.015355110168457,
+      12.157867431640625,
+      12.484790802001953,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.3,
+      425.03,
+      167.93,
+      442.21
+    ],
+    "text": "Issue No 2. No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.98029613494873,
+      12.484790802001953,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.06,
+      469.91,
+      169.93,
+      487.09
+    ],
+    "text": "Issue No 3. Yes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.992080688476562,
+      12.081183433532715,
+      12.473071098327637,
+      12.484790802001953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.82,
+      514.55,
+      206.45,
+      531.73
+    ],
+    "text": "Issue No4. See above.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.105835914611816,
+      12.484790802001953,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.58,
+      558.72,
+      216.0,
+      575.9
+    ],
+    "text": "Issue No 5. Not proved.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.980452537536621,
+      12.429903984069824,
+      12.473071098327637,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.1,
+      603.35,
+      397.31,
+      620.53
+    ],
+    "text": "Issue No 6. No. The entitlement is due on prescription.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.79655647277832,
+      11.982800483703613,
+      12.426986694335938,
+      12.473071098327637,
+      12.484790802001953,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.62,
+      647.75,
+      536.67,
+      664.93
+    ],
+    "text": "Issue No7. The lots bearing No's 73 and 75, but the extents that are outside",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.311224937438965,
+      12.484790802001953,
+      12.5,
+      12.619181632995605
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.7,
+      681.13,
+      276.84,
+      698.3
+    ],
+    "text": "the preliminary plan are excluded.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.14,
+      724.79,
+      167.7,
+      741.97
+    ],
+    "text": "Issue No 8. Yes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.949163436889648,
+      11.987388610839844,
+      12.473071098327637,
+      12.484790802001953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      301.98,
+      761.58,
+      309.63,
+      775.19
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.0,
+      8.21,
+      70.18,
+      32.67
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.799999237060547
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.18,
+      76.78,
+      216.3,
+      93.68
+    ],
+    "text": "Issue No9. Not proved.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.345714569091797
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.7,
+      121.18,
+      226.33,
+      138.08
+    ],
+    "text": "Issue No 10. Not proved.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.419866561889648
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.46,
+      165.81,
+      445.67,
+      182.71
+    ],
+    "text": "Issue No 11. The lots A and B are part and parcel of the corpus.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.305747985839844,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.22,
+      210.45,
+      175.89,
+      227.35
+    ],
+    "text": "Issue No12. Yes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.918844223022461,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.22,
+      255.1,
+      173.27,
+      272.0
+    ],
+    "text": "Issue No 13 No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.98,
+      299.98,
+      192.1,
+      316.88
+    ],
+    "text": "Issue No 14-18 No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.74,
+      344.61,
+      170.03,
+      361.51
+    ],
+    "text": "Issue No 19 No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.5,
+      388.78,
+      539.23,
+      405.68
+    ],
+    "text": "Issue No 20 -The building No 65 - only the area which is within the corpus",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.895188331604004,
+      12.300000190734863,
+      12.305747985839844,
+      12.359854698181152
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.23,
+      423.56,
+      358.48,
+      440.47
+    ],
+    "text": "described in the preliminary plan marked as \"X\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.918224334716797,
+      12.300000190734863,
+      12.386446952819824
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.26,
+      468.2,
+      393.95,
+      485.11
+    ],
+    "text": "Issue No 21-0nly building No 65 as mentioned above.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.918224334716797,
+      12.300000190734863,
+      12.791193008422852
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.02,
+      512.61,
+      176.74,
+      529.51
+    ],
+    "text": "Issue No 22- No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80.78,
+      557.02,
+      173.14,
+      573.92
+    ],
+    "text": "Issue No 23- No",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80.78,
+      601.41,
+      397.18,
+      618.31
+    ],
+    "text": "Issue 25 Yes. At one time it was possessed as one land.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      11.853184700012207,
+      12.193035125732422,
+      12.300000190734863,
+      12.306797981262207,
+      12.413823127746582,
+      12.971993446350098
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80.54,
+      645.81,
+      220.57,
+      662.71
+    ],
+    "text": "Issue No 26 Not proved.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.345714569091797
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80.3,
+      689.26,
+      171.7,
+      706.16
+    ],
+    "text": "Issue No 27 No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      80.06,
+      732.93,
+      171.34,
+      749.83
+    ],
+    "text": "Issue No 28 No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      304.2,
+      763.71,
+      312.37,
+      777.17
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79.12,
+      78.89,
+      303.37,
+      95.24
+    ],
+    "text": "The issues dated 28-2-1993 as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.722830772399902,
+      11.899999618530273,
+      11.929413795471191,
+      11.966712951660156
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.99,
+      123.04,
+      139.17,
+      139.39
+    ],
+    "text": "(1) Yes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.723440170288086,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      96.75,
+      167.92,
+      136.85,
+      184.27
+    ],
+    "text": "(2) No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77.69,
+      301.84,
+      535.99,
+      318.19
+    ],
+    "text": "The Judgment is varied. The appeal of the 4th defendant is allowed. The appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.045683860778809,
+      11.700172424316406,
+      11.899999618530273,
+      12.006670951843262,
+      12.262187957763672,
+      12.741917610168457
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77.87,
+      333.82,
+      341.81,
+      352.75
+    ],
+    "text": "of the 6th and the 7th defendants is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.076312065124512,
+      11.700172424316406,
+      11.899999618530273,
+      11.945313453674316,
+      12.10400104522705,
+      12.262187957763672,
+      12.479204177856445
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77.48,
+      451.61,
+      195.88,
+      467.96
+    ],
+    "text": "Rohini Marasinghe J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76.7,
+      481.84,
+      246.57,
+      498.19
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.911144256591797,
+      12.10400104522705,
+      12.611244201660156,
+      12.871309280395508
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      297.45,
+      764.85,
+      310.81,
+      779.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  }
+]

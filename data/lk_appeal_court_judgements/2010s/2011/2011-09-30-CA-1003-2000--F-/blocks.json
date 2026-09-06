@@ -1,0 +1,1844 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.14,
+      105.87,
+      538.05,
+      129.7
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      152.14,
+      126.28,
+      476.88,
+      150.11
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.86,
+      356.76,
+      215.7,
+      374.23
+    ],
+    "text": "C.A. No. 1003 / 2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.7,
+      388.43,
+      261.44,
+      405.91
+    ],
+    "text": "D.C. Colombo No. 10170/ MR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.321674346923828,
+      13.368253707885742
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.06,
+      183.01,
+      485.32,
+      216.31
+    ],
+    "text": "Thilakamuni Patrick de Silva, No. 142 (160) Negombo Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.66,
+      214.68,
+      360.87,
+      232.16
+    ],
+    "text": "Wattala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.01,
+      246.38,
+      491.98,
+      279.67
+    ],
+    "text": "Plaintiff Vs.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.18,
+      293.4,
+      474.79,
+      326.72
+    ],
+    "text": "Peoples' Bank, Peoples' Bank Headquarters,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.59,
+      324.52,
+      534.94,
+      358.15
+    ],
+    "text": "Sir Chittampalam A Gardinar Mawatha, Colombo 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      435.79,
+      372.85,
+      500.07,
+      391.13
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      329.73,
+      420.62,
+      441.52,
+      438.9
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.06,
+      451.56,
+      485.62,
+      484.87
+    ],
+    "text": "Thilakamuni Patrick de Silva, No. 142 (160) Negombo Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.66,
+      483.24,
+      361.14,
+      500.72
+    ],
+    "text": "Wattala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      404.06,
+      515.17,
+      517.56,
+      533.45
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.25,
+      546.85,
+      382.95,
+      564.32
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.18,
+      577.8,
+      474.8,
+      611.59
+    ],
+    "text": "Peoples' Bank, Peoples' Bank Headquarters,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.34,
+      609.96,
+      534.91,
+      643.27
+    ],
+    "text": "Sir Chittampalam A Gardinar Mawatha, Colombo 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      402.91,
+      657.49,
+      543.6,
+      675.77
+    ],
+    "text": "Defendant -Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.46,
+      106.5,
+      138.53,
+      124.51
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.86,
+      153.77,
+      149.21,
+      171.78
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.73,
+      248.58,
+      166.74,
+      266.59
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.19,
+      296.1,
+      241.98,
+      314.11
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.94,
+      343.38,
+      170.34,
+      361.39
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.22,
+      390.66,
+      247.98,
+      408.67
+    ],
+    "text": "UPALY ABEYRATHNE,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.05,
+      71.06,
+      317.75,
+      86.53
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.58,
+      106.02,
+      432.97,
+      124.03
+    ],
+    "text": "UPALY ABEYRATHNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.395545959472656,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.78,
+      153.05,
+      522.73,
+      171.06
+    ],
+    "text": "Dr. Sunil Cooray with Buddhika Gamage for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.33,
+      177.06,
+      399.14,
+      195.07
+    ],
+    "text": "the Plaintiff Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.24,
+      200.83,
+      544.06,
+      218.84
+    ],
+    "text": "Sunil Abeyrathne with Buddhika Alagiyawanna",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.1,
+      224.59,
+      443.93,
+      242.6
+    ],
+    "text": "for the Defendant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.82,
+      248.34,
+      337.31,
+      266.35
+    ],
+    "text": "14.09.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.77,
+      295.86,
+      337.08,
+      313.87
+    ],
+    "text": "22.09.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.4,
+      343.13,
+      337.86,
+      361.14
+    ],
+    "text": "30.092011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.2,
+      438.18,
+      543.96,
+      456.19
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.86,
+      461.94,
+      544.07,
+      479.95
+    ],
+    "text": "instituted an action against the Defendant Respondent (hereinafter referred to as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.45,
+      485.69,
+      544.84,
+      503.7
+    ],
+    "text": "the Appellant) in the District Court of Colombo seeking a judgment to recover",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.6,
+      509.22,
+      544.06,
+      527.23
+    ],
+    "text": "a sum ofRs. 2281229/= as damages. The Respondent prayed for a dismissal of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.584386825561523,
+      13.975573539733887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.45,
+      532.97,
+      544.69,
+      550.98
+    ],
+    "text": "Appellant's action. The case proceeded to trial on 21 issues. The learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.953957557678223,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.45,
+      556.73,
+      543.86,
+      574.74
+    ],
+    "text": "Additional District Judge after trial dismissed the Appellant's action with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.65,
+      580.25,
+      544.53,
+      598.26
+    ],
+    "text": "Being aggrieved by the said judgment dated 24.11.2000 the Appellant preferred the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.83,
+      604.26,
+      235.16,
+      622.27
+    ],
+    "text": "instant appeal to this court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.28,
+      651.53,
+      543.98,
+      669.54
+    ],
+    "text": "According to the Appellant he had made an application for a loan to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.7,
+      675.3,
+      544.0,
+      693.32
+    ],
+    "text": "the Regional Manager of the Industrial Development Board of Sri Lanka (IDB),",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.66,
+      698.82,
+      544.78,
+      716.83
+    ],
+    "text": "Kurunegala Branch, for his industrial project. The IDB had approved the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.69,
+      722.33,
+      544.55,
+      740.34
+    ],
+    "text": "Appellant's project and had agreed to grant a loan of Rs. 150000/-. Thereafter the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.22,
+      71.06,
+      317.92,
+      86.53
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.25,
+      105.8,
+      543.03,
+      124.08
+    ],
+    "text": "Appellant had commenced work of the said project on 01.01.1979 and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.45,
+      129.33,
+      543.58,
+      147.62
+    ],
+    "text": "Regional Manager of the IDB and the Regional Manager of the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.45,
+      153.09,
+      543.58,
+      171.37
+    ],
+    "text": "Respondent had carried out a joint inspection of the project on 20.03.1979 and had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.63,
+      176.6,
+      543.34,
+      194.88
+    ],
+    "text": "approved an advance payment ofRs 25,000/-. The Appellant had further stated that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.925888061523438
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.47,
+      200.36,
+      542.71,
+      218.64
+    ],
+    "text": "the Respondent who was the Branch Manager of the Puttalam Branch refused to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.74,
+      224.12,
+      543.35,
+      242.4
+    ],
+    "text": "release the said advance of Rs. 25000/- to him due to personal reasons and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.47,
+      247.89,
+      546.42,
+      266.17
+    ],
+    "text": "therefore he happened to obtain the approval of the Assistant General Manager of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.72,
+      271.64,
+      359.52,
+      289.92
+    ],
+    "text": "the Respondent to have the said advance released.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153.51,
+      318.92,
+      543.84,
+      337.2
+    ],
+    "text": "In paragraph 10 of the Petition of Appeal the Appellant has stated that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.28975772857666,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.98,
+      342.69,
+      544.15,
+      360.97
+    ],
+    "text": "when the Respondent credited the advance of Rs. 25000/- to the Appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664253234863281,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.11,
+      366.45,
+      544.23,
+      384.73
+    ],
+    "text": "current account No. 2430 at the Puttalam Branch on 08.06.1979, on the instruction",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.1,
+      390.2,
+      543.0,
+      408.48
+    ],
+    "text": "of the IDB a loan contract was formed between the Appellant and the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.34,
+      413.74,
+      543.97,
+      432.02
+    ],
+    "text": "Thereafter on 21.09.1979 the Appellant entered in to a formal written loan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.31,
+      437.5,
+      543.59,
+      455.77
+    ],
+    "text": "agreement with the Respondent at its regional office at Kurunegala, where the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.17,
+      461.24,
+      543.43,
+      479.53
+    ],
+    "text": "terms and conditions on which the said loan of Rs. 150,000/- was to be granted to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.662097930908203,
+      13.664002418518066,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.2,
+      485.24,
+      338.78,
+      503.52
+    ],
+    "text": "the Appellant by the Respondent were set out.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153.95,
+      532.52,
+      544.2,
+      550.8
+    ],
+    "text": "The Appellant's action has been based on the breach of terms and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.34,
+      556.04,
+      543.94,
+      574.32
+    ],
+    "text": "conditions of the said loan agreement. The Respondent's position was that there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.22,
+      579.8,
+      544.24,
+      598.08
+    ],
+    "text": "was no such loan agreement entered between the parties and the document",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.587638854980469,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.02,
+      603.56,
+      544.29,
+      621.84
+    ],
+    "text": "produced marked X 1 which was the loan application was the one and only",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.36,
+      627.32,
+      544.48,
+      645.6
+    ],
+    "text": "document had in respect of the aforesaid loan. The Appellant could not produce",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.59,
+      650.6,
+      544.48,
+      668.88
+    ],
+    "text": "any such loan agreement at the trial. On the other hand it appears from paragraph",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.47,
+      674.61,
+      543.47,
+      692.89
+    ],
+    "text": "10 of the petition of appeal that a sum of Rs. 25000/- of the said loan of Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.28975772857666,
+      13.699999809265137,
+      13.942700386047363,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.44,
+      698.13,
+      543.87,
+      716.42
+    ],
+    "text": "150,000/- had been released to the Appellant on 08.06.1979. It is also stated in the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.04719066619873
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.77,
+      721.88,
+      544.34,
+      740.17
+    ],
+    "text": "same paragraph that the Appellant entered in to a formal written loan agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      304.52,
+      72.02,
+      313.44,
+      86.72
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.18,
+      106.04,
+      541.62,
+      124.32
+    ],
+    "text": "with the Respondent on 21.09.1979. Said facts clearly show that even at the time of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.18,
+      129.8,
+      538.99,
+      148.08
+    ],
+    "text": "releasing the first payment of Rs. 250001- of the said loan there had been no such",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.55472469329834,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.29,
+      153.56,
+      450.44,
+      171.84
+    ],
+    "text": "loan agreement entered between the Appellant and the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148.89,
+      200.85,
+      538.39,
+      219.13
+    ],
+    "text": "The learned counsel for the Appellant further submitted that due to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.29,
+      224.6,
+      539.0,
+      242.88
+    ],
+    "text": "extraneous and personal reasons Puttalam Branch Manager of the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.9,
+      248.13,
+      539.29,
+      266.4
+    ],
+    "text": "Bank took revenge from the Appellant and harassed him by releasing the said loan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.54,
+      271.88,
+      538.68,
+      290.16
+    ],
+    "text": "of Rs. 150,0001- in 100 instalments. But the Appellant, at the trial (page 151 and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.108428001403809,
+      13.565957069396973,
+      13.664253234863281,
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.41,
+      295.65,
+      537.83,
+      313.93
+    ],
+    "text": "160 of the brief) has admitted that he received the entire loan amount of Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.562156677246094,
+      13.5663480758667,
+      13.699999809265137,
+      14.078715324401855,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.4,
+      319.16,
+      536.02,
+      337.44
+    ],
+    "text": "150,0001- in 06 instalments and he received the last loan instalment on 20.12.1980.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.469625473022461,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148.38,
+      366.93,
+      539.25,
+      385.21
+    ],
+    "text": "It also appears from D 7 and D 8 that the Appellant had made defaults",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.882890701293945
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.56,
+      390.44,
+      539.36,
+      408.72
+    ],
+    "text": "in payment of loan instalments. D 7 is a letter dated 01.07.1989 which had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.48,
+      414.21,
+      539.29,
+      432.49
+    ],
+    "text": "sent to the Regional Manager Kurunegala branch of the Respondent Bank by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.15,
+      437.72,
+      538.74,
+      456.0
+    ],
+    "text": "Appellant. Said letter had been sent after 10 years from the date, namely;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.427438735961914,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.54,
+      461.24,
+      535.81,
+      479.52
+    ],
+    "text": "08.06.1979, on which date the Appellant received the first payment ofRs. 250001-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.477094650268555,
+      13.699999809265137,
+      13.736401557922363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.3,
+      485.24,
+      539.44,
+      503.52
+    ],
+    "text": "of the said loan. The Appellant had stated in D 7 as follows; \"I must thank you",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.72,
+      508.77,
+      539.4,
+      527.18
+    ],
+    "text": "sincerely for all your great kindness in deciding to reschedule this longstanding",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.58,
+      532.52,
+      378.33,
+      550.81
+    ],
+    "text": "loan which has kept me fogging daily since 10 years.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.563772201538086,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148.97,
+      580.28,
+      539.03,
+      598.56
+    ],
+    "text": "D 8 too is a letter dated 12.09.1989 which had been sent to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.51,
+      603.8,
+      539.66,
+      622.08
+    ],
+    "text": "Chairman of the Respondent Bank by the Appellant. The Appellant had stated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.16,
+      627.33,
+      539.98,
+      645.62
+    ],
+    "text": "therein as follows; \"It is more than seven years since this mill was completely",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.492117881774902,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.31,
+      650.84,
+      539.53,
+      669.12
+    ],
+    "text": "destroyed by some political rivals on 21 st October 1982, and I am anxious to have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.049559593200684,
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.56,
+      674.61,
+      538.62,
+      692.89
+    ],
+    "text": "it reconstructed. ............ I shall be very much obliged if you will grant me",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.558013916015625,
+      13.699999809265137,
+      14.29234504699707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.22,
+      698.13,
+      539.06,
+      716.41
+    ],
+    "text": "permission to settle the past due loan of Rs. 150,0001- without interest in the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.565957069396973,
+      13.664253234863281,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.17,
+      721.88,
+      539.62,
+      740.17
+    ],
+    "text": "manner suggested above.\" It appears from the said statements that the Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.683144569396973,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      304.66,
+      71.36,
+      314.08,
+      86.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.7,
+      106.05,
+      538.77,
+      124.33
+    ],
+    "text": "had received total loan amount by 21.10.1982 and the construction of the mill had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.22,
+      130.06,
+      238.69,
+      148.33
+    ],
+    "text": "been concluded by that time.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.98,
+      177.56,
+      538.71,
+      195.84
+    ],
+    "text": "When I consider said two documents in the light of the said premise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.92,
+      201.32,
+      539.0,
+      219.6
+    ],
+    "text": "the most surprising part of the conduct of the Appellant is that his quieten with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      13.942700386047363,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.94,
+      225.08,
+      539.29,
+      243.36
+    ],
+    "text": "regard to the alleged harassment when he made D 7 and D 8. He did not utter a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.19457721710205,
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.95,
+      248.62,
+      504.2,
+      266.9
+    ],
+    "text": "word in D 7 or D 8 about the alleged harassment or taking revenge from him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.68,
+      296.13,
+      538.57,
+      314.42
+    ],
+    "text": "In the said circumstances I am of the view that the Appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.698749542236328,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.29,
+      319.88,
+      538.58,
+      338.17
+    ],
+    "text": "failed to prove his case on a balance of probability. Hence I see no reason to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.664002418518066,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.33,
+      343.64,
+      539.02,
+      361.92
+    ],
+    "text": "interfere with the judgement of the learned Additional District Judge dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.12,
+      367.4,
+      469.95,
+      385.68
+    ],
+    "text": "24.11.2000. Therefore I dismiss the appeal of the Appellant with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.04,
+      416.7,
+      249.59,
+      432.94
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      360.16,
+      462.68,
+      522.23,
+      480.96
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  }
+]
