@@ -1,0 +1,419 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.56,
+      218.42
+    ],
+    "text": "CA PHC 90/2014 H.C. Balapitiya Case No: 1143/2008",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Cambria,Italic",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      218.28,
+      503.95,
+      267.65
+    ],
+    "text": "N. Indika Gunaratne Mendis (Prisoner in remand custody)",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      267.63,
+      520.51,
+      464.59
+    ],
+    "text": "Accused Petitioner -Vs- 1. The Officer-In-Charge, Police Station, Pitigala. 2. Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      464.57,
+      482.83,
+      481.03
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.57,
+      144.5,
+      432.5,
+      159.43
+    ],
+    "text": "C.A. (PHC)APN 90/2014(Rev.) : H.C. Balapitiya Case No. 1143/2008.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.358293533325195,
+      10.384188652038574,
+      10.421372413635254,
+      10.457143783569336,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.49,
+      194.41,
+      106.83,
+      209.11
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.09,
+      268.58,
+      112.54,
+      283.28
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.24,
+      318.02,
+      128.94,
+      332.72
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.03,
+      367.22,
+      148.27,
+      381.92
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.20185375213623,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.99,
+      193.91,
+      270.32,
+      209.11
+    ],
+    "text": "K.T. Chitrasiri,J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.20185375213623,
+      10.699999809265137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.97,
+      218.89,
+      284.45,
+      233.59
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.18,
+      268.33,
+      391.85,
+      283.03
+    ],
+    "text": "T.J. Zainudeen for the Accused- Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.23023796081543,
+      10.699999809265137,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.63,
+      317.77,
+      237.97,
+      332.47
+    ],
+    "text": "23.07.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.25,
+      406.57,
+      528.61,
+      421.27
+    ],
+    "text": "Learned counsel for the Petitioner moves to withdraw this application, reserving his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.59165096282959,
+      10.699999809265137,
+      10.71943187713623,
+      10.9070463180542,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.04,
+      436.1,
+      529.02,
+      450.8
+    ],
+    "text": "right to file another application. Application for withdrawal is allowed. Accordingly, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.699999809265137,
+      10.831491470336914,
+      10.9070463180542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.89,
+      465.61,
+      170.45,
+      480.31
+    ],
+    "text": "appeal is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.963233947753906,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.35,
+      505.45,
+      196.47,
+      519.4
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.303499221801758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      325.14,
+      542.96,
+      505.85,
+      558.97
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.519323348999023,
+      11.59636116027832,
+      11.651849746704102,
+      11.806235313415527,
+      11.819035530090332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.01,
+      575.78,
+      175.01,
+      590.48
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.93,
+      599.05,
+      145.19,
+      615.46
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      325.14,
+      630.31,
+      505.59,
+      646.32
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.494189262390137,
+      11.519323348999023,
+      11.613423347473145,
+      11.772238731384277,
+      11.819035530090332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.87,
+      700.15,
+      92.55,
+      716.16
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

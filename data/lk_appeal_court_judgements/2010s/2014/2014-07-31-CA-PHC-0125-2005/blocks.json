@@ -1,0 +1,456 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      116.73,
+      190.31,
+      210.62
+    ],
+    "text": "CA PHC 125/2005",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      10.5600004196167,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      210.6,
+      374.56,
+      276.41
+    ],
+    "text": "Willium Rajapakshe Karuwalagas wewa Puttalam.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      276.27,
+      442.48,
+      473.35
+    ],
+    "text": "Appellant Vs. Hon. Attorney General Attorney General's Department Colombo Divisional Secretory Puttalam.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      473.33,
+      404.44,
+      489.79
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.71,
+      80.43,
+      456.2,
+      112.47
+    ],
+    "text": "C.A.No. (PH C) No.12S/OS P.II.C. Chilaw No.26/2004 M.C.Puttlam No.7710SIP",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.647282600402832,
+      12.672804832458496,
+      12.724238395690918,
+      12.800000190734863,
+      12.909589767456055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      126.27,
+      138.57,
+      142.94
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.47,
+      172.36,
+      145.68,
+      189.03
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.09,
+      233.07,
+      164.82,
+      265.11
+    ],
+    "text": "Argued and Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.29,
+      293.81,
+      188.23,
+      310.48
+    ],
+    "text": "K.T.Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.17,
+      126.04,
+      400.43,
+      158.31
+    ],
+    "text": "K.T.Chitrasiri,1. & W.M.M.Malinie Gunaratne,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.95,
+      172.12,
+      452.96,
+      203.92
+    ],
+    "text": "S.Amarasekera with M.Walpita. for the Accused-i\\ ppcllant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.617483139038086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.18,
+      202.59,
+      446.38,
+      234.39
+    ],
+    "text": "Sarath Wickrcmasinghe SASA for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.04,
+      324.27,
+      497.45,
+      341.08
+    ],
+    "text": "It is brought to the notice of Court that this is an appeal filed to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.29867935180664,
+      12.5,
+      13.054309844970703,
+      13.264692306518555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.48,
+      355.48,
+      497.71,
+      372.15
+    ],
+    "text": "challenge the decision of the learned High Court Judge in :c.l,ilaw where",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.5,
+      13.318079948425293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.35,
+      386.2,
+      499.84,
+      402.88
+    ],
+    "text": "he has exercised appellate powers. In terms of the decision of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.054309844970703,
+      13.318079948425293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.34,
+      416.67,
+      497.21,
+      433.39
+    ],
+    "text": "Wickremasaker Vs. OJ C. A I71jJarrt , {2004 (1) SLR 257} this Court has",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.04212760925293,
+      11.8798246383667,
+      12.5,
+      12.800000190734863,
+      13.87929630279541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.36,
+      446.92,
+      496.96,
+      463.59
+    ],
+    "text": "no jurisdiction to entertain sllch appl':t!S. Accordingly, this appeal is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.49544906616211,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.48,
+      477.64,
+      157.23,
+      494.31
+    ],
+    "text": "dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.15,
+      508.86,
+      231.51,
+      524.49
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.5,
+      568.11,
+      491.87,
+      584.78
+    ],
+    "text": ".1UI)(;I: OF TIlE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.5,
+      12.511944770812988,
+      12.544670104980469
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.8,
+      599.79,
+      260.58,
+      616.46
+    ],
+    "text": "W.M.M.Malinie Gunaratne,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.84,
+      630.51,
+      176.17,
+      647.19
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.13,
+      659.79,
+      493.99,
+      676.46
+    ],
+    "text": "JUDGE OF TI-IE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.112373352050781,
+      12.200396537780762,
+      12.5,
+      12.511944770812988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.62,
+      690.64,
+      128.0,
+      707.43
+    ],
+    "text": "WCI-",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  }
+]

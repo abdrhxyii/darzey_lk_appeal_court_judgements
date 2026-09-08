@@ -1,0 +1,952 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.21,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      169.82
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (PHC) No. 58/09 P.H.C.Kegalle No.2514/Writ",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      240.03,
+      330.88,
+      256.49
+    ],
+    "text": "S.H. Jinadasa",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      268.83,
+      340.84,
+      285.29
+    ],
+    "text": "M.K.R. Kalyani",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      326.55,
+      460.27,
+      343.01
+    ],
+    "text": "Petitioner-Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      355.47,
+      276.74,
+      371.93
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      384.39,
+      358.96,
+      400.85
+    ],
+    "text": "W. Karunathilake",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      413.21,
+      321.02,
+      429.67
+    ],
+    "text": "And others",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      471.05,
+      505.51,
+      487.51
+    ],
+    "text": "Respondents - Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.04,
+      99.91,
+      218.41,
+      118.6
+    ],
+    "text": "C.A. (PHC) No. 58/09",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.88,
+      132.05,
+      127.59,
+      150.75
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.04,
+      196.61,
+      136.3,
+      215.3
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.24,
+      472.37,
+      163.69,
+      506.92
+    ],
+    "text": "Argued and Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.44,
+      536.93,
+      193.52,
+      555.63
+    ],
+    "text": "K.T.Chitrasiri,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.02,
+      100.36,
+      477.78,
+      119.07
+    ],
+    "text": "P.H.C.Kegalle No.25141Writ",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.58,
+      131.62,
+      437.33,
+      166.35
+    ],
+    "text": "K.T.Chitrasiri,J. & W.M.M.Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.57,
+      196.18,
+      453.13,
+      230.67
+    ],
+    "text": "Lal Matharage for the Petitioner-Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.57,
+      244.91,
+      514.49,
+      295.71
+    ],
+    "text": "Mahinda Nanayakkara with Bimal Wijewardena for the 1 st Respondent-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.64,
+      308.39,
+      514.27,
+      344.2
+    ],
+    "text": "2nd Respondent IS absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      9.503133773803711,
+      13.199999809265137,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.36,
+      358.19,
+      517.46,
+      408.76
+    ],
+    "text": "Chairman of the Co-operative Society of the 1 st Respondent Ananda Dharmasiri Walisinghe is present in Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267.84,
+      422.25,
+      454.3,
+      440.67
+    ],
+    "text": "1 St Appellant is present in Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.8,
+      487.54,
+      333.23,
+      505.95
+    ],
+    "text": "24.07.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.14,
+      568.19,
+      515.0,
+      586.6
+    ],
+    "text": "Counsel for the Appellants and the Counsel for the 1 st Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.32,
+      600.58,
+      514.21,
+      618.99
+    ],
+    "text": "submit that this dispute is now settled among the parties on the following",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.75,
+      632.98,
+      128.21,
+      651.39
+    ],
+    "text": "terms:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.41,
+      664.66,
+      457.55,
+      683.07
+    ],
+    "text": "1. The petitioner- appellants are to pay Rs.800,000/- to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031554222106934,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.84,
+      69.22,
+      513.61,
+      87.63
+    ],
+    "text": "1 st Respondent within a period of two months from today.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.69,
+      101.86,
+      514.58,
+      120.27
+    ],
+    "text": "Accordingly, the appellants are to pay Rs 800,0001- on or before",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.66,
+      134.27,
+      443.67,
+      152.68
+    ],
+    "text": "24/9/2014 to the 1 st respondent Co-operative Society.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.4,
+      167.15,
+      523.21,
+      185.56
+    ],
+    "text": "2. In the event the appellants pay Rs.800,0001- as mentioned before,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.622052192687988,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.87,
+      198.83,
+      524.0,
+      217.24
+    ],
+    "text": "the 1 st respondent undertakes to cancel the Mortgage Bond bearing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.97,
+      231.22,
+      523.73,
+      249.63
+    ],
+    "text": "No.29 dated 04/311998 attested by E.K.Nanayakkara Notary Public",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.9,
+      263.63,
+      523.67,
+      282.04
+    ],
+    "text": "within a period of one week, from the date of payment, made by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.02,
+      296.03,
+      197.79,
+      314.44
+    ],
+    "text": "appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.56,
+      328.42,
+      468.31,
+      346.83
+    ],
+    "text": "3. If the appellants fail to pay the money referred to above as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.62357234954834,
+      13.800000190734863,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.64,
+      360.83,
+      514.68,
+      379.24
+    ],
+    "text": "undertaken, the 1 st respondent Co-operative Society has the right",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.35,
+      392.74,
+      512.94,
+      412.11
+    ],
+    "text": "to enforce the order dated 24.11.2005 delivered by the 3rd",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.447956085205078,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.62,
+      425.63,
+      325.47,
+      444.04
+    ],
+    "text": "respondent who is the Arbitrator.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.42,
+      458.02,
+      474.35,
+      476.43
+    ],
+    "text": "4. The appellants are to make the payment at the office of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.586956024169922,
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.96,
+      489.95,
+      346.64,
+      508.36
+    ],
+    "text": "1 st respondent Co-operative Society.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      120.53,
+      522.58,
+      514.9,
+      540.99
+    ],
+    "text": "5. The appellants are entitled to have the Mortgage Bond cancelled",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5964994430542,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.29,
+      554.98,
+      517.38,
+      573.39
+    ],
+    "text": "by making an application to the Registrar of the High Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.22,
+      587.38,
+      514.31,
+      605.79
+    ],
+    "text": "Kegalle, in the event the 1 st respondent fails to cancel the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.99,
+      619.78,
+      514.34,
+      638.19
+    ],
+    "text": "Mortgage Bond upon the payment of Rs.800,0001- made by",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.01,
+      652.18,
+      228.05,
+      670.59
+    ],
+    "text": "the appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.12,
+      69.47,
+      513.59,
+      87.88
+    ],
+    "text": "The parties who are present in Court sign the record accepting the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.58,
+      101.37,
+      254.35,
+      119.79
+    ],
+    "text": "aforesaid terms of settlement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.97,
+      166.43,
+      513.93,
+      184.84
+    ],
+    "text": "Accordingly, this Court makes an order directing the parties to abide",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.25,
+      198.73,
+      513.58,
+      218.12
+    ],
+    "text": "by the terms of settlement mentioned above. In VIew of the above",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.27038860321045,
+      13.440620422363281,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.52,
+      231.47,
+      400.08,
+      249.88
+    ],
+    "text": "settlement the proceedings in this Court are terminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.85,
+      297.43,
+      265.82,
+      314.28
+    ],
+    "text": "Proceedings terminated.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283.6,
+      393.43,
+      513.69,
+      411.57
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.77,
+      426.01,
+      280.33,
+      445.4
+    ],
+    "text": "W.M.M. Malinie Gunaratne,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.12,
+      458.5,
+      165.26,
+      476.92
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      283.84,
+      523.03,
+      513.64,
+      541.17
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.0,
+      556.26,
+      119.35,
+      574.12
+    ],
+    "text": "WC/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0
+    ]
+  }
+]

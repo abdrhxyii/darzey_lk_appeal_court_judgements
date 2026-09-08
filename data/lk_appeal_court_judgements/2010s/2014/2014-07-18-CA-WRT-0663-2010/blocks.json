@@ -1,0 +1,4162 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      0.3,
+      151.16,
+      13.48,
+      210.84
+    ],
+    "text": "J j I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      15.5,
+      18.299999237060547,
+      23.70009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.95,
+      203.75,
+      25.12,
+      303.52
+    ],
+    "text": "~ 1 I I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4530301094055176,
+      15.800000190734863,
+      42.29999923706055,
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.71,
+      105.18,
+      463.63,
+      119.91
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.316217422485352,
+      10.455915451049805,
+      10.485857009887695,
+      10.634197235107422,
+      10.67381763458252,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      250.21,
+      132.06,
+      430.04,
+      146.79
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.152861595153809,
+      10.405343055725098,
+      10.409558296203613,
+      10.470948219299316,
+      10.48580551147461
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.68,
+      185.73,
+      538.79,
+      199.88
+    ],
+    "text": "In the matter of an application for the issue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.310295104980469,
+      10.493924140930176,
+      10.573128700256348,
+      10.61013126373291,
+      10.625748634338379,
+      10.975077629089355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.37,
+      208.29,
+      539.6,
+      222.44
+    ],
+    "text": "of Writ of Certiorari and Prohibition under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.308945655822754,
+      10.31224250793457,
+      10.333147048950195,
+      10.406895637512207,
+      10.76973819732666,
+      10.975077629089355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.85,
+      230.85,
+      539.23,
+      245.0
+    ],
+    "text": "and in terms of Article 140 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.363007545471191,
+      10.454343795776367,
+      10.493924140930176,
+      10.843605041503906,
+      10.975077629089355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.57,
+      253.17,
+      538.93,
+      267.32
+    ],
+    "text": "Constitution of the Democratic Socialist",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.363653182983398,
+      10.493924140930176,
+      10.975077629089355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.72,
+      275.72,
+      421.1,
+      289.88
+    ],
+    "text": "Republic of Sri Lanka.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.975077629089355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.37,
+      306.14,
+      377.19,
+      330.65
+    ],
+    "text": "*******",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      18.411882400512695
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      142.92,
+      473.42,
+      345.76,
+      490.04
+    ],
+    "text": "C.A. (Writ) Application No.663/2010",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.193531036376953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.07,
+      733.5,
+      346.66,
+      746.0
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.53,
+      347.48,
+      517.16,
+      361.63
+    ],
+    "text": "FONTERRA BANDS LANKA (PVT) LTD.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.752551078796387,
+      9.860837936401367,
+      9.915472030639648,
+      9.960298538208008,
+      10.058160781860352
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.34,
+      372.69,
+      524.76,
+      386.84
+    ],
+    "text": "(formerly known as New Zealand Milk",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.55,
+      398.13,
+      521.82,
+      412.28
+    ],
+    "text": "Lanka Ltd), of No. 100, Delgoda Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.093326568603516,
+      10.134469985961914,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.54,
+      423.57,
+      396.89,
+      437.72
+    ],
+    "text": "Biyagama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      416.31,
+      496.19,
+      489.44,
+      513.22
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.06546401977539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.75,
+      528.3,
+      363.91,
+      543.55
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.58,
+      558.33,
+      540.06,
+      573.89
+    ],
+    "text": "1. The Commissioner GeneraL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.956218719482422,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.71,
+      578.5,
+      518.74,
+      593.58
+    ],
+    "text": "Department of Inland Revenue,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.55,
+      598.17,
+      540.85,
+      613.25
+    ],
+    "text": "Sir Chittampalam A. Gardiner",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.784337997436523,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.47,
+      618.09,
+      477.57,
+      633.17
+    ],
+    "text": "Mawatha, Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.9,
+      657.93,
+      513.23,
+      673.01
+    ],
+    "text": "2. Mr. S.H.P.C.S. Perera, Assessor",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.811124801635742,
+      11.014852523803711,
+      11.081079483032227,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      365.99,
+      677.37,
+      540.76,
+      692.45
+    ],
+    "text": "Unit 68, Department of Inland",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.2,
+      697.29,
+      539.93,
+      712.37
+    ],
+    "text": "Revenue, Sir Chittampalam A.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.651220321655273,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.13,
+      714.46,
+      606.03,
+      814.69
+    ],
+    "text": "Gardiner Mawatha, Colombo 02. ,I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      37.40010070800781,
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      593.03,
+      791.34,
+      603.87,
+      844.93
+    ],
+    "text": "f,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.600000381469727,
+      39.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.86,
+      397.61,
+      194.32,
+      413.96
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.95,
+      428.33,
+      203.69,
+      444.68
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.89,
+      551.21,
+      217.86,
+      567.56
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.882536888122559,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.57,
+      581.92,
+      220.94,
+      598.27
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.72,
+      79.75,
+      537.79,
+      95.0
+    ],
+    "text": "3. Ms. R.K.c. Chitralatha, Senior",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.79156494140625,
+      10.950494766235352,
+      10.953693389892578,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.15,
+      99.69,
+      538.56,
+      114.77
+    ],
+    "text": "Assessor, Unit 6B, Department of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.096976280212402,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.55,
+      119.61,
+      537.91,
+      134.69
+    ],
+    "text": "Inland Revenue, Sir Chittampalam",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      361.69,
+      139.54,
+      531.81,
+      154.62
+    ],
+    "text": "A. Gardiner Mawatha, Colombo 02.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.066293716430664,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.32,
+      179.61,
+      468.85,
+      194.69
+    ],
+    "text": "4. Mr. J.M. Jayawardena,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.6784029006958,
+      10.961530685424805,
+      11.081079483032227,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.52,
+      199.54,
+      478.5,
+      214.62
+    ],
+    "text": "Commissioner Appeals,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.6,
+      219.46,
+      515.62,
+      234.54
+    ],
+    "text": "Department of Inland Revenue,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.491183280944824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.43,
+      239.37,
+      538.0,
+      254.45
+    ],
+    "text": "Sir Chittampalam A. Gardiner",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.932969093322754,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.59,
+      259.3,
+      474.69,
+      274.38
+    ],
+    "text": "Mawatha, Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      413.7,
+      299.05,
+      499.87,
+      316.23
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.135580062866211
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.73,
+      330.73,
+      373.85,
+      353.31
+    ],
+    "text": "*******",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.0,
+      397.61,
+      481.02,
+      413.96
+    ],
+    "text": ": Deepali Wijesundera J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.866101264953613,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.0,
+      428.33,
+      508.73,
+      444.68
+    ],
+    "text": ": K. Kanag Isvaran PC for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.499458312988281,
+      11.872518539428711,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.29,
+      458.8,
+      409.9,
+      475.15
+    ],
+    "text": "Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.29,
+      489.53,
+      524.09,
+      505.88
+    ],
+    "text": "Priyantha Nawana DSG for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.53,
+      520.26,
+      430.71,
+      536.61
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.48,
+      549.4,
+      448.14,
+      567.08
+    ],
+    "text": ": 18th March, 2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.946470737457275,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.48,
+      580.11,
+      435.97,
+      598.03
+    ],
+    "text": ": 18th July, 2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.946470737457275,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.9,
+      736.64,
+      344.02,
+      749.31
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -2.16,
+      94.81,
+      276.56,
+      132.62
+    ],
+    "text": "\\ 1 I Oeepali Wijesundera J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.699999809265137,
+      12.0,
+      13.213374137878418,
+      16.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.2,
+      187.26,
+      536.48,
+      203.75
+    ],
+    "text": "The petitioner is a duly incorporated company in Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.08,
+      215.33,
+      536.78,
+      231.82
+    ],
+    "text": "engaged in importing manufacturing and selling milk powder and milk",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.45,
+      244.14,
+      536.02,
+      260.63
+    ],
+    "text": "products. The respondents are the Commissioner General and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.97,
+      272.21,
+      407.3,
+      288.7
+    ],
+    "text": "Assessors of the Department of Inland Revenue.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.2,
+      347.82,
+      536.75,
+      364.31
+    ],
+    "text": "The petitioner is challenging the purported assessment of taxable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.45,
+      375.89,
+      536.74,
+      392.38
+    ],
+    "text": "income for the year of assessment 2004/2005 and the determination",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.163418769836426,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.69,
+      404.22,
+      480.27,
+      420.71
+    ],
+    "text": "made pursuant to that the Inland Revenue Act No. 38 of 2000.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.730796813964844,
+      11.800000190734863,
+      11.922513961791992,
+      12.0,
+      12.021929740905762,
+      12.547240257263184
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.2,
+      479.57,
+      536.59,
+      496.06
+    ],
+    "text": "The petitioner has filed this application for writs of Certiorari to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.32,
+      507.89,
+      536.05,
+      524.38
+    ],
+    "text": "quash letters marked as P4 dated 25/03/200, Assessment made on",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.699999809265137,
+      11.909005165100098,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.49,
+      536.22,
+      536.56,
+      552.71
+    ],
+    "text": "28/03/2008 notice dated 11/06/2008 marked as P6, determination dated",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.121628761291504,
+      11.134895324707031,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.69,
+      564.29,
+      536.85,
+      580.78
+    ],
+    "text": "01/07/2010 marked as P13, reasons for the said determination dated",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.137685775756836,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.15,
+      592.61,
+      538.31,
+      609.1
+    ],
+    "text": "14/07/2010 marked as P15. Petitioner has also prayed for a writ of",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.121628761291504,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.13,
+      621.18,
+      537.14,
+      637.67
+    ],
+    "text": "Prohibition to restrain the respondents from implementing the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.04,
+      649.25,
+      454.03,
+      665.74
+    ],
+    "text": "assessment dated 28/03/2008 and the notice marked P6.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.156904220581055,
+      11.943868637084961,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      335.17,
+      722.01,
+      602.48,
+      749.55
+    ],
+    "text": "f3",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5,
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.24,
+      77.76,
+      538.24,
+      95.53
+    ],
+    "text": "The petitioner before the 30th of November 2005 in terms of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.28,
+      106.99,
+      537.12,
+      123.62
+    ],
+    "text": "Sec. 98 of the Act had submitted its Tax Returns for the assessment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.92,
+      135.06,
+      536.79,
+      151.78
+    ],
+    "text": "year 2004/2005 to the respondents this is marked as P2 and the receipt",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.986870765686035,
+      12.095349311828613,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.44,
+      163.38,
+      537.01,
+      180.01
+    ],
+    "text": "issued to the petitioner is marked as P3. The petitioner has received a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.080133438110352,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.22,
+      190.81,
+      536.96,
+      208.57
+    ],
+    "text": "letter dated 25103/2008 from the 2nd respondent stating that the Income",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.72039270401001,
+      11.399999618530273,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.12,
+      220.02,
+      538.0,
+      236.65
+    ],
+    "text": "Tax Return for the year 200412005 has not been accepted in terms of",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.31,
+      248.35,
+      536.41,
+      264.98
+    ],
+    "text": "sec. 134(3) of Act No. 38 of 2000 and said letter is an intimation. This is",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.911674499511719,
+      11.986870765686035,
+      12.0,
+      12.100000381469727,
+      12.10092544555664,
+      12.653125762939453,
+      12.784271240234375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.45,
+      276.43,
+      536.44,
+      293.06
+    ],
+    "text": "marked as P4. The learned Presidents' Counsel for the petitioner stated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.16,
+      304.99,
+      536.64,
+      321.61
+    ],
+    "text": "that any assessment of the income tax payable by the petitioner for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.43,
+      333.3,
+      537.03,
+      349.93
+    ],
+    "text": "year of assessment ending 31/03/2005 could be made only before",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.3,
+      361.62,
+      536.06,
+      378.25
+    ],
+    "text": "expiry of three years which is 31/03/2008, and the notice and rejection,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.71,
+      389.71,
+      536.98,
+      406.33
+    ],
+    "text": "both had to be communicated to the petitioner prior to this date. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.71,
+      418.27,
+      536.74,
+      434.9
+    ],
+    "text": "petitioner's argument was that a letter was sent three day prior to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.8,
+      446.58,
+      536.45,
+      463.21
+    ],
+    "text": "expiry of the said three years and that it is only a letter of intimation and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.15,
+      474.67,
+      535.77,
+      491.3
+    ],
+    "text": "the petitioner was never sent a notice requiring the petitioner to pay in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.677680015563965,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.38,
+      502.99,
+      231.74,
+      519.62
+    ],
+    "text": "terms of the law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.46,
+      578.1,
+      536.96,
+      594.76
+    ],
+    "text": "By letter dated 25/04/2008 (P5) the petitioner has set out reasons",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.899999618530273,
+      12.0873441696167,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.88,
+      606.43,
+      537.57,
+      623.05
+    ],
+    "text": "for disagreeing with the said question and explained the petitioner's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.15,
+      633.84,
+      537.86,
+      651.37
+    ],
+    "text": "position. Thereafter the 3rd respondent has sent a notice of assessment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.618024826049805,
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.03,
+      662.59,
+      537.32,
+      679.25
+    ],
+    "text": "dated 11/06/2008 (P6) under Se. 134( 1) of the said Act and the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.399999618530273,
+      11.899999618530273,
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.4,
+      690.67,
+      537.53,
+      707.33
+    ],
+    "text": "petitioner states that P6 was sent seventy days after the three years",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.65,
+      718.75,
+      537.51,
+      735.38
+    ],
+    "text": "period, the time limit set out in Sec. 134(1). The petitioner has appealed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      335.24,
+      736.13,
+      342.22,
+      748.53
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.31,
+      78.75,
+      536.74,
+      95.5
+    ],
+    "text": "against this notice to the 1 st respondent under Sec. 136 of the said Act",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.12716293334961,
+      12.0,
+      12.12494945526123,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.33,
+      107.33,
+      536.38,
+      123.82
+    ],
+    "text": "saying the said notice is time barred (P7). At the inquiry the respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.45,
+      135.65,
+      536.32,
+      152.14
+    ],
+    "text": "have stated the said notice was sent prior to the expiry of the given",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.66,
+      163.98,
+      535.83,
+      180.47
+    ],
+    "text": "three years and that the date on which it was sent is 25/03/2008 which",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.937235832214355,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.9,
+      192.3,
+      536.97,
+      208.79
+    ],
+    "text": "the petitioner states is the letter of intimation and is not a notice sent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.95,
+      220.36,
+      538.31,
+      237.11
+    ],
+    "text": "within the given time under Sec. 134(1) and that it is a patent violation of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.937235832214355,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.14,
+      248.36,
+      535.69,
+      265.44
+    ],
+    "text": "the mandatory provisions of Section 134(3) of the Act No. 38 of 2000.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.829792976379395,
+      12.0,
+      12.023127555847168,
+      12.12494945526123,
+      12.784271240234375,
+      12.800000190734863,
+      13.0310640335083
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.76,
+      276.75,
+      536.37,
+      293.5
+    ],
+    "text": "The determination of the inquiry held by the 4th respondent is marked as",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.766797065734863,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.64,
+      304.83,
+      536.01,
+      321.58
+    ],
+    "text": "P13. The petitioner has communicated his dissatisfaction to the 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.12716293334961,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.69,
+      333.15,
+      536.87,
+      349.9
+    ],
+    "text": "respondent acting under 134( 1) (P14) for which the 4th respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.659384727478027,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.55,
+      356.43,
+      536.55,
+      378.7
+    ],
+    "text": "acting for 1st respondent has given the reasons for the said",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.12716293334961,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.57,
+      390.05,
+      536.91,
+      406.54
+    ],
+    "text": "determination (P15). The petitioner states by not giving reason for the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.71,
+      418.62,
+      536.91,
+      435.11
+    ],
+    "text": "rejection of this income tax return and not sending the notice within the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.81,
+      446.43,
+      537.4,
+      463.18
+    ],
+    "text": "stipulated time period were rejected by the 4th respondent and that it is a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.766797065734863,
+      11.937235832214355,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.93,
+      475.25,
+      538.55,
+      491.74
+    ],
+    "text": "misapplication of the law and the respondents are in gross violation of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.62,
+      503.58,
+      536.24,
+      520.07
+    ],
+    "text": "the statutory provisions and that the respondents have acted ultra vires.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.84,
+      531.65,
+      486.4,
+      548.14
+    ],
+    "text": "The petitioner has also appealed to the Board of Review (P16).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174.17,
+      607.25,
+      536.98,
+      623.74
+    ],
+    "text": "The learned Presidents' Counsel for the petitioner cited",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.24,
+      635.09,
+      537.16,
+      651.58
+    ],
+    "text": "Samarakoon Chief Justice's judgment in Kanagaratna Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.37,
+      663.17,
+      538.0,
+      679.66
+    ],
+    "text": "Rajasunderam (1981) 1 SLR 492 and the also Bandaranayake Judge's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.85,
+      691.01,
+      537.94,
+      707.5
+    ],
+    "text": "judgment in Somasunderam Vanniasingham Vs. Forbes and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.629324913024902,
+      12.0,
+      12.033553123474121,
+      12.042275428771973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.17,
+      719.34,
+      291.11,
+      735.83
+    ],
+    "text": "Another (1993) 2SLR 362.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.217430114746094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      335.39,
+      736.43,
+      342.66,
+      749.37
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.52,
+      571.77,
+      602.58,
+      601.72
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      597.01,
+      621.55,
+      600.98,
+      646.14
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.46,
+      657.07,
+      603.05,
+      689.64
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      597.02,
+      691.14,
+      602.32,
+      705.49
+    ],
+    "text": "J",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.67,
+      738.96,
+      601.2,
+      761.35
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.69,
+      795.23,
+      603.52,
+      834.23
+    ],
+    "text": "!,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.300000190734863,
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.44,
+      78.67,
+      537.16,
+      95.3
+    ],
+    "text": "The argument of the respondents were that the law does not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.69,
+      106.99,
+      535.75,
+      123.62
+    ],
+    "text": "require to the notice of assessment to be dispatched within three years,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.14,
+      135.3,
+      536.55,
+      151.93
+    ],
+    "text": "that it only requires the rejection of the tax return and the assessment to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.46,
+      163.38,
+      536.6,
+      180.01
+    ],
+    "text": "be done within the time limit prescribed. They also stated that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.45,
+      191.7,
+      536.13,
+      208.33
+    ],
+    "text": "petitioner's appeal against the quantum of the assessment is an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.986870765686035,
+      12.086743354797363,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.31,
+      220.02,
+      536.72,
+      236.65
+    ],
+    "text": "admission of the fact that the assessment is valid in law. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.85328483581543,
+      12.080334663391113,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.44,
+      248.35,
+      536.83,
+      264.97
+    ],
+    "text": "respondents further stated that the assessment was made before the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.55,
+      276.43,
+      536.49,
+      293.06
+    ],
+    "text": "31 st of March 2008 and the petitioner was duly informed and that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.900100231170654,
+      11.274758338928223,
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.45,
+      304.99,
+      536.49,
+      321.62
+    ],
+    "text": "notice of assessment was dispatched on 11/06/2008 and an appeal was",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.072969436645508,
+      12.086743354797363,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.69,
+      333.07,
+      536.61,
+      349.7
+    ],
+    "text": "lodged by the petitioner on 01/08/2008. Respondents stated if the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.69,
+      361.63,
+      536.35,
+      378.26
+    ],
+    "text": "petitioner intended to take up an objection to the act of assessment on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.072969436645508,
+      12.086743354797363,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.14,
+      389.7,
+      537.33,
+      406.33
+    ],
+    "text": "the basis that it was out of time and thus ultra vires, the petitioner ought",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.15,
+      418.02,
+      538.25,
+      434.65
+    ],
+    "text": "to have applied for judicial review at that time in 2008 instead of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.55,
+      446.35,
+      538.0,
+      462.98
+    ],
+    "text": "appealing against the assessment and belated if taking up the issue of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.14,
+      474.66,
+      537.34,
+      491.29
+    ],
+    "text": "time bar in these proceedings. Respondents stated that the petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.026326179504395,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.68,
+      502.98,
+      536.65,
+      519.61
+    ],
+    "text": "has not suffered any injustice. The assessment made on 28/03/2008 is",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.986870765686035,
+      12.072969436645508,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.93,
+      530.92,
+      536.93,
+      547.86
+    ],
+    "text": "marked as 1 R3 and the notice as 1 R2. The respondents stated since",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.151351928710938,
+      12.22552490234375,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.39,
+      559.38,
+      536.85,
+      576.01
+    ],
+    "text": "the petitioner's appeal is pending before the Board of Review the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.986870765686035,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.7,
+      587.47,
+      536.91,
+      604.1
+    ],
+    "text": "petitioner has not established a legal basis for the application of writ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.13,
+      616.02,
+      269.68,
+      632.65
+    ],
+    "text": "jurisdiction in this court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.4,
+      690.66,
+      537.09,
+      707.29
+    ],
+    "text": "In short the main submission of the respondent was that since the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.860733985900879,
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.2,
+      718.75,
+      536.63,
+      735.38
+    ],
+    "text": "Inland Revenue Act No. 38 of 2000 has internal remedy for challenging",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.911674499511719,
+      12.0,
+      12.023127555847168,
+      12.100000381469727,
+      12.653125762939453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      335.16,
+      736.08,
+      342.51,
+      749.15
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137.94,
+      79.39,
+      535.64,
+      96.02
+    ],
+    "text": "the decision of the Commissioner General of Inland Revenue the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.49,
+      107.46,
+      535.45,
+      124.09
+    ],
+    "text": "petitioner is precluded from seeking a remedy in a writ application by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.026326179504395,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.25,
+      135.78,
+      507.57,
+      152.41
+    ],
+    "text": "passing the remedy provided within the four corners of the said Act.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.23,
+      211.39,
+      536.68,
+      228.02
+    ],
+    "text": "This court has to decide whether the petitioner is entitled to relief",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.73,
+      239.46,
+      535.45,
+      256.09
+    ],
+    "text": "by way of a writ. The issue relating to time bar the respondents stated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.49,
+      267.78,
+      536.22,
+      284.41
+    ],
+    "text": "under Sec. 134(3) proviso the time bar does not apply in the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.026326179504395,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.11,
+      296.11,
+      169.88,
+      312.73
+    ],
+    "text": "case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.64,
+      333.79,
+      306.53,
+      350.42
+    ],
+    "text": "Sec 134(3) reads thus;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.256192207336426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.77,
+      372.06,
+      536.52,
+      388.3
+    ],
+    "text": "(3) Where a person has furnished a return of income, the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.203886032104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      171.79,
+      400.04,
+      537.21,
+      417.12
+    ],
+    "text": "Assessor may in making an assessment on such person under",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.810245513916016,
+      13.300000190734863,
+      13.447037696838379
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.61,
+      428.83,
+      436.0,
+      445.91
+    ],
+    "text": "subsection (1) or under subsection (2), either ....",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.499137878417969,
+      12.709648132324219,
+      13.300000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.53,
+      467.23,
+      428.82,
+      484.31
+    ],
+    "text": "(a) accept the return made by such person; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.335153579711914,
+      13.438380241394043,
+      13.608421325683594
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.01,
+      506.23,
+      536.7,
+      522.47
+    ],
+    "text": "(b) if he does not accept the return made by that person estimate",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.434271812438965,
+      13.438380241394043,
+      13.439815521240234,
+      14.374449729919434
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.88,
+      535.02,
+      536.69,
+      551.27
+    ],
+    "text": "the amount of the assessable income, of such person and assess",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.316289901733398,
+      14.063959121704102,
+      14.203886032104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.96,
+      563.83,
+      268.39,
+      580.07
+    ],
+    "text": "him accordingly:",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      206.97,
+      601.97,
+      536.26,
+      618.22
+    ],
+    "text": "Provided that where an Assessor does not accept a return",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.434271812438965,
+      13.439815521240234
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.22,
+      630.55,
+      536.17,
+      646.79
+    ],
+    "text": "made by any person for any year of assessment and make an",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.344526290893555,
+      13.438380241394043,
+      13.548724174499512,
+      14.203886032104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.95,
+      658.51,
+      537.78,
+      675.59
+    ],
+    "text": "assessment or additional assessment on such person for that",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.926178932189941,
+      13.300000190734863,
+      13.434271812438965,
+      13.608421325683594
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      171.93,
+      687.07,
+      536.45,
+      704.15
+    ],
+    "text": "year of assessment, he shall communicate to such person in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.300000190734863,
+      13.488070487976074,
+      14.203886032104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.46,
+      716.47,
+      443.92,
+      732.71
+    ],
+    "text": "writing, his reasons for not accepting the return.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.439815521240234
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      334.46,
+      736.28,
+      341.66,
+      749.09
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.96,
+      79.01,
+      536.16,
+      95.5
+    ],
+    "text": "In the instant case the petitioner has made a self-assessment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.81162166595459,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.51,
+      107.09,
+      535.57,
+      123.58
+    ],
+    "text": "(P3) the respondents by (P4) has informed the petitioner that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.35,
+      135.41,
+      536.25,
+      151.9
+    ],
+    "text": "amounts stated is not acceptable. The petitioner's argument was that P4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.49,
+      163.5,
+      535.76,
+      179.99
+    ],
+    "text": "is not a refusal of the self-assessment but a letter of intimation but P4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.937235832214355,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.24,
+      192.06,
+      535.84,
+      208.55
+    ],
+    "text": "was sent to the petitioner by the respondents after his assessment was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.62,
+      220.13,
+      535.82,
+      236.62
+    ],
+    "text": "sent, the petitioner has made a reply to P4 by P5 and has also appealed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.42,
+      247.35,
+      383.22,
+      265.18
+    ],
+    "text": "to the 1st respondent against the notice sent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.12,
+      324.05,
+      536.13,
+      340.54
+    ],
+    "text": "Sec. 136(1) which deals an appeals to the Commissioner General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.922600746154785,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.09,
+      352.62,
+      177.18,
+      369.11
+    ],
+    "text": "states;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.06,
+      390.31,
+      535.76,
+      406.51
+    ],
+    "text": "136 (1). Any person who is aggrieved by the amount 01 an",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.580269813537598,
+      12.94544506072998,
+      13.199999809265137,
+      13.225275993347168,
+      13.302948951721191,
+      13.387764930725098
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.19,
+      418.51,
+      537.71,
+      435.59
+    ],
+    "text": "assessment made under this Act or by the amount 01 any",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.94544506072998,
+      13.199999809265137,
+      13.232909202575684,
+      13.266134262084961,
+      13.476948738098145,
+      13.50893497467041
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.68,
+      448.48,
+      538.2,
+      464.59
+    ],
+    "text": "valuation lor the purpose 01 this Act may, within a period 01",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.94544506072998,
+      13.199999809265137,
+      13.721449851989746
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.6,
+      477.04,
+      536.66,
+      493.15
+    ],
+    "text": "thirty days after the date 01 the notice 01 assessment, appeal to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.94544506072998,
+      13.074251174926758,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.6,
+      504.67,
+      536.07,
+      521.75
+    ],
+    "text": "the Commissioner-General against such assessment or valuation:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.92,
+      581.09,
+      537.13,
+      597.58
+    ],
+    "text": "The petitioner being dissatisfied with the determination of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.23,
+      609.17,
+      537.65,
+      625.66
+    ],
+    "text": "Commissioner General has made an appeal to the Board of Review",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.17,
+      637.73,
+      244.45,
+      654.22
+    ],
+    "text": "under Sec. 138(1).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      335.35,
+      736.16,
+      342.48,
+      748.83
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.48,
+      78.54,
+      535.12,
+      95.03
+    ],
+    "text": "The petitioner after receiving P4 and P6 had appeal to the 1 st",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.73,
+      107.1,
+      535.66,
+      123.59
+    ],
+    "text": "respondent and only after the 1 st respondent's determination was given",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.73,
+      135.41,
+      536.77,
+      151.9
+    ],
+    "text": "has made this application stating the assessment is time barred under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.56,
+      163.49,
+      208.21,
+      179.98
+    ],
+    "text": "Sec. 134(5).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.48,
+      201.17,
+      332.25,
+      217.66
+    ],
+    "text": "The proviso to Sec. 134(5);",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.219443321228027,
+      12.433808326721191
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      206.74,
+      239.69,
+      536.19,
+      255.8
+    ],
+    "text": "Provided, that nothing in this subsection shall apply to the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.383671760559082
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.47,
+      268.48,
+      536.99,
+      284.59
+    ],
+    "text": "assessment of income tax payable by any person in respect of any",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.326147079467773,
+      13.387764930725098,
+      14.150385856628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171.45,
+      297.52,
+      539.13,
+      313.63
+    ],
+    "text": "year of assessment, consequent to the receipt by such person, of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.387764930725098,
+      13.437267303466797,
+      14.010987281799316
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.71,
+      326.09,
+      537.3,
+      342.2
+    ],
+    "text": "any arrears relating to the profits from employment of that",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.383671760559082,
+      14.150385856628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.52,
+      355.12,
+      368.26,
+      371.23
+    ],
+    "text": "person for that year of assessmen ti",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.225774765014648,
+      13.383671760559082,
+      13.497693061828613,
+      14.010987281799316
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      206.99,
+      393.28,
+      535.73,
+      409.4
+    ],
+    "text": "Provided further that, where in the opinion of the Assessor,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      14.150385856628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.95,
+      421.16,
+      537.6,
+      438.24
+    ],
+    "text": "any fraud, evasion or willful default has been committed by, or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.283535957336426,
+      13.344134330749512,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.69,
+      450.88,
+      536.84,
+      466.99
+    ],
+    "text": "on behalf of, any person, in relation to any income tax, payable by",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.0,
+      13.199999809265137,
+      13.24846076965332,
+      13.290489196777344,
+      13.326147079467773
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.36,
+      479.68,
+      536.56,
+      495.8
+    ],
+    "text": "such person for any year of assessment, it shall be lawful for the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.225774765014648,
+      13.24846076965332,
+      13.497693061828613,
+      13.743413925170898,
+      14.150385856628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.28,
+      507.79,
+      535.79,
+      524.87
+    ],
+    "text": "Assessor to make an assessment or an additional assessment on",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.34732723236084,
+      13.608421325683594
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.82,
+      537.28,
+      529.15,
+      553.4
+    ],
+    "text": "such person at any time after the end of that year of assessment",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.211844444274902,
+      13.24846076965332,
+      13.383671760559082,
+      13.437267303466797,
+      13.774209976196289,
+      14.010987281799316,
+      14.150385856628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.96,
+      612.53,
+      535.84,
+      629.02
+    ],
+    "text": "Therefore the petitioner can not say that P4 is not a refusal or an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.922600746154785,
+      11.937235832214355,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.07,
+      640.86,
+      535.94,
+      657.35
+    ],
+    "text": "amendment but a letter of intimation P4 at the beginning itself states \"I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.145124435424805,
+      11.9425630569458,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.09,
+      668.75,
+      539.56,
+      685.0
+    ],
+    "text": "refer to the Income Tax return furnished for the above year of",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.893376350402832,
+      12.0,
+      12.520654678344727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.29,
+      696.83,
+      539.56,
+      713.08
+    ],
+    "text": "assessment and the Subsequent Audit carried out by the officers of",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.0,
+      12.290484428405762,
+      12.520654678344727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      334.21,
+      735.84,
+      341.56,
+      748.91
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.48,
+      78.35,
+      536.21,
+      94.6
+    ],
+    "text": "Inland Revenue from the documents and records submitted to the",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.739880561828613,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.29,
+      106.43,
+      537.83,
+      122.68
+    ],
+    "text": "Department and hereby inform you that the Revenue Tax return has not",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.07,
+      134.69,
+      535.91,
+      151.18
+    ],
+    "text": "been accepted due to the following reasons\". After stating the reason on",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.893376350402832,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.21,
+      163.02,
+      536.47,
+      179.51
+    ],
+    "text": "page 3 the amendments are stated. The petitioner after replying to this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.08,
+      191.1,
+      536.26,
+      207.59
+    ],
+    "text": "and appealing to the 1 st respondent has come to this counsel seeking",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      138.93,
+      219.41,
+      511.3,
+      235.9
+    ],
+    "text": "for a writ for which the petitioner is not entitled to under the said Act.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.67,
+      294.78,
+      536.76,
+      311.27
+    ],
+    "text": "In Kanagaratna Vs. Rajasunderam it has been held \"the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.31,
+      323.09,
+      536.15,
+      339.58
+    ],
+    "text": "availability of an alternative remedy does not prevent a court from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.68,
+      351.41,
+      536.73,
+      367.9
+    ],
+    "text": "issuing a writ of Prohibition in cases of excess or absence of jurisdiction",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.43,
+      379.74,
+      536.79,
+      396.23
+    ],
+    "text": "which is not applicable to the instant case. The law is very clear in this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.629324913024902,
+      11.749229431152344,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.54,
+      407.81,
+      538.56,
+      424.3
+    ],
+    "text": "case and one can not say there is an excess or an absence of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.14,
+      436.13,
+      203.63,
+      452.62
+    ],
+    "text": "jurisdiction.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.64,
+      511.26,
+      537.86,
+      527.75
+    ],
+    "text": "In Somasunderam Vanniasingham Vs. Forbes and Another it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.81162166595459,
+      12.0,
+      12.031310081481934,
+      12.033553123474121,
+      12.042275428771973,
+      12.053032875061035,
+      12.155245780944824
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.66,
+      539.58,
+      537.93,
+      556.07
+    ],
+    "text": "is stated \"A party to an arbitrator award under the Industrial Disputes Act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749229431152344,
+      11.922600746154785,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.65,
+      567.9,
+      537.26,
+      584.39
+    ],
+    "text": "is not required to exhaust other available remedies before he could",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.937235832214355,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.25,
+      596.22,
+      537.13,
+      612.71
+    ],
+    "text": "challenge illegalities and errors on the face of the record by an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.73,
+      624.53,
+      328.54,
+      641.02
+    ],
+    "text": "application for a writ of Certiorari.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      333.48,
+      734.01,
+      346.37,
+      747.88
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.96,
+      78.9,
+      536.71,
+      95.53
+    ],
+    "text": "There is no illegality or error on the fact of the record in the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.986870765686035,
+      12.026326179504395,
+      12.072969436645508,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.82,
+      107.22,
+      536.42,
+      123.85
+    ],
+    "text": "case. Both these judgments can not be applied to the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.59,
+      135.31,
+      535.83,
+      151.94
+    ],
+    "text": "application. Here the law is clearly stated and the petitioner accepting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.94,
+      162.9,
+      536.18,
+      179.59
+    ],
+    "text": "P4 has appealed to the 1 st respondent and after the 1 st respondent's",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.699999809265137,
+      12.0,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.84,
+      191.94,
+      536.87,
+      208.57
+    ],
+    "text": "determination has taken a belated defense of time barr the petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.09,
+      220.02,
+      535.8,
+      236.65
+    ],
+    "text": "should have applied for judicial review at that time instead of appealing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.07,
+      248.35,
+      536.46,
+      264.98
+    ],
+    "text": "against the assessment without belated if taking up the issue of the time",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047,
+      12.182419776916504
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.21,
+      276.67,
+      266.17,
+      293.3
+    ],
+    "text": "bar of the assessment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173.21,
+      352.27,
+      538.25,
+      368.9
+    ],
+    "text": "The petitioner's appeal is presently pending before the Board of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.88,
+      380.58,
+      536.85,
+      397.21
+    ],
+    "text": "Review and the petitioner did not establish a legal basis for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.69,
+      408.9,
+      365.44,
+      425.53
+    ],
+    "text": "invocation of writ jurisdiction of this court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174.67,
+      484.02,
+      537.33,
+      500.65
+    ],
+    "text": "For the afore stated reasons I refuse the application of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.41,
+      512.58,
+      377.2,
+      529.21
+    ],
+    "text": "petitioners with costs fixed at Rs. 50,000/=.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.958017349243164,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.45,
+      578.63,
+      435.61,
+      590.63
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      12.424492835998535
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      311.05,
+      589.91,
+      512.0,
+      649.31
+    ],
+    "text": "JUDGE~~!F APPEAL.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      11.699999809265137,
+      27.802791595458984
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      334.03,
+      736.14,
+      346.27,
+      748.64
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      116.52,
+      270.86,
+      183.51
+    ],
+    "text": "CA. (PHC) 285/2006 PHC. Puttalam Case No. 27/2005 MC. Puttalam Case No. 90707/P",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      182.16,
+      467.35,
+      280.73
+    ],
+    "text": "Abdul Offoor Mohamed Refai, No.9, Land 2, Vettakulam Road, Puttalam.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      280.71,
+      523.39,
+      398.51
+    ],
+    "text": "Claimant-Appellant- Appellant Vs. Range Forest Officer, Forest Department, Puttalam.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      429.41,
+      440.44,
+      445.87
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.93,
+      146.04,
+      384.06,
+      160.61
+    ],
+    "text": "e.A. (PHC) 285/2006 PH.e. Puttalam Case No. 27/2005.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.253589630126953,
+      10.313632011413574,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.53,
+      171.0,
+      377.74,
+      185.56
+    ],
+    "text": "M.e. Puttalam Case No. 90707/P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.30977725982666,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.05,
+      195.71,
+      266.69,
+      210.28
+    ],
+    "text": "Before K.T. Chitrasiri,J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154070854187012,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.65,
+      245.15,
+      111.13,
+      259.72
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.09,
+      333.96,
+      118.36,
+      348.52
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.56,
+      358.67,
+      127.1,
+      373.24
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.35,
+      382.93,
+      146.35,
+      397.49
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154070854187012,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.05,
+      220.19,
+      282.33,
+      234.76
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.57,
+      245.15,
+      371.64,
+      259.72
+    ],
+    "text": "Appellant is absent and unrepresented",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.56,
+      269.87,
+      389.75,
+      284.44
+    ],
+    "text": "Anoopa de Silva, S.S.e. for the Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.404396057128906,
+      10.600000381469727,
+      10.670367240905762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.59,
+      294.83,
+      526.74,
+      323.81
+    ],
+    "text": "S.A.N.K.W. Kotuwegedera, Range Forest Officer, Puttalam is present in Court representing the Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.525992393493652,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.71,
+      358.43,
+      235.81,
+      373.0
+    ],
+    "text": "25.07.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.53,
+      422.99,
+      525.71,
+      437.56
+    ],
+    "text": "This is an appeal to challenge the decision of the learned High Court Judge where he",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.509716033935547,
+      10.539276123046875,
+      10.600000381469727,
+      10.645651817321777,
+      10.914679527282715,
+      11.000388145446777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.36,
+      452.29,
+      526.36,
+      466.85
+    ],
+    "text": "has exercised appellat powers. In such a situation, the appellant should not have come to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.413408279418945,
+      10.600000381469727,
+      10.684711456298828,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.79,
+      481.8,
+      526.27,
+      496.36
+    ],
+    "text": "this Court by way of an appeal, in view of the decision in Wickramasekera Vs. O.I.C. Ampara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.424090385437012,
+      10.55846881866455,
+      10.600000381469727,
+      10.865427017211914,
+      11.000388145446777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.13,
+      511.07,
+      350.53,
+      525.64
+    ],
+    "text": "(2004 (1) SLR 257). Accordingly, this appeal is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.825559616088867,
+      9.9165678024292,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.43,
+      551.05,
+      194.28,
+      565.0
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.303499221801758
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      322.74,
+      588.31,
+      502.95,
+      604.32
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477839469909668,
+      11.59636116027832,
+      11.613423347473145,
+      11.772238731384277,
+      11.819035530090332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.09,
+      620.99,
+      172.86,
+      635.56
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.01,
+      644.5,
+      143.05,
+      660.78
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      322.5,
+      675.19,
+      502.71,
+      691.2
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.494189262390137,
+      11.519323348999023,
+      11.613423347473145,
+      11.753211975097656,
+      11.772238731384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.95,
+      744.49,
+      90.88,
+      760.9
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.55,
+      270.96,
+      602.28,
+      329.42
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.0,
+      30.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.59,
+      331.84,
+      601.41,
+      347.45
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.03,
+      531.31,
+      601.9,
+      550.73
+    ],
+    "text": "f I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.199999809265137,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.67,
+      549.12,
+      600.45,
+      602.14
+    ],
+    "text": "~ \u2022ItI",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.800000190734863,
+      10.399999618530273,
+      13.100000381469727,
+      15.0,
+      17.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.32,
+      599.28,
+      604.42,
+      656.19
+    ],
+    "text": "~ I ri",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.25957727432251,
+      10.699999809265137,
+      13.699999809265137,
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.17,
+      660.05,
+      603.87,
+      758.87
+    ],
+    "text": "f I II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.70009994506836,
+      17.0,
+      25.0,
+      38.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.08,
+      743.55,
+      602.75,
+      764.98
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727
+    ]
+  }
+]

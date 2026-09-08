@@ -1,0 +1,473 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      116.52,
+      259.34,
+      280.73
+    ],
+    "text": "CA (PHC) APN No: 09/14 High Court of Monaragala Bail Application No. 57/2013 Magistrate Court of Wellawaya Case No. BR 350/2013",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      280.71,
+      513.79,
+      362.81
+    ],
+    "text": "Jayawickrama Gunawardena Roshini, Kanthoruwa Watte, Thalawa South, Kariyamaditthe.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      362.67,
+      481.39,
+      559.75
+    ],
+    "text": "Petitioner Vs. 01. Officer in Charge, Police Station, Tanamalwila. 02. Hon. Attorney General Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      572.21,
+      446.8,
+      588.67
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.57,
+      145.91,
+      487.49,
+      160.57
+    ],
+    "text": "C.A. (PHC) APN 09/2014(Rev.) H .. C.Monaragala Case No. Bail 57/2013.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.140236854553223,
+      10.261030197143555,
+      10.264866828918457,
+      10.264969825744629,
+      10.286683082580566,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.69,
+      170.87,
+      483.2,
+      185.3
+    ],
+    "text": "M.C. Wellawaya Case No. BR 350/2013",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.689519882202148,
+      10.261030197143555,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.73,
+      195.59,
+      106.83,
+      210.02
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.33,
+      245.02,
+      112.84,
+      259.45
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.77,
+      294.46,
+      120.0,
+      308.89
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.24,
+      318.94,
+      129.1,
+      333.37
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.27,
+      343.91,
+      148.3,
+      358.34
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.03254508972168,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.99,
+      195.59,
+      268.32,
+      210.02
+    ],
+    "text": "K.T. Chitrasiri,J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.106060028076172,
+      10.300000190734863,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.97,
+      220.06,
+      284.27,
+      234.49
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.82,
+      244.79,
+      445.38,
+      259.22
+    ],
+    "text": "Saliya Peiris with Gayan Maduwage for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.674893379211426,
+      10.804631233215332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.96,
+      263.97,
+      401.1,
+      285.58
+    ],
+    "text": "Rajindra jayarathne, s.c. for the Respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.619915962219238,
+      15.156110763549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.63,
+      319.18,
+      238.02,
+      333.61
+    ],
+    "text": "25.07.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.25,
+      383.02,
+      456.73,
+      397.45
+    ],
+    "text": "Learned counsel for the Petitioner moves to withdraw this application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.673958778381348,
+      10.729785919189453,
+      10.804631233215332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.01,
+      422.63,
+      397.72,
+      437.06
+    ],
+    "text": "Learned State Counsel has no objection to this application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.53,
+      462.23,
+      502.92,
+      476.66
+    ],
+    "text": "Application for withdrawal is allowed. Accordingly, this application is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.5,
+      10.712646484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.11,
+      501.8,
+      220.1,
+      516.43
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.66,
+      539.53,
+      504.87,
+      555.94
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.620427131652832,
+      11.636980056762695,
+      11.796598434448242,
+      11.91848373413086,
+      11.965862274169922
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.77,
+      573.1,
+      174.57,
+      587.53
+    ],
+    "text": "Malinie Gunaratne,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.45,
+      596.64,
+      144.71,
+      613.05
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.42,
+      626.4,
+      504.87,
+      642.81
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.636980056762695,
+      11.662425994873047,
+      11.740368843078613,
+      11.757695198059082,
+      11.91848373413086,
+      11.965862274169922
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.38,
+      696.07,
+      92.34,
+      714.21
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  }
+]
