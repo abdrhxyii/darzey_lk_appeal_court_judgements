@@ -1,0 +1,490 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      116.52,
+      235.94,
+      182.18
+    ],
+    "text": "CA. No. 28/2012 HC.Tangalle No. 08/2001",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      182.16,
+      490.75,
+      297.17
+    ],
+    "text": "S. Madarasinghe Alias Pancharaja Morakande Koratuwa. Gammulla. Beliatta. (Remand Prison - Welikada )",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      297.03,
+      483.67,
+      428.47
+    ],
+    "text": "Accused-Appellant -Vs- 1. Hon. Attorney-General Attorney-General's Department. Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      440.81,
+      440.44,
+      457.27
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      429.18,
+      66.57,
+      505.94,
+      82.82
+    ],
+    "text": "CA28/2012",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.511404991149902
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.96,
+      91.62,
+      353.64,
+      109.44
+    ],
+    "text": "Before Anil Gooneratne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.778507232666016,
+      12.78605842590332,
+      12.922844886779785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.8,
+      118.26,
+      359.64,
+      135.85
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.781737327575684,
+      13.060678482055664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.65,
+      170.57,
+      484.98,
+      188.16
+    ],
+    "text": "Counsel Anil Silva, P.C. for the Accused-Appellant.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.643115997314453,
+      13.015093803405762,
+      13.03303337097168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.18,
+      197.41,
+      371.96,
+      213.95
+    ],
+    "text": "H. I. Pieris, SSC for AG",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5983247756958,
+      12.399999618530273,
+      12.578071594238281
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.3,
+      223.13,
+      148.1,
+      240.72
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.723628044128418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.75,
+      249.53,
+      309.83,
+      267.12
+    ],
+    "text": "Decided on 01.08.2014",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.472960472106934,
+      13.048711776733398,
+      13.414169311523438
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.29,
+      302.09,
+      208.45,
+      319.68
+    ],
+    "text": "Anil Gooneratne, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.78605842590332,
+      12.943171501159668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.29,
+      328.94,
+      534.17,
+      345.48
+    ],
+    "text": "Vide letter dated 01.08.2014, addressed to Registrar of the Court sent by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.601119041442871,
+      12.656447410583496,
+      12.733903884887695,
+      12.758517265319824,
+      12.765828132629395,
+      12.8617525100708,
+      12.98232650756836,
+      13.015093803405762,
+      13.015665054321289,
+      13.030900001525879,
+      13.231941223144531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.76,
+      357.01,
+      533.8,
+      373.55
+    ],
+    "text": "the Prison Authorities (annexed hereto) a certified copy of the proceedings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.481532096862793,
+      12.497020721435547,
+      12.680379867553711,
+      12.692011833190918,
+      12.717241287231445,
+      12.733903884887695,
+      12.737555503845215,
+      12.737994194030762,
+      13.015093803405762,
+      13.101601600646973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.78,
+      385.33,
+      534.04,
+      401.87
+    ],
+    "text": "regarding the death of the accused held by the Inquirer Into Sudden",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.727523803710938,
+      12.733903884887695,
+      12.754094123840332,
+      12.768960952758789,
+      12.77784252166748,
+      12.908234596252441,
+      13.002845764160156,
+      13.015093803405762,
+      13.051865577697754,
+      13.112433433532715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.98,
+      413.89,
+      534.93,
+      430.43
+    ],
+    "text": "Deaths by the order of the Magistrate's Court of Negombo, would be proof",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.435050010681152,
+      12.71285343170166,
+      12.731566429138184,
+      12.733903884887695,
+      12.741837501525879,
+      12.768960952758789,
+      12.78351879119873,
+      12.928055763244629,
+      12.951725006103516,
+      12.970093727111816,
+      13.015093803405762,
+      13.028901100158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.68,
+      442.22,
+      142.77,
+      458.76
+    ],
+    "text": "of death.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.597674369812012,
+      12.882415771484375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.47,
+      480.62,
+      358.81,
+      497.16
+    ],
+    "text": "In these circumstances, the appeal is abated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.711780548095703,
+      12.826369285583496,
+      12.905256271362305,
+      12.928055763244629,
+      12.937212944030762,
+      12.943537712097168,
+      12.961679458618164
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.04,
+      507.83,
+      512.25,
+      562.02
+    ],
+    "text": "~:Y~<W~ Ju'a/.e( ~f the Court of Appeal",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.287656784057617,
+      12.789435386657715,
+      12.821765899658203,
+      13.100000381469727,
+      13.330689430236816,
+      13.952853202819824,
+      24.155845642089844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.11,
+      597.05,
+      214.21,
+      614.64
+    ],
+    "text": "Sunil Rajapakshe, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.802288055419922,
+      13.109353065490723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.47,
+      623.41,
+      131.14,
+      639.95
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.679352760314941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.08,
+      653.99,
+      547.57,
+      692.16
+    ],
+    "text": "~ c--.r?->~ Judge of the Court of Appeal",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.789435386657715,
+      12.821765899658203,
+      13.0650053024292,
+      13.17940616607666,
+      13.330689430236816,
+      13.952853202819824,
+      19.860633850097656
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.1,
+      727.34,
+      115.77,
+      743.88
+    ],
+    "text": "Naj-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.099566459655762
+    ]
+  }
+]

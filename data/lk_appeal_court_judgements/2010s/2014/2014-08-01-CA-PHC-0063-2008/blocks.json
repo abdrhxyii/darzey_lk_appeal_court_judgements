@@ -1,0 +1,2220 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      2.21,
+      153.8,
+      6.34,
+      161.14
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      1.57,
+      168.79,
+      12.46,
+      188.03
+    ],
+    "text": "J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.35,
+      34.81,
+      64.06,
+      49.09
+    ],
+    "text": ", 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.32,
+      74.25,
+      514.18,
+      91.74
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.575847625732422,
+      11.932881355285645,
+      12.028708457946777,
+      12.034514427185059,
+      12.100447654724121,
+      12.115133285522461,
+      12.223822593688965,
+      12.269244194030762,
+      12.317283630371094,
+      12.338608741760254,
+      12.534875869750977
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.17,
+      93.93,
+      313.54,
+      111.42
+    ],
+    "text": "LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.222057342529297
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.0,
+      184.17,
+      211.36,
+      200.93
+    ],
+    "text": "Case No. CA{PHC) 63/2008",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.703131675720215,
+      11.996045112609863,
+      12.199999809265137,
+      12.272583961486816
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.11,
+      214.41,
+      138.89,
+      231.17
+    ],
+    "text": "H.CR/l0/2007",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.05,
+      153.92,
+      342.1,
+      170.68
+    ],
+    "text": "M.M.A. Moomin",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.384209632873535
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.33,
+      181.04,
+      416.46,
+      200.44
+    ],
+    "text": "No. 15, 8th Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.72,
+      213.67,
+      333.26,
+      230.44
+    ],
+    "text": "Street, Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.11,
+      243.82,
+      298.86,
+      260.2
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.39,
+      273.22,
+      252.2,
+      290.26
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.940226554870605
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.0,
+      302.97,
+      293.98,
+      319.73
+    ],
+    "text": "S. Nazeer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.80002498626709,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.33,
+      330.32,
+      429.18,
+      349.73
+    ],
+    "text": "No. 13/1, 8th Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.96,
+      362.48,
+      333.5,
+      379.24
+    ],
+    "text": "Street, Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.1,
+      392.63,
+      309.94,
+      409.01
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.89,
+      422.0,
+      265.2,
+      438.76
+    ],
+    "text": "AND",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.53,
+      451.76,
+      342.34,
+      468.53
+    ],
+    "text": "M.M.A. Moomin",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.384209632873535
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.33,
+      479.12,
+      416.98,
+      498.29
+    ],
+    "text": "No. 15, 8th Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.96,
+      511.28,
+      328.7,
+      528.04
+    ],
+    "text": "Steet, Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.89,
+      541.19,
+      359.45,
+      557.57
+    ],
+    "text": "Applicant-Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.11,
+      570.82,
+      252.63,
+      587.86
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.829160690307617
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.23,
+      600.55,
+      294.18,
+      617.32
+    ],
+    "text": "S. Nazeer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.953189849853516,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.81,
+      627.44,
+      429.92,
+      646.85
+    ],
+    "text": "No. 13/1, 8th Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.2,
+      659.36,
+      333.7,
+      676.13
+    ],
+    "text": "Street, Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.82,
+      689.26,
+      386.18,
+      705.64
+    ],
+    "text": "Respondent-Respondent",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.9,
+      36.49,
+      62.93,
+      50.77
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.45,
+      74.03,
+      299.25,
+      91.07
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.31,
+      103.55,
+      292.76,
+      120.59
+    ],
+    "text": "S. Nazeer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.042604446411133,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.87,
+      131.02,
+      428.43,
+      150.83
+    ],
+    "text": "No. 13/1, 8th Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.960792541503906,
+      12.38489055633545,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.28,
+      163.31,
+      332.25,
+      180.35
+    ],
+    "text": "Street, Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.42,
+      193.91,
+      446.58,
+      210.29
+    ],
+    "text": "Respondent-Respondent-Appellant",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.95,
+      223.25,
+      250.47,
+      239.74
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.63680362701416
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.65,
+      252.82,
+      333.7,
+      269.86
+    ],
+    "text": "M.M.A. Moomin",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.485306739807129
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.4,
+      278.86,
+      422.11,
+      299.86
+    ],
+    "text": "th . No. 15, 8 Lane, Kankanikulam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.38489055633545,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.4,
+      312.58,
+      289.73,
+      329.62
+    ],
+    "text": "Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.49,
+      342.95,
+      432.95,
+      359.33
+    ],
+    "text": "Applicant-Petitioner-Respondent",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.77,
+      401.59,
+      262.22,
+      418.67
+    ],
+    "text": "BEFORE A. W.A.SALAM J.,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.63041877746582,
+      12.2717866897583,
+      12.399999618530273,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.36,
+      431.63,
+      279.32,
+      448.67
+    ],
+    "text": "SUNIL RAJAPAKSE J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.84738540649414,
+      12.343521118164062,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.98,
+      461.14,
+      390.52,
+      478.18
+    ],
+    "text": "Both parties absent and unrepresented",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.29,
+      490.9,
+      232.6,
+      507.94
+    ],
+    "text": "ARGUED ON: 29.11.2013:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.017035484313965,
+      12.277544975280762,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.74,
+      520.67,
+      229.28,
+      537.71
+    ],
+    "text": "DECIDED ON: 01.08.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.8665771484375,
+      12.349547386169434,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.16,
+      579.7,
+      160.98,
+      597.7
+    ],
+    "text": "Sunil Rajapaksa J.,",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.98719310760498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.48,
+      609.46,
+      527.86,
+      626.5
+    ],
+    "text": "This appeal has been preferred against the judgment of the learned High",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.43669605255127,
+      12.475668907165527,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.34,
+      629.38,
+      528.21,
+      646.42
+    ],
+    "text": "Court Judge of Puttalam dated 2008.07.29 setting aside the determination of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.53,
+      649.3,
+      487.57,
+      666.34
+    ],
+    "text": "learned Magistrate made in respect of a dispute regarding the right of way.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.517146110534668,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.96,
+      678.82,
+      527.65,
+      695.86
+    ],
+    "text": "In this case the learned Primary Court Judge of Puttalam made an order on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.006867408752441,
+      12.235660552978516,
+      12.282896995544434,
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.59,
+      698.27,
+      528.9,
+      715.31
+    ],
+    "text": "17.10.2007 dismissing the application of the Respondent Applicant Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.84,
+      598.8,
+      600.0,
+      604.5
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.138441801071167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.65,
+      627.02,
+      601.89,
+      669.28
+    ],
+    "text": "trI!",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.699999809265137,
+      9.399999618530273,
+      16.899999618530273,
+      17.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.58,
+      678.69,
+      601.52,
+      717.03
+    ],
+    "text": "f1,I !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.599999904632568,
+      8.399999618530273,
+      9.100000381469727,
+      10.5,
+      15.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.35,
+      742.38,
+      599.92,
+      760.85
+    ],
+    "text": "I !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.199999809265137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43.7,
+      35.25,
+      66.79,
+      49.26
+    ],
+    "text": "\u00b7 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.99,
+      72.1,
+      533.18,
+      89.14
+    ],
+    "text": "Respondent claiming right of way. Being aggrieved by the learned Primary Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332,
+      12.945693016052246
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.99,
+      92.27,
+      532.15,
+      109.31
+    ],
+    "text": "Judge's order the Applicant Petitioner Respondent filed a Revision application in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.99,
+      112.18,
+      532.89,
+      129.22
+    ],
+    "text": "Puttalam High Court. The learned High Court Judge of Puttalam had reversed the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.69,
+      131.86,
+      532.89,
+      148.9
+    ],
+    "text": "order of the learned Primary COLlrt Judge and directed the Registrar of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.003872871398926,
+      12.399999618530273,
+      12.43669605255127,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.25,
+      151.3,
+      533.19,
+      168.34
+    ],
+    "text": "Magistrate's Court to restore the right of way to the Applicant Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.99,
+      170.98,
+      470.45,
+      188.02
+    ],
+    "text": "Respondent. This appeal has been preferred against the said judgment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.52,
+      200.98,
+      532.49,
+      218.02
+    ],
+    "text": "The main point argued by the learned Counsel for the Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.350601196289062,
+      12.399999618530273,
+      12.43669605255127,
+      12.469206809997559,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.99,
+      220.91,
+      532.99,
+      237.95
+    ],
+    "text": "Respondent Appellant was that the learned High Court Judge had failed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.633893966674805,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.42,
+      240.82,
+      532.4,
+      257.86
+    ],
+    "text": "consider the scene observation of the learned Primary Court Judge. Further the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.84,
+      260.5,
+      532.19,
+      277.54
+    ],
+    "text": "Appellant's argument was that the Petitioner Respondent has n.ot adduced any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.276535034179688,
+      12.399999618530273,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.43,
+      279.95,
+      426.77,
+      296.99
+    ],
+    "text": "exceptional circumstances before the learned High Court Judge:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.75,
+      309.71,
+      390.61,
+      326.75
+    ],
+    "text": "In this regard I wish to cite the following authority:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.399999618530273,
+      12.651695251464844,
+      12.905496597290039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.5,
+      339.46,
+      532.59,
+      356.5
+    ],
+    "text": "In Devi Property Development (Pvt) Limited and another vs Lanka Medical",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.336989402770996,
+      12.399999618530273,
+      12.476961135864258,
+      12.54841136932373
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.11,
+      359.37,
+      532.59,
+      376.42
+    ],
+    "text": "(Pvt) Limited CA. 518/1 decided on 20.06.2001. It was held II Revision is an extra",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.2918925285339355,
+      11.915639877319336,
+      12.399999618530273,
+      12.48302173614502,
+      12.53635025024414
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.9,
+      378.31,
+      533.22,
+      396.45
+    ],
+    "text": "ordinary jurisdiction vested in Court to be exercised under exceptional",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.88,
+      394.56,
+      342.23,
+      417.03
+    ],
+    "text": "circumstances if no other remedies are available. N",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654,
+      12.399999618530273,
+      12.544655799865723,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.5,
+      428.5,
+      531.66,
+      445.54
+    ],
+    "text": "In Kanakalingam vs Jeatheswaran and others 2009 1 SLR 152 it was held",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.64139461517334,
+      12.336989402770996,
+      12.39374828338623,
+      12.399999618530273,
+      12.798060417175293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.47,
+      448.49,
+      532.8,
+      465.28
+    ],
+    "text": "liThe Primary Court not deciding an issue finally whatever the order that a Primary",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.28663158416748,
+      12.399999618530273,
+      12.404149055480957,
+      12.530908584594727,
+      12.638015747070312,
+      12.751128196716309
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.99,
+      468.16,
+      349.07,
+      484.95
+    ],
+    "text": "Court Judge shall make would be temporary nature",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.326028823852539,
+      12.399999618530273,
+      12.402149200439453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.33,
+      470.19,
+      353.87,
+      476.82
+    ],
+    "text": "N",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.61,
+      476.18,
+      358.69,
+      482.82
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.900100231170654
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.51,
+      497.87,
+      532.05,
+      514.91
+    ],
+    "text": "In this case I note in the High Court the Applicant Petitioner Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.343521118164062,
+      12.399999618530273,
+      12.43669605255127
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.09,
+      517.55,
+      531.66,
+      534.59
+    ],
+    "text": "has not established any exceptional circumstances which constituted grave",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.110930442810059,
+      12.399999618530273,
+      12.413542747497559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.07,
+      536.99,
+      532.28,
+      554.03
+    ],
+    "text": "miscarriage of justice to revise the impugned order of the learned Primary Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.40784740447998,
+      12.43669605255127,
+      12.738675117492676,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.27,
+      556.9,
+      531.81,
+      573.94
+    ],
+    "text": "Judge. The Petitioner Respondent has not specifically elaborated how the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.384840965270996,
+      12.399999618530273,
+      12.577972412109375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.07,
+      576.81,
+      531.18,
+      593.86
+    ],
+    "text": "impugned order of the primary Court Judge is illegal and no alternative remedies.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.40784740447998,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.22,
+      596.5,
+      530.74,
+      613.54
+    ],
+    "text": "It is a well established principle that the party who has an alternative remedy can",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.248980522155762,
+      12.273504257202148,
+      12.35055160522461,
+      12.399999618530273,
+      12.476513862609863,
+      12.568603515625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.08,
+      616.19,
+      533.41,
+      633.23
+    ],
+    "text": "invoke revisionary jurisdiction of a appellate court only upon establishment of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.71,
+      635.86,
+      532.65,
+      652.9
+    ],
+    "text": "exceptional circumstances. The Applicant Petitioner Respondent had not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.496027946472168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.71,
+      655.55,
+      383.68,
+      672.59
+    ],
+    "text": "established exceptional circumstances in the High Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.26,
+      684.58,
+      531.57,
+      701.62
+    ],
+    "text": "I am of the view, the learned High Court Judge has not properly considered",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.332616806030273,
+      12.399999618530273,
+      12.577972412109375,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.29,
+      704.75,
+      238.29,
+      721.79
+    ],
+    "text": "the above laid down principles.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.419734001159668
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      2.34,
+      10.9,
+      27.47,
+      89.47
+    ],
+    "text": ", i I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.600000381469727,
+      14.300000190734863,
+      17.799999237060547,
+      45.20009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.57,
+      96.41,
+      14.74,
+      188.48
+    ],
+    "text": "1 I I J J",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.899999618530273,
+      14.800000190734863,
+      18.5,
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.04,
+      192.63,
+      12.34,
+      245.79
+    ],
+    "text": "t j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.5,
+      22.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      0.89,
+      243.9,
+      7.06,
+      259.15
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -0.06,
+      266.8,
+      10.78,
+      302.46
+    ],
+    "text": "f I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.800000190734863,
+      19.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -1.46,
+      296.88,
+      17.47,
+      361.01
+    ],
+    "text": "~ 1 4 I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.684505462646484,
+      7.900100231170654,
+      20.5,
+      22.70009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -1.8,
+      389.32,
+      19.77,
+      442.63
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -0.04,
+      436.85,
+      2.05,
+      441.39
+    ],
+    "text": "\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.300100088119507
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.92,
+      36.91,
+      62.65,
+      50.65
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.66,
+      74.5,
+      528.54,
+      91.54
+    ],
+    "text": "Further I note that the learned High Court Judge has not given due",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.65938663482666,
+      12.698848724365234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.82,
+      94.18,
+      528.14,
+      111.22
+    ],
+    "text": "consideration to the Magistrate's scene observation. The learned Magistrate had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.363846778869629,
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.44,
+      113.86,
+      528.38,
+      130.9
+    ],
+    "text": "visited the disputed land for a inspection and recorded his observation. In his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.006867408752441,
+      12.367256164550781,
+      12.399999618530273,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.84,
+      132.45,
+      527.87,
+      150.73
+    ],
+    "text": "observation observes that there is flO other gate or opening along the said road.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.943445205688477,
+      11.988150596618652,
+      12.399999618530273,
+      12.43669605255127,
+      12.474625587463379,
+      12.50009536743164,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.14,
+      153.23,
+      528.55,
+      170.27
+    ],
+    "text": "Further the learned Primary court Judge has correctly observed the disputed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.72,
+      173.38,
+      529.55,
+      190.42
+    ],
+    "text": "passage is only used to enter into the house of the Appellant. Therefore my",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.304532051086426,
+      12.399999618530273,
+      12.409646034240723,
+      12.43669605255127,
+      12.905496597290039,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.35,
+      193.06,
+      528.8,
+      210.1
+    ],
+    "text": "opinion is that the learned Primary Court Judge has correctly adjudicated the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.273504257202148,
+      12.399999618530273,
+      12.597132682800293,
+      12.698848724365234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.6,
+      212.74,
+      102.25,
+      229.78
+    ],
+    "text": "dispute.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.14,
+      242.74,
+      528.58,
+      259.78
+    ],
+    "text": "I am of the view that the learned High Court judge's order dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.332616806030273,
+      12.399999618530273,
+      12.40784740447998,
+      12.517146110534668,
+      12.633893966674805,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.62,
+      262.43,
+      528.15,
+      279.47
+    ],
+    "text": "2008.07.29 is contrary to law and the facts in this. case. Therefore the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.347187042236328,
+      12.376426696777344,
+      12.399999618530273,
+      12.43669605255127,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.67,
+      282.35,
+      357.67,
+      299.39
+    ],
+    "text": "High Court Judge's order amounts to an error in law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.381836891174316,
+      12.399999618530273,
+      12.502923011779785,
+      12.54737377166748,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.9,
+      312.35,
+      529.31,
+      329.39
+    ],
+    "text": "I have gone through the proceedings before the High Court and note that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.502971649169922,
+      12.517146110534668
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.94,
+      332.02,
+      528.18,
+      349.06
+    ],
+    "text": "the Applicant Petitioner Respondent has not established an exceptional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.35055160522461,
+      12.399999618530273,
+      12.577972412109375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.34,
+      351.7,
+      528.82,
+      368.74
+    ],
+    "text": "circumstances in the High Court. The learned High Court Judge has not properly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.43669605255127,
+      12.496027946472168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.09,
+      371.38,
+      527.24,
+      388.42
+    ],
+    "text": "considered this matter. In the circumstances the court holds that the learned High",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.335884094238281,
+      12.381836891174316,
+      12.399999618530273,
+      12.431011199951172,
+      12.43669605255127,
+      12.698848724365234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.06,
+      391.07,
+      528.19,
+      408.11
+    ],
+    "text": "Court Judge is in error when he decided to set aside the judgment of the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.43669605255127,
+      12.502426147460938,
+      12.54737377166748,
+      12.905496597290039,
+      13.138932228088379
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.68,
+      411.22,
+      175.25,
+      428.26
+    ],
+    "text": "Primary Court Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.9,
+      440.98,
+      528.7,
+      458.02
+    ],
+    "text": "If the Appellant is dissatisfied with the decisions of the learned Magistrate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.499202728271484,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.25,
+      460.91,
+      355.31,
+      477.95
+    ],
+    "text": "he could have filed a court case in the District Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.219231605529785,
+      12.282896995544434,
+      12.347187042236328,
+      12.399999618530273,
+      12.431011199951172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.7,
+      490.42,
+      528.38,
+      507.46
+    ],
+    "text": "For the above reasons I set aside th judgment of the Jearned High Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.448904037475586,
+      12.504161834716797,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.43,
+      510.1,
+      528.09,
+      527.14
+    ],
+    "text": "Judge dated 2008.07.29 and affirm the order of the learned Primary Court Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.36003589630127,
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.88,
+      530.26,
+      160.33,
+      547.3
+    ],
+    "text": "dated 17.10.2007.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.05,
+      560.02,
+      287.28,
+      577.06
+    ],
+    "text": "Appeal is dismissed without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273,
+      12.57486629486084
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270.39,
+      595.19,
+      489.94,
+      637.26
+    ],
+    "text": "~ P~ JUDGE OF THE COURi OF A P At2-",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.804448127746582,
+      11.957608222961426,
+      12.055411338806152,
+      12.399999618530273,
+      16.299999237060547,
+      18.127548217773438,
+      24.88372802734375,
+      42.085628509521484
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.6,
+      649.54,
+      103.51,
+      666.58
+    ],
+    "text": "Salam J.,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.28143310546875,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125.18,
+      662.63,
+      415.92,
+      715.13
+    ],
+    "text": "~. I agree.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      12.399999618530273,
+      42.11983108520508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270.39,
+      707.63,
+      470.24,
+      724.67
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.708837509155273,
+      11.804448127746582,
+      11.957608222961426,
+      12.016932487487793,
+      12.145793914794922,
+      12.15156078338623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315.96,
+      793.18,
+      323.23,
+      800.87
+    ],
+    "text": ":t ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.0967912673950195,
+      5.337497234344482
+    ]
+  }
+]

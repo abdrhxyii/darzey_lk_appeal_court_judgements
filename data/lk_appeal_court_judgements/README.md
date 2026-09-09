@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_10:52:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_22:39:13-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**17,385** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.2 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**17,459** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.3 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -60,10 +60,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-03 | `CA (HCC)0135/2025` | Thilakaratnege Nandana Upul Thilakaratne Vs. Hon. Attorney General Thilakaratnege Nandana Upul Thilakaratne Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-03-CA--HCC-0135-2025)
 - 2026-09-03 | `CA (HCC)0093/2025` | Peledda Arachchilage Suresh Kumara Vs. Hon. Attorney General Peledda Arachchilage Suresh Kumara Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-03-CA--HCC-0093-2025)
 - 2026-09-02 | `CA/HCC/ 0226-0228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-02-CA-HCC--0226-0228-2019)
+- 2026-09-01 | `CA/Writ/526/2023` | Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-01-CA-Writ-526-2023)
 - 2026-09-01 | `CA/HCC/ 0005/2025` | Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-01-CA-HCC--0005-2025)
 - 2026-08-31 | `CA/WRT/350/2025` | Welimada Ilukwatte Gedara Neel Rawindra Vs. K.K. Renuka. P. Edirisinghe, Principal, Girl’s High School, Kandy. and 5 others. Welimada Ilukwatte Gedara Neel Rawindra Vs. K.K. Renuka. P. Edirisinghe, Principal, Girl’s High School, Kandy. and 5 others. View More before Hon. Mayadunne Corea, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-WRT-350-2025)
 - 2026-08-31 | `CA/WRT/301/2024` | S. A Harriett Chandrika Vs. K. S. Abenayaka, Deputy Director, National Gem and Jewelley Authority, and 5 others. S. A Harriett Chandrika Vs. K. S. Abenayaka, Deputy Director, National Gem and Jewelley Authority, and 5 others. View More before Hon. Mayadunne Corea, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-WRT-301-2024)
-- 2026-08-31 | `CA/WRT/228/2024` | Ferentino Tyre Corporation (Pvt) (Ltd) Vs. P.B.S.C. Nonis, Director General of Customs and 2 others. Ferentino Tyre Corporation (Pvt) (Ltd) Vs. P.B.S.C. Nonis, Director General of Customs and 2 others. View More before Hon. Mayadunne Corea, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-WRT-228-2024)
 
 ---
 
