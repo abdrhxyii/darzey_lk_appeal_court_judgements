@@ -1,0 +1,901 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      58.36,
+      0.72,
+      65.74,
+      17.13
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      135.77,
+      66.11,
+      472.92,
+      83.14
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.475838661193848,
+      11.540714263916016,
+      11.602630615234375,
+      11.702592849731445,
+      11.782462120056152,
+      11.789872169494629,
+      12.130938529968262,
+      12.24728775024414
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.7,
+      79.55,
+      375.17,
+      96.58
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.474981307983398,
+      11.540714263916016,
+      11.804051399230957,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.49,
+      255.4,
+      270.81,
+      283.82
+    ],
+    "text": "Court of Appeal Revision Application No. CA(PHC)APN 79/2011",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.654945373535156,
+      10.791913986206055,
+      10.899999618530273,
+      11.15496826171875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.7,
+      295.95,
+      200.0,
+      324.61
+    ],
+    "text": "High Court Case No. HCCA 15/09 (Writ)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.459134101867676,
+      10.621953964233398,
+      10.679519653320312,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.72,
+      120.51,
+      524.83,
+      189.49
+    ],
+    "text": "In the matter of an application under and in terms of Article 154P( 4)(b) of the Constitution read together with Section 7 of the High Court of the Provinces (Special Provisions) Act No.19 of 1990.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.687376022338867,
+      10.74236011505127,
+      10.873517990112305,
+      10.899999618530273,
+      10.95610523223877,
+      11.018109321594238,
+      11.15496826171875,
+      11.290215492248535
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.25,
+      215.08,
+      509.1,
+      243.49
+    ],
+    "text": "Warnakulasuriya Alex Priyantha Fernando \"Malkanthi\", Jansa Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.82730770111084,
+      10.834603309631348,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.13,
+      241.72,
+      360.09,
+      256.7
+    ],
+    "text": "Katuneriya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.12,
+      268.36,
+      361.5,
+      284.06
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.63,
+      294.54,
+      319.08,
+      311.03
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.045270919799805
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.04,
+      321.88,
+      522.22,
+      351.26
+    ],
+    "text": "1. Nissanka Arachchige Apsara Preethi Sri Nissanka,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.470070838928223,
+      10.899999618530273,
+      11.679433822631836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.88,
+      349.47,
+      429.22,
+      377.89
+    ],
+    "text": "Divisional Secretariat, Mahawewa.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.63,
+      389.56,
+      432.61,
+      431.17
+    ],
+    "text": "2. M.N.P. Perera, Grama Seva Niladhari, 524 A, Mahawewa.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.457362174987793,
+      10.565311431884766,
+      10.653410911560059,
+      10.87371826171875,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.35,
+      443.08,
+      450.28,
+      484.93
+    ],
+    "text": "3. D.A.M. Joseph, Government Surveyor, Surveyor General's Office,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.734746932983398,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.48,
+      483.63,
+      373.0,
+      498.61
+    ],
+    "text": "Puttalam.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.87,
+      510.03,
+      377.85,
+      525.73
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.38,
+      536.03,
+      361.14,
+      553.06
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.88386058807373,
+      11.90071964263916
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.34,
+      563.08,
+      522.94,
+      645.02
+    ],
+    "text": "In the matter of an application for revision under and in terms of Article 138 of the Constitution read together with Article 154P(6) of the Constitution and Section 11 of the High Court of the Provinces (Special Provisions) Act No.19 of 1990.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.538247108459473,
+      10.687376022338867,
+      10.861030578613281,
+      10.899999618530273,
+      10.95610523223877,
+      11.018109321594238,
+      11.15496826171875,
+      11.290215492248535
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.77,
+      656.19,
+      509.17,
+      684.85
+    ],
+    "text": "Warnakulasuriya Alex Priyantha Fernando \"Malkanthi\", Jansa Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.82730770111084,
+      10.834603309631348,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.65,
+      683.32,
+      359.88,
+      698.3
+    ],
+    "text": "Katuneriya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.64,
+      708.76,
+      430.4,
+      724.46
+    ],
+    "text": "Petitioner - Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.47,
+      65.23,
+      292.64,
+      80.62
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.578348159790039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.88,
+      91.09,
+      495.88,
+      120.31
+    ],
+    "text": "1. Nissanka Arachchige Apsara Preethi Sri Nissanka,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.483356475830078,
+      10.699999809265137,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.2,
+      118.58,
+      402.82,
+      146.47
+    ],
+    "text": "Divisional Secretariat, Mahawewa.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.44,
+      158.65,
+      406.45,
+      186.31
+    ],
+    "text": "2. M.N.P. Perera, Grama Seva Niladhari,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.308072090148926,
+      10.555220603942871,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.79,
+      185.29,
+      390.55,
+      199.99
+    ],
+    "text": "524 A, Mahawewa.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.496413230895996,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.64,
+      212.18,
+      424.83,
+      266.96
+    ],
+    "text": "3. D.A.M. Joseph, Government Surveyor, Surveyor General's Office, Puttalam.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.478252410888672,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      296.4,
+      278.14,
+      455.02,
+      293.29
+    ],
+    "text": "Respondents - Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      573.45,
+      -54.85,
+      599.4,
+      44.08
+    ],
+    "text": "--",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      54.418113708496094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.84,
+      83.19,
+      444.95,
+      112.67
+    ],
+    "text": "C.A.(PHC)APN 79/2011 HC KURUNEGALA CASE NO. 15/2009",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.45084285736084,
+      11.484444618225098,
+      11.489855766296387,
+      11.556342124938965,
+      11.84815502166748,
+      12.445308685302734,
+      12.549111366271973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.92,
+      138.62,
+      181.67,
+      155.93
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.716082572937012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.85,
+      182.06,
+      191.95,
+      199.37
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.930004119873047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.19,
+      226.7,
+      212.49,
+      244.01
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.945558547973633,
+      13.308127403259277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      246.74,
+      138.58,
+      369.81,
+      154.86
+    ],
+    "text": "SISIRA DE ABREW, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.518569946289062,
+      12.097519874572754,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.39,
+      153.7,
+      353.88,
+      169.98
+    ],
+    "text": "K.T. CHITRASIRI J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.303296089172363,
+      11.600000381469727,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      246.73,
+      182.02,
+      459.15,
+      213.18
+    ],
+    "text": "U. Wickremasekera for the Petitioner. Sujatha Peiris SA for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.152406692504883,
+      12.199999809265137,
+      12.201799392700195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.82,
+      227.48,
+      321.21,
+      242.87
+    ],
+    "text": "29.03.2012.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.598799705505371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.11,
+      297.86,
+      274.35,
+      314.06
+    ],
+    "text": "SISIRA DE ABREW J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.595194816589355,
+      11.78398609161377,
+      12.048978805541992,
+      12.608107566833496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.65,
+      338.99,
+      535.68,
+      355.27
+    ],
+    "text": "Learned Counsel appearing for the Petitioner makes an application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.2145414352417,
+      12.235249519348145,
+      12.337772369384766,
+      12.452144622802734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.21,
+      368.99,
+      532.7,
+      385.27
+    ],
+    "text": "to withdraw the petition. The application for withdrawal of the petition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201799392700195,
+      12.21169376373291,
+      12.342665672302246,
+      12.504694938659668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.14,
+      399.23,
+      198.24,
+      415.5
+    ],
+    "text": "is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.81,
+      430.14,
+      407.69,
+      445.16
+    ],
+    "text": "Petition is accordingly dismissed without costs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.80759334564209,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.24,
+      548.4,
+      256.97,
+      566.37
+    ],
+    "text": "K.T. CHITRASIRI T.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.383862495422363,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.03,
+      578.5,
+      219.57,
+      594.78
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      319.61,
+      621.95,
+      527.47,
+      638.23
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.42,
+      683.22,
+      171.94,
+      699.85
+    ],
+    "text": "Mm/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.926474571228027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      551.35,
+      519.24,
+      556.77,
+      534.83
+    ],
+    "text": "I !",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.800099849700928,
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      555.6,
+      507.2,
+      561.88,
+      522.73
+    ],
+    "text": "/",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      586.44,
+      -23.61,
+      601.98,
+      53.19
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      55.90010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      588.0,
+      41.82,
+      602.37,
+      132.81
+    ],
+    "text": "f l I,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.299999237060547,
+      19.799999237060547,
+      21.799999237060547,
+      51.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.99,
+      727.3,
+      602.74,
+      750.79
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.100000381469727
+    ]
+  }
+]

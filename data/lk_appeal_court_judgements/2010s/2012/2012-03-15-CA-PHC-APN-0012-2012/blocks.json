@@ -1,0 +1,2863 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      6.93,
+      -16.18,
+      39.88,
+      42.19
+    ],
+    "text": "f-",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      48.810028076171875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.29,
+      119.03,
+      329.0,
+      137.18
+    ],
+    "text": "MOTION",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.89,
+      147.12,
+      506.08,
+      165.27
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.97,
+      165.12,
+      387.07,
+      183.27
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.02,
+      362.2,
+      183.7,
+      394.03
+    ],
+    "text": "Magistrate Court of Tangalle Case No: - 5138",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.06,
+      404.2,
+      188.99,
+      436.27
+    ],
+    "text": "High Court of Tangalle Case No: - HCRA 17/2011",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.226259231567383,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.99,
+      446.45,
+      186.77,
+      478.52
+    ],
+    "text": "Court of Appeal Case No:-CA PHC (APN) 1212012",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.956839561462402,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.8,
+      194.02,
+      526.61,
+      208.67
+    ],
+    "text": "In the matter of an application in revision",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.791029930114746,
+      11.930901527404785,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.26,
+      208.66,
+      530.69,
+      241.07
+    ],
+    "text": "under and in terms of the Article 138 of the Constitution.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.791029930114746,
+      12.0,
+      12.199999809265137,
+      12.951988220214844,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.02,
+      251.32,
+      521.54,
+      283.39
+    ],
+    "text": "1. Rev. Daniel Sandahami, No. 42, Sea Avenue, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296403884887695,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.13,
+      300.28,
+      472.4,
+      316.03
+    ],
+    "text": "2. Palitha Galappaththi,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.761186599731445,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.06,
+      365.33,
+      359.92,
+      381.08
+    ],
+    "text": "3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739696502685547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.91,
+      430.12,
+      359.76,
+      445.87
+    ],
+    "text": "4.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.730897903442383
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.28,
+      495.03,
+      360.1,
+      510.64
+    ],
+    "text": "5.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.66665267944336
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.06,
+      559.96,
+      359.73,
+      575.71
+    ],
+    "text": "6.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.634692192077637
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.09,
+      625.0,
+      359.11,
+      640.75
+    ],
+    "text": "7.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.276643753051758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.01,
+      689.32,
+      359.19,
+      705.07
+    ],
+    "text": "8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.363371849060059
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.53,
+      316.37,
+      505.31,
+      348.42
+    ],
+    "text": "No. 49, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.53,
+      365.33,
+      501.88,
+      413.47
+    ],
+    "text": "Somadasa Abesundara, No. 41, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.29,
+      430.13,
+      501.92,
+      462.2
+    ],
+    "text": "Loku Yaddehige Anura, No. 42, Mihindu Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.87,
+      462.53,
+      414.81,
+      478.27
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.31,
+      495.18,
+      501.91,
+      543.08
+    ],
+    "text": "Loku Yaddehige Ajith, No. 40, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.05,
+      559.97,
+      501.63,
+      608.59
+    ],
+    "text": "Ariyasena Gawasinghe, No. 38, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.04,
+      625.24,
+      501.69,
+      672.92
+    ],
+    "text": "Maalanie Weerasekara, No. 31, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.04,
+      689.57,
+      517.31,
+      737.24
+    ],
+    "text": "Samanmali Wettrampathirana, No. 27, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.67,
+      124.36,
+      511.24,
+      188.84
+    ],
+    "text": "9. John Singho Balapitiya Liyanage, No.5 A, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.637227058410645,
+      11.800000190734863,
+      12.116164207458496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      353.11,
+      205.72,
+      511.22,
+      270.42
+    ],
+    "text": "10. Rohana Nenaruwan Gaallahewage, No. 245, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.87,
+      287.57,
+      505.31,
+      335.71
+    ],
+    "text": "11. Dudley Monroy De Silva, No. 43, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.87,
+      352.85,
+      510.04,
+      401.0
+    ],
+    "text": "12. Andrahannadi Gnanathissa, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.63,
+      417.64,
+      504.79,
+      482.35
+    ],
+    "text": "13. Ediriweera Aarukkattu Patabadige Daniel Silva, No. 05, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.15,
+      499.26,
+      520.17,
+      563.71
+    ],
+    "text": "14. Maha Mudiyanselage Asanga Aravinda Perera, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.15,
+      580.85,
+      504.31,
+      644.83
+    ],
+    "text": "15. Kumarini Chandrika Wikramasuriya, No. 20, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.91,
+      661.49,
+      511.92,
+      725.97
+    ],
+    "text": "16. Kanishka Parakrama Ranjith Atapattu, No. 23, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      587.53,
+      -16.38,
+      601.82,
+      54.25
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      51.40010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32.51,
+      6.5,
+      39.33,
+      25.19
+    ],
+    "text": "'.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.709039688110352
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.71,
+      123.4,
+      463.21,
+      139.15
+    ],
+    "text": "17. Nihal Samaraweera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.74,
+      269.57,
+      354.8,
+      285.32
+    ],
+    "text": "1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296403884887695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.09,
+      350.69,
+      354.99,
+      366.44
+    ],
+    "text": "2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.761186599731445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.5,
+      415.72,
+      355.36,
+      431.47
+    ],
+    "text": "3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739696502685547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.98,
+      545.8,
+      355.04,
+      561.55
+    ],
+    "text": "1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296403884887695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.33,
+      594.28,
+      354.91,
+      610.03
+    ],
+    "text": "2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.586926460266113
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.5,
+      658.6,
+      355.36,
+      674.35
+    ],
+    "text": "3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739696502685547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.25,
+      139.48,
+      496.63,
+      171.55
+    ],
+    "text": "No. 04, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.79,
+      205.12,
+      438.03,
+      221.46
+    ],
+    "text": "Complainants",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.6,
+      237.51,
+      383.13,
+      253.85
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.25,
+      269.33,
+      503.73,
+      334.03
+    ],
+    "text": "Ceylon Electricity Board No. 50, Sir Chittampalam A Gardiner Mawatha, Po. Box. 540, Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.5,
+      350.69,
+      514.77,
+      399.07
+    ],
+    "text": "Chief Engineer (Construction) Electricity Board of Sri Lanka, No. 14, Mathara Road, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.422006607055664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.87,
+      415.73,
+      506.19,
+      463.88
+    ],
+    "text": "Rathnaweera Patabadige Wasula Priyanka. No. 132, Weerakatiya Road, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.63,
+      481.12,
+      430.81,
+      497.47
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.66,
+      513.54,
+      386.65,
+      529.88
+    ],
+    "text": "And",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.5,
+      545.59,
+      516.53,
+      577.63
+    ],
+    "text": "Rev. Daniel Sandahami, No. 42, Sea Avenue, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.64,
+      594.3,
+      500.25,
+      642.2
+    ],
+    "text": "Palitha Galappaththi, No. 49, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.52,
+      658.62,
+      497.15,
+      706.76
+    ],
+    "text": "Somadasa Abesundara, No. 41, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353.71,
+      124.71,
+      506.73,
+      173.19
+    ],
+    "text": "4. Loku Yaddehige Anura, No. 42, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.681084632873535,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      353.36,
+      190.23,
+      506.26,
+      238.49
+    ],
+    "text": "5. Loku Yaddehige Ajith, No. 40, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.66665267944336,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      352.9,
+      255.51,
+      505.78,
+      303.52
+    ],
+    "text": "6. Ariyasena Gawasinghe, No. 38, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.585287094116211,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      352.44,
+      320.31,
+      505.3,
+      368.57
+    ],
+    "text": "7. Maalanie Weerasekara, No. 31, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.585287094116211,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351.88,
+      385.59,
+      520.45,
+      434.07
+    ],
+    "text": "8. Samanmali Wettrampathirana, No. 27, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.496174812316895,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351.23,
+      449.5,
+      509.62,
+      515.45
+    ],
+    "text": "9. John Singho Balapitiya Liyanage, No.5 A, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.064715385437012,
+      12.21462631225586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      351.19,
+      532.47,
+      509.14,
+      597.03
+    ],
+    "text": "10. Rohana Nenaruwan Gaallahewage, No. 245, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.695249557495117,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      350.23,
+      614.07,
+      502.45,
+      662.07
+    ],
+    "text": "11. Dudley Monroy De Silva, No. 43, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.695249557495117,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349.52,
+      679.11,
+      506.71,
+      726.65
+    ],
+    "text": "12. Andrahannadi Gnanathissa, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      346.15,
+      124.12,
+      498.31,
+      188.84
+    ],
+    "text": "13. Ediriweera Aarukkattu Patabadige Daniel Silva, No. 05, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.9,
+      205.49,
+      513.63,
+      269.98
+    ],
+    "text": "14. Maha Mudiyanselage Asanga Aravinda Perera, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      346.15,
+      286.84,
+      498.31,
+      351.07
+    ],
+    "text": "15. Kumarini Chandrika Wikramasuriya, No. 20, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.91,
+      367.96,
+      505.91,
+      432.43
+    ],
+    "text": "16. Kanishka Parakrama Ranjith Atapattu, No. 23, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.67,
+      449.32,
+      497.83,
+      497.48
+    ],
+    "text": "17. Nihal Samaraweera, No. 04, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      362.75,
+      515.02,
+      494.09,
+      530.95
+    ],
+    "text": "Complainant-Petitioners",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      362.56,
+      547.18,
+      383.84,
+      563.11
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.45,
+      578.92,
+      504.51,
+      643.39
+    ],
+    "text": "1. Ceylon Electricity Board No. 50, Sir Chittampalam A Gardiner Mawatha, Po. Box. 540, Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.48951530456543,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      344.57,
+      659.8,
+      515.01,
+      707.96
+    ],
+    "text": "2. Chief Engineer (Construction) Electricity Board of Sri Lanka, No. 14, Mathara Road, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.761186599731445,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      351.7,
+      107.59,
+      513.86,
+      156.25
+    ],
+    "text": "3. Rathnaweera Patabadige Wasula Priyanka. No. 132, Weerakatiya Road, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.838767051696777,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      369.3,
+      173.68,
+      504.27,
+      190.02
+    ],
+    "text": "Respondent-Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      369.34,
+      206.07,
+      468.67,
+      222.41
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      369.06,
+      254.47,
+      513.65,
+      303.13
+    ],
+    "text": "Rathnaweera Patabadige Wasula Priyanka. No. 132, Weerakatiya Road, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      368.82,
+      320.31,
+      500.41,
+      352.97
+    ],
+    "text": "Respondent-Respondent-Petitioner",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      368.84,
+      363.52,
+      381.37,
+      385.8
+    ],
+    "text": "v",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.70009994506836
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      351.94,
+      401.36,
+      523.69,
+      433.69
+    ],
+    "text": "1. Rev. Daniel Sandahami, No. 42, Sea Avenue, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.391733169555664,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      351.05,
+      450.08,
+      507.17,
+      498.72
+    ],
+    "text": "2. Palitha Galappaththi, No. 49, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.860438346862793,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      350.74,
+      515.36,
+      503.47,
+      564.0
+    ],
+    "text": "3. Somadasa Abesundara, No. 41, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.838767051696777,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      350.36,
+      580.64,
+      503.58,
+      628.56
+    ],
+    "text": "4. Loku Yaddehige Anura, No. 42, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      350.48,
+      645.19,
+      503.29,
+      693.84
+    ],
+    "text": "5. Loku Yaddehige Ajith, No. 40, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.815278053283691,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      1.33,
+      -5.97,
+      8.3,
+      9.47
+    ],
+    "text": "r",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      347.38,
+      107.47,
+      500.2,
+      155.72
+    ],
+    "text": "6. Ariyasena Gawasinghe, No. 38, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.683887481689453,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      347.16,
+      172.5,
+      499.96,
+      220.54
+    ],
+    "text": "7. Maalanie Weerasekara, No. 31, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.683887481689453,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      347.08,
+      237.55,
+      515.86,
+      285.58
+    ],
+    "text": "8. Samanmali Wettrampathirana, No. 27, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.594016075134277,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      346.43,
+      302.11,
+      504.77,
+      366.45
+    ],
+    "text": "9. John Singho Balapitiya Liyanage, No.5 A, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.686432838439941,
+      11.899999618530273,
+      12.16739559173584
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      346.63,
+      383.47,
+      504.5,
+      447.8
+    ],
+    "text": "10. Rohana Nenaruwan Gaallahewage, No. 245, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.794784545898438,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      346.39,
+      464.35,
+      498.28,
+      512.62
+    ],
+    "text": "11. Dudley Monroy De Silva, No. 43, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.794784545898438,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      345.66,
+      529.63,
+      502.81,
+      577.66
+    ],
+    "text": "12. Andrahannadi Gnanathissa, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      345.19,
+      594.18,
+      497.36,
+      658.29
+    ],
+    "text": "13. Ediriweera Aarukkattu Patabadige Daniel Silva, No. 05, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.794784545898438,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      344.95,
+      675.06,
+      512.7,
+      738.94
+    ],
+    "text": "14. Maha Mudiyanselage Asanga Aravinda Perera, No. 25, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.794784545898438,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350.71,
+      124.6,
+      503.11,
+      189.08
+    ],
+    "text": "15. Kumarini Chandrika Wikramasuriya, No. 20, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350.71,
+      205.96,
+      511.24,
+      270.66
+    ],
+    "text": "16. Kanishka Parakrama Ranjith Atapattu, No. 23, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350.47,
+      287.57,
+      502.9,
+      335.94
+    ],
+    "text": "17. Nihal Samaraweera, No. 04, Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.745122909545898,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      366.89,
+      354.02,
+      502.73,
+      386.31
+    ],
+    "text": "Complainant- Petitioners-Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      349.77,
+      402.04,
+      517.88,
+      466.76
+    ],
+    "text": "1. Ceylon Electricity Board, No. 50, Sir Chittampalam A. Gardiner Mawatha, P.O .. Box. 540, Colombo 02.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.286632537841797,
+      11.399999618530273,
+      11.48951530456543,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      348.89,
+      483.89,
+      517.27,
+      515.94
+    ],
+    "text": "2. Chief Engineer (Construction) Ceylon Electricity Board No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.586926460266113,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      367.04,
+      516.3,
+      492.14,
+      532.04
+    ],
+    "text": "14, Mathara Road, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      365.94,
+      549.62,
+      497.3,
+      581.9
+    ],
+    "text": "Respondent-Respondent-Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.06,
+      134.75,
+      231.22,
+      153.16
+    ],
+    "text": "C.A. (PHC) APN 12/2012",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.13,
+      183.23,
+      325.32,
+      201.64
+    ],
+    "text": "H.C. Tangalle Case No: 17/2011 Revision.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.14,
+      231.44,
+      129.31,
+      249.58
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.53,
+      312.55,
+      140.23,
+      330.69
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.38,
+      458.47,
+      162.19,
+      476.61
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.64891242980957
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      181.33,
+      231.2,
+      310.26,
+      249.35
+    ],
+    "text": ": Sisira de Abrew, J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.445067405700684,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186.42,
+      263.59,
+      322.81,
+      281.73
+    ],
+    "text": "Deepali Wij esundera, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.445067405700684,
+      13.558938026428223,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      181.57,
+      312.08,
+      466.76,
+      330.22
+    ],
+    "text": ": Saliya Peiris with Chandima Dharmasena for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      186.67,
+      336.55,
+      248.13,
+      354.69
+    ],
+    "text": "Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      184.39,
+      361.03,
+      433.92,
+      379.17
+    ],
+    "text": "N. Wickramasekara SC for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183.17,
+      385.28,
+      316.55,
+      403.42
+    ],
+    "text": "N. Criden for the CEB.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      184.29,
+      408.11,
+      411.9,
+      427.66
+    ],
+    "text": "Ani! Silva PC for 2nd Party Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.467021942138672,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      181.57,
+      458.47,
+      255.28,
+      476.61
+    ],
+    "text": ": 15.03.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.55,
+      488.85,
+      269.81,
+      514.95
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.67,
+      523.47,
+      190.23,
+      542.28
+    ],
+    "text": "Sisira de Abrew, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.448200225830078
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.9,
+      572.72,
+      146.82,
+      590.86
+    ],
+    "text": "Heard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.38,
+      597.68,
+      147.54,
+      615.82
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.14,
+      572.72,
+      354.88,
+      590.86
+    ],
+    "text": "Counsel for the Petitioner,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      160.66,
+      597.43,
+      355.88,
+      615.57
+    ],
+    "text": "and State Counsel for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      369.71,
+      572.72,
+      505.92,
+      590.86
+    ],
+    "text": "Complainant-Petitioner-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      368.82,
+      597.43,
+      506.21,
+      615.57
+    ],
+    "text": "Respondent-respondent -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.38,
+      621.92,
+      509.62,
+      640.07
+    ],
+    "text": "Respondents. Complainant Petitioner-Respondents in this case filed an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.77,
+      646.39,
+      509.38,
+      664.53
+    ],
+    "text": "application in the Magistrate's Court in terms of section 98 of the Criminal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.37,
+      670.39,
+      509.47,
+      688.54
+    ],
+    "text": "Procedure Code seeking an order against the Petitioner in this case when the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.38,
+      694.64,
+      509.74,
+      712.78
+    ],
+    "text": "Petitioners were taking step to draw up 33000 V electricity line through",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      287.1,
+      745.04,
+      296.1,
+      761.05
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.37,
+      69.39,
+      509.66,
+      88.2
+    ],
+    "text": "Mihindu Mawatha, in Tangalle. The Complainant Petitioner-Respondent live",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.53,
+      93.39,
+      509.78,
+      112.2
+    ],
+    "text": "at Mihindu Mawatha, Tangalle. Learned Magistrate by his order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.01,
+      117.63,
+      509.44,
+      136.44
+    ],
+    "text": "04.05.2011 issued an interim order restraining the Petitioner and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.6,
+      141.86,
+      509.87,
+      160.67
+    ],
+    "text": "Respondent-Respondent-Respondents (CEB) from drawing up electricity",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.81,
+      166.09,
+      510.18,
+      184.9
+    ],
+    "text": "line over Mihindu Mawatha, Tangalle. Learned Magistrate thereafter after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.67,
+      190.33,
+      509.53,
+      209.15
+    ],
+    "text": "hearing evidence of the parties by his order dated 24.08.2011 vacated the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.55,
+      214.34,
+      510.53,
+      233.15
+    ],
+    "text": "order issued by learned Magistrate on 04.05.2011. As a result of the order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.78,
+      238.58,
+      510.42,
+      257.39
+    ],
+    "text": "dated 24.08.2011 of the Magistrate the Petitioners and the Electricity Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.66,
+      262.58,
+      509.23,
+      281.39
+    ],
+    "text": "were at liberty to draw up electricity line over Mihindu Mawatha, Tangalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.38,
+      286.83,
+      509.86,
+      305.64
+    ],
+    "text": "Being aggrieved by the said order of the learned Magistrate dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.59,
+      311.3,
+      509.62,
+      330.11
+    ],
+    "text": "24.08.2011, the Complainant Petitioners-Respondents filed a revision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.54,
+      335.78,
+      510.29,
+      354.59
+    ],
+    "text": "application in the High Court of Tangalle moving to set-aside the said order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.78,
+      360.26,
+      220.37,
+      379.07
+    ],
+    "text": "of the learned Magistrate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.419432640075684
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.87,
+      408.98,
+      510.26,
+      427.79
+    ],
+    "text": "Learned High Court Judge on 23.11.2011 issued an interim order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.7,
+      433.22,
+      508.98,
+      452.03
+    ],
+    "text": "staying the operation of the learned Magistrate's order dated 24.08.2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.688998222351074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.37,
+      457.47,
+      509.62,
+      476.28
+    ],
+    "text": "Being aggrieved by the said order of the learned High Court Judge the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.35,
+      481.94,
+      509.38,
+      500.75
+    ],
+    "text": "Petitioners in this case have filed the present petition seeking to set-aside the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.52,
+      506.43,
+      292.82,
+      525.24
+    ],
+    "text": "order of the learned High Court Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.15,
+      556.1,
+      509.2,
+      574.91
+    ],
+    "text": "We note that the order issued by the learned High Court Judge on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.922179222106934,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.57,
+      580.58,
+      509.18,
+      599.39
+    ],
+    "text": "23.11.2011 is only an interim order. The Petitioners by this petition seek an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.006641387939453,
+      14.076129913330078,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.56,
+      604.82,
+      510.04,
+      623.63
+    ],
+    "text": "interim order staying the operation of the learned High Court Judge's order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.554862976074219
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.77,
+      628.82,
+      509.41,
+      647.63
+    ],
+    "text": "dated 23.11.20 11. We note that if this relief is granted there will be no case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.867533683776855,
+      14.012277603149414,
+      14.100000381469727,
+      14.679636001586914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.76,
+      653.3,
+      508.7,
+      672.11
+    ],
+    "text": "for the High Court Judge to examine which has been filed before him. We",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.922179222106934,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.76,
+      677.78,
+      511.67,
+      696.59
+    ],
+    "text": "further note that if the interim relief is issued it will amount to final relief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.076129913330078,
+      14.100000381469727,
+      14.857597351074219
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.47,
+      702.03,
+      505.93,
+      720.84
+    ],
+    "text": "being granted by this Court to the Petitioners. Complainant Petitioner-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286.25,
+      745.47,
+      294.95,
+      760.94
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.41,
+      18.94,
+      80.92,
+      42.57
+    ],
+    "text": "..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.140501022338867
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.73,
+      69.98,
+      513.03,
+      88.65
+    ],
+    "text": "Respondents have filed documents in Court ( in the Magistrate' s Court) that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.91,
+      93.98,
+      512.61,
+      112.65
+    ],
+    "text": "if 33000 V electricity wires are drawn up as planed by the Petitioners and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.968063354492188,
+      14.0,
+      14.448031425476074
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.74,
+      117.97,
+      512.5,
+      136.65
+    ],
+    "text": "the Electricity Board, it may cause various health problem to the residence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.89,
+      142.22,
+      140.72,
+      160.89
+    ],
+    "text": "of the area.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      14.503158569335938
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      112.23,
+      190.92,
+      513.16,
+      209.6
+    ],
+    "text": "Learned State Counsel appearing for the Electricity Board submitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.51,
+      214.92,
+      512.7,
+      233.6
+    ],
+    "text": "that the petition by the Petitioners is pre mature. When we consider all these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.75,
+      239.16,
+      513.36,
+      257.84
+    ],
+    "text": "matters we are of the opinion that we must permit the learned High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      14.63681697845459
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.5,
+      263.42,
+      509.53,
+      282.09
+    ],
+    "text": "Judge to inquire into the complaint made by the Complainant Petitioners-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.5,
+      287.65,
+      513.13,
+      306.33
+    ],
+    "text": "Respondents. When we consider all these matters we hold the view that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.54,
+      311.88,
+      512.72,
+      330.57
+    ],
+    "text": "there is no merit in the petition filed by the Petitioner. Considering all these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.829916954040527,
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.53,
+      336.37,
+      512.48,
+      355.05
+    ],
+    "text": "matters we refuse to grant an interim order prayed for by the Petitioners and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.88,
+      360.62,
+      479.82,
+      379.29
+    ],
+    "text": "also refuse to issue notice on the Respondents. We dismiss the petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.962550163269043,
+      14.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      111.7,
+      411.87,
+      220.72,
+      428.47
+    ],
+    "text": "Petition dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      256.52,
+      508.45,
+      298.49,
+      526.73
+    ],
+    "text": "JUDG",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.215740203857422
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.75,
+      566.05,
+      410.65,
+      599.03
+    ],
+    "text": "Deepali Wiiesundera, J. ~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137,
+      20.375986099243164
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      112.22,
+      599.51,
+      442.16,
+      629.21
+    ],
+    "text": "I agree. fJD~~/)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      20.019939422607422
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      256.52,
+      639.25,
+      501.04,
+      657.53
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.237995147705078,
+      13.29729175567627,
+      13.300020217895508
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.92,
+      704.68,
+      99.73,
+      720.12
+    ],
+    "text": "NRI-",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      289.54,
+      745.79,
+      298.69,
+      762.07
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  }
+]
