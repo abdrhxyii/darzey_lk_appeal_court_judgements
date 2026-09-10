@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_10:52:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--10_23:04:49-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**17,470** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.3 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**17,551** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.3 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-09-25 | `CA/WRT/383/2018` | Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-25-CA-WRT-383-2018)
+- 2026-09-09 | `CA/HCC/0272/2025` | Warnakulasooriya Ranjith Suranga Fernando Vs The Hon. Attorney General Warnakulasooriya Ranjith Suranga Fernando Vs The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-09-CA-HCC-0272-2025)
 - 2026-09-07 | `CA/HCC/0280/2023` | Gallage Sujeewa Pushpakumara Vs. The Hon. Attorney General Gallage Sujeewa Pushpakumara Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-07-CA-HCC-0280-2023)
 - 2026-09-07 | `CA/HCC/0099/2024` | Rajarathnam Jegatheeswaran Vs. The Attorney General Rajarathnam Jegatheeswaran Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-07-CA-HCC-0099-2024)
 - 2026-09-07 | `CA/HCC/ 0221/2024` | Selliah Ravichandran Vs. The Attorney General Selliah Ravichandran Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-07-CA-HCC--0221-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-01 | `CA/Writ/526/2023` | Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-01-CA-Writ-526-2023)
 - 2026-09-01 | `CA/HCC/ 0005/2025` | Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General Stanley Sritharan alias Stalin Sriragan alias Kutty Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-01-CA-HCC--0005-2025)
 - 2026-08-31 | `CA/WRT/350/2025` | Welimada Ilukwatte Gedara Neel Rawindra Vs. K.K. Renuka. P. Edirisinghe, Principal, Girl’s High School, Kandy. and 5 others. Welimada Ilukwatte Gedara Neel Rawindra Vs. K.K. Renuka. P. Edirisinghe, Principal, Girl’s High School, Kandy. and 5 others. View More before Hon. Mayadunne Corea, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-WRT-350-2025)
-- 2026-08-31 | `CA/WRT/301/2024` | S. A Harriett Chandrika Vs. K. S. Abenayaka, Deputy Director, National Gem and Jewelley Authority, and 5 others. S. A Harriett Chandrika Vs. K. S. Abenayaka, Deputy Director, National Gem and Jewelley Authority, and 5 others. View More before Hon. Mayadunne Corea, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-31-CA-WRT-301-2024)
 
 ---
 
