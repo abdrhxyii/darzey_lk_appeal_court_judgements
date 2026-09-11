@@ -1,0 +1,2148 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      43.51,
+      42.67,
+      50.54,
+      58.06
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.1,
+      70.68,
+      519.15,
+      86.75
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.4,
+      84.39,
+      346.99,
+      100.0
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.774065017700195,
+      12.003464698791504
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.64,
+      250.65,
+      179.18,
+      279.95
+    ],
+    "text": "C.A 20911998 (F) D.C.Ampara 232/L",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.53,
+      167.62,
+      454.25,
+      210.29
+    ],
+    "text": "A. R. Sumanawathie No. 30/97, Mayadunna, Kohombana, Ampara.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.88,
+      237.0,
+      405.14,
+      253.07
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.7,
+      292.65,
+      355.35,
+      307.73
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.7,
+      320.73,
+      433.37,
+      363.4
+    ],
+    "text": "A. R. Dharmadasa Dematamal pelessa, Uhana, Ampara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.68,
+      404.05,
+      415.06,
+      420.12
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.46,
+      445.57,
+      365.42,
+      461.63
+    ],
+    "text": "AND",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.28,
+      473.38,
+      454.01,
+      516.06
+    ],
+    "text": "A.R. Sumanawathie No. 30/97, Mayadunna, Kohombana, Ampara.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.4,
+      543.0,
+      482.21,
+      559.07
+    ],
+    "text": "PLAINTIFF -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.22,
+      584.25,
+      354.51,
+      599.33
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.99,
+      612.1,
+      432.83,
+      654.77
+    ],
+    "text": "A. R. Dharmadasa Dematamalpelessa, Uhana, Ampara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.249085426330566,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.96,
+      694.92,
+      501.4,
+      710.99
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.95,
+      70.39,
+      139.3,
+      86.4
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.87,
+      126.07,
+      147.69,
+      142.08
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.74,
+      209.12,
+      162.77,
+      225.13
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.94,
+      264.8,
+      166.01,
+      280.81
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.12,
+      334.64,
+      185.65,
+      350.65
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.167579650878906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.74,
+      69.91,
+      285.02,
+      85.92
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.839323997497559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.74,
+      126.02,
+      390.94,
+      141.49
+    ],
+    "text": "Athula Perera for the Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.95,
+      153.87,
+      431.59,
+      169.34
+    ],
+    "text": "Defendant -Respondent absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.69,
+      209.31,
+      248.76,
+      224.78
+    ],
+    "text": "21.02.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.8,
+      264.99,
+      248.96,
+      280.46
+    ],
+    "text": "16.05.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      512.79,
+      33.68,
+      522.21,
+      49.21
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.88,
+      403.54,
+      521.99,
+      421.95
+    ],
+    "text": "This was an action filed in the District Court of Ampara by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.94,
+      435.94,
+      522.35,
+      454.35
+    ],
+    "text": "Plaintiff seeking a declaration that she is the lawful permit holder of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.02,
+      468.35,
+      522.73,
+      486.76
+    ],
+    "text": "paddy land described in the schedule to the plaint and eviction/damages",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.11,
+      500.76,
+      522.46,
+      519.17
+    ],
+    "text": "against the Defendant-Respondent. The learned District Judge dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.2,
+      533.16,
+      522.27,
+      551.57
+    ],
+    "text": "Plaintiff-Appellant's action on the basis that Defendant has prescribed to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.4,
+      565.79,
+      522.89,
+      584.21
+    ],
+    "text": "land in dispute. Appeal arises from the judgment of the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.92,
+      598.18,
+      522.9,
+      616.59
+    ],
+    "text": "Judge dated 23.2.1998. Parties proceeded to trial on 11 issues. The permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.624374389648438,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.22,
+      630.33,
+      522.26,
+      648.75
+    ],
+    "text": "marked PI and letter Dl produced by Plaintiff and Respondent respectively",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.102876663208008
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.98,
+      662.49,
+      522.8,
+      680.91
+    ],
+    "text": "would be evidence in this case for all purposes of the law. Documents being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.02,
+      694.9,
+      461.66,
+      713.31
+    ],
+    "text": "produced at the closure of each parties case without any objection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      513.7,
+      32.74,
+      522.85,
+      49.02
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.12,
+      69.47,
+      522.23,
+      87.88
+    ],
+    "text": "The case of the Plaintiff-Appellant based on evidence led at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.96,
+      101.86,
+      162.44,
+      120.27
+    ],
+    "text": "trial was that:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101.83,
+      134.02,
+      522.99,
+      152.44
+    ],
+    "text": "(1) permit (P 1) bearing No. 22/157 issued in favour of Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.50295352935791,
+      13.797399520874023,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.79,
+      158.5,
+      506.43,
+      176.91
+    ],
+    "text": "in terms of the Land Development Ordinance. (Extent - 2 % Acres)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.08,
+      182.75,
+      521.89,
+      201.15
+    ],
+    "text": "(2) Plaintiff's father was given a permit by the Government for 7 Acres.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.62,
+      207.23,
+      271.29,
+      225.64
+    ],
+    "text": "He died on or about 1969.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.08,
+      231.47,
+      523.23,
+      249.88
+    ],
+    "text": "(3) Permit for 2 % acres given by her father to Plaintiff-Respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.42,
+      255.95,
+      429.64,
+      274.36
+    ],
+    "text": "which was regularised by the Government Agent (P 1 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.08,
+      280.42,
+      373.05,
+      298.83
+    ],
+    "text": "(4) Plaintiff worked in the paddy field till 1987.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.07,
+      304.67,
+      522.43,
+      323.07
+    ],
+    "text": "(5) Plaintiff's son fell ill and had to be hospitalized in Kandy. As such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.72,
+      328.91,
+      522.22,
+      347.32
+    ],
+    "text": "she permitted and requested the Defendant-Respondent to work the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.77,
+      353.41,
+      459.67,
+      371.82
+    ],
+    "text": "field during her absence. Defendant was Plaintiff's brother.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101.84,
+      377.65,
+      437.92,
+      396.06
+    ],
+    "text": "(6) Defendant-Respondent refused to hand over possession",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.07,
+      401.63,
+      521.34,
+      420.06
+    ],
+    "text": "(7) Plaintiff complained to Government Agent and police about forceful",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.55,
+      426.11,
+      522.37,
+      444.52
+    ],
+    "text": "occupation of Defendant Respondent. No share of the corpus was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.56,
+      450.58,
+      499.61,
+      468.99
+    ],
+    "text": "given by Defendant to Plaintiff although he agreed to give a share.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.08,
+      475.06,
+      522.23,
+      493.47
+    ],
+    "text": "(8) Evidence in cross-examination indicates that the Plaintiff worked the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.22,
+      499.31,
+      522.72,
+      517.71
+    ],
+    "text": "paddy filed along with her husband. During the father's life time her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.18,
+      523.55,
+      521.08,
+      541.96
+    ],
+    "text": "husband had worked in the paddy filed with her late father.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.68,
+      547.78,
+      521.99,
+      566.19
+    ],
+    "text": "Suggestion in cross-examination the Plaintiff never worked in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.47,
+      572.02,
+      353.86,
+      590.43
+    ],
+    "text": "paddy filed had been denied by Plaintiff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101.84,
+      596.5,
+      353.36,
+      614.91
+    ],
+    "text": "(9) Permit not cancelled, and is in operation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.76,
+      620.74,
+      497.46,
+      639.15
+    ],
+    "text": "(10) Plaintiff's version supported by witness Indrasena Fernando from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.45,
+      644.98,
+      417.26,
+      663.39
+    ],
+    "text": "Divisional Secretariat Office. Permit not cancelled.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      513.07,
+      33.46,
+      521.55,
+      48.54
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.08,
+      69.47,
+      518.86,
+      87.88
+    ],
+    "text": "(11 )There was a recommendation to issue a permit to the Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.454679489135742,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.93,
+      93.71,
+      522.55,
+      112.12
+    ],
+    "text": "Respondent. No positive step taken to issue a permit. There is only a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.74,
+      117.95,
+      521.68,
+      136.36
+    ],
+    "text": "recommendation (D 1) to issue a permit to Defendant, but not issued in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.50295352935791,
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.48,
+      142.66,
+      216.41,
+      161.07
+    ],
+    "text": "terms of the law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.93,
+      190.9,
+      525.14,
+      209.32
+    ],
+    "text": "Defendant-Respondent had given evidence and led evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.1,
+      223.06,
+      522.6,
+      241.47
+    ],
+    "text": "at least 4 other witnesses to prove possession. It was Defendant's position",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.72,
+      255.47,
+      333.4,
+      273.88
+    ],
+    "text": "that he has prescribed to the land in dispute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.86,
+      287.86,
+      522.92,
+      306.27
+    ],
+    "text": "The learned District Judge has relied on evidence of Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.1,
+      320.5,
+      522.15,
+      338.9
+    ],
+    "text": "and other witnesses regarding possession. District Judge accept the version",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.1,
+      353.14,
+      522.22,
+      371.55
+    ],
+    "text": "of the Defendant of possession at least 15 years. There is also reference to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.198491096496582,
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.73,
+      385.78,
+      376.47,
+      404.19
+    ],
+    "text": "the case of Wijesinghe V s. Kulatunga 61 NLR 223.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.136762619018555,
+      13.532405853271484,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.74,
+      418.65,
+      521.97,
+      433.73
+    ],
+    "text": "A Crown grant given under the provisions of the Crown Grants (Authentication)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.14,
+      439.3,
+      521.98,
+      454.38
+    ],
+    "text": "Ordinance is not valid if it does not bear the signature of the \"counter signing officer\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719,
+      12.141935348510742
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.98,
+      459.93,
+      521.8,
+      475.01
+    ],
+    "text": "referred to in section 2(2). The fact, however, that the certificate bears the signature of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.97,
+      481.05,
+      521.98,
+      496.13
+    ],
+    "text": "Assistant Private Secretary to the Governor instead of that of the Private Secretary, is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.87,
+      501.93,
+      359.69,
+      517.01
+    ],
+    "text": "a ground for saying that the grant is bad on the face of it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.360786437988281,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.96,
+      522.81,
+      522.1,
+      537.89
+    ],
+    "text": "Where a Crown grant in respect of a field was given to certain persons in the year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.81,
+      543.69,
+      523.97,
+      558.77
+    ],
+    "text": "1928 but the contesting defendants and their predecessors in title had sole possession of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.73,
+      564.58,
+      479.79,
+      579.66
+    ],
+    "text": "the field from 1909 to 1947 without any acknowledgment of title in anyone else -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.635567665100098,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.94,
+      585.22,
+      521.82,
+      600.3
+    ],
+    "text": "Held, that, in spite of the Crown grant, the contesting defendants had a good",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.55,
+      605.61,
+      166.97,
+      620.68
+    ],
+    "text": "prescriptive title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      512.99,
+      34.01,
+      522.16,
+      49.12
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.46,
+      69.94,
+      521.57,
+      88.42
+    ],
+    "text": "Mere possession alone would not suffice. It is essential that a party who",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.005144119262695
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.51,
+      102.35,
+      521.53,
+      120.76
+    ],
+    "text": "relies on prescription prove and satisfy court that he has established the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.64,
+      134.74,
+      521.67,
+      153.15
+    ],
+    "text": "essential ingredients in Section 3 of the Prescription Ordinance, i.e adverse",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.62,
+      167.15,
+      521.65,
+      185.56
+    ],
+    "text": "and independence possession. This aspect of the law does not seem to have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.78,
+      199.55,
+      521.24,
+      217.96
+    ],
+    "text": "been considered by the learned District Judge. Further court should be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.711868286132812,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.62,
+      232.18,
+      522.51,
+      250.59
+    ],
+    "text": "cautious where a permit has been issued under the Land Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      264.58,
+      521.88,
+      282.99
+    ],
+    "text": "Ordinance, where such permit is not cancelled and is operative under the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      297.23,
+      147.92,
+      315.64
+    ],
+    "text": "Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.67,
+      329.15,
+      521.5,
+      347.56
+    ],
+    "text": "In all cases of prescription there must be a denial of title, an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.61,
+      361.54,
+      521.36,
+      379.95
+    ],
+    "text": "exclusion of the contesting owner and an adverse possession. 6 CWR at 225.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.92,
+      394.19,
+      522.09,
+      412.6
+    ],
+    "text": "In a case of this nature the starting point of possession must be clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.85,
+      426.58,
+      521.82,
+      444.99
+    ],
+    "text": "established. Trial Judge seems to have ignored this aspect. There is also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.86,
+      459.22,
+      518.62,
+      477.63
+    ],
+    "text": "evidence of consent and permission to cultivate given by the Plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.73,
+      491.38,
+      521.46,
+      509.79
+    ],
+    "text": "Appellant to Defendant-Respondent. Has any evidence transpired in court to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.83,
+      523.53,
+      522.14,
+      541.94
+    ],
+    "text": "change such position and make it adverse? To this mere possession would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.7,
+      556.18,
+      304.05,
+      574.59
+    ],
+    "text": "not alone establish a prescriptive right.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.86,
+      588.34,
+      521.45,
+      606.75
+    ],
+    "text": "In Juliana Hamine V s. Don Thomas 59 NLR 546 per L. W. de",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.462164878845215,
+      13.532405853271484,
+      13.691372871398926,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.23,
+      620.75,
+      522.08,
+      639.16
+    ],
+    "text": "Silva J .... when a witness giving evidence of prescriptive possession and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277,
+      16.130727767944336
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.03,
+      653.15,
+      491.91,
+      671.56
+    ],
+    "text": "states \"I possessed\" or \"we possessed\". The court should insist on those",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      513.0,
+      35.05,
+      521.92,
+      49.75
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.22,
+      70.96,
+      522.26,
+      88.7
+    ],
+    "text": "words being explained and exemplified. 21 NLR 321 followed the above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.988194465637207,
+      13.300000190734863,
+      13.398782730102539
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.86,
+      103.34,
+      522.05,
+      121.09
+    ],
+    "text": "dicta. (Full Bench). Thomas Vs. Thomas (1855-7 K & J. 79, 69 E.R 701)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.92,
+      135.75,
+      521.93,
+      153.49
+    ],
+    "text": "English Court held. \"Possession is never considered adverse if it can be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.082199096679688
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.73,
+      168.16,
+      229.21,
+      185.9
+    ],
+    "text": "referred to a lawful title\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.72,
+      200.3,
+      521.91,
+      218.05
+    ],
+    "text": "A person who wish to succeed in prescription must meet the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.72,
+      232.95,
+      521.37,
+      250.7
+    ],
+    "text": "requirement of high order of proof to establish adverse possession, and it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863,
+      13.471148490905762,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.98,
+      265.59,
+      522.08,
+      283.33
+    ],
+    "text": "his burden to prove. Navaratne Vs. Jayatunge 44 N.L.R 517 when one gives",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.03,
+      297.98,
+      525.14,
+      315.73
+    ],
+    "text": "permission to possess, unless the possessor get rid of his character of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.13,
+      330.39,
+      521.54,
+      348.13
+    ],
+    "text": "licensee by doing some overt act showing an intention to possess adversely,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.98,
+      362.8,
+      327.28,
+      380.54
+    ],
+    "text": "no prescriptive rights could be established.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.72,
+      395.2,
+      522.03,
+      412.94
+    ],
+    "text": "An allotee had sufficient title to bring a rei vindication action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.28,
+      427.58,
+      521.93,
+      445.33
+    ],
+    "text": "56 NLR 407. On death of an allottee succession can only be in terms of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.34188461303711,
+      14.00439739227295,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.92,
+      459.98,
+      333.82,
+      477.73
+    ],
+    "text": "Land Development Ordinance 62 NLR 213.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.398782730102539
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.91,
+      492.38,
+      522.27,
+      510.13
+    ],
+    "text": "In the above circumstances I hold that the Defendant's evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.16,
+      524.8,
+      521.74,
+      542.54
+    ],
+    "text": "led at the trial is not at all sufficient to prove prescriptive title. As such the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.18,
+      557.19,
+      524.36,
+      574.94
+    ],
+    "text": "learned District Judge has erred on the question of prescription. Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.74,
+      589.59,
+      522.05,
+      607.33
+    ],
+    "text": "holds a lawful permit under the Land Development Ordinance which had not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.77,
+      621.74,
+      479.57,
+      639.49
+    ],
+    "text": "been cancelled. Defendant cannot succeed since he does not have any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      515.4,
+      33.67,
+      523.73,
+      48.48
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.79,
+      68.84,
+      524.61,
+      87.12
+    ],
+    "text": "document to at least compare it with a permit issued under the Ordinance. I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.72,
+      100.77,
+      523.8,
+      119.05
+    ],
+    "text": "set aside the judgment of the learned District Judge. Appeal allowed with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.53,
+      132.93,
+      119.16,
+      151.2
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.16,
+      165.33,
+      253.49,
+      183.6
+    ],
+    "text": "Appeal allowed .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      300.96,
+      193.54,
+      499.95,
+      287.51
+    ],
+    "text": ". JJG~ ~ OF TJ~ OF APPEAL",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      29.809797286987305,
+      33.23458480834961,
+      45.476043701171875,
+      53.40010070800781
+    ]
+  }
+]

@@ -1,0 +1,5956 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      86.33,
+      71.06,
+      518.85,
+      87.26
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.64,
+      84.95,
+      347.03,
+      100.15
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.527190208435059,
+      11.622135162353516,
+      11.759820938110352
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.4,
+      264.79,
+      219.67,
+      293.75
+    ],
+    "text": "C.A 87111998 (F) D.C. Balapitiya No. 2017/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.34,
+      168.06,
+      391.7,
+      225.23
+    ],
+    "text": "G.L. Geethananda 31, Ramya Road, Colombo 4. (Deceased)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.100600242614746,
+      11.102250099182129,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.92,
+      250.82,
+      367.88,
+      267.02
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.98,
+      293.11,
+      318.35,
+      307.92
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.28,
+      335.11,
+      490.11,
+      349.92
+    ],
+    "text": "Swarnalatha Hemamalee Geethananda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.111544609069824
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.66,
+      348.79,
+      426.01,
+      391.2
+    ],
+    "text": "16/9, Nagahamulla Road, Thalangama South, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.11219310760498
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.82,
+      432.27,
+      455.48,
+      448.47
+    ],
+    "text": "SUBSTITUTED PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.41,
+      460.14,
+      519.66,
+      488.63
+    ],
+    "text": "(Appointed according to the Court of Appeal order on 13th October, 2011)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.893034934997559,
+      10.920092582702637,
+      11.100000381469727,
+      11.144311904907227,
+      11.91903305053711
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.27,
+      501.42,
+      317.64,
+      516.22
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.49,
+      543.17,
+      411.44,
+      557.99
+    ],
+    "text": "W. G. S. Nanayakkara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.102849960327148
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.25,
+      557.11,
+      385.69,
+      585.83
+    ],
+    "text": "13, Station Road, Ambalangoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.76,
+      612.27,
+      376.83,
+      628.47
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.72,
+      653.78,
+      362.92,
+      669.98
+    ],
+    "text": "BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.69,
+      555.72,
+      138.21,
+      571.79
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.39,
+      611.4,
+      146.99,
+      627.47
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.6,
+      70.08,
+      397.63,
+      85.28
+    ],
+    "text": "G.L. GeethananDA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.38,
+      83.76,
+      426.39,
+      126.55
+    ],
+    "text": "16/9, Nagahamulla Road, Thalangama South, Battaramulla.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.35,
+      139.43,
+      358.64,
+      155.36
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.51,
+      180.71,
+      490.51,
+      195.91
+    ],
+    "text": "Swarnalatha Hemamalee Geethananda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.38,
+      194.64,
+      426.39,
+      237.43
+    ],
+    "text": "16/9, Nagahamulla Road, Thalangama South, Battaramulla.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      278.04,
+      458.34,
+      308.28
+    ],
+    "text": "SUBSTITUTED-PLAINTIFF -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      512.55,
+      33.44,
+      521.97,
+      48.97
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.13,
+      319.68,
+      520.57,
+      348.55
+    ],
+    "text": "(Appointed according to the Court of Appeal order on 13th October, 2011)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.893034934997559,
+      11.06667709350586,
+      11.399999618530273,
+      12.07902717590332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.26,
+      555.83,
+      284.64,
+      571.03
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.21,
+      361.18,
+      318.46,
+      376.39
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.44,
+      402.71,
+      412.56,
+      417.92
+    ],
+    "text": "W. G. S. Nanayakkara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.238962173461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.21,
+      416.62,
+      386.55,
+      445.99
+    ],
+    "text": "13, Station Road, Ambalangoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.2,
+      472.68,
+      465.41,
+      488.75
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.16,
+      611.51,
+      486.85,
+      640.63
+    ],
+    "text": "Gamini Marapana P.C. with Keerthi Gunawardane and Navin Marapana for the Substituted-Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.15,
+      652.79,
+      423.86,
+      681.67
+    ],
+    "text": "G.D. Kulatilleke for the Defendant-Respondent instructed by S. Jayaweera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.238962173461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      512.27,
+      33.72,
+      520.9,
+      49.06
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.98,
+      83.89,
+      248.72,
+      99.71
+    ],
+    "text": "ARGUED ON: 13.02.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.52108097076416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.71,
+      125.4,
+      248.49,
+      140.98
+    ],
+    "text": "DECIDED ON: 17.05.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.559098243713379
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.82,
+      208.48,
+      185.17,
+      224.09
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.17225170135498,
+      11.252941131591797,
+      12.014521598815918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      155.4,
+      286.18,
+      524.18,
+      304.59
+    ],
+    "text": "This was a rei vindicatio action filed in the District Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.7,
+      318.83,
+      521.22,
+      337.24
+    ],
+    "text": "Balapitiya. Plaintiff-Appellant got only partial relief from the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.69,
+      351.7,
+      520.96,
+      370.11
+    ],
+    "text": "District Judge of Balapitiya i.e a declaration of title to the premises in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.63,
+      382.16,
+      521.31,
+      403.01
+    ],
+    "text": "dispute (prayer 'er' to the plaint). Trial Judge had however not granted",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.58762264251709
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.6,
+      416.01,
+      520.64,
+      434.43
+    ],
+    "text": "eviction and damages against the Defendant-Respondent as prayed for in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.50990104675293,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.54,
+      446.47,
+      521.44,
+      467.32
+    ],
+    "text": "prayer 'er>' & 'erz;' of the plaint. I do not wish to discuss the affinity between",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.635019302368164,
+      12.800000190734863,
+      13.04415512084961,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.39,
+      481.06,
+      522.04,
+      499.47
+    ],
+    "text": "an action rei-vindicatio and declaration of title in this judgment, but I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.531891822814941
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      513.46,
+      521.61,
+      531.87
+    ],
+    "text": "observe that one should not loose sight of the fact that this is an action for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.63,
+      545.86,
+      521.29,
+      564.27
+    ],
+    "text": "declaration of title, and need to consider the very basic principles applicable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.25,
+      578.01,
+      521.03,
+      596.43
+    ],
+    "text": "therein since the cause of action is more particularly based on eviction of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.22,
+      610.66,
+      521.0,
+      629.07
+    ],
+    "text": "Defendant-Respondent. (paragraph 4 & 5 of plaint). The question of tenancy",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.26,
+      642.81,
+      521.41,
+      661.23
+    ],
+    "text": "had been tested at the trial by way of evidence which led the Trial Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.2,
+      674.74,
+      520.89,
+      693.15
+    ],
+    "text": "Judge to deny eviction and damages for the Plaintiff-Appellant. In all these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      512.11,
+      34.42,
+      520.59,
+      49.5
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.86,
+      69.7,
+      521.2,
+      88.11
+    ],
+    "text": "circumstances I believe that the main question that has to be decided would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.76,
+      102.11,
+      520.72,
+      120.52
+    ],
+    "text": "be the legality of tenancy and or the continued possession of the premises in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.63,
+      134.26,
+      523.94,
+      152.67
+    ],
+    "text": "dispute by the Defendant, was legal or not? If the continued possession of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.24,
+      166.67,
+      520.92,
+      185.08
+    ],
+    "text": "the premises in dispute by the Defendant-Respondent was illegal, then the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.46,
+      198.82,
+      283.0,
+      217.23
+    ],
+    "text": "Respondent would be a trespasser?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.22,
+      231.47,
+      521.54,
+      249.88
+    ],
+    "text": "Parties proceeded to trial on 6 issues. Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.64,
+      264.35,
+      520.88,
+      282.76
+    ],
+    "text": "issue Nos. 3 - 5 suggest tenancy of Defendant under Plaintiffs father and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.24,
+      296.99,
+      521.39,
+      315.4
+    ],
+    "text": "the deposit of rents after the demise of Plaintiff s father in the Ambalangoda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.19,
+      329.14,
+      520.93,
+      347.55
+    ],
+    "text": "Local Authority (issue 4). As such Defendant seeks to establish continued",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.01,
+      361.3,
+      520.67,
+      379.71
+    ],
+    "text": "tenancy (issue N05). It is very apparent that the media in which the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.04719066619873
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.21,
+      393.94,
+      521.19,
+      412.34
+    ],
+    "text": "Defendant-Respondent thought it fit to approach this case at the very outset",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.03,
+      426.35,
+      520.77,
+      444.76
+    ],
+    "text": "was to deny title, but having realised the weakness of that position decided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.76,
+      458.75,
+      520.47,
+      477.16
+    ],
+    "text": "to accept title of Plaintiff, and to urge tenancy for Defendant's benefit (vide",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.82,
+      491.15,
+      520.89,
+      509.56
+    ],
+    "text": "proceedings of 17.8.1995) objecting to issue No.5 resulted in the case being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.134252548217773,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.52,
+      523.54,
+      523.22,
+      541.95
+    ],
+    "text": "taken to the Court of Appeal at a very initial stage as regards the burden of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.58,
+      555.94,
+      520.68,
+      574.35
+    ],
+    "text": "proof. The order of this court dated 24.11.1995 was very relevant and correct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.44,
+      588.34,
+      519.63,
+      606.75
+    ],
+    "text": "The said order deals with the correct and undisputed legal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.6,
+      620.49,
+      519.83,
+      638.91
+    ],
+    "text": "position. Hence evidence was led and commenced on behalf of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.49,
+      653.38,
+      520.32,
+      671.79
+    ],
+    "text": "Defendant at the trial which was more or less conceded by the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      512.51,
+      33.76,
+      521.68,
+      48.88
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.1,
+      69.94,
+      521.04,
+      88.35
+    ],
+    "text": "and order of the District Judge of 17.8.1995 was vacated directing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.95,
+      102.35,
+      315.19,
+      120.76
+    ],
+    "text": "Defendant-Respondent to begin the trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.67,
+      134.51,
+      521.56,
+      152.92
+    ],
+    "text": "I would initially refer to the position taken up by the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.86,
+      167.15,
+      521.03,
+      185.56
+    ],
+    "text": "Counsel for the Respondent as regards the question of attornment at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.74,
+      199.3,
+      517.69,
+      217.78
+    ],
+    "text": "hearing before this court. It was his submission that such a position, re-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.797621726989746,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      231.47,
+      521.26,
+      249.88
+    ],
+    "text": "attornment, cannot be considered by the Appellate Court since it was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.73,
+      263.86,
+      521.12,
+      282.27
+    ],
+    "text": "raised as an issue in the Original Court, and that it is raised for the first time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.89,
+      296.5,
+      520.93,
+      314.98
+    ],
+    "text": "in appeal and as such invited this court to reject such a legal concept. It was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.005144119262695
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.62,
+      328.91,
+      521.03,
+      347.32
+    ],
+    "text": "also the position of the learned counsel for the Respondent that if the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.63,
+      361.3,
+      517.66,
+      379.71
+    ],
+    "text": "question of attornment was raised in the District Court Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.45,
+      393.47,
+      521.18,
+      411.88
+    ],
+    "text": "Respondent could have led more evidence and the learned District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.61,
+      425.86,
+      521.16,
+      444.27
+    ],
+    "text": "could have given his mind to this aspect of the case. In view of this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.62,
+      458.5,
+      521.23,
+      476.9
+    ],
+    "text": "objection, it would be necessary at the outset to examine the evidence led at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.24,
+      490.91,
+      492.98,
+      509.32
+    ],
+    "text": "the trial and submissions both oral and written of the Plaintiff-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.25,
+      523.06,
+      520.4,
+      541.48
+    ],
+    "text": "Appellant's father had by deed of gift P2 gifted the premises in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.50990104675293,
+      13.701196670532227,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.39,
+      555.94,
+      520.86,
+      574.35
+    ],
+    "text": "dispute to the Appellant on or about 1979. Father expired on 12.10.1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.36,
+      588.34,
+      515.16,
+      606.75
+    ],
+    "text": "(P3). Thereupon the Appellant by letter of 7.6.1981 (P4 Pg. 64 -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.3,
+      620.49,
+      521.24,
+      638.91
+    ],
+    "text": "proceedings of 31.3.1997) informed the Respondent about the appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.36,
+      652.65,
+      521.26,
+      671.06
+    ],
+    "text": "father's death and requested the Respondent to attorne to him and accept",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      511.54,
+      33.48,
+      520.17,
+      48.82
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.26,
+      69.47,
+      520.31,
+      87.88
+    ],
+    "text": "him as land lord as from 1980. On examining this letter I find that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.38,
+      101.86,
+      213.42,
+      120.27
+    ],
+    "text": "contents ofP4 refer to:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.148158073425293
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.14,
+      134.32,
+      254.2,
+      149.93
+    ],
+    "text": "(a) Death of Appellant's father",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.15,
+      155.2,
+      374.63,
+      170.81
+    ],
+    "text": "(b) Property gifted to him by father and he is the owner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.14,
+      176.07,
+      399.7,
+      191.68
+    ],
+    "text": "(c) To accept Applicant as landlord as from November 1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.14,
+      196.71,
+      340.66,
+      212.32
+    ],
+    "text": "(d) To pay rent to Appellant and obtain a receipt.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.14,
+      217.59,
+      520.03,
+      233.2
+    ],
+    "text": "(e) Pay arrears of rent and if rent had been deposited since 1977 in the local authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.177169799804688,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.51,
+      238.47,
+      400.26,
+      254.08
+    ],
+    "text": "to give the relevant period and to pay such arrears of rent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.16,
+      259.36,
+      365.23,
+      274.97
+    ],
+    "text": "(\u00b1) Copy ofletter sent to private address of addressee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.576506614685059,
+      11.690596580505371,
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      118.92,
+      300.35,
+      519.94,
+      318.76
+    ],
+    "text": "There had been no objection to producing and marking letter P4.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.21,
+      332.75,
+      521.05,
+      351.16
+    ],
+    "text": "Registered postal article to prove dispatch of P4 had been produced P4a (not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.39,
+      365.37,
+      520.03,
+      383.79
+    ],
+    "text": "objected). Learned President's Counsel submitted to this court that letter P4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.701196670532227,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.26,
+      397.79,
+      520.55,
+      416.2
+    ],
+    "text": "was not denied or objected and that there was no reply or response by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.45,
+      430.19,
+      520.92,
+      448.67
+    ],
+    "text": "Respondent to P4. It was the position of the Appellant that since there was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.005144119262695,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.25,
+      462.58,
+      519.25,
+      480.99
+    ],
+    "text": "no reply or response to P4, Appellant sent another letter dated 01.10.1981",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.36,
+      494.75,
+      520.89,
+      513.16
+    ],
+    "text": "(P7) inviting the attention of the Respondent to P4 and reiterated his position",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.38,
+      527.15,
+      520.42,
+      545.56
+    ],
+    "text": "and requested for arrears of rent. P7 also refer to mistakenly inserting as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.1,
+      559.54,
+      520.18,
+      577.95
+    ],
+    "text": "N.S.G (initials of Appellant) when it ought to be W.S.G. There had been no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.762800216674805,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.39,
+      591.94,
+      520.83,
+      610.35
+    ],
+    "text": "objection to P7 and Appellant also state that the relevant postal article was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.31,
+      624.58,
+      520.41,
+      643.06
+    ],
+    "text": "produced marked P7 A. It is the position of the Appellant that the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.599645614624023,
+      13.730775833129883,
+      13.800000190734863,
+      14.005144119262695,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.19,
+      656.75,
+      521.01,
+      675.16
+    ],
+    "text": "Respondent continued to occupy the premises in question without attorning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.99,
+      688.65,
+      520.55,
+      707.07
+    ],
+    "text": "to the Appellant and paying the arrears of rent. Appellant emphasis that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      513.24,
+      33.43,
+      521.57,
+      48.24
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.65,
+      69.22,
+      521.44,
+      87.63
+    ],
+    "text": "Respondent willfully ignored and completely ignored the requests made in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.66,
+      101.39,
+      521.75,
+      119.8
+    ],
+    "text": "P4 & P7 and acted in breach of the contract of tenancy. If so, is the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.730775833129883,
+      13.800000190734863,
+      14.250448226928711,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.17,
+      133.78,
+      220.31,
+      152.19
+    ],
+    "text": "Defendant a trespasser?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.22,
+      166.35,
+      520.78,
+      181.82
+    ],
+    "text": "ATTORNMENT - Stroud's Judicial Dictionary of Words and Phrases - Sixth Ed. Vol.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.711711883544922,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.04,
+      186.97,
+      521.04,
+      202.45
+    ],
+    "text": "1 pg. 217 ... '''Attornment' signifies the tenant's acknowledgment of a new 10rd\"(Cowel).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.02,
+      207.86,
+      522.08,
+      223.33
+    ],
+    "text": "\"Attornment' is an agreement of the tenant to the grant of the seigniorie, or of a rent, or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.12,
+      228.5,
+      521.8,
+      243.97
+    ],
+    "text": "of the donee in tayle, or tenant for life or yeeres, to a grant of a reversion or remainder",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.316285133361816
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.98,
+      249.62,
+      520.55,
+      265.09
+    ],
+    "text": "made to another\" (Co. LITT. 309, A: TOUCH. 253; see hereon VOODFALL; Termes de",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.560833930969238,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.38,
+      270.26,
+      122.91,
+      285.74
+    ],
+    "text": "la Ley).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155.97,
+      290.74,
+      475.61,
+      309.15
+    ],
+    "text": "At this stage I wish to mention and stress that tenancy is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.1,
+      323.14,
+      521.49,
+      341.55
+    ],
+    "text": "a contract. The question is whether the Respondent tenant has repudiated the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.31,
+      355.55,
+      522.0,
+      373.96
+    ],
+    "text": "fundamental obligation of tenancy. In these circumstances can court impose",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.12,
+      388.17,
+      522.57,
+      406.58
+    ],
+    "text": "on parties a contractual relationship which the Tenant-Respondent reject or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.0,
+      420.33,
+      521.48,
+      438.75
+    ],
+    "text": "refuse to accept or attorn with the Appellant. If the tenant reject and refuse to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.250448226928711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.09,
+      452.49,
+      521.5,
+      470.9
+    ],
+    "text": "accept the landlord (Appellant) then the Appellant could elect to treat the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.69,
+      484.89,
+      303.06,
+      503.3
+    ],
+    "text": "Defendant-Respondent as a trespasser.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      155.62,
+      517.78,
+      521.27,
+      536.19
+    ],
+    "text": "On the other hand can the tenant merely ignore the rights of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.75,
+      550.18,
+      522.08,
+      568.59
+    ],
+    "text": "new owner who got title on a deed of gift and continue to deposit rent in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.12,
+      582.59,
+      521.13,
+      601.0
+    ],
+    "text": "local authority under the name of the former landlord? Tenancy need to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.54,
+      614.74,
+      521.48,
+      633.15
+    ],
+    "text": "proved, and agreement to continue tenancy must also be proved. Parties need",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.48,
+      646.9,
+      520.52,
+      665.31
+    ],
+    "text": "to be or were ad idem as to terms, unless there is waiver that could be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.711868286132812,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.88,
+      679.3,
+      516.96,
+      697.71
+    ],
+    "text": "inferred. Mere acceptance of rent cannot create a new tenancy or agreement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      512.51,
+      33.66,
+      521.77,
+      48.91
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.49,
+      69.33,
+      520.83,
+      87.61
+    ],
+    "text": "At this point I would prefer to deal with the evidence led at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.48,
+      101.49,
+      521.87,
+      119.76
+    ],
+    "text": "trial and consider the authorities cited by counsel to decide on it's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.63,
+      134.12,
+      159.1,
+      152.4
+    ],
+    "text": "applicability.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.49,
+      166.28,
+      520.88,
+      184.55
+    ],
+    "text": "Witness Kamalasiri from the local authority (called by Defendant) in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.51,
+      198.44,
+      520.44,
+      216.72
+    ],
+    "text": "his evidence on 22.8.1996 state briefly as follows (The gist narrated as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.61,
+      230.83,
+      135.4,
+      249.11
+    ],
+    "text": "follows):",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.38,
+      263.33,
+      475.08,
+      279.08
+    ],
+    "text": "(a) owner G.L. Podisingho De Silva (Appellant's father) as in document V3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.39,
+      284.21,
+      520.48,
+      299.96
+    ],
+    "text": "(b) Payment made to above person named in the document V3 after 1978. If there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.694276809692383,
+      11.800000190734863,
+      12.223548889160156
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.74,
+      305.34,
+      314.37,
+      321.08
+    ],
+    "text": "was a change the ledger would indicate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.39,
+      325.96,
+      520.07,
+      341.71
+    ],
+    "text": "(c) VI - claim form refer to Podisingho Silva. Rent paid to G.L. Podisingho. But the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.78,
+      346.85,
+      413.49,
+      362.6
+    ],
+    "text": "basis of payment cannot be ascertained from the documents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.38,
+      367.48,
+      483.85,
+      383.22
+    ],
+    "text": "(d) During 1978 to 1984 payments made by W.G.S.Nanayakkara (Defendant).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.37,
+      388.36,
+      471.99,
+      404.1
+    ],
+    "text": "(e) Documents does not indicate in whose name money had been deposited.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.14,
+      409.25,
+      520.43,
+      425.03
+    ],
+    "text": "(f) Ledger state the name of tenant but not landlord. It is a lapse on the part of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.707071304321289,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.9,
+      430.13,
+      194.52,
+      445.87
+    ],
+    "text": "local authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.14,
+      451.25,
+      520.25,
+      467.0
+    ],
+    "text": "(g) By V2 Plaintiff withdrew a sum of Rs. 1960/20 in August 1984 from the local",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.384389877319336,
+      11.694276809692383,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.65,
+      471.89,
+      167.87,
+      487.63
+    ],
+    "text": "authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.15,
+      492.76,
+      522.31,
+      508.51
+    ],
+    "text": "(h) By V2 (ff\u00bb Plaintiff authorised G.L.P. De Silva to collect the cheque on his behalf",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.695321083068848,
+      11.694276809692383,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.86,
+      513.64,
+      238.67,
+      529.38
+    ],
+    "text": "from the local authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.13,
+      534.29,
+      520.16,
+      550.07
+    ],
+    "text": "(i) V3 & V4 wich the Appellant remarks as fabricated documents. Not certified in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.487256050109863,
+      11.79640007019043,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.73,
+      555.4,
+      520.15,
+      571.15
+    ],
+    "text": "terms of Section 76 of the Evidence Ordinance - V 4 Defendant deposit rent in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.769862174987793,
+      11.800000190734863,
+      12.154815673828125,
+      12.422006607055664
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.71,
+      576.28,
+      206.75,
+      592.03
+    ],
+    "text": "Plaintiffs favour.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.25,
+      617.49,
+      333.14,
+      635.77
+    ],
+    "text": "V3 is a deposit in Plaintiffs father's favour.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.4558744430542,
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.24,
+      649.88,
+      520.7,
+      668.16
+    ],
+    "text": "When I look at the entire evidence of the witness called by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82.98,
+      682.04,
+      520.59,
+      700.31
+    ],
+    "text": "Defendant, a Clerk from the Local Authority, it is doubtful whether any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      512.03,
+      33.73,
+      520.65,
+      49.07
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.74,
+      70.19,
+      520.76,
+      88.6
+    ],
+    "text": "reliance could be placed on that evidence which at a certain point tend to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.08,
+      102.11,
+      520.72,
+      120.52
+    ],
+    "text": "favour the Defendant -Respondent. There seems to be no consistency in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.61,
+      134.5,
+      520.64,
+      152.91
+    ],
+    "text": "evidence of the witness. Even the trial Judge refer to the lapses of the local",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.62,
+      166.9,
+      521.81,
+      185.31
+    ],
+    "text": "authority witness but prefer not to damage the case of Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.62,
+      199.05,
+      520.89,
+      217.47
+    ],
+    "text": "or hold against him for the lapses of the witness. In law should the court take",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.49,
+      231.46,
+      517.65,
+      249.87
+    ],
+    "text": "this attitude? Other important question is as to why the Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.44,
+      263.87,
+      521.66,
+      282.28
+    ],
+    "text": "Respondent the so called tenant preferred not to give evidence? A court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.38,
+      296.26,
+      521.3,
+      314.67
+    ],
+    "text": "could if necessary draw inferences on Defendant-Tenants failure to give",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.522629737854004
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.36,
+      328.67,
+      293.02,
+      347.08
+    ],
+    "text": "evidence? Is it deliberate avoidance?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.9,
+      361.55,
+      521.18,
+      379.97
+    ],
+    "text": "The position of the Defendant-Respondent seems to be to blow",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.26,
+      393.7,
+      521.55,
+      412.11
+    ],
+    "text": "hot and cold and adjust the case as and when the Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.14,
+      425.85,
+      520.17,
+      444.27
+    ],
+    "text": "chooses to do so. If one looks at the answer Defendant denied Plaintiff title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.36,
+      458.5,
+      521.29,
+      476.91
+    ],
+    "text": "(By denying paragraphs 2/3 of plaint). If it is so the Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277,
+      14.41523551940918
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.4,
+      490.9,
+      520.72,
+      509.31
+    ],
+    "text": "is not a tenant but a trespasser. However parties proceeded to trial on issues",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.14,
+      523.05,
+      520.72,
+      541.46
+    ],
+    "text": "and when issues are raised pleadings recede to the background. Then with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.74,
+      555.46,
+      520.31,
+      573.87
+    ],
+    "text": "the issues a gradual shift took place. Issue Nos. 4 & 5 suggest that with the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.14,
+      588.1,
+      520.66,
+      606.51
+    ],
+    "text": "death of Plaintiffs father rent deposited with the Local authority and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.72,
+      620.25,
+      523.22,
+      638.67
+    ],
+    "text": "Defendant became the tenant of Plaintiff. The Court of Appeal order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.96,
+      652.42,
+      519.95,
+      670.83
+    ],
+    "text": "24.11.1995 is also relevant in the circumstances of the case. (need not be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.79,
+      684.59,
+      520.22,
+      703.0
+    ],
+    "text": "repeated). Only when a challenge to Defendant-Respondents denial to title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      507.69,
+      33.83,
+      521.0,
+      49.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.339991569519043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.44,
+      69.47,
+      521.85,
+      87.88
+    ],
+    "text": "took place by Plaintiff-Appellant that adjustments were made to enable the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.48,
+      101.86,
+      518.92,
+      120.27
+    ],
+    "text": "party Defendant to continue with the case. defendant never directly admitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.43,
+      134.26,
+      522.08,
+      152.67
+    ],
+    "text": "Plaintiff-Respondent title. Respondent indirectly or reluctantly accepted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.29,
+      166.43,
+      524.66,
+      184.84
+    ],
+    "text": "plaintiff as the landlord at a subsequent stage to meet the challenge and of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.2,
+      198.82,
+      271.69,
+      217.23
+    ],
+    "text": "the risk of rejection of her rights.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      155.92,
+      231.23,
+      521.36,
+      249.64
+    ],
+    "text": "Defendant-Respondent always took cover under the local",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.34,
+      263.86,
+      521.5,
+      282.27
+    ],
+    "text": "authority. (even if the law provides) and resorted to indirect methods to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.27,
+      296.01,
+      522.01,
+      314.43
+    ],
+    "text": "prove tenancy. Section 21(3) of the Rent Act contemplates the authorized",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.01,
+      328.19,
+      521.84,
+      346.6
+    ],
+    "text": "person to give a written acknowledgement of every payment of rent and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.96,
+      360.81,
+      521.33,
+      379.23
+    ],
+    "text": "transmit the amount in such payment to the ladlord of the premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.17,
+      393.47,
+      521.56,
+      411.88
+    ],
+    "text": "However from November 1980 up to the time this case was filed or heard no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.743534088134766,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.02,
+      425.62,
+      524.9,
+      444.04
+    ],
+    "text": "payments were sent by the authority to the Plaintiff. Document PI of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.31,
+      458.02,
+      521.73,
+      476.43
+    ],
+    "text": "6.1.1992 confirm this position when this authority required the Plaintiff to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.02,
+      490.42,
+      521.42,
+      508.83
+    ],
+    "text": "prove title and obtain the rents deposited. Witness of the Defendant was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.01,
+      522.82,
+      521.51,
+      541.23
+    ],
+    "text": "unable to correctly explain as to why Plaintiff s name did not appear in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.36,
+      555.47,
+      521.25,
+      573.88
+    ],
+    "text": "ledger maintained by the local authority. Nor could the witness explain as to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.97,
+      587.62,
+      521.61,
+      606.03
+    ],
+    "text": "why rents deposited could not be sent to Plaintiff. (in compliance with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.23,
+      620.02,
+      521.29,
+      638.43
+    ],
+    "text": "Section 21 (3). There is no doubt that if Plaintiff was accepted as landlord by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.097099304199219,
+      13.730775833129883,
+      13.800000190734863,
+      14.163999557495117
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.72,
+      652.42,
+      521.27,
+      670.83
+    ],
+    "text": "the Defendant the Plaintiff s name and address were disclosed to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      83.86,
+      684.57,
+      521.61,
+      702.99
+    ],
+    "text": "authority, rents deposited could have been sent to Plaintiff. This clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.84,
+      33.52,
+      518.37,
+      48.64
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.801173210144043
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.65,
+      69.96,
+      517.4,
+      87.43
+    ],
+    "text": "indicates the reluctance of Defendant-Respondent to accept Plaintiff-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.898701667785645
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.49,
+      102.37,
+      519.06,
+      119.99
+    ],
+    "text": "Appellant as landlord, but merely tried to take advantage of the letters P4 &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.100000381469727,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.22,
+      134.76,
+      520.89,
+      152.23
+    ],
+    "text": "P7 (paragraphs 11 & 12 of the Written Submission of Respondent) and to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300024032592773,
+      13.100000381469727,
+      13.898701667785645,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.38,
+      166.93,
+      520.81,
+      184.4
+    ],
+    "text": "demonstrate tenancy between parties. One has to really understand the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.25,
+      199.09,
+      520.48,
+      216.71
+    ],
+    "text": "meaning and purpose of dispatch of letters P4 & P7 and it's contents. It is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.100000381469727,
+      13.129866600036621,
+      13.420431137084961,
+      13.480392456054688,
+      13.898701667785645,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.25,
+      231.23,
+      521.14,
+      248.71
+    ],
+    "text": "nothing but a request to attorn and nothing else. P4 & P7 was never replied",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.151449203491211
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.29,
+      263.63,
+      520.59,
+      281.11
+    ],
+    "text": "by Defendant. As such no contract of tenancy could be at least presumed,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.898701667785645
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.29,
+      296.28,
+      176.57,
+      313.76
+    ],
+    "text": "between parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      154.63,
+      328.92,
+      520.97,
+      346.48
+    ],
+    "text": "It would not be possible to reject the concept of attornent in law",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.683144569396973,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.8,
+      361.09,
+      520.51,
+      378.71
+    ],
+    "text": "having not objected to documents P4 & P7. The said documents are",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.9,
+      393.23,
+      520.66,
+      410.71
+    ],
+    "text": "admissible and is evidence for all purposes of the case and law. (vide",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.898701667785645
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.73,
+      425.63,
+      520.92,
+      443.11
+    ],
+    "text": "Jugolinija V s. Boal East 1981 (1) SLR 18 at 24) Therefore this court will not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.977073669433594,
+      13.100000381469727,
+      13.190190315246582
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      83.05,
+      458.28,
+      520.47,
+      475.76
+    ],
+    "text": "be in a position to entertain the submissions of learned counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.74,
+      490.68,
+      520.5,
+      508.16
+    ],
+    "text": "Respondent that Appellant cannot be permitted to take it up in appeal. This",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.89,
+      523.08,
+      523.3,
+      540.56
+    ],
+    "text": "court is concerned more particularly to decide the question of legality of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.58,
+      555.73,
+      516.68,
+      573.2
+    ],
+    "text": "possession of Defendant-Respondent in the premises in dispute. Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.49,
+      587.87,
+      520.18,
+      605.35
+    ],
+    "text": "Respondent failure to attorn in the Plaintiff-Appellant amounts to illegal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.35,
+      620.05,
+      520.24,
+      637.52
+    ],
+    "text": "possession and as such the Respondent is a trespasser. Therefore I am unable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.31,
+      652.19,
+      520.19,
+      669.67
+    ],
+    "text": "to agree with the learned District Judge's reasoning and judgment. Nor can I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.14791202545166,
+      13.164640426635742
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.42,
+      684.36,
+      522.74,
+      701.83
+    ],
+    "text": "accept the submission of learned Counsel for Respondent that the case of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.898701667785645,
+      14.029242515563965
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      506.5,
+      32.93,
+      519.49,
+      48.68
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399038314819336
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.38,
+      68.98,
+      519.64,
+      87.39
+    ],
+    "text": "Gunasekera Vs. Jinadasa 1996(2) SLR 116 has no relevance or differ from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.26,
+      100.91,
+      521.59,
+      119.32
+    ],
+    "text": "the case in hand. A request to obtain rents deposited in the local authority or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.76,
+      133.3,
+      520.66,
+      151.71
+    ],
+    "text": "to authorize persons to collect the rent deposit on behalf of Plaintiff does not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.13,
+      165.71,
+      520.64,
+      184.12
+    ],
+    "text": "create a new tenancy, Mere acceptance would not be advantages to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.98,
+      198.1,
+      520.93,
+      216.51
+    ],
+    "text": "tenant. In a contract of tenancy the contract and tenancy must be properly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.15,
+      230.74,
+      520.72,
+      249.15
+    ],
+    "text": "and correctly proved. The deposit of rent does not discharge tenants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.15,
+      263.15,
+      210.17,
+      281.56
+    ],
+    "text": "obligation to landlord.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.18,
+      295.3,
+      407.64,
+      313.71
+    ],
+    "text": "In Kurukulasuriya Vs. RanMenika 1990(1) SLR 331 .....",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.704670906066895,
+      13.793949127197266,
+      13.800000190734863,
+      13.80639934539795
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.97,
+      327.7,
+      509.11,
+      346.11
+    ],
+    "text": "Her Ladyship Bandaranayake J. referring to the contract of tenancy said ...",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.543567657470703,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.06,
+      360.77,
+      520.27,
+      376.52
+    ],
+    "text": "\"This being so the ratio decidendi in the case of Vincent Vs. Sumanasena (supra) would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.91,
+      381.4,
+      522.62,
+      397.15
+    ],
+    "text": "apply. The acceptance of rent in the present circumstances does not amount to a waiver of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.77,
+      402.28,
+      519.94,
+      418.03
+    ],
+    "text": "the notice. Once the contractual tenancy is ended by notice, the landlord loses no rights in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.94,
+      422.93,
+      519.48,
+      438.68
+    ],
+    "text": "accepting rent from the statutory tenant. The mere acceptance of rent is insufficient to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.92,
+      444.05,
+      519.86,
+      459.86
+    ],
+    "text": "create a new tenancy. The agreement to continue the tenancy must be proved. It must be",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.547343254089355,
+      11.740449905395508,
+      11.777128219604492,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.11,
+      464.93,
+      520.63,
+      480.68
+    ],
+    "text": "shown that the parties were ad idem as to the terms. A waiver of a notice to quit cannot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.81,
+      485.8,
+      520.47,
+      501.55
+    ],
+    "text": "be presumed. Fernando vs. Samaraweera (8); Attorney General vs. Ediriwickremasuriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.777128219604492,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.91,
+      506.44,
+      520.13,
+      522.19
+    ],
+    "text": "(9); Virasinghe vs. Peiris (10); Dias vs. Gomes (11); Perera vs. Magie (12). Acceptance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.92,
+      527.08,
+      519.44,
+      542.83
+    ],
+    "text": "of rent for a period subsequent to the notice revives the tenancy only if from the facts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.229098320007324
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.91,
+      547.73,
+      519.86,
+      563.48
+    ],
+    "text": "established an intention to waive can reasonably be inferred. Every such payment does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.02,
+      568.6,
+      461.55,
+      584.35
+    ],
+    "text": "not ipso facto amount to a revival. Eastern Hardware Stores vs. Fernando (5)\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      154.7,
+      613.78,
+      520.29,
+      632.19
+    ],
+    "text": "In my concluding remarks I refer to the above mentioned case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.9,
+      646.42,
+      520.6,
+      664.83
+    ],
+    "text": "of Gunasekera V s. Jinadasa which is relevant to the case in hand in every",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.319276809692383,
+      13.67775821685791,
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      82.78,
+      678.1,
+      520.18,
+      696.51
+    ],
+    "text": "respect which has considered a variety of matters, all of which could be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      507.0,
+      33.41,
+      519.36,
+      49.16
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.117566108703613
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.63,
+      70.23,
+      521.01,
+      87.97
+    ],
+    "text": "connected to the case in hand. The purpose and meaning of P7 & P4 does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.85,
+      102.64,
+      520.96,
+      120.38
+    ],
+    "text": "establish tenancy or a contract between the parties unless attorn with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.327471733093262
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.46,
+      135.03,
+      520.66,
+      152.77
+    ],
+    "text": "Plaintiff. Appellant; for which there was no response. Resulting position is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.27,
+      166.96,
+      517.66,
+      184.7
+    ],
+    "text": "to reject any further tenancy between parties and make Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.23,
+      199.1,
+      263.08,
+      216.85
+    ],
+    "text": "Respondents possession illegal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.43,
+      231.28,
+      256.15,
+      249.02
+    ],
+    "text": "In Gunasekera vs. Jinadasa ....",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.475689888000488
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.94,
+      263.56,
+      519.9,
+      279.31
+    ],
+    "text": "The premises were let in 1960 by the Plaintiff Respondent Appellants' father to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.78,
+      284.45,
+      520.57,
+      300.2
+    ],
+    "text": "the father of the Defendant Appellant Respondent. Later in 1970, the Plaintiff's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.91,
+      305.56,
+      520.04,
+      321.31
+    ],
+    "text": "father gifted the premises to him, but they neither informed the Defendant's father",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.02,
+      326.21,
+      519.82,
+      341.96
+    ],
+    "text": "nor called him to attorn, the latter died in 1973, the Defendant then attorned to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.99,
+      347.09,
+      519.48,
+      362.84
+    ],
+    "text": "Plaintiff's father, the Defendant continued to pay rent to the Plaintiff's father;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.54,
+      367.96,
+      520.16,
+      383.71
+    ],
+    "text": "when the Plaintiff's father refused to accept rent from 1980, the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.68,
+      388.84,
+      518.96,
+      404.59
+    ],
+    "text": "deposited the rent with the authorized person, to the credit of the Plaintiff's father.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.7,
+      409.49,
+      520.07,
+      425.24
+    ],
+    "text": "The father and son by their letter of 23.10.81, informed the Defendant of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.46,
+      430.12,
+      519.12,
+      445.87
+    ],
+    "text": "Transfer and called upon him to pay rent to the Plaintiff with effect from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.34,
+      451.0,
+      519.51,
+      466.75
+    ],
+    "text": "16.11.81. The Defendant did not reply but continued to occupy the premises, he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739947319030762,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.69,
+      471.88,
+      519.82,
+      487.63
+    ],
+    "text": "deposited the rent in the father's name and continued to do so even after his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.45,
+      492.52,
+      203.56,
+      508.26
+    ],
+    "text": "answer was filed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.47,
+      534.52,
+      519.96,
+      550.27
+    ],
+    "text": "The Plaintiff instituted vindicatory action, the Trial Judge held that both the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.27,
+      555.65,
+      519.29,
+      571.4
+    ],
+    "text": "Plaintiff and his father had called upon the Defendant to attorn, to the plaintiff and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.31,
+      576.28,
+      519.41,
+      592.03
+    ],
+    "text": "that the Defendant having failed to attorn to the Plaintiff was a trespasser, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.46,
+      596.92,
+      272.22,
+      612.67
+    ],
+    "text": "gave judgment for the Plaintiff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.2,
+      638.69,
+      519.69,
+      654.44
+    ],
+    "text": "On appeal the Court of Appeal reversed the judgment, holding that the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.07,
+      659.32,
+      519.0,
+      675.07
+    ],
+    "text": "had become aware of the Plaintiff's title in 1973, and that the father continued to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      117.96,
+      679.96,
+      496.81,
+      695.71
+    ],
+    "text": "collect rent as the Plaintiffs agent, and that the Defendant had not deliberately",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.74,
+      152.69,
+      110.84,
+      168.44
+    ],
+    "text": "Held:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      506.01,
+      33.8,
+      519.37,
+      48.74
+    ],
+    "text": "14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.78,
+      69.64,
+      519.9,
+      85.39
+    ],
+    "text": "refused to accept him as landlord and had not refused to pay him rent; and that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.52,
+      90.28,
+      519.26,
+      106.02
+    ],
+    "text": "therefore the Defendant had not been transformed from a tenant into a trespasser;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.67,
+      111.16,
+      169.68,
+      126.9
+    ],
+    "text": "on appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.75,
+      173.32,
+      159.11,
+      189.07
+    ],
+    "text": "Per Fernando 1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.09988021850586,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.58,
+      214.84,
+      519.92,
+      230.59
+    ],
+    "text": "\"I do not agree that simply because the Rent Act now gives tenants more extensive",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.799599647521973,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.57,
+      235.49,
+      519.57,
+      251.24
+    ],
+    "text": "privileges, the common law should now be interpreted differently, either to assist the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.51,
+      256.37,
+      519.25,
+      272.11
+    ],
+    "text": "transferee or the occupier, the question before us must be approached without any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.55,
+      277.49,
+      519.32,
+      293.24
+    ],
+    "text": "predisposition towards an interpretation which would favour either Plaintiffs or owners,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.69,
+      298.37,
+      339.77,
+      314.11
+    ],
+    "text": "on the one had or Defendants or tenants on the other.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      100.67,
+      339.88,
+      519.71,
+      355.63
+    ],
+    "text": "(j) While it is legitimate initially to infer attornment from continued occupation, thus",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.93,
+      360.52,
+      522.14,
+      376.27
+    ],
+    "text": "establishing privity of contract between the parties, another principle of law of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.92,
+      381.4,
+      522.14,
+      397.15
+    ],
+    "text": "contract comes into play in such circumstances to which the presumption of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.92,
+      402.28,
+      519.1,
+      418.03
+    ],
+    "text": "attornment must sometimes yield. When the occupier persists in conduct which is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      119.15,
+      423.4,
+      519.99,
+      439.15
+    ],
+    "text": "fundamentally inconsistent with a contract of tenancy, and amounts to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      119.03,
+      444.28,
+      519.45,
+      460.03
+    ],
+    "text": "repudiation of that presumed contract the transferee has the option either to treat",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.99,
+      465.16,
+      519.8,
+      480.91
+    ],
+    "text": "the tenancy as subsisting and to sue for arrears of rent and ejectment or to accept",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.77,
+      485.8,
+      519.76,
+      501.55
+    ],
+    "text": "the occupiers repudiation of the tenancy and to proceed against him as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.53,
+      506.22,
+      171.0,
+      521.96
+    ],
+    "text": "trespasser.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      82.51,
+      547.73,
+      158.63,
+      563.48
+    ],
+    "text": "Per Fernando 1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.09988021850586,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.1,
+      589.73,
+      519.1,
+      605.48
+    ],
+    "text": "\"The court must not apply the presumption of attornment as a trap for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      117.8,
+      610.6,
+      521.48,
+      626.35
+    ],
+    "text": "transferee, allowing the occupier who fails to fulfil the obligation of a tenant, if",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.047895431518555,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      117.84,
+      631.48,
+      518.8,
+      647.23
+    ],
+    "text": "used on the tenancy, to disclaim tenancy and assert that he can only be sued for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      117.95,
+      652.12,
+      519.38,
+      667.87
+    ],
+    "text": "ejectment and damages in a vindicatory action, but if faced with an action based",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.229098320007324
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      117.97,
+      672.53,
+      519.11,
+      688.27
+    ],
+    "text": "on title to claim that notwithstanding his conduct he is an tenant and can only be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.15,
+      693.4,
+      519.26,
+      709.15
+    ],
+    "text": "sued in a tenancy action, since it is the occupiers conduct which gives rise to such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      506.52,
+      32.47,
+      518.88,
+      48.48
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.211386680603027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.04,
+      69.76,
+      520.18,
+      85.37
+    ],
+    "text": "uncertainty, equitable considerations confinn the option which the law of contract",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      118.94,
+      90.64,
+      229.86,
+      106.25
+    ],
+    "text": "gives to the transferee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      118.89,
+      111.27,
+      519.88,
+      126.88
+    ],
+    "text": "(ii) Payment to the authoirsed person in the name of the person who is not the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      118.96,
+      131.91,
+      437.52,
+      147.52
+    ],
+    "text": "landlord does not discharge the tenants obligation to the landlord.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      154.94,
+      172.67,
+      520.31,
+      191.08
+    ],
+    "text": "In all the circumstances of this case and considering all the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.793949127197266,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.9,
+      205.06,
+      520.68,
+      223.47
+    ],
+    "text": "evidence placed at the trial in its entirety, this court is of the view that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.82,
+      237.23,
+      520.91,
+      255.64
+    ],
+    "text": "possession of the Defendant-Respondent has become illegal from the point",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.9,
+      269.62,
+      519.99,
+      288.03
+    ],
+    "text": "of issuance of letters P4 & P7, for which tenant never replied or responded.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.94,
+      302.26,
+      520.05,
+      320.67
+    ],
+    "text": "In fact when the Defendant-Respondent was challenged of the failure to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.9,
+      334.91,
+      520.0,
+      353.32
+    ],
+    "text": "accept Plaintiff s title, and the attempt to raise tenancy as an issue resulted in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.9,
+      367.07,
+      520.43,
+      385.48
+    ],
+    "text": "a change of position and the stance of the Defendant-Respondent. Then the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.9,
+      399.22,
+      521.03,
+      417.63
+    ],
+    "text": "court is left with the position of Defendant paying rent to Plaintiff after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      83.77,
+      431.37,
+      520.29,
+      449.78
+    ],
+    "text": "1981? A very vague and doubtful evidence were placed before court to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.66,
+      464.01,
+      520.26,
+      482.43
+    ],
+    "text": "arrive at a conclusion as regards payment of rents to Plaintiff. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.74,
+      496.42,
+      520.16,
+      514.83
+    ],
+    "text": "Defendant's failure to give evidence and place direct evidence of the so",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.66,
+      528.57,
+      520.88,
+      546.99
+    ],
+    "text": "called relationship of tenancy and thereby prove a contract of tenancy is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.53,
+      560.98,
+      520.48,
+      579.39
+    ],
+    "text": "matter that cannot be ignored or taken lightly. This court is entitled to draw",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.92,
+      593.39,
+      520.06,
+      611.8
+    ],
+    "text": "inferences on same, since Plaintiff request to attorn and pay rent directly to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.5,
+      625.78,
+      520.36,
+      644.19
+    ],
+    "text": "Plaintiff, are matters left in the dark and unexplained. The only available",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.54,
+      657.93,
+      520.46,
+      676.35
+    ],
+    "text": "witness of Defendant has not performed well at all, to establish Defendants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      82.92,
+      690.11,
+      520.43,
+      708.52
+    ],
+    "text": "issues. No proper material had been placed by the local authority to establish",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.11,
+      33.76,
+      518.56,
+      48.88
+    ],
+    "text": "16",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.586477279663086
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.04,
+      69.47,
+      519.23,
+      87.88
+    ],
+    "text": "that rents deposited had been released to the Plaintiff. As observed above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.2,
+      101.62,
+      519.36,
+      120.04
+    ],
+    "text": "document PI demonstrate the local authorities position in this regard. There",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.21,
+      134.03,
+      518.96,
+      152.44
+    ],
+    "text": "is a breach of the law on the part of the local Authority to comply with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.07,
+      166.42,
+      256.58,
+      184.83
+    ],
+    "text": "Section 21 (3) of the Rent Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.230081558227539,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.08,
+      198.34,
+      227.29,
+      216.75
+    ],
+    "text": "Section 21 (3) reads thus:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.097099304199219,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      118.04,
+      230.93,
+      519.11,
+      246.68
+    ],
+    "text": "Where the rent of any premises is paid to the authorized person, the authorized",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.755014419555664,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      117.38,
+      252.05,
+      521.09,
+      267.8
+    ],
+    "text": "person shall issue to the tenant of the premises a receipt in acknowledgment of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      117.67,
+      272.69,
+      521.09,
+      288.44
+    ],
+    "text": "such payment, and shall transmit the amount of such payment to the landlord of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      117.33,
+      293.57,
+      518.87,
+      309.38
+    ],
+    "text": "the premises. It shall be the duty of such landlord to issue to the authorized person",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.7592191696167,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      117.47,
+      314.2,
+      437.03,
+      329.95
+    ],
+    "text": "a receipt in acknowledgment of the amount so transmitted to him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      153.28,
+      367.3,
+      519.68,
+      385.71
+    ],
+    "text": "Even if the Plaintiff withdraw the deposits which are more or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.98,
+      399.7,
+      518.97,
+      418.11
+    ],
+    "text": "less deposits made during the life time of Plaintiff's father, it cannot be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.69,
+      431.85,
+      519.6,
+      450.27
+    ],
+    "text": "considered as rent paid to Plaintiff. On the death of a person, the deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.62,
+      464.27,
+      519.24,
+      482.68
+    ],
+    "text": "persons property both movable and immovable vest immediately on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.59,
+      496.67,
+      519.05,
+      515.09
+    ],
+    "text": "heirs. Once vested it cannot be divested unless by well known modes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.59,
+      529.06,
+      519.1,
+      547.47
+    ],
+    "text": "recognized by law. i.e last will. 10 N.L.R at 98. Document P8 also does not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.47635555267334,
+      13.701196670532227,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.69,
+      561.23,
+      519.21,
+      579.64
+    ],
+    "text": "favour the Defendant since licnece had not been issued after 1979. Therefore",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      81.74,
+      593.86,
+      519.44,
+      612.28
+    ],
+    "text": "I am not inclined to accept the views of the learned District Judge. This court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      506.01,
+      33.48,
+      519.32,
+      48.82
+    ],
+    "text": "17",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.389619827270508
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      83.32,
+      69.47,
+      519.96,
+      87.88
+    ],
+    "text": "set aside the judgment of the learned District Judge and enter judgment for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      83.21,
+      101.62,
+      520.05,
+      120.04
+    ],
+    "text": "Plaintiff-appellant as in sub paragraphs (i) & (ii) of the Petition of Appeal",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.770719528198242,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      82.79,
+      134.03,
+      144.58,
+      152.44
+    ],
+    "text": "with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      154.3,
+      166.18,
+      249.02,
+      184.59
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      299.21,
+      230.52,
+      496.74,
+      245.86
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      590.87,
+      762.97,
+      602.99,
+      837.2
+    ],
+    "text": "i I I I,",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.800099849700928,
+      9.399999618530273,
+      10.5,
+      16.899999618530273,
+      43.599998474121094
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      595.74,
+      307.89,
+      600.44,
+      320.81
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      595.82,
+      312.57,
+      604.05,
+      365.44
+    ],
+    "text": "I If",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.500100135803223,
+      16.600000381469727,
+      29.600000381469727
+    ]
+  }
+]
