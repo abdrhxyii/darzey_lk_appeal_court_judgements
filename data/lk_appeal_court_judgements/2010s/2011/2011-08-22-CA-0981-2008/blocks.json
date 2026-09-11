@@ -1,0 +1,982 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      104.09,
+      94.47,
+      542.39,
+      110.81
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.962925910949707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      278.03,
+      115.78,
+      370.49,
+      132.06
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.220882415771484,
+      12.348397254943848
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.75,
+      159.94,
+      562.92,
+      176.22
+    ],
+    "text": "In the matter of an application for orders in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201799392700195,
+      12.281030654907227,
+      12.57129955291748
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.05,
+      182.5,
+      562.74,
+      198.78
+    ],
+    "text": "the nature of writ of Certiorari and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.312382698059082,
+      12.365428924560547,
+      12.390758514404297
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.78,
+      205.3,
+      562.3,
+      221.58
+    ],
+    "text": "Mandamus Under and in terms of Article",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.207647323608398,
+      12.315156936645508,
+      12.337969779968262,
+      12.349583625793457,
+      12.51907730102539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.42,
+      227.86,
+      448.7,
+      244.14
+    ],
+    "text": "140 of the Constitution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201799392700195
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.06,
+      273.46,
+      508.62,
+      289.74
+    ],
+    "text": "H.K.G.C. Mallilka Kumarihamy,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.05,
+      296.02,
+      455.71,
+      312.3
+    ],
+    "text": "No.90,Darshanapura,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.25208854675293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.82,
+      318.83,
+      400.95,
+      335.11
+    ],
+    "text": "Kundasale,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      341.98,
+      341.39,
+      421.89,
+      357.67
+    ],
+    "text": "And 27 others.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.188194274902344,
+      12.199999809265137,
+      12.310300827026367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.79,
+      364.05,
+      514.93,
+      380.95
+    ],
+    "text": "Petitioners",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.95,
+      386.27,
+      289.97,
+      402.55
+    ],
+    "text": "CA Application No. 981/2008",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.284407615661621
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.3,
+      624.82,
+      162.61,
+      641.1
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.75,
+      647.39,
+      172.35,
+      663.67
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.86,
+      737.38,
+      188.97,
+      753.66
+    ],
+    "text": "Argued On:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.354076385498047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.82,
+      759.94,
+      192.33,
+      776.22
+    ],
+    "text": "Decided On:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      413.49,
+      409.71,
+      432.01,
+      425.18
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      341.11,
+      431.86,
+      489.78,
+      448.14
+    ],
+    "text": "1. L.A. Sujatha Wijesinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.06576156616211,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      362.34,
+      454.68,
+      473.07,
+      470.95
+    ],
+    "text": "Divisional Secretary-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.23,
+      477.22,
+      421.63,
+      493.5
+    ],
+    "text": "Kundasale,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.23,
+      500.02,
+      478.92,
+      516.3
+    ],
+    "text": "Divisional Secretariat,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.23,
+      522.58,
+      429.14,
+      538.86
+    ],
+    "text": "Menikhinna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.26,
+      545.39,
+      447.37,
+      561.67
+    ],
+    "text": "And five others.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.310300827026367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      449.23,
+      568.05,
+      523.05,
+      584.95
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.88,
+      625.07,
+      382.03,
+      641.35
+    ],
+    "text": "S. Sriskandarajah J, P(C/ A)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.626626014709473,
+      11.729944229125977,
+      12.014641761779785,
+      12.199999809265137,
+      12.56246566772461
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.53,
+      647.86,
+      464.78,
+      664.14
+    ],
+    "text": "J.C.Weliamuna with Shantha Jayawardana,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.264379501342773,
+      12.405715942382812
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.7,
+      669.71,
+      336.78,
+      685.99
+    ],
+    "text": "for the Petititoners,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201799392700195
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.89,
+      692.51,
+      403.26,
+      708.79
+    ],
+    "text": "N.Wigneswaran, State Counsel,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.58,
+      715.07,
+      346.98,
+      731.35
+    ],
+    "text": "for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201799392700195
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.77,
+      737.38,
+      287.65,
+      753.66
+    ],
+    "text": "26.04.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.77,
+      759.94,
+      287.65,
+      776.22
+    ],
+    "text": "22.08.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      534.41,
+      35.2,
+      543.18,
+      50.81
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.42,
+      91.14,
+      232.26,
+      110.97
+    ],
+    "text": "S.Sriskandarajah J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.77,
+      115.21,
+      543.35,
+      166.42
+    ],
+    "text": "The land called \"Govipola Watte\" which is the subject matter of this application was a state land vested in the Department of Agriculture and allocated to Government Farm in Kundasala. The Divisional Secretary the 1st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.300000190734863,
+      12.305648803710938,
+      12.337891578674316,
+      12.34277629852295,
+      12.349849700927734,
+      12.365525245666504,
+      12.373976707458496,
+      12.425163269042969,
+      12.477716445922852,
+      12.489047050476074,
+      12.493380546569824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.7,
+      167.53,
+      543.79,
+      288.09
+    ],
+    "text": "Respondent by letter dated 02.08.1991 requested the Provincial Commissioner of Lands of Central Province to release 10 acres of the said land to the Kundasale Eksath Nivasa Yojana Krama Samithiya, on a long term lease for the purpose of a Housing Scheme. Consequently an extent of 21 acres of the said land was released for the purpose of two housing schemes. An extent of 13 Acres allocated to \"Darshanapura\" housing Scheme and the remaining land was allocated to \"Pathum Uyana\" Housing Scheme.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.849396705627441,
+      12.300000190734863,
+      12.300700187683105,
+      12.310296058654785,
+      12.319684982299805,
+      12.329215049743652,
+      12.34277629852295,
+      12.378151893615723,
+      12.383317947387695,
+      12.393693923950195,
+      12.399447441101074,
+      12.399646759033203,
+      12.405795097351074,
+      12.419618606567383,
+      12.425163269042969,
+      12.442870140075684,
+      12.462181091308594,
+      12.468347549438477,
+      12.477716445922852,
+      12.570281028747559,
+      12.594230651855469,
+      12.622716903686523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.53,
+      299.29,
+      543.42,
+      420.58
+    ],
+    "text": "The Petitioners claimed that the said 13 acres land was divided into 95 blocks and in the land kachcheri held on 10.04.1993 the blocks were allocated and handed over possession to the all otters on the Plan No PPA1222/3 prepared by Government Surveyor W.A.Piyadasa. The Divisional Secretary of Kundasale informed the Petitioners by letter dated 09.07.1994 to commence development of their respective blocks by constructing houses and that a long term lease would be granted to them in due course.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.018529891967773,
+      12.300000190734863,
+      12.304849624633789,
+      12.304999351501465,
+      12.323328018188477,
+      12.327119827270508,
+      12.330462455749512,
+      12.34277629852295,
+      12.354280471801758,
+      12.36094856262207,
+      12.361098289489746,
+      12.365525245666504,
+      12.371740341186523,
+      12.375020980834961,
+      12.378151893615723,
+      12.381877899169922,
+      12.399447441101074,
+      12.405795097351074,
+      12.416003227233887,
+      12.419618606567383,
+      12.424272537231445,
+      12.425163269042969,
+      12.442870140075684,
+      12.469334602355957,
+      12.471553802490234,
+      12.516544342041016,
+      12.545844078063965,
+      12.570281028747559,
+      12.638199806213379,
+      12.646665573120117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.37,
+      431.52,
+      543.12,
+      552.57
+    ],
+    "text": "A fresh plan was prepared bearing No. PP. 5077 and the minister approved the grant of the long term leases and the Petitioners were informed by letter dated 26.10.2005 that the annual lease rentals would be 4% of the 1995 valuation of the Chief Valuer. The Petitioners objected to the said valuation on the basis that the land kachcheri was held in 1993 and the land was allocated to them in that year and hence requested to decide the lease rentals based on the valuation done in 1993. The chief Valuer was thereafter directed by the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.605939865112305,
+      12.041125297546387,
+      12.300000190734863,
+      12.30834674835205,
+      12.323328018188477,
+      12.327119827270508,
+      12.337492942810059,
+      12.34277629852295,
+      12.352638244628906,
+      12.359904289245605,
+      12.361098289489746,
+      12.364033699035645,
+      12.365525245666504,
+      12.373132705688477,
+      12.399447441101074,
+      12.405795097351074,
+      12.42204475402832,
+      12.424272537231445,
+      12.425163269042969,
+      12.42575740814209,
+      12.43708610534668,
+      12.46805191040039,
+      12.470025062561035,
+      12.471553802490234,
+      12.472687721252441,
+      12.493380546569824,
+      12.496283531188965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.13,
+      553.44,
+      542.86,
+      674.49
+    ],
+    "text": "Respondent to assess the undeveloped value of the land as at 1993. The Chief Valur submitted the valuation report dated 10.05.2007 purportedly assessing the value of the blocks as at 1993 marked P19. Petitioners contended that the valuation given in P19 is grossly excessive and is based on the present value of the land. They further contended that the valuation that has to be taken into consideration is the valuation valued by the Chief Valuer as at 1993 by the valuation report dated 8.04.1993 marked P5.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.30834674835205,
+      12.329215049743652,
+      12.329264640808105,
+      12.337492942810059,
+      12.341878890991211,
+      12.34277629852295,
+      12.346412658691406,
+      12.35184097290039,
+      12.358162879943848,
+      12.359854698181152,
+      12.36094856262207,
+      12.365525245666504,
+      12.369056701660156,
+      12.37954330444336,
+      12.381927490234375,
+      12.387141227722168,
+      12.389524459838867,
+      12.419618606567383,
+      12.424272537231445,
+      12.47337818145752,
+      12.5575532913208,
+      12.570281028747559,
+      12.628318786621094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.05,
+      684.97,
+      542.45,
+      753.22
+    ],
+    "text": "The Petitioners in this application has sought a writ of certiorari to quash the decision of the 1 st to the 6th Respondents reflected in P26 and P30 to charge the Petitioners in terms of the purported valuation contained in P19 for the purpose of allocating the said blocks. They have also sought a mandamus to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.300000190734863,
+      12.34277629852295,
+      12.350397109985352,
+      12.365525245666504,
+      12.376561164855957,
+      12.383367538452148,
+      12.417736053466797,
+      12.441436767578125,
+      12.468347549438477,
+      12.489293098449707,
+      12.48944091796875,
+      12.51187515258789,
+      12.570281028747559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.18,
+      36.46,
+      48.36,
+      64.08
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      534.1,
+      35.57,
+      542.95,
+      51.32
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.85,
+      94.08,
+      543.29,
+      128.02
+    ],
+    "text": "direct the 1st to 6th Respondent to charge the Petitioners based on the valuation of the said land as reflected in P5.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.419976234436035,
+      8.592644691467285,
+      12.300000190734863,
+      12.31009578704834,
+      12.34277629852295,
+      12.365525245666504,
+      12.366569519042969,
+      12.433228492736816,
+      12.442870140075684,
+      12.489047050476074
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.69,
+      138.73,
+      543.75,
+      294.33
+    ],
+    "text": "The Petitioner's contention is that the land kachcheri was held in 1993 to allocate land for housing purposes and therefore the valuation of 1993 has be taken in to consideration when the said blocks of lands are given on long term lease. I think that there is no disagreement that the valuation as at 1993 of the said blocks of land has to be taken into consideration. The valuation given in P19 is the valuation of the said blocks of land as at 1993. But what the Petitioner claims is that when there is a valuation made on the 8th of April 1993 marked P5 in relation to the said land was available it has to be taken into consideration without revaluing the land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.300000190734863,
+      12.300849914550781,
+      12.30834674835205,
+      12.31009578704834,
+      12.316489219665527,
+      12.323277473449707,
+      12.323328018188477,
+      12.33913803100586,
+      12.34277629852295,
+      12.351592063903809,
+      12.35184097290039,
+      12.354230880737305,
+      12.36094856262207,
+      12.365525245666504,
+      12.367913246154785,
+      12.37318229675293,
+      12.38515567779541,
+      12.405795097351074,
+      12.420806884765625,
+      12.424272537231445,
+      12.425163269042969,
+      12.442475318908691,
+      12.442870140075684,
+      12.454578399658203,
+      12.47337818145752,
+      12.477716445922852,
+      12.489047050476074,
+      12.490180015563965,
+      12.51187515258789,
+      12.528575897216797,
+      12.535839080810547,
+      12.570281028747559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.26,
+      305.52,
+      543.52,
+      478.89
+    ],
+    "text": "The valuation carried out on 8.04.1993 marked P5 is for a different purpose that is to release the land from Agriculture Department to Land Commissioner. In the said valuation the entire land was considered as one block and as the land was not used for agricultural purpose it was valued at a lower rate. But when the land is divided and it is put to a different use the valuation of the land has to be obtained for the use of that land for that purpose, but as the Petitioner claimed the valuation of the land has to relate back to the time of allocation i.e. 1993. The valuation given in P19 is based on the valuation as at 1993 for the said blocks of land which has been allocated for housing purposes. Therefore the Petitioners cannot claim that the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.308747291564941,
+      12.316489219665527,
+      12.317887306213379,
+      12.330562591552734,
+      12.333504676818848,
+      12.337492942810059,
+      12.337542533874512,
+      12.340832710266113,
+      12.34277629852295,
+      12.345664978027344,
+      12.349849700927734,
+      12.35184097290039,
+      12.36094856262207,
+      12.365525245666504,
+      12.367913246154785,
+      12.36890697479248,
+      12.369056701660156,
+      12.405795097351074,
+      12.423035621643066,
+      12.424272537231445,
+      12.425163269042969,
+      12.434020042419434,
+      12.442870140075684,
+      12.447713851928711,
+      12.47337818145752,
+      12.516985893249512,
+      12.524893760681152,
+      12.570281028747559,
+      12.586708068847656,
+      12.721768379211426,
+      12.722639083862305,
+      12.72457218170166
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.22,
+      480.01,
+      542.81,
+      548.73
+    ],
+    "text": "decision contained in P26 and P30 to charge the Petitioners in terms of the valuation contained in P19 for the purpose of allocating the said blocks is ultra virais or unreasonable. Therefore this court cannot grant the reliefs sought by the Petitioners and dismiss this application without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.30834674835205,
+      12.31009578704834,
+      12.34277629852295,
+      12.365525245666504,
+      12.368857383728027,
+      12.378151893615723,
+      12.399646759033203,
+      12.409661293029785,
+      12.420806884765625,
+      12.458775520324707,
+      12.570281028747559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      321.84,
+      572.48,
+      516.06,
+      603.93
+    ],
+    "text": "~/./,L . President of the Court of Appeal",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.456060409545898,
+      13.254433631896973,
+      14.800000190734863
+    ]
+  }
+]
