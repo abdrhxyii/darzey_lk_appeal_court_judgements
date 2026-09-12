@@ -1,0 +1,4205 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      9.92,
+      -5.69,
+      23.1,
+      26.4
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      23.70009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      520.62,
+      33.44,
+      529.62,
+      49.45
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.5,
+      70.78,
+      525.84,
+      86.71
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      265.31,
+      81.94,
+      353.72,
+      100.35
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.274234771728516,
+      13.482497215270996,
+      13.515722274780273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      91.56,
+      251.07,
+      196.92,
+      280.46
+    ],
+    "text": "C.A 1 77/1997 (F) D.C. Gampaha 30391",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.97,
+      167.55,
+      499.82,
+      210.61
+    ],
+    "text": "A. Samarasiri Kaluarachchi of No. 35/9, Veyangoda Road, Kalagedihena.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.32,
+      237.83,
+      412.09,
+      253.76
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.13,
+      279.39,
+      362.29,
+      294.86
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.11,
+      320.89,
+      501.26,
+      350.3
+    ],
+    "text": "Mallika Iranganie Wadupola of Pillassa, Kurunegla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.12,
+      376.78,
+      422.02,
+      392.71
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.9,
+      418.34,
+      367.51,
+      433.81
+    ],
+    "text": "And",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.49,
+      446.43,
+      495.98,
+      489.74
+    ],
+    "text": "A. Samarasiri Kaluarachchi of No. 35/49, Veyangoda Road, Kalagedihena.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.6,
+      530.14,
+      488.95,
+      546.07
+    ],
+    "text": "PLAINTIFF -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.39,
+      585.39,
+      500.21,
+      614.53
+    ],
+    "text": "Mallika Iranganie Wadupola of Pillassa, Kurunegla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.16,
+      655.18,
+      507.9,
+      671.11
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      52.4,
+      -6.38,
+      57.81,
+      17.5
+    ],
+    "text": "..",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.93269157409668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.63,
+      69.68,
+      146.98,
+      85.69
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.55,
+      111.68,
+      155.36,
+      127.69
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.42,
+      209.36,
+      170.09,
+      225.37
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.42,
+      69.44,
+      292.46,
+      85.45
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.839323997497559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.01,
+      112.15,
+      431.99,
+      141.12
+    ],
+    "text": "N.R.M. Daluwatte P.C. with W.D. A. Fernando for Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.31,
+      153.68,
+      372.42,
+      183.35
+    ],
+    "text": "S.N. Vijithsinghe with C. Liyanage for 1 st Defendant-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.32,
+      210.07,
+      254.94,
+      224.88
+    ],
+    "text": "06.05.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.4,
+      251.36,
+      380.0,
+      294.47
+    ],
+    "text": "WRITTEN SUBMISSIONS FILED ON: 24.06.2011 - Defendant-Respondent 20.07.2011 - Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.62,
+      320.71,
+      254.94,
+      336.72
+    ],
+    "text": "DECIDED ON: 02.08.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.32,
+      376.15,
+      192.61,
+      392.16
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.167579650878906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      519.29,
+      33.66,
+      527.61,
+      48.47
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.84,
+      445.54,
+      528.56,
+      463.95
+    ],
+    "text": "This was a Divorce suit filed in the District Court of Gampaha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.21,
+      477.95,
+      527.9,
+      496.36
+    ],
+    "text": "by the Plaintiff husband, against his wife the Defendant-Respondent on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.06,
+      510.34,
+      528.63,
+      528.75
+    ],
+    "text": "grounds of malicious desertion. According to the plaint Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.16,
+      542.98,
+      527.86,
+      561.39
+    ],
+    "text": "maliciously deserted her husband on or about 30.06.1987. This appeal arises",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.3,
+      575.62,
+      527.86,
+      594.03
+    ],
+    "text": "from the judgment of the Learned District Judge dated 22.01.1997,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.85,
+      608.02,
+      527.76,
+      626.43
+    ],
+    "text": "dismissing Plaintiff s action. In the said judgment the relief sought by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.67,
+      640.43,
+      528.08,
+      658.85
+    ],
+    "text": "Defendant-Respondent in her amended answer (paragraph '(tI)' of the prayer)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.8883638381958,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.69,
+      672.33,
+      527.81,
+      690.75
+    ],
+    "text": "relating to adultery of Plaintiff-Appellant was also dismissed. Parties",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.51,
+      704.75,
+      484.2,
+      723.16
+    ],
+    "text": "proceeded to trial on 22 issues and 2 admissions. The fact that by this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      518.5,
+      34.95,
+      527.27,
+      50.56
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.69,
+      71.15,
+      527.02,
+      89.56
+    ],
+    "text": "marriage a child by the name of Rajitha Madusanga was born and that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.44,
+      103.54,
+      525.74,
+      121.95
+    ],
+    "text": "matrimonial home was set up at Dewalapola Balabowe were admitted facts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.65,
+      135.95,
+      527.08,
+      154.36
+    ],
+    "text": "By Marriage Certificate marked PI parties married on or about 10.04.1986.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.62,
+      168.34,
+      527.51,
+      186.75
+    ],
+    "text": "In the plaint it is pleaded that parties after marriage lived together without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.793949127197266,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.56,
+      200.98,
+      527.56,
+      219.39
+    ],
+    "text": "any problem for about 6 months. Plaintiff was holding the post of Assistant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.34,
+      233.62,
+      529.94,
+      252.03
+    ],
+    "text": "Government Agent and the wife was a Graduate Teacher at the time of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.45,
+      266.26,
+      145.54,
+      284.67
+    ],
+    "text": "marriage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.12,
+      298.42,
+      526.79,
+      316.83
+    ],
+    "text": "The learned President's Counsel for the Appellant drew the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.34,
+      331.06,
+      527.04,
+      349.47
+    ],
+    "text": "attention of this court to certain items of evidence and sought to demonstrate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.2,
+      363.46,
+      526.98,
+      381.87
+    ],
+    "text": "to this court that the learned District Judge has erred in his conclusions on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.21,
+      395.86,
+      526.7,
+      414.27
+    ],
+    "text": "the question of malicious desertion. On the other hand learned Counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.18,
+      428.51,
+      526.62,
+      446.92
+    ],
+    "text": "Defendant-Respondent stress the fact of her in-laws from time to time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.08,
+      461.13,
+      527.12,
+      479.54
+    ],
+    "text": "created problems for her suggesting ill treatment by the in-laws and bringing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.08,
+      493.53,
+      526.94,
+      511.95
+    ],
+    "text": "about an intolerable situation and land-lord's request for the house, which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.72298526763916,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.35,
+      525.69,
+      527.03,
+      544.1
+    ],
+    "text": "led her to leave the matrimonial home. The evidence led in the trial court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.09,
+      558.33,
+      527.44,
+      576.75
+    ],
+    "text": "indicates that Plaintiffs two sisters and a husband of one of the Plaintiffs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.8,
+      590.74,
+      526.44,
+      609.15
+    ],
+    "text": "sisters lived in the matrimonial house. This is indicative of the fact that both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.71,
+      623.15,
+      526.66,
+      641.56
+    ],
+    "text": "the Plaintiff and his wife could not lead an independent trouble free life",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.76,
+      655.55,
+      526.5,
+      673.96
+    ],
+    "text": "without interference from the beginning of their marriage. In fact disputes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.4,
+      687.47,
+      526.46,
+      705.95
+    ],
+    "text": "and quarrels with in-laws are not denied by Plaintiff. It is in evidence that",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.005144119262695
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      518.11,
+      34.48,
+      526.89,
+      50.09
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.66,
+      70.9,
+      526.61,
+      89.31
+    ],
+    "text": "Plaintiff has been away from the house during week-days due to his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.58,
+      103.05,
+      526.98,
+      121.46
+    ],
+    "text": "employment and was able to join the wife only during the week-end. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.58,
+      135.94,
+      526.08,
+      154.35
+    ],
+    "text": "absence for a period as above left room for the Plaintiff to hear gossip from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.44,
+      168.09,
+      449.29,
+      186.5
+    ],
+    "text": "his sisters who kept on saying unpleasant things about his wife.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.58,
+      200.51,
+      523.27,
+      218.92
+    ],
+    "text": "It is in evidence that the two of them had quarrels during week-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.04719066619873,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.32,
+      233.15,
+      527.41,
+      251.55
+    ],
+    "text": "ends and things seem to have gradually developed with a police complaint",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.44,
+      265.53,
+      526.9,
+      283.94
+    ],
+    "text": "marked P2. Evidence has been given that the Defendant wife had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.2,
+      298.18,
+      526.74,
+      316.59
+    ],
+    "text": "raising her voice or shouting which even the neighbours could hear, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.26,
+      330.82,
+      527.27,
+      349.24
+    ],
+    "text": "such conduct had been confirmed in the evidence of Kaviraj Ranaweera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.35,
+      363.23,
+      526.79,
+      381.64
+    ],
+    "text": "called by Plaintiff. P2 complaint by Plaintiff states that the wife had left the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.22,
+      395.38,
+      526.48,
+      413.8
+    ],
+    "text": "house with the child and stayed with a neighbour and very many people in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.72,
+      427.79,
+      526.76,
+      446.2
+    ],
+    "text": "the area had gathered which resulted in making the Plaintiff shameful and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.12,
+      460.41,
+      526.86,
+      478.83
+    ],
+    "text": "insulted. It is further stated that the Defendant threatened to commit suicide",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.1,
+      492.83,
+      526.1,
+      511.24
+    ],
+    "text": "and or drink poison, and that P2 statement had been made for future",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.701196670532227,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.75,
+      525.22,
+      526.53,
+      543.63
+    ],
+    "text": "reference. There is also material placed in the lower court that after the child",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.48,
+      557.86,
+      526.39,
+      576.26
+    ],
+    "text": "was born the wife as usual stayed with her parents and after sometime",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.49,
+      590.01,
+      526.25,
+      608.42
+    ],
+    "text": "returned to her matrimonial home. Thereafter quarrels became worse and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.6,
+      622.65,
+      526.12,
+      641.06
+    ],
+    "text": "developed into a worse situation. The date on which, according to Plaintiff,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.35,
+      654.81,
+      526.66,
+      673.22
+    ],
+    "text": "desertion took place had been 28.06.1987. (Two weeks after the complaint",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.17,
+      686.5,
+      114.17,
+      704.91
+    ],
+    "text": "P2).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      518.24,
+      35.85,
+      526.72,
+      50.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162.12,
+      70.9,
+      527.51,
+      89.31
+    ],
+    "text": "The Plaintiff suggested only 3 issues, whether 6 months after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.2,
+      102.83,
+      529.7,
+      121.24
+    ],
+    "text": "marriage the wife gave up her matrimonial obligations (as in paragraph 5 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.5,
+      135.47,
+      526.87,
+      153.88
+    ],
+    "text": "plaint) and malicious desertion of wife on 30.6.1987. Consequential issue (3)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.57,
+      168.34,
+      526.91,
+      186.75
+    ],
+    "text": "for relief in terms of the prayer. In contrast Defendant-Respondent raised",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.6,
+      200.98,
+      526.77,
+      219.39
+    ],
+    "text": "issues 4-21. The summary of it is that Defendant had to live with in-laws",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.2,
+      233.86,
+      526.26,
+      252.27
+    ],
+    "text": "who created problems for her and Plaintiff took the side of in-laws.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.17,
+      266.26,
+      529.7,
+      284.67
+    ],
+    "text": "Defendants request to take her to the official residence and failure of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.18,
+      298.42,
+      526.93,
+      316.83
+    ],
+    "text": "Plaintiff to adhere to such request. Further when the child was born she went",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.1,
+      330.83,
+      526.41,
+      349.24
+    ],
+    "text": "and stayed with the parents. Thereafter the question of returning to the house",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.11,
+      363.23,
+      526.26,
+      381.64
+    ],
+    "text": "at Dewelapola. Land-lords demand to vacate house on 27.6.1987. All",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.35,
+      395.85,
+      526.03,
+      414.27
+    ],
+    "text": "furniture in the house sent to Plaintiff s sister's house at Kalagedihena.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.7,
+      428.51,
+      526.41,
+      446.92
+    ],
+    "text": "Plaintiff had on that occasion, taken the wife and child to her parent's house",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.63,
+      460.66,
+      525.36,
+      479.08
+    ],
+    "text": "and left them in the parent's house. Issue No. 14 suggest request of 15t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.414633750915527,
+      13.427438735961914,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.69,
+      493.06,
+      529.54,
+      511.47
+    ],
+    "text": "Defendant to live with Plaintiff and child and Plaintiffs failure or neglect of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.8,
+      519.33,
+      526.73,
+      543.87
+    ],
+    "text": "such request. The important issues are No. 16 -17 suggesting 15t Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.33658218383789,
+      13.47635555267334,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.49,
+      558.1,
+      526.06,
+      576.51
+    ],
+    "text": "visiting the Plaintiff in his official residence on 02.9.1987 at Mihintale and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.02,
+      590.51,
+      525.84,
+      608.92
+    ],
+    "text": "the Plaintiff act as in paragraph 12 of answer. i.e. not coming to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.47635555267334,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.27,
+      623.15,
+      526.45,
+      641.56
+    ],
+    "text": "residence at Mihintale by Plaintiff and informing police who requested her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.01,
+      655.55,
+      523.51,
+      673.96
+    ],
+    "text": "to quit the house. As a result she went to her parent's home. Issue No. 19 -21",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.382844924926758,
+      13.47635555267334,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      518.28,
+      34.58,
+      527.2,
+      49.28
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.46,
+      70.43,
+      527.0,
+      88.84
+    ],
+    "text": "relate to the Co-Defendant but the District Court had answered them in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.68,
+      103.05,
+      143.6,
+      121.46
+    ],
+    "text": "negative.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.1,
+      135.22,
+      527.04,
+      153.64
+    ],
+    "text": "The issues taken in it's entirety suggest a story but the truth of it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.46,
+      167.87,
+      526.87,
+      186.27
+    ],
+    "text": "need to be ascertained by reference to evidence. However all above are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.57,
+      200.02,
+      527.07,
+      218.43
+    ],
+    "text": "factual matters that had been considered by the learned District Judge who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.45,
+      232.43,
+      527.76,
+      250.85
+    ],
+    "text": "had the opportunity to listen to the evidence of witnesses and test demeanor",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.58,
+      265.06,
+      527.25,
+      283.47
+    ],
+    "text": "of the witnesses and decide on all factual matters. This court will not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.6,
+      297.7,
+      469.78,
+      316.1
+    ],
+    "text": "interfere unnecessarily with factual matters unless for good reason.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.93,
+      330.11,
+      526.94,
+      348.52
+    ],
+    "text": "Even if three Judges heard this case (no valid objection for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.344460487365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.46,
+      362.51,
+      527.35,
+      380.92
+    ],
+    "text": "hearing), I cannot blame the prevalent court system in our country and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.34,
+      394.67,
+      436.63,
+      413.08
+    ],
+    "text": "observe same not to be a breach of audi aultrem partem, rule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.89,
+      427.07,
+      530.18,
+      445.48
+    ],
+    "text": "The all important matter to be decided is the question of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.21,
+      459.7,
+      527.5,
+      478.11
+    ],
+    "text": "malicious desertion and whether the District Judge is correct on this aspect",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.34,
+      492.34,
+      526.97,
+      510.75
+    ],
+    "text": "of his conclusion. At this point I would prefer to incorporate the following",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.1300048828125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.08,
+      524.74,
+      527.78,
+      543.15
+    ],
+    "text": "authorities to consider the legal aspects of malicious desertion before I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.1,
+      557.38,
+      466.84,
+      575.78
+    ],
+    "text": "decide on the evidence led at the trial and trial Judge's conclusion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.71,
+      589.96,
+      526.37,
+      605.71
+    ],
+    "text": "Malicious desertion must be of such a character as would justify the inference that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.48,
+      610.6,
+      526.42,
+      626.34
+    ],
+    "text": "the spouse who is alleged to have deserted the other did so deliberately and with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.23,
+      631.48,
+      525.69,
+      647.23
+    ],
+    "text": "the intention of repudiating the marriage state. 34 N.L.R at 8; 13 Law Rec. at 58",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.2591552734375,
+      11.498087882995605,
+      11.701086044311523,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.59,
+      652.13,
+      526.05,
+      667.88
+    ],
+    "text": "see 26 N.L.R 113. In the absence of a deliberate intention to repudiate the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.24,
+      672.76,
+      526.31,
+      688.5
+    ],
+    "text": "marriage the refusal to return to the husband does not amount to malicious",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.16,
+      693.4,
+      526.26,
+      709.15
+    ],
+    "text": "desertion 12 Law Rec. 40. But where a woman leaves her husband finally against",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399038314819336,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      518.52,
+      33.73,
+      527.15,
+      49.07
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.22,
+      70.0,
+      525.94,
+      85.61
+    ],
+    "text": "his will and without legal justification her desertion could in law be malicious. 35",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.537927627563477,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.05,
+      90.64,
+      526.54,
+      106.25
+    ],
+    "text": "N.L.R 174. Lapse of time is not the sole standard by which malicious desertion is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.13,
+      111.52,
+      526.2,
+      127.13
+    ],
+    "text": "determined. 2 B.R 138. Refusal to consummate a marriage amounts in law to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.13,
+      132.39,
+      517.29,
+      148.0
+    ],
+    "text": "desertion and entitles the wife to obtain a dissolution of marriage. 25 N.L.R 222.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.427680969238281,
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.44,
+      153.37,
+      527.06,
+      169.31
+    ],
+    "text": "Desertion is a continuing offence. It is a continuing course of conduct. 29 N.L.R",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.914292335510254,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.12,
+      174.39,
+      237.34,
+      190.0
+    ],
+    "text": "at 325; 9 Law Rec. 60.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.43,
+      216.39,
+      527.12,
+      232.0
+    ],
+    "text": "Desertion to be a ground for divorce must be malicious; that is to say, it must be a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.13,
+      237.27,
+      526.88,
+      252.88
+    ],
+    "text": "deliberate and unconscientious, definite, and final repudiation of the obligations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.12,
+      258.15,
+      298.81,
+      273.76
+    ],
+    "text": "of the marriage state. 26 N .L.R 113",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.590739250183105,
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.18,
+      299.14,
+      527.39,
+      317.55
+    ],
+    "text": "Based on evidence learned District Judge has considered the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.59,
+      331.79,
+      530.42,
+      350.2
+    ],
+    "text": "aspect of 'desertion'. The judgment refer to Plaintiff-Appellant's version of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.45,
+      364.42,
+      527.26,
+      382.83
+    ],
+    "text": "malicious desertion stating that on or about 30.6.1987 after a dispute the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.39,
+      396.82,
+      527.5,
+      415.23
+    ],
+    "text": "Defendant's wife had got down a hiring car and left the house with the child",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.57,
+      429.24,
+      527.5,
+      447.65
+    ],
+    "text": "and her belongings on her own volition. To support Plaintiffs version",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.48,
+      461.62,
+      527.01,
+      480.04
+    ],
+    "text": "witnesses Dharmaratne, Ranaweera and a sister of Plaintiff was called to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.35,
+      494.02,
+      527.48,
+      512.43
+    ],
+    "text": "give evidence. (Folio 309/310 of brief). In the judgment Defendant's version",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.21,
+      526.66,
+      527.01,
+      545.06
+    ],
+    "text": "was also considered, that on or about 28.6.1987 Plaintiff had taken the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.15,
+      558.81,
+      526.66,
+      577.23
+    ],
+    "text": "Defendant and child in a hiring car and left her at the parent's house as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.18,
+      591.22,
+      527.75,
+      609.63
+    ],
+    "text": "Pillessa, on the pretext of land-lord demanding the house and promising her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.96,
+      623.86,
+      527.14,
+      642.26
+    ],
+    "text": "that no sooner he finds another house he would bring her back. In this regard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.92,
+      656.27,
+      526.95,
+      674.68
+    ],
+    "text": "District Court has considered the evidence of Defendant's father and one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.17,
+      688.19,
+      526.79,
+      706.6
+    ],
+    "text": "Benedict Mendis. Witness B. Mendis state that Plaintiff had brought the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600914001464844,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      518.75,
+      34.87,
+      528.01,
+      50.12
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.65,
+      70.42,
+      527.06,
+      88.83
+    ],
+    "text": "Defendant and child to the house of the parents and that the witness was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.51,
+      102.83,
+      526.97,
+      121.24
+    ],
+    "text": "present at the time they arrived, and after sometime Plaintiff left. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.65,
+      135.71,
+      527.39,
+      154.13
+    ],
+    "text": "District Judge in order to arrive at a conclusion has looked at police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.59,
+      167.61,
+      527.29,
+      186.03
+    ],
+    "text": "complaint 1 VI by 1 st Defendant to Veyangoda Police made on 30.6.1987",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.33,
+      200.03,
+      526.79,
+      218.44
+    ],
+    "text": "about a divorce by Plaintiff and the fact that Plaintiff would take up the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.26,
+      232.91,
+      526.34,
+      251.32
+    ],
+    "text": "position that Defendant left him. Such complaint was made for future",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.46,
+      265.78,
+      527.37,
+      284.2
+    ],
+    "text": "reference. It was District Judge's view that in view of above the wife did not",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.845080375671387,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.21,
+      298.19,
+      527.28,
+      316.6
+    ],
+    "text": "have the intention to desert the husband. Further P2 makes it clear according",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.96,
+      330.35,
+      526.28,
+      348.76
+    ],
+    "text": "to it's contents the trial Judge state that it was agonizing for the Plaintiff to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.33,
+      362.74,
+      526.27,
+      381.16
+    ],
+    "text": "continue married life. Thereafter within about 2 lh months from statement P2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.159642219543457,
+      13.701196670532227,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.94,
+      395.39,
+      526.52,
+      413.8
+    ],
+    "text": "Plaintiff filed action. It appears to this court that the original Court Judge has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.04719066619873
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.85,
+      427.54,
+      525.93,
+      445.95
+    ],
+    "text": "accepted the more probable version of the 1 st Defendant-Respondent. I do",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.74,
+      460.19,
+      525.87,
+      478.6
+    ],
+    "text": "not wish to interfere with the trial Judge's views above. (contained in folios",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.79,
+      492.83,
+      526.53,
+      511.24
+    ],
+    "text": "312/313 of the judgment). To add to this I would also contribute that the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.984089851379395,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.63,
+      525.22,
+      526.52,
+      543.63
+    ],
+    "text": "gradual harassment by the in-laws from the very early days of marriage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.5,
+      557.86,
+      526.52,
+      576.27
+    ],
+    "text": "would be some form of encouragement for the wife to accept husband's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.26,
+      590.01,
+      528.11,
+      608.42
+    ],
+    "text": "request which was coupled by land-lord's demand to vacate the house. It",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.639928817749023,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.5,
+      622.43,
+      445.38,
+      640.84
+    ],
+    "text": "was more or less a ruse and a wily subterfuge, to get rid of her.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.9,
+      655.06,
+      525.77,
+      673.47
+    ],
+    "text": "On the above version of Defendant-Respondent I cannot come",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.76,
+      687.23,
+      525.61,
+      705.64
+    ],
+    "text": "to a conclusion that the wife has deliberately left the matrimonial house with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      518.98,
+      34.36,
+      527.83,
+      50.11
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.41,
+      71.2,
+      528.11,
+      88.94
+    ],
+    "text": "the intention of repudiating marriage ties. Evidence suggests that she was led",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.55,
+      103.58,
+      350.13,
+      121.32
+    ],
+    "text": "or mislead by her husband to leave the house.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      163.09,
+      135.99,
+      527.92,
+      153.74
+    ],
+    "text": "The question of reconciliation had also been considered by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.36,
+      168.63,
+      528.09,
+      186.38
+    ],
+    "text": "District Judge. Reference is made to V4, V5 & V6 to support reconciliation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.54,
+      201.02,
+      528.17,
+      218.77
+    ],
+    "text": "on the part of the wife. Letter V 4 does not suggest an intention to desert the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.38,
+      233.72,
+      528.56,
+      251.86
+    ],
+    "text": "Plaintiff. It is a very humble request on the part of the wife to get another",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.005144119262695,
+      14.135930061340332
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.42,
+      265.88,
+      528.3,
+      284.02
+    ],
+    "text": "house and start the usual life. It is dated 26.7.1987. V5 and V4 taken",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.209590911865234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.15,
+      298.48,
+      527.31,
+      316.22
+    ],
+    "text": "together does not suggest malice in any form. V6 telegram is sent in an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.27,
+      330.86,
+      527.39,
+      348.6
+    ],
+    "text": "emergency to request the husband to come immediately as child is sick.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.25,
+      363.75,
+      527.9,
+      381.5
+    ],
+    "text": "Original plaint filed in September 1987. Even time limit seems to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.53,
+      395.91,
+      160.84,
+      413.66
+    ],
+    "text": "insufficient.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.81,
+      428.31,
+      528.27,
+      446.05
+    ],
+    "text": "The learned trial Judge has in the judgment considered and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.04,
+      460.94,
+      528.05,
+      478.69
+    ],
+    "text": "compared the several acts and evidence of Plaintiff-Appellants to ascertain",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.06,
+      493.34,
+      528.07,
+      511.09
+    ],
+    "text": "as to whether Defendant' wife deliberately and or maliciously deserted the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.18,
+      525.5,
+      527.69,
+      543.25
+    ],
+    "text": "husband. The followings are noted and elicited from the judgment of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.00439739227295
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.89,
+      557.9,
+      174.93,
+      575.65
+    ],
+    "text": "District Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.81,
+      590.44,
+      527.17,
+      606.19
+    ],
+    "text": "(l) Witness of Plaintiff Dharmaratne visiting house of Defendant's parents at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.958370208740234,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128.5,
+      611.08,
+      527.58,
+      626.83
+    ],
+    "text": "'Pillassa' to request Defendant to resume marriage ties. Denied and rejected by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128.14,
+      631.72,
+      154.01,
+      647.47
+    ],
+    "text": "wife.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.58,
+      652.61,
+      529.58,
+      668.36
+    ],
+    "text": "(2) Plaintiff's evidence admitting that since 28.6.1987 never went to the house of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.9,
+      672.76,
+      200.64,
+      688.51
+    ],
+    "text": "wife's parents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      513.27,
+      34.99,
+      526.72,
+      50.38
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.682284355163574
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.82,
+      70.6,
+      526.97,
+      86.35
+    ],
+    "text": "(3) Taking a house on rent by Plaintiff at Veyangoda as in his evidence. Judge's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      128.04,
+      91.48,
+      524.61,
+      107.23
+    ],
+    "text": "observations that if Plaintiff could come to the Veyangoda house from his official",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.229098320007324
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.44,
+      112.36,
+      526.15,
+      128.11
+    ],
+    "text": "residence at Mihintale during Week-ends, there is no difficulty to get to 'Pillassa'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.43,
+      133.24,
+      526.58,
+      148.99
+    ],
+    "text": "Kurunegala to visit wife. As such there is a deliberate refusal to visit the wife and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.2,
+      153.89,
+      262.93,
+      169.64
+    ],
+    "text": "resume marital relationship.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.31,
+      174.77,
+      526.9,
+      190.52
+    ],
+    "text": "(4) Further to matters stated in (3) above the small child of Plaintiff and Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.9,
+      195.65,
+      525.96,
+      211.4
+    ],
+    "text": "was at the house at pillassa Kurunegala. But the Plaintiff had not ever bothered to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.75,
+      216.53,
+      527.49,
+      232.28
+    ],
+    "text": "see the child. As the trial Judge observes' ... ~f)~@ ~Cl;e\u00bb ffiC)@\", 8@l;cl\u00aeC5 1",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.052569389343262,
+      7.4268269538879395,
+      9.712149620056152,
+      10.101035118103027,
+      10.699999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.68,
+      236.08,
+      525.91,
+      252.89
+    ],
+    "text": "~~ eroffiesn(3\", Q\u00ae(S) e>6) (fmC, el;\u00ae~(\u00a7tmOl; 0065 ~Cl;e\u00bb Q)l;@\u00aeC:> @(5\u00bb @6\u00bb@(S)Jcl",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.96791410446167,
+      6.309991836547852,
+      8.511738777160645,
+      8.978160858154297,
+      9.524704933166504,
+      9.696161270141602,
+      10.052934646606445,
+      10.699999809265137,
+      10.790170669555664,
+      11.058769226074219,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.55,
+      258.59,
+      274.52,
+      273.62
+    ],
+    "text": "e>l;@6\\ ffiC)\u00ae ~\u00aec\"C) cs>CUeXJ6\\.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.319075584411621,
+      9.34975528717041,
+      9.661602973937988,
+      9.686777114868164
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.94,
+      299.83,
+      481.87,
+      317.97
+    ],
+    "text": "Further to above the following extract is incorporated from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.12,
+      332.47,
+      526.75,
+      350.61
+    ],
+    "text": "judgment of the Original Court is included regarding Trial Judge's views",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.11,
+      364.88,
+      385.92,
+      383.02
+    ],
+    "text": "after service of summons of Defendant-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.05,
+      426.98,
+      525.86,
+      445.67
+    ],
+    "text": "1 (!e:>B1 E)tlS6)fIl)}C3coC) Slj)}S @r;Q)(!@)65 a~~ (fr;co ~6r;e:>) Q@)(S) Q5) Sco 8c.o}",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.2024617195129395,
+      10.102035522460938,
+      10.347868919372559,
+      10.464359283447266,
+      10.531072616577148,
+      10.593912124633789,
+      11.40421199798584,
+      11.800000190734863,
+      11.818347930908203,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.67,
+      459.64,
+      529.56,
+      475.39
+    ],
+    "text": "Q@)(S) \u00aeB>65Q)(!@ ar;\u00ae~@oor;(!cs5 B1@ Ble)QC) (!C5.\u00bbc:5 (fr;6) (fQ)6, ar;\u00ae~@oor;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.342588424682617,
+      7.959899425506592,
+      9.971831321716309,
+      10.373756408691406,
+      10.524179458618164,
+      11.068155288696289,
+      11.468235969543457,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.42,
+      490.61,
+      526.49,
+      506.36
+    ],
+    "text": "Ce:>@)5)}(!e:>65\u00ae Ble)S65 @)(S) 5)r;6 (fr;6) Q)e:> @~C3atlS E) (fr;6) Q}&l5fj (f~ (!OO",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.168430328369141,
+      9.23922061920166,
+      9.680072784423828,
+      9.77100944519043,
+      10.522832870483398,
+      10.58020305633545,
+      10.79839038848877,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.42,
+      521.1,
+      524.79,
+      537.59
+    ],
+    "text": "coco. \u00aeB>65Q)@coC) (!@)@) 5)~e:> ar;e:>Q(!@)65 a~e:> 1 (!e:>B1 E)tlS6)fIl)}C3co ar;\u00ae~ Q)e:>",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.698610782623291,
+      7.207995891571045,
+      8.189593315124512,
+      9.680072784423828,
+      9.751667022705078,
+      10.198698997497559,
+      10.632936477661133,
+      10.886219024658203,
+      10.954509735107422,
+      11.166547775268555,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.28,
+      553.54,
+      524.95,
+      570.58
+    ],
+    "text": "ar;\u00ae~@oor; 8@(S)B1. Q)e)~ 1987/06/28 65 a~ 1 (!e:>B1 E)tlSoo>C3co Q)r;@\u00aeC)",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.467048168182373,
+      8.317999839782715,
+      9.683635711669922,
+      10.198698997497559,
+      10.674582481384277,
+      11.111780166625977,
+      11.321914672851562,
+      11.482220649719238,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.14,
+      584.44,
+      528.01,
+      600.19
+    ],
+    "text": "(!5)J ~e:>) (!(S)5) ~@)C) Q)@)} (!5)}G)co Q)e:>~ ar;\u00ae~@oor; (i)\u00a7}(!cs5 Q}&l5fj(!~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.189022064208984,
+      6.811942100524902,
+      7.095237731933594,
+      7.786511421203613,
+      7.856530666351318,
+      9.853745460510254,
+      10.992146492004395,
+      11.238699913024902,
+      11.281665802001953,
+      11.65941333770752
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.82,
+      614.84,
+      524.7,
+      631.92
+    ],
+    "text": "8@ (!(S)5) (fr;Q). Q)e:>~ 1990/1 0/25 (!e:>B1 ~5) Q}~ e:>@ 13 8~(!~ 1 (!e:>B1",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.70792293548584,
+      7.9212117195129395,
+      9.230487823486328,
+      10.041875839233398,
+      10.150511741638184,
+      10.279921531677246,
+      11.281665802001953,
+      11.40333366394043,
+      11.868152618408203,
+      12.003250122070312,
+      12.068886756896973,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.98,
+      646.36,
+      528.86,
+      662.11
+    ],
+    "text": "E)OOfll)}C3co OO}5)CO (!(S)5) cor;@)C) ~@)6tlS(!Q)65 SC)5) Q)e:> ar;\u00ae~@oor;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.107134819030762,
+      7.974359035491943,
+      9.680072784423828,
+      10.119366645812988,
+      10.929597854614258,
+      10.950900077819824,
+      11.281665802001953,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      41.35,
+      31.87,
+      524.92,
+      50.32
+    ],
+    "text": "\u2022 11",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.636021614074707,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.84,
+      69.7,
+      527.54,
+      88.11
+    ],
+    "text": "The argument of learned President's Counsel that desertion was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.95,
+      102.11,
+      528.07,
+      120.52
+    ],
+    "text": "not as in issue No.2 but when witness Dharmaratne's evidence suggesting a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.770719528198242,
+      13.800000190734863,
+      14.24424934387207
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.93,
+      134.75,
+      528.11,
+      153.15
+    ],
+    "text": "request to join the Appellant and refusal by wife to accept such officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.68,
+      167.13,
+      527.0,
+      185.55
+    ],
+    "text": "would be the point of malicious desertion is not tenable as that seems not to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.97,
+      199.79,
+      527.65,
+      218.2
+    ],
+    "text": "be the position in the original court which view I endorse. In any event that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.711868286132812,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.5,
+      232.43,
+      527.37,
+      250.84
+    ],
+    "text": "position cannot amount to desertion with malice, in view of (1) to (4) above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.58,
+      265.05,
+      526.77,
+      283.47
+    ],
+    "text": "and the several attempts on the part of the Defendant wife and her father to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.46,
+      297.23,
+      527.12,
+      315.64
+    ],
+    "text": "reconcile, being turned down or rejected by Appellant. I also agree with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.58,
+      329.38,
+      527.56,
+      347.79
+    ],
+    "text": "learned counsel for Respondent that a party cannot be permitted to present a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.31,
+      361.78,
+      415.83,
+      380.2
+    ],
+    "text": "different case in appeal. Bastian's case 1993(1) SLR 184.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      161.9,
+      394.41,
+      526.7,
+      412.82
+    ],
+    "text": "I also agree that Appellant's conduct makes matters easy for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.26,
+      426.81,
+      526.51,
+      445.23
+    ],
+    "text": "both courts to decide the case in favour of the Defendant-Respondent. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.793949127197266,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.94,
+      459.23,
+      527.16,
+      477.64
+    ],
+    "text": "Muthukumaraswamy V s. Parameswary 78 NLR 488 - Deserted spouse must",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.532405853271484,
+      13.66246509552002,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.86,
+      491.62,
+      526.65,
+      510.03
+    ],
+    "text": "always until presentation of plaint affirm the marriage and be ready to take",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.78,
+      524.02,
+      526.66,
+      542.43
+    ],
+    "text": "back the wife. Appellant never expressed a desire to do so, though the wife",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.49,
+      556.66,
+      526.59,
+      575.07
+    ],
+    "text": "tried on several occasions on her own and with her father to resume marriage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.27,
+      589.07,
+      527.17,
+      607.48
+    ],
+    "text": "ties. The evidence available suggest that the Plaintiff-Appellant either",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.22597599029541
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.25,
+      621.47,
+      516.25,
+      639.88
+    ],
+    "text": "willingly or unwilling or deliberately whittled the process of reconciliation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.19,
+      -5.03,
+      64.99,
+      18.98
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      513.99,
+      33.44,
+      527.44,
+      48.97
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.729867935180664
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.58,
+      69.71,
+      527.62,
+      88.12
+    ],
+    "text": "In all the above circumstances I am of the view that there is no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.762800216674805,
+      13.793949127197266,
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.89,
+      102.1,
+      527.63,
+      120.51
+    ],
+    "text": "merit in this appeal. The Defendant wife had been harassed by the in-laws.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.32,
+      134.74,
+      500.76,
+      153.15
+    ],
+    "text": "This fact was not specifically rejected by the Plaintiff. Interference of in-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.8,
+      167.15,
+      528.34,
+      185.56
+    ],
+    "text": "laws is a perennial problem in our society. At times it is a mere prestige",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.730775833129883,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.45,
+      199.54,
+      528.0,
+      217.95
+    ],
+    "text": "battle, and result in break down of marriages, and attempts to deny",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.53,
+      231.95,
+      527.84,
+      250.36
+    ],
+    "text": "association of relatives as the truth is very often hidden or exaggerated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533221244812012,
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.13,
+      264.59,
+      530.9,
+      283.0
+    ],
+    "text": "Plaintiff-Appellant seems to have worked according to a plan to get rid of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.18,
+      297.23,
+      524.51,
+      315.64
+    ],
+    "text": "his wife and child by a gradual process. Initially the problems created by in-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.55,
+      329.62,
+      528.6,
+      348.03
+    ],
+    "text": "laws. Then constant quarrel between the two of them, as a result of conduct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.82,
+      362.26,
+      527.63,
+      380.67
+    ],
+    "text": "of in-laws. Finally the plan to force the wife to leave the matrimonial home",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.82,
+      394.41,
+      527.85,
+      412.83
+    ],
+    "text": "and denial of reconciliation. The learned District Judge has carefully",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.82,
+      426.83,
+      528.11,
+      445.24
+    ],
+    "text": "considered all the available evidence and pronounced a well considered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.85,
+      459.46,
+      527.62,
+      477.87
+    ],
+    "text": "judgment. As such I affirm the judgment of the District Court and dismiss",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.44,
+      491.61,
+      216.63,
+      510.02
+    ],
+    "text": "this appeal with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.2,
+      524.02,
+      267.98,
+      542.42
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  }
+]
