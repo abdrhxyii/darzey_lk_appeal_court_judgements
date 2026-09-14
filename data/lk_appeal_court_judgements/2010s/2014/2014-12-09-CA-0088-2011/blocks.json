@@ -1,0 +1,1864 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      107.55,
+      101.3,
+      515.83,
+      115.48
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.721186637878418,
+      9.841651916503906,
+      9.935811996459961,
+      9.955643653869629,
+      9.969393730163574,
+      10.006879806518555,
+      10.0169095993042,
+      10.07028865814209,
+      10.185513496398926,
+      10.270658493041992,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.69,
+      186.93,
+      489.27,
+      201.08
+    ],
+    "text": "Pinkanda Aratchilage Nimal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.21,
+      229.94,
+      463.79,
+      244.12
+    ],
+    "text": "ACCUSED-APPELLANT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.10153865814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.38,
+      252.45,
+      151.06,
+      266.6
+    ],
+    "text": "C.A 88/2011",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.966190338134766,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.53,
+      273.57,
+      233.17,
+      287.72
+    ],
+    "text": "H.C. Anuradhapura 257/2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.95910930633545,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.8,
+      488.89,
+      132.56,
+      503.07
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.856502532958984
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.63,
+      552.98,
+      140.57,
+      567.16
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.025440216064453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.01,
+      640.92,
+      156.47,
+      654.25
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.719730377197266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.75,
+      703.7,
+      157.37,
+      717.88
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0889892578125,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.09,
+      487.44,
+      281.12,
+      502.64
+    ],
+    "text": "Anil Gooneratne J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.331448554992676,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.61,
+      509.72,
+      257.79,
+      523.87
+    ],
+    "text": "P. R. Walgama J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.191668510437012,
+      9.374466896057129,
+      10.13464069366455,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.19,
+      293.88,
+      371.07,
+      308.44
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.200470924377441
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.68,
+      336.93,
+      466.11,
+      351.08
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.307147026062012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.45,
+      358.53,
+      512.44,
+      372.68
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.307147026062012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.53,
+      379.88,
+      418.42,
+      394.03
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.54,
+      422.42,
+      503.25,
+      436.6
+    ],
+    "text": "COMPLAINANT-RESPONDENT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.19,
+      551.72,
+      398.47,
+      565.87
+    ],
+    "text": "Srinath Perera P.c. with S.L. Bulathsinghalage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.740080833435059,
+      10.300000190734863,
+      10.388867378234863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.3,
+      568.53,
+      306.23,
+      582.68
+    ],
+    "text": "for the Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.8,
+      600.93,
+      440.79,
+      615.08
+    ],
+    "text": "Hiranjan Peiris S.S.c. for the Complainant-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.22583293914795,
+      10.300000190734863,
+      10.333745002746582,
+      10.42558479309082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.68,
+      639.56,
+      235.35,
+      653.72
+    ],
+    "text": "02.12.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.92,
+      702.92,
+      235.86,
+      717.07
+    ],
+    "text": "09.12.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      526.43,
+      65.76,
+      534.45,
+      80.04
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.85,
+      -1.98,
+      23.12,
+      109.63
+    ],
+    "text": ",1 ! I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.564497470855713,
+      14.600000381469727,
+      38.40010070800781,
+      39.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.64,
+      125.27,
+      16.65,
+      164.84
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      527.69,
+      66.42,
+      535.94,
+      81.09
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.34,
+      100.25,
+      171.81,
+      115.02
+    ],
+    "text": "GOONERATNE J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.307235717773438,
+      10.937421798706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.72,
+      186.93,
+      534.94,
+      203.83
+    ],
+    "text": "The Accused-Appellant was a Soldier attached to the Sri Lanka Army.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.026457786560059,
+      12.031519889831543,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.44,
+      220.29,
+      535.85,
+      237.19
+    ],
+    "text": "Deceased was also a Soldier but somewhat higher in rank. Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.326421737670898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.75,
+      253.9,
+      535.32,
+      270.8
+    ],
+    "text": "was indicted for the murder the deceased namely Ulagoda Mudiyanselage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.368409156799316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.95,
+      287.49,
+      536.07,
+      304.39
+    ],
+    "text": "Upul Padmashantha Seneviratne on 21.8.1998. The incident of shooting took",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.76,
+      320.62,
+      534.37,
+      337.52
+    ],
+    "text": "place inside the Mihintale Army Camp. The undisputed facts very briefly are as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.25,
+      353.97,
+      135.28,
+      370.87
+    ],
+    "text": "follows.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.77,
+      387.57,
+      534.89,
+      404.47
+    ],
+    "text": "Both the Accused and the deceased had been soldiers of a platoon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.03,
+      421.18,
+      534.73,
+      438.08
+    ],
+    "text": "who were involved in an operation to wipe out terrorism from the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.07071304321289,
+      12.2972993850708,
+      12.300000190734863,
+      12.362590789794922,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.48,
+      454.53,
+      534.85,
+      471.43
+    ],
+    "text": "Trincomalee area, and which operation was described as 'Jayasikuru'. Having",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.29,
+      487.9,
+      534.41,
+      504.8
+    ],
+    "text": "been involved in the task described as above (Jayasikuru) the platoon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.2972993850708,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.66,
+      521.49,
+      535.22,
+      538.39
+    ],
+    "text": "consisting of both the deceased and Accused-Appellant returned to the Army",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.86,
+      554.85,
+      534.04,
+      571.75
+    ],
+    "text": "Camp at Mihintale, on the day in question. It is in evidence that the soldiers in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.125309944152832,
+      12.2972993850708,
+      12.300000190734863,
+      12.305747985839844,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.5,
+      587.74,
+      535.01,
+      604.64
+    ],
+    "text": "the camp had their dinner at about 7.00/7.30 p.m. and a platoon of about",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.328167915344238,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.89,
+      621.1,
+      536.2,
+      638.0
+    ],
+    "text": "30/40 had no facilities to sleep inside the camp and as such, said numbers of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.69,
+      653.97,
+      534.37,
+      670.87
+    ],
+    "text": "soldiers were given orders to go to a nearby school to spend the rest of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.69,
+      687.09,
+      534.25,
+      704.0
+    ],
+    "text": "day. The deceased Army personnel just prior to leaving to the nearby school",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      1.78,
+      4.56,
+      17.79,
+      64.53
+    ],
+    "text": "1 j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.20009994506836,
+      23.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      525.95,
+      66.39,
+      534.05,
+      80.79
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.68,
+      100.78,
+      533.28,
+      117.68
+    ],
+    "text": "ordered the Accused-Appellant soldier to carry some water cans and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172539710998535,
+      12.246885299682617,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.04,
+      134.14,
+      533.24,
+      151.04
+    ],
+    "text": "mattresses to the bus which was awaiting to take the soldiers to the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.18864631652832,
+      12.190613746643066,
+      12.273371696472168,
+      12.300000190734863,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.45,
+      167.73,
+      533.32,
+      184.63
+    ],
+    "text": "school. At that moment itself the Accused-Appellant had scolded the deceased",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.56,
+      201.1,
+      533.21,
+      218.0
+    ],
+    "text": "in very bad language which need not be reproduced in this Judgment. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.11906909942627,
+      12.227234840393066,
+      12.279633522033691,
+      12.2972993850708,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.44,
+      234.69,
+      534.13,
+      251.59
+    ],
+    "text": "deceased had, by the words uttered by the Accused squeezed both ears of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.215510368347168,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.33,
+      267.81,
+      541.61,
+      284.71
+    ],
+    "text": "Accused-Appellant. The eye witnesses describes in evidence as. t .... ~ (f~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.699999809265137,
+      7.547455787658691,
+      10.27057933807373,
+      11.752777099609375,
+      12.227234840393066,
+      12.2972993850708,
+      12.300000190734863,
+      13.219621658325195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.5,
+      368.14,
+      533.64,
+      385.04
+    ],
+    "text": "It was suggested by both learned counsel that immediately after the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.85,
+      401.48,
+      533.16,
+      418.39
+    ],
+    "text": "Accused's ears were squeezed by the deceased Soldier, the Accused had fired",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.95,
+      434.85,
+      533.63,
+      451.75
+    ],
+    "text": "at the deceased with a rifle in close range. Only one gun short was fired with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2972993850708,
+      12.300000190734863,
+      12.324824333190918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.78,
+      468.46,
+      533.2,
+      485.36
+    ],
+    "text": "the rifle but depending on the gun that was used 2 entry wounds were found",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.08,
+      501.8,
+      532.56,
+      518.71
+    ],
+    "text": "in the body of the deceased. The deceased had been rushed to hospital and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.246885299682617,
+      12.300000190734863,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.54,
+      535.41,
+      532.62,
+      552.31
+    ],
+    "text": "the material disclosed to this court indicates that an emergency operation had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.159042358398438,
+      12.186223983764648,
+      12.300000190734863,
+      12.452455520629883,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.54,
+      569.01,
+      186.59,
+      585.91
+    ],
+    "text": "to be performed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.001989364624023,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.56,
+      601.17,
+      533.14,
+      618.07
+    ],
+    "text": "The medical evidence reveal that the death would have been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.32,
+      634.77,
+      534.12,
+      651.67
+    ],
+    "text": "instantaneous but for the emergency operation. However the deceased died 4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.326421737670898,
+      12.368409156799316
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.94,
+      667.65,
+      535.24,
+      684.55
+    ],
+    "text": "days after the incident. Medico Legal Report suggest the setting in of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.059906959533691,
+      12.2972993850708,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.68,
+      -16.12,
+      25.53,
+      50.95
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.5,
+      42.90010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      0.83,
+      57.72,
+      22.57,
+      155.97
+    ],
+    "text": "1 I I I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      12.699999809265137,
+      15.600000381469727,
+      21.799999237060547,
+      39.099998474121094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -0.19,
+      216.52,
+      21.45,
+      374.69
+    ],
+    "text": "I I I I I i I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.199999809265137,
+      10.399999618530273,
+      14.5,
+      20.20009994506836,
+      24.100000381469727,
+      24.5,
+      28.899999618530273,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      526.53,
+      66.41,
+      534.95,
+      80.29
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.85,
+      101.08,
+      535.8,
+      117.29
+    ],
+    "text": "'septicaemia'. It is possible to argue that death was caused due to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.650908470153809,
+      11.800000190734863,
+      12.016562461853027,
+      12.196730613708496,
+      12.197891235351562,
+      12.329757690429688
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.42,
+      134.2,
+      220.34,
+      150.41
+    ],
+    "text": "supervening condition.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.71,
+      168.02,
+      534.42,
+      184.24
+    ],
+    "text": "I state that as submitted by learned President's Counsel and learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.4276762008667,
+      11.800000190734863,
+      11.833403587341309,
+      12.132369041442871
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.13,
+      201.14,
+      535.57,
+      217.36
+    ],
+    "text": "Senior State Counsel the attendant circumstances warrant a substitution for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.94723129272461,
+      11.948761940002441,
+      11.973475456237793,
+      12.114411354064941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.98,
+      234.76,
+      535.39,
+      250.97
+    ],
+    "text": "the conviction for murder, of a conviction of culpable homicide not amounting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.973475456237793,
+      12.109491348266602,
+      12.114411354064941,
+      12.293721199035645,
+      12.426660537719727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.74,
+      268.34,
+      534.7,
+      284.56
+    ],
+    "text": "to murder on the basis of grave and sudden provocation. The words uttered by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.807948112487793,
+      11.846259117126465,
+      11.937746047973633,
+      11.973475456237793,
+      12.293721199035645,
+      12.329757690429688
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.74,
+      301.71,
+      534.8,
+      317.92
+    ],
+    "text": "the Accused with anger may be due to previous enmity or otherwise. In the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.712778091430664,
+      11.800000190734863,
+      11.812743186950684,
+      11.893380165100098,
+      11.992578506469727,
+      12.0416259765625,
+      12.071721076965332,
+      12.197891235351562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.57,
+      335.07,
+      534.19,
+      351.28
+    ],
+    "text": "Army the military regulations may require an officer of an high rank to give",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.85994815826416,
+      11.892338752746582,
+      11.905924797058105,
+      11.973475456237793,
+      12.197891235351562,
+      12.293721199035645
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.69,
+      368.43,
+      534.56,
+      384.65
+    ],
+    "text": "orders to soldiers of a lower rank. It need to be obeyed. In any event all the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.812743186950684,
+      11.972341537475586,
+      12.016562461853027,
+      12.197891235351562,
+      12.293721199035645
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.29,
+      401.78,
+      534.02,
+      418.0
+    ],
+    "text": "factual matters gathered does favour a plea of grave and sudden provocation.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.811044692993164,
+      11.829612731933594,
+      12.558144569396973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.19,
+      435.38,
+      533.62,
+      451.6
+    ],
+    "text": "I wonder why! The learned State Counsel who conducted the prosecution in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.894322395324707,
+      11.956907272338867,
+      11.973475456237793,
+      11.988789558410645
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.26,
+      468.74,
+      529.47,
+      484.96
+    ],
+    "text": "the High Court was not amenable to accept a plea on the basis of provocation.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.893380165100098,
+      11.973475456237793,
+      12.028488159179688,
+      12.197891235351562,
+      12.426660537719727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.99,
+      502.1,
+      534.82,
+      518.32
+    ],
+    "text": "In the circumstances, before I conclude it is prudent to refer to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.461494445800781,
+      11.800000190734863,
+      11.893380165100098,
+      11.935076713562012,
+      12.197891235351562,
+      12.259648323059082
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.41,
+      535.72,
+      268.8,
+      551.93
+    ],
+    "text": "Premlal VS. A.G 2000(2) SLR 403",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.556892395019531,
+      11.006921768188477,
+      11.699999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.42,
+      569.48,
+      209.59,
+      585.32
+    ],
+    "text": "Held: per Kulatilaka 1.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.374913215637207,
+      11.699999809265137,
+      11.994396209716797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.42,
+      602.1,
+      533.75,
+      615.98
+    ],
+    "text": "\"Our Judgments interpreted the phrase \"sudden provocation\" to mean that provocation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.116087913513184,
+      10.181670188903809,
+      10.20332145690918,
+      10.232925415039062,
+      10.35493278503418,
+      10.52342414855957
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.99,
+      623.46,
+      533.78,
+      637.34
+    ],
+    "text": "should consist of a single act which occurred immediately before the killing so that there",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.967683792114258,
+      10.100000381469727,
+      10.10639762878418,
+      10.14594554901123,
+      10.14997673034668,
+      10.232925415039062,
+      10.35493278503418,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.08,
+      644.57,
+      533.38,
+      658.45
+    ],
+    "text": "was no time for the anger to cool and the act must have been such that it would have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.133744239807129,
+      10.232925415039062,
+      10.307567596435547,
+      10.312514305114746,
+      10.35493278503418,
+      10.415667533874512,
+      10.468381881713867,
+      10.52342414855957
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.37,
+      665.93,
+      433.4,
+      679.81
+    ],
+    "text": "made a reasonable man to react in the manner as the accused did.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.734901428222656,
+      10.100000381469727,
+      10.11294174194336,
+      10.114839553833008,
+      10.232925415039062,
+      10.52342414855957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -3.53,
+      1.35,
+      19.04,
+      77.2
+    ],
+    "text": "f I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.699999809265137,
+      18.20009994506836,
+      40.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -3.12,
+      80.81,
+      6.54,
+      105.22
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      522.57,
+      67.62,
+      530.82,
+      82.29
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -1.94,
+      95.89,
+      531.0,
+      119.35
+    ],
+    "text": ") Therefore, we set aside the finding and conviction of murder and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.68720531463623,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.32,
+      135.81,
+      531.57,
+      152.71
+    ],
+    "text": "sentence of death are substitute a conviction for culpable homicide not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.461736679077148,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.56,
+      169.17,
+      530.3,
+      186.07
+    ],
+    "text": "amounting to murder on the basis of grave and sudden provocation. We",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.243971824645996,
+      12.25496768951416,
+      12.300000190734863,
+      12.588272094726562,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.68,
+      202.54,
+      529.88,
+      219.44
+    ],
+    "text": "impose a term of 15 years rigorous imprisonment. We also direct that the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.190613746643066,
+      12.214250564575195,
+      12.300000190734863,
+      12.386743545532227,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.63,
+      223.52,
+      610.42,
+      387.16
+    ],
+    "text": "III",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.20009994506836,
+      48.599998474121094,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.9,
+      236.13,
+      530.76,
+      253.03
+    ],
+    "text": "term of imprisonment will run from the date the Accused was convicted by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273371696472168,
+      12.300000190734863,
+      12.305747985839844,
+      12.31379222869873,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.45,
+      269.73,
+      471.56,
+      286.63
+    ],
+    "text": "learned High Court Judge (15.11.2011). This appeal is partly allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.77,
+      303.1,
+      266.32,
+      320.0
+    ],
+    "text": "Appeal partly allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.83,
+      336.44,
+      233.66,
+      353.34
+    ],
+    "text": "Sentence varied.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.01,
+      432.17,
+      163.95,
+      446.84
+    ],
+    "text": "P. R. Walgama J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.869519233703613,
+      9.190635681152344,
+      9.899999618530273,
+      10.524576187133789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.49,
+      461.43,
+      210.88,
+      475.03
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      357.37,
+      498.96,
+      480.57,
+      516.66
+    ],
+    "text": "?,~.#~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      15.786576271057129
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      350.33,
+      518.22,
+      513.85,
+      532.24
+    ],
+    "text": "JUDGE OF THE C&URT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.710083961486816,
+      9.79198932647705,
+      9.94593620300293,
+      9.987485885620117,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      379.16,
+      509.21,
+      461.56,
+      582.31
+    ],
+    "text": "---------",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      40.16634750366211
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      589.99,
+      713.28,
+      606.0,
+      792.42
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      57.599998474121094
+    ]
+  }
+]

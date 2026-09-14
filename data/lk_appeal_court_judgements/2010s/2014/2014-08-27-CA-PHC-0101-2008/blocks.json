@@ -1,0 +1,604 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      86.27,
+      521.2,
+      101.81
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      102.35,
+      397.66,
+      183.62
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) 101/2008",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      183.48,
+      445.12,
+      232.82
+    ],
+    "text": "W.A.N. Chaminda Kumara Siripura",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      232.8,
+      469.39,
+      347.69
+    ],
+    "text": "Appellant Vs. Sri Lanka Mahaweli Authority",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      347.67,
+      439.85,
+      364.13
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.98,
+      70.19,
+      220.1,
+      87.22
+    ],
+    "text": "CA (PHC) 101/2008",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.522452354431152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.81,
+      112.68,
+      149.16,
+      129.71
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.5,
+      176.04,
+      156.4,
+      193.07
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.14,
+      239.63,
+      161.96,
+      256.66
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.6,
+      260.75,
+      176.82,
+      277.78
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.32,
+      303.24,
+      218.07,
+      320.27
+    ],
+    "text": "K. T. CHITRASIRI,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.24,
+      70.19,
+      510.66,
+      87.23
+    ],
+    "text": "PHC Ampara 316/07 Writ",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.498645782470703,
+      13.76987361907959
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.78,
+      111.58,
+      356.47,
+      128.92
+    ],
+    "text": "K.T. Chitrasiri, J. &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.759220123291016,
+      13.006098747253418,
+      13.873175621032715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.07,
+      132.7,
+      423.65,
+      150.04
+    ],
+    "text": "W.M.M. Malinie Gunaratne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.35451602935791,
+      13.707023620605469
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.64,
+      175.19,
+      496.95,
+      192.53
+    ],
+    "text": "Jeevani Perera for the petitioner-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.055481910705566,
+      13.175909996032715,
+      13.237136840820312,
+      13.251761436462402
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.38,
+      196.31,
+      456.86,
+      213.65
+    ],
+    "text": "K.L.I. Perera for the 3rd Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.290694236755371,
+      13.0,
+      13.086263656616211,
+      13.175909996032715,
+      13.326255798339844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.54,
+      217.42,
+      458.04,
+      234.76
+    ],
+    "text": "Manohara J ayasinghe SC for the AG.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.801839828491211,
+      13.0,
+      13.150676727294922,
+      13.275481224060059,
+      13.326255798339844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.28,
+      260.43,
+      307.8,
+      277.1
+    ],
+    "text": "27.08.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.95820140838623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.57,
+      354.47,
+      528.93,
+      371.81
+    ],
+    "text": "Learned Counsel for the appellant moves to withdraw this appeal in view",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.01169490814209,
+      13.118510246276855,
+      13.140787124633789,
+      13.196564674377441,
+      13.205033302307129,
+      13.286541938781738,
+      13.326255798339844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.27,
+      375.82,
+      527.06,
+      393.16
+    ],
+    "text": "of the decision in Soleimuttu Rasu Vs. Superintendent Stafford Estate &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.0,
+      13.01169490814209,
+      13.125197410583496,
+      13.180004119873047,
+      13.209413528442383,
+      13.237136840820312,
+      13.372950553894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.5,
+      397.42,
+      250.54,
+      414.76
+    ],
+    "text": "Others (SC appeal 21/13).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.075166702270508,
+      13.163472175598145,
+      13.220726013183594
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.5,
+      428.63,
+      528.12,
+      445.97
+    ],
+    "text": "Counsel for the respondent has no objection to this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.084972381591797,
+      13.148650169372559,
+      13.237136840820312,
+      13.27318000793457,
+      13.286541938781738,
+      13.627266883850098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.89,
+      449.5,
+      315.38,
+      466.84
+    ],
+    "text": "Application for withdrawal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.083333015441895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.89,
+      480.93,
+      399.63,
+      498.28
+    ],
+    "text": "Accordingly, this appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.015690803527832,
+      13.08586597442627,
+      13.174725532531738,
+      13.205033302307129,
+      13.235123634338379,
+      13.286541938781738
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.36,
+      513.66,
+      200.5,
+      529.29
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.9160737991333,
+      12.969281196594238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.61,
+      575.16,
+      498.89,
+      592.19
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.314342498779297,
+      12.3414306640625,
+      12.349052429199219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.65,
+      606.59,
+      304.35,
+      623.62
+    ],
+    "text": "W.M.M. MALINIE GUNARATNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.09,
+      637.42,
+      173.17,
+      654.76
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.61,
+      699.23,
+      498.89,
+      716.26
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.314342498779297,
+      12.3414306640625,
+      12.349052429199219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.58,
+      730.31,
+      127.69,
+      747.65
+    ],
+    "text": "KRL/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.53,
+      587.34,
+      600.72,
+      603.07
+    ],
+    "text": "r r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.300099849700928,
+      7.900100231170654
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.72,
+      768.82,
+      599.22,
+      791.08
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.43,
+      785.34,
+      602.32,
+      831.16
+    ],
+    "text": "f ! !t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      10.100000381469727,
+      12.0,
+      20.799999237060547
+    ]
+  }
+]

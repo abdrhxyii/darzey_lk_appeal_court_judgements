@@ -1,0 +1,456 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.2,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      90.95,
+      397.66,
+      106.49
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      118.92,
+      254.84,
+      185.0
+    ],
+    "text": "CA (PHC) APN 65/2014 Revision HC Ratnapura 18/02",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      184.56,
+      510.55,
+      250.22
+    ],
+    "text": "B.W. Wasantha Pushpakumara",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      250.23,
+      486.31,
+      315.89
+    ],
+    "text": "(Accused Petitioner) -Vs-",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      315.87,
+      520.51,
+      397.97
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      397.95,
+      496.03,
+      414.41
+    ],
+    "text": "(Plaintiff Respondent)",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.02,
+      69.71,
+      517.77,
+      86.98
+    ],
+    "text": "CA (PHC) APN 65/2014 Revision HC Ratnapura 18/02",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.593009948730469,
+      12.810649871826172,
+      13.620966911315918,
+      13.725765228271484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.09,
+      112.2,
+      148.44,
+      129.23
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.54,
+      175.56,
+      155.15,
+      192.59
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.18,
+      196.67,
+      160.71,
+      213.7
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.600000381469727,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.64,
+      217.79,
+      175.86,
+      234.82
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.36,
+      260.27,
+      217.11,
+      277.3
+    ],
+    "text": "K. T. CHITRASIRI,J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.82,
+      111.8,
+      354.26,
+      128.88
+    ],
+    "text": "KT. Chitrasiri, J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.829167366027832,
+      12.879205703735352,
+      13.0076904296875
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.11,
+      133.15,
+      422.79,
+      150.23
+    ],
+    "text": "W.M.M. Malinie Gunaratne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.251391410827637,
+      13.549243927001953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.18,
+      175.15,
+      465.59,
+      192.23
+    ],
+    "text": "Priyantha Deniyaya for the petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.83604907989502,
+      12.887848854064941,
+      13.134918212890625,
+      13.172577857971191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      236.08,
+      217.81,
+      306.86,
+      234.35
+    ],
+    "text": "27.08.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.929591178894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.54,
+      302.12,
+      438.46,
+      319.2
+    ],
+    "text": "Counsel for the petitioner moves to withdraw this petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.835501670837402,
+      12.86080551147461,
+      12.950218200683594,
+      12.983928680419922,
+      13.067848205566406,
+      13.134918212890625,
+      13.183941841125488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.94,
+      344.36,
+      314.46,
+      361.44
+    ],
+    "text": "Application for withdrawal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.915182113647461,
+      13.00623893737793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.69,
+      387.31,
+      320.77,
+      404.39
+    ],
+    "text": "Accordingly, this petition is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.90898609161377,
+      12.915182113647461,
+      12.953529357910156,
+      13.183941841125488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.17,
+      471.95,
+      497.45,
+      488.98
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.314342498779297,
+      12.3414306640625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.21,
+      503.15,
+      302.91,
+      520.19
+    ],
+    "text": "W.M.M. MALINIE GUNARATNE, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.927351951599121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.63,
+      534.2,
+      171.78,
+      551.28
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.93,
+      596.99,
+      497.21,
+      614.02
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.314342498779297,
+      12.3414306640625,
+      12.349052429199219
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.68,
+      629.65,
+      126.03,
+      645.73
+    ],
+    "text": "KRL/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.251119613647461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.74,
+      324.23,
+      601.0,
+      350.61
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.20009994506836
+    ]
+  }
+]
