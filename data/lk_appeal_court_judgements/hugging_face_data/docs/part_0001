@@ -3011,6 +3011,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-08-CA-0381-1998--F-",
+    "num": "CA/0381/1998 (F)",
+    "date_str": "2012-05-08",
+    "description": "M. P. D. Gunapala Vs. W. D. Violet Nona, K. Dharmasena M. P. D. Gunapala Vs. W. D. Violet Nona, K. Dharmasena View More before Hon. A. Gooneratne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_kuliyapitiya_381_1998.pdf",
+    "parties": "M. P. D. Gunapala Vs. W. D. Violet Nona, K. Dharmasena M. P. D. Gunapala Vs. W. D. Violet Nona, K. Dharmasena View More",
+    "judgement_by": "Hon. A. Gooneratne, J.",
+    "keywords": "Land dispute,fraud, invalid deed, property.",
+    "legistation": "Section 92 of the Evidence Ordinance"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2012-05-08-CA1370-00",
     "num": "CA1370/00",
     "date_str": "2012-05-08",
@@ -3319,6 +3333,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-22-CA-0374-1998--F-",
+    "num": "CA/0374/1998 (F)",
+    "date_str": "2012-05-22",
+    "description": "W. Antony Fonseka Vs. K. R. M. Harichchandra Mahageera W. Antony Fonseka Vs. K. R. M. Harichchandra Mahageera View More before Hon. Gooneratne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_maravila_374_1998.pdf",
+    "parties": "W. Antony Fonseka Vs. K. R. M. Harichchandra Mahageera W. Antony Fonseka Vs. K. R. M. Harichchandra Mahageera View More",
+    "judgement_by": "Hon. Gooneratne, J.",
+    "keywords": "Settlement dispute,",
+    "legistation": "chapter 53 of the Civil Procedure Code"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2012-05-22-CA-1116-2000--F-",
     "num": "CA/1116/2000 (F)",
     "date_str": "2012-05-22",
@@ -3375,6 +3403,34 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-24-CA-0690-0691-1998--F-",
+    "num": "CA/0690-0691/1998 (F)",
+    "date_str": "2012-05-24",
+    "description": "Bernard Fernando Vs. P.P.G. Sunil Shantha,M. G. Piyasena, M. G. Karunaratne Bernard Fernando Vs. P.P.G. Sunil Shantha,M. G. Piyasena, M. G. Karunaratne View More before Hon. Gooneratne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_matale_690_691_1998.pdf",
+    "parties": "Bernard Fernando Vs. P.P.G. Sunil Shantha,M. G. Piyasena, M. G. Karunaratne Bernard Fernando Vs. P.P.G. Sunil Shantha,M. G. Piyasena, M. G. Karunaratne View More",
+    "judgement_by": "Hon. Gooneratne, J.",
+    "keywords": "Land dispute, right of way",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-24-CA-1226-1998--F-",
+    "num": "CA/1226/1998 (F)",
+    "date_str": "2012-05-24",
+    "description": "Charles Gunawardena Amunupura Vs. Gamini Samarakoon, Seetha Malani Seneviratne, Chandra Seneviratne, Chandra Kumarihamy Charles Gunawardena Amunupura Vs. Gamini Samarakoon, Seetha Malani Seneviratne, Chandra Seneviratne, Chandra Kumarihamy View More before Hon. A. Gooneratne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_kandy_1226_1998.pdf",
+    "parties": "Charles Gunawardena Amunupura Vs. Gamini Samarakoon, Seetha Malani Seneviratne, Chandra Seneviratne, Chandra Kumarihamy Charles Gunawardena Amunupura Vs. Gamini Samarakoon, Seetha Malani Seneviratne, Chandra Seneviratne, Chandra Kumarihamy View More",
+    "judgement_by": "Hon. A. Gooneratne, J.",
+    "keywords": "Cross-examination, Land dispute, property",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2012-05-28-CA-0756-1996--F-",
     "num": "CA/0756/1996 (F)",
     "date_str": "2012-05-28",
@@ -3386,6 +3442,34 @@
     "judgement_by": "Hon. A. W. A Salam, J.",
     "keywords": "Land matter, co-ownerships, mortgage, possession",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-29-CA-WRT-0644-1996--F-",
+    "num": "CA/WRT/0644/1996 (F)",
+    "date_str": "2012-05-29",
+    "description": "Jayasinghe Arachchige Percy Hubert Vs. Kadupitige Jennie Muriel Perera (deceased), Naththandige Disna Niroshani Fernando,Naththandige Inoka Deepthi Ramya Fernando, Jayasinghe Arachchige Percy Hubert Vs. Kadupitige Jennie Muriel Perera (deceased), Naththandige Disna Niroshani Fernando,Naththandige Inoka Deepthi Ramya Fernando, View More before Hon. Upaly Aberathne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_marawila_644_96.pdf",
+    "parties": "Jayasinghe Arachchige Percy Hubert Vs. Kadupitige Jennie Muriel Perera (deceased), Naththandige Disna Niroshani Fernando,Naththandige Inoka Deepthi Ramya Fernando, Jayasinghe Arachchige Percy Hubert Vs. Kadupitige Jennie Muriel Perera (deceased), Naththandige Disna Niroshani Fernando,Naththandige Inoka Deepthi Ramya Fernando, View More",
+    "judgement_by": "Hon. Upaly Aberathne, J.",
+    "keywords": "inter alia, property dispute, possession of land, deed of transfer",
+    "legistation": "Section 2 of the Prevention of Frauds Ordinance."
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2012-05-30-CA-0541-1998--F-",
+    "num": "CA/0541/1998 (F)",
+    "date_str": "2012-05-30",
+    "description": "R. M. layathileke Vs. R. M. Siriwardena R. M. layathileke Vs. R. M. Siriwardena View More before Hon. A. Gooneratne, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2012&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca_dc_kuliyapitiya_381_1998-1.pdf",
+    "parties": "R. M. layathileke Vs. R. M. Siriwardena R. M. layathileke Vs. R. M. Siriwardena View More",
+    "judgement_by": "Hon. A. Gooneratne, J.",
+    "keywords": "Land dispute, gift of transfer, revoked",
+    "legistation": "Section 92 of the Evidence Ordinance.,Kandyan Law"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -140015,6 +140099,34 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-05-CA-WRT-0285-2017",
+    "num": "CA/WRT/0285/2017",
+    "date_str": "2019-08-05",
+    "description": "B. Deniswaran Vs. Hon. Justice C.V. Wigneswaran and others B. Deniswaran Vs. Hon. Justice C.V. Wigneswaran and others View More before Hon. Mahinda Samayawardhena, J",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/5.8.2019-c.a-writ-285-2017.pdf",
+    "parties": "B. Deniswaran Vs. Hon. Justice C.V. Wigneswaran and others B. Deniswaran Vs. Hon. Justice C.V. Wigneswaran and others View More",
+    "judgement_by": "Hon. Mahinda Samayawardhena, J",
+    "keywords": "Fair Hearing, Interim Relief, Article 105(3), Jurisdiction",
+    "legistation": "Administration of Justice Law No. 44 of 1973"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-05-CA-WRT-0541-2008",
+    "num": "CA/WRT/0541/2008",
+    "date_str": "2019-08-05",
+    "description": "C. Samarasinghe and others Vs. H.B. Ratnayake and others C. Samarasinghe and others Vs. H.B. Ratnayake and others View More before Hon. A.H.M.D. Nawaz, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a-writ-541-2008-001.pdf",
+    "parties": "C. Samarasinghe and others Vs. H.B. Ratnayake and others C. Samarasinghe and others Vs. H.B. Ratnayake and others View More",
+    "judgement_by": "Hon. A.H.M.D. Nawaz, J.",
+    "keywords": "Gubernatorial Discretion, Statutory Compliance, Disciplinary Dismissals, Fair Hearing, Statutory Preconditions",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2019-08-05-CAWRIT-263-2013",
     "num": "CAWRIT/263/2013",
     "date_str": "2019-08-05",
@@ -140488,6 +140600,62 @@
     "judgement_by": " Hon Janak De Silva, J.",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-09-CA-WRT-0083-2014",
+    "num": "CA/WRT/0083/2014",
+    "date_str": "2019-08-09",
+    "description": "A. H. M. C. M. Nazeer and another Vs. Jagath Wijeweera and another A. H. M. C. M. Nazeer and another Vs. Jagath Wijeweera and another View More before Hon. Janak De Silva J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a-writ-83_2014.pdf",
+    "parties": "A. H. M. C. M. Nazeer and another Vs. Jagath Wijeweera and another A. H. M. C. M. Nazeer and another Vs. Jagath Wijeweera and another View More",
+    "judgement_by": "Hon. Janak De Silva J.",
+    "keywords": "Customs Ordinance, Forfeiture of goods, Declaration of title, Statutory remedies",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-09-CA-WRT-0235-2013",
+    "num": "CA/WRT/0235/2013",
+    "date_str": "2019-08-09",
+    "description": "M . U. Samarasinghe Vs. Hon. Janaka Bandara Tennekoon and others M . U. Samarasinghe Vs. Hon. Janaka Bandara Tennekoon and others View More before Hon. Janak De Silva J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a-writ-235_2013.pdf",
+    "parties": "M . U. Samarasinghe Vs. Hon. Janaka Bandara Tennekoon and others M . U. Samarasinghe Vs. Hon. Janaka Bandara Tennekoon and others View More",
+    "judgement_by": "Hon. Janak De Silva J.",
+    "keywords": "Legitimate Expectation, Validity of land acquisition, entitlement to alternative land, Judicial Review",
+    "legistation": "Land Acquisition Act, Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-09-CA-WRT-0236-2013",
+    "num": "CA/WRT/0236/2013",
+    "date_str": "2019-08-09",
+    "description": "S. S. Yaseen Vs. Hon . Janaka Bandara Tennekoon and others S. S. Yaseen Vs. Hon . Janaka Bandara Tennekoon and others View More before Hon. Janak De Silva J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a-writ-236_2013.pdf",
+    "parties": "S. S. Yaseen Vs. Hon . Janaka Bandara Tennekoon and others S. S. Yaseen Vs. Hon . Janaka Bandara Tennekoon and others View More",
+    "judgement_by": "Hon. Janak De Silva J.",
+    "keywords": "Legitimate Expectation, Compensation, Land Acquisition Act, Public Authority",
+    "legistation": "Land Acquisition Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2019-08-09-CA-WRT-0425-2013",
+    "num": "CA/WRT/0425/2013",
+    "date_str": "2019-08-09",
+    "description": "M . A. I. M . P. Kumara Vs. S. M. L. Chandrasiri and others M . A. I. M . P. Kumara Vs. S. M. L. Chandrasiri and others View More before Hon. Janak De Silva J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2019&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a-writ-425_2013.pdf",
+    "parties": "M . A. I. M . P. Kumara Vs. S. M. L. Chandrasiri and others M . A. I. M . P. Kumara Vs. S. M. L. Chandrasiri and others View More",
+    "judgement_by": "Hon. Janak De Silva J.",
+    "keywords": "Certiorari, Mandamus, Disputes of fact, Land ownership, Land title",
+    "legistation": "Geological Survey and Mines Bureau Act No. 33 of 1992 , Constitution"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -159727,6 +159895,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-02-09-CA-PHC-23-2021",
+    "num": "CA/PHC/23/2021",
+    "date_str": "2021-02-09",
+    "description": "Wijesinghe Arachchige Benadict Jasintha Vs. Hon. Attorney General and another Wijesinghe Arachchige Benadict Jasintha Vs. Hon. Attorney General and another View More before Hon. Menaka Wijesundera J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CPA-0023-21.pdf",
+    "parties": "Wijesinghe Arachchige Benadict Jasintha Vs. Hon. Attorney General and another Wijesinghe Arachchige Benadict Jasintha Vs. Hon. Attorney General and another View More",
+    "judgement_by": "Hon. Menaka Wijesundera J.",
+    "keywords": "Revision, Bail conditions, Cash bail, Sureties, High Court order",
+    "legistation": "Article 138 of the Constitution of Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-02-10-C-A--WRIT-388-2020",
     "num": "C.A. WRIT 388/2020",
     "date_str": "2021-02-10",
@@ -160844,6 +161026,20 @@
     "judgement_by": "Hon. R. Gurusinghe, J.",
     "keywords": "Rash and negligent driving, bus accident, cracked leaf spring, sentence reduction",
     "legistation": "Section 331, Section 16(2) of the Code of Criminal Procedure Act, No. 15/1979 ; Sections 298, 329 of the Penal Code"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-03-07-CA-WRIT-155-2018",
+    "num": "CA/WRIT/155/2018",
+    "date_str": "2021-03-07",
+    "description": "Atantikitha Pathiranage Samantha and others Vs. Air Marshal Kapila V. B. Jayampthi and others Atantikitha Pathiranage Samantha and others Vs. Air Marshal Kapila V. B. Jayampthi and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.155.18.final-3.pdf",
+    "parties": "Atantikitha Pathiranage Samantha and others Vs. Air Marshal Kapila V. B. Jayampthi and others Atantikitha Pathiranage Samantha and others Vs. Air Marshal Kapila V. B. Jayampthi and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Command Benevolent Fund, retirement benefit, judicial review, public element",
+    "legistation": "Article 140 of the Constitution , Sections 156, 159 of the Air Force Act No. 41 of 1959"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -164571,6 +164767,34 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-03-CA-WRIT-125-17",
+    "num": "CA/WRIT/125/17",
+    "date_str": "2021-06-03",
+    "description": "Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.125.17.final-1-1.pdf",
+    "parties": "Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Bolgoda Lake, Environmental Protection Area, Writ of Prohibition, boundary demarcation",
+    "legistation": "Article 140 of the Constitution"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-03-CA-WRIT-225-2012",
+    "num": "CA/WRIT/225/2012",
+    "date_str": "2021-06-03",
+    "description": "A.J. Mallawaarachchi Vs. Tower Hall Theatre Foundation and others A.J. Mallawaarachchi Vs. Tower Hall Theatre Foundation and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.225.12.final-2.pdf",
+    "parties": "A.J. Mallawaarachchi Vs. Tower Hall Theatre Foundation and others A.J. Mallawaarachchi Vs. Tower Hall Theatre Foundation and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Interdiction, compulsory leave, disciplinary inquiry, designation, gratuity",
+    "legistation": "Article 140 of the Constitution , Section 7(2)(e) of the Tower Hall Theatre Foundation Act No. 1 of 1978 , Payment of Gratuity Act No. 12 of 1983"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-06-03-CA-WRIT-54-2017",
     "num": "CA WRIT 54/2017",
     "date_str": "2021-06-03",
@@ -164596,6 +164820,20 @@
     "judgement_by": "Hon. Justice Arjuna Obeyesekere, P/CA",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-03-CA-WRT-37-2021",
+    "num": "CA/WRT/37/2021",
+    "date_str": "2021-06-03",
+    "description": "Shanakiya Ragul Rajaputhran Rasamanikkam Vs. Ceylon Petroleum Corporation and others Shanakiya Ragul Rajaputhran Rasamanikkam Vs. Ceylon Petroleum Corporation and others View More before Hon. Arjuna Obeyesekere, J. (P/CA)",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.37.21.final-1.pdf",
+    "parties": "Shanakiya Ragul Rajaputhran Rasamanikkam Vs. Ceylon Petroleum Corporation and others Shanakiya Ragul Rajaputhran Rasamanikkam Vs. Ceylon Petroleum Corporation and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J. (P/CA)",
+    "keywords": "Writ of Certiorari, Writ of Prohibition, Ceylon Petroleum Corporation, fuel dealership termination, Presidential Commission of Inquiry, political victimization, reinstatement",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka; Section 2 of Commissions of Inquiry Act No. 17 of 1948"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -164711,6 +164949,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-07-CA-WRIT-151-2017",
+    "num": "CA/WRIT/151/2017",
+    "date_str": "2021-06-07",
+    "description": "M.N.M. Sanfi and others Vs. N.H. Premawathie and others M.N.M. Sanfi and others Vs. N.H. Premawathie and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.151.17.final-2.pdf",
+    "parties": "M.N.M. Sanfi and others Vs. N.H. Premawathie and others M.N.M. Sanfi and others Vs. N.H. Premawathie and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "School playground, Land acquisition, Writ of Mandamus, public use",
+    "legistation": "Article 140 of the Constitution , Sections 2, 4, 7 of the Land Acquisition Act , Section 128 of the Pradeshiya Sabhas Act No. 15 of 1987"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-06-07-CA-WRIT-155-2018",
     "num": "CA WRIT 155/2018",
     "date_str": "2021-06-07",
@@ -164722,6 +164974,20 @@
     "judgement_by": "Hon, Justice Arjuna Obeyesekere, P/CA",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-07-CA-WRIT-350-2018",
+    "num": "CA/WRIT/350/2018",
+    "date_str": "2021-06-07",
+    "description": "Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and others Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.350.18.final-3.pdf",
+    "parties": "Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and others Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Arbitral award, collective agreement, bonus, active service",
+    "legistation": "Article 140 of the Constitution , Sections 4(1), 5(1), 5(2), 6, 8, 17(1) of the Industrial Disputes Act"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -164893,6 +165159,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-10-CA-WRIT-164-2017",
+    "num": "CA/WRIT/164/2017",
+    "date_str": "2021-06-10",
+    "description": "P.S. Yatapana and others Vs. The University of Moratuwa and others P.S. Yatapana and others Vs. The University of Moratuwa and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.164.17.final-3.pdf",
+    "parties": "P.S. Yatapana and others Vs. The University of Moratuwa and others P.S. Yatapana and others Vs. The University of Moratuwa and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Academic allowance, Engineering Teaching Assistants, University Services Appeals Board, special allowance",
+    "legistation": "Article 140 of the Constitution , Sections 5C, 24A, 72(1)(c) of the Universities Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-06-10-CA-WRT--24-2021",
     "num": "CA/WRT/ 24/2021",
     "date_str": "2021-06-10",
@@ -164900,6 +165180,20 @@
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
     "lang": "en",
     "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.24.21.final-1-1.pdf",
+    "parties": "2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others 2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J. (P/CA)",
+    "keywords": "Writ of Certiorari, Writ of Prohibition, Katunayake Seeduwa Urban Council, budget rejection, Chairman deemed resignation, voting procedure",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka; Sections 2(1), 4, 19(6), 19(7), 25(2), 26(2), 178, 178A of Urban Councils Ordinance; Section 12 of Local Authorities (Special Provisions) Act No. 21 of 2012; Section 66G of Local Authorities Elections Ordinance"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-10-CA-WRT-24-2021",
+    "num": "CA/WRT/24/2021",
+    "date_str": "2021-06-10",
+    "description": "2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others 2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others View More before Hon. Arjuna Obeyesekere, J. (P/CA)",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.24.21.final-1-2.pdf",
     "parties": "2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others 2021[15] Wellawattage Sarath Peiris Vs. Katunayake Seeduwa Urban Council and others View More",
     "judgement_by": "Hon. Arjuna Obeyesekere, J. (P/CA)",
     "keywords": "Writ of Certiorari, Writ of Prohibition, Katunayake Seeduwa Urban Council, budget rejection, Chairman deemed resignation, voting procedure",
@@ -164991,6 +165285,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-11-CA-WRIT-129-2017",
+    "num": "CA/WRIT/129/2017",
+    "date_str": "2021-06-11",
+    "description": "The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. Hon. John Amaratunga and others The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. Hon. John Amaratunga and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.129.17.final-2.pdf",
+    "parties": "The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. Hon. John Amaratunga and others The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. Hon. John Amaratunga and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Land acquisition, laches, public purpose, divesting order, compensation",
+    "legistation": "Article 140 of the Constitution , Sections 2, 4, 5, 7, 17, 38, 39, 39A, 40, 41 of the Land Acquisition Act , Section 114 of the Trusts Ordinance"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-06-12-C-A-WRIT-12-2021",
     "num": "C.A WRIT 12/2021",
     "date_str": "2021-06-12",
@@ -165058,6 +165366,20 @@
     "judgement_by": "Hon. Arjuna Obeyesekere, J., P/CA",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-14-CA-WRIT-208-2020",
+    "num": "CA/WRIT/208/2020",
+    "date_str": "2021-06-14",
+    "description": "Mohammed Faleel Hathem and another Vs. Hon. Magistrate and another Mohammed Faleel Hathem and another Vs. Hon. Magistrate and another View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.208.20.final-3.pdf",
+    "parties": "Mohammed Faleel Hathem and another Vs. Hon. Magistrate and another Mohammed Faleel Hathem and another Vs. Hon. Magistrate and another View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Writ of Certiorari, summons, private complaint",
+    "legistation": "Article 140 of the Constitution , Section 139 of the Code of Criminal Procedure Act No. 15 of 1979"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -165142,6 +165464,20 @@
     "judgement_by": "",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-06-17-CA-WRIT341-2017",
+    "num": "CA/WRIT341/2017",
+    "date_str": "2021-06-17",
+    "description": "Mannayida Marakkalage Lakshman Priyadharshana Vs. Ruwan Liyanage and others Mannayida Marakkalage Lakshman Priyadharshana Vs. Ruwan Liyanage and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.341.17.final-1.pdf",
+    "parties": "Mannayida Marakkalage Lakshman Priyadharshana Vs. Ruwan Liyanage and others Mannayida Marakkalage Lakshman Priyadharshana Vs. Ruwan Liyanage and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "State land permit, Land Kachcheri, Writ of Mandamus, suppression of material facts",
+    "legistation": "Article 140 of the Constitution , Sections 106, 109 of the Land Development Ordinance , State Lands (Recovery of Possession) Act No. 7 of 1979"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -165394,6 +165730,20 @@
     "judgement_by": "",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-07-03-CA-WRIT-125-17",
+    "num": "CA/WRIT/125/17",
+    "date_str": "2021-07-03",
+    "description": "Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.125.17.final-1.pdf",
+    "parties": "Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others Sujeeva Prasanna Dewaligoda Vs. Central Environmental Authority and others View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Writ of Certiorari, Writ of Prohibition, Bolgoda Environmental Protection Area, Boundary demarcation, Field sheet",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -165716,6 +166066,20 @@
     "judgement_by": "Hon. Mohammed Laffar, J.",
     "keywords": "Leave to appeal; Muslim Charitable Trust; Gafooriya Arabic College; preliminary objections; jurisdiction; Director\\'s certificate; amended plaint; technical objections",
     "legistation": "Section 9E(3), 55A of the Muslim Mosques and Charitable Trusts or Wakfs Act No. 51 of 1956; Section 754(2), 757 of the Civil Procedure Code"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-07-14-CA-WRIT-211-2020",
+    "num": "CA/WRIT/211/2020",
+    "date_str": "2021-07-14",
+    "description": "Aruna Iddagoda Vs. Hon. Magistrate and another Aruna Iddagoda Vs. Hon. Magistrate and another View More before Hon. Arjuna Obeyesekere, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/ca.211.20.final-2.pdf",
+    "parties": "Aruna Iddagoda Vs. Hon. Magistrate and another Aruna Iddagoda Vs. Hon. Magistrate and another View More",
+    "judgement_by": "Hon. Arjuna Obeyesekere, J.",
+    "keywords": "Undisclosed information, intellectual property, private complaint, summons",
+    "legistation": "Article 140 of the Constitution , Sections 136, 139 of the Code of Criminal Procedure Act No. 15 of 1979 , Sections 160(6), 160(8)(a) of the Intellectual Property Act No. 36 of 2003"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -166069,6 +166433,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-07-21-CA-PHC-24-2021",
+    "num": "CA/PHC/24/2021",
+    "date_str": "2021-07-21",
+    "description": "Warnakulasuriya Shamila Pushpami Perera Vs. Hon. Attorney General and another Warnakulasuriya Shamila Pushpami Perera Vs. Hon. Attorney General and another View More before Hon. Menaka Wijesundera J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CPA-0024-21.pdf",
+    "parties": "Warnakulasuriya Shamila Pushpami Perera Vs. Hon. Attorney General and another Warnakulasuriya Shamila Pushpami Perera Vs. Hon. Attorney General and another View More",
+    "judgement_by": "Hon. Menaka Wijesundera J.",
+    "keywords": "Bail, Revision, Variation of bail conditions, Cash bail, Sureties",
+    "legistation": "Article 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2021-07-26-C-A-DCF-768-1999",
     "num": "C.A DCF 768/1999",
     "date_str": "2021-07-26",
@@ -166318,6 +166696,20 @@
     "judgement_by": " Hon. R. Gurusinghe, J.",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2021-07-29-CA-PHC-25-2021",
+    "num": "CA/PHC/25/2021",
+    "date_str": "2021-07-29",
+    "description": "Warnakulasuriya Mariya Selvi Vs. Hon. Attorney General and another Warnakulasuriya Mariya Selvi Vs. Hon. Attorney General and another View More before Hon. Menaka Wijesundera J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2021&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CPA-0025-21.pdf",
+    "parties": "Warnakulasuriya Mariya Selvi Vs. Hon. Attorney General and another Warnakulasuriya Mariya Selvi Vs. Hon. Attorney General and another View More",
+    "judgement_by": "Hon. Menaka Wijesundera J.",
+    "keywords": "Bail, Revision, Bail conditions, Cash bail, Sureties",
+    "legistation": "Article 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -209301,6 +209693,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-05-CA-WRIT-42-2021",
+    "num": "CA/WRIT/42/2021",
+    "date_str": "2023-09-05",
+    "description": "Jayasinghe Arachchige Ranjith Jayasinghe v. University Grants Commission Jayasinghe Arachchige Ranjith Jayasinghe v. University Grants Commission View More before Hon. Sobhitha Rajakaruna, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-42-21-1.pdf",
+    "parties": "Jayasinghe Arachchige Ranjith Jayasinghe v. University Grants Commission Jayasinghe Arachchige Ranjith Jayasinghe v. University Grants Commission View More",
+    "judgement_by": "Hon. Sobhitha Rajakaruna, J.",
+    "keywords": "post of lecturer, waiver of a right",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-05-CA-WRT-0380-2020",
     "num": "CA/WRT/0380/2020",
     "date_str": "2023-09-05",
@@ -209497,6 +209903,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-11-CA-PHC-189-2016",
+    "num": "CA/PHC/189/2016",
+    "date_str": "2023-09-11",
+    "description": "Kinhettige Jayashantha Eranda Perera v. Alankarage Anura Kithsiri Kinhettige Jayashantha Eranda Perera v. Alankarage Anura Kithsiri View More before Hon. Kirtisinghe, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-PHC-189-2016.pdf",
+    "parties": "Kinhettige Jayashantha Eranda Perera v. Alankarage Anura Kithsiri Kinhettige Jayashantha Eranda Perera v. Alankarage Anura Kithsiri View More",
+    "judgement_by": "Hon. Kirtisinghe, J.",
+    "keywords": "possession of land, dispossession",
+    "legistation": "Primary Courts\u2019 Procedure Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-11-CA-PHC-No--189-2016-Kir-6ddea810",
     "num": "CA PHC No. 189/2016 Kirihettige Jayashantha Eranda Perera and two others Vs Alankarage Anura Kithsiri and other -",
     "date_str": "2023-09-11",
@@ -209550,6 +209970,34 @@
     "judgement_by": " R. Gurusinghe J",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-12-CA-WRT-101-2014",
+    "num": "CA/WRT/101/2014",
+    "date_str": "2023-09-12",
+    "description": "Mohamed Saukath Jaffer v. Commissioner-General of Inland Revenue Mohamed Saukath Jaffer v. Commissioner-General of Inland Revenue View More before Hon. Gurusinghe, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0101-14-Edited.pdf",
+    "parties": "Mohamed Saukath Jaffer v. Commissioner-General of Inland Revenue Mohamed Saukath Jaffer v. Commissioner-General of Inland Revenue View More",
+    "judgement_by": "Hon. Gurusinghe, J.",
+    "keywords": "Goods and Services Tax, laches",
+    "legistation": "Goods and Services Tax Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-12-CA-WRT-102-2014",
+    "num": "CA/WRT/102/2014",
+    "date_str": "2023-09-12",
+    "description": "Mohamed Jaffer Mohamed Yoosuf alias Mohamed Yoosuf Mohamed Jaffer v. Commissioner-General of Inland Revenue Mohamed Jaffer Mohamed Yoosuf alias Mohamed Yoosuf Mohamed Jaffer v. Commissioner-General of Inland Revenue View More before Hon. Gurusinghe, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0102-14-Edited.pdf",
+    "parties": "Mohamed Jaffer Mohamed Yoosuf alias Mohamed Yoosuf Mohamed Jaffer v. Commissioner-General of Inland Revenue Mohamed Jaffer Mohamed Yoosuf alias Mohamed Yoosuf Mohamed Jaffer v. Commissioner-General of Inland Revenue View More",
+    "judgement_by": "Hon. Gurusinghe, J.",
+    "keywords": "Goods and Services Tax, laches, suppression and misrepresentation of material facts",
+    "legistation": "Goods and Services Tax Act"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -209637,6 +210085,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-14-CA-Writ-128-2017",
+    "num": "CA/Writ/128/2017",
+    "date_str": "2023-09-14",
+    "description": "SINGHA CEMENT (PVT) LTD v. Director Central Investigation Bureau Sri Lanka Custom SINGHA CEMENT (PVT) LTD v. Director Central Investigation Bureau Sri Lanka Custom View More before Hon. Kirtisinghe, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-128-2017.pdf",
+    "parties": "SINGHA CEMENT (PVT) LTD v. Director Central Investigation Bureau Sri Lanka Custom SINGHA CEMENT (PVT) LTD v. Director Central Investigation Bureau Sri Lanka Custom View More",
+    "judgement_by": "Hon. Kirtisinghe, J.",
+    "keywords": "forfeiture imposed by Customs, show cause",
+    "legistation": "Customs Ordinance"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-15-CA-HCC--0020-2021",
     "num": "CA/HCC/ 0020/2021",
     "date_str": "2023-09-15",
@@ -209648,6 +210110,20 @@
     "judgement_by": " Hon. P. Kumararatnam, J.",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-15-CA-HCC-0020-2021",
+    "num": "CA/HCC/0020/2021",
+    "date_str": "2023-09-15",
+    "description": "Medawatte Hewayalage Kosala Sisila Kumara v. Attorney General Medawatte Hewayalage Kosala Sisila Kumara v. Attorney General View More before Hon. Kumararatnam, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-HCC-0020.-21.pdf",
+    "parties": "Medawatte Hewayalage Kosala Sisila Kumara v. Attorney General Medawatte Hewayalage Kosala Sisila Kumara v. Attorney General View More",
+    "judgement_by": "Hon. Kumararatnam, J.",
+    "keywords": "Murder, robbery, corpus delicti",
+    "legistation": "Penal Code"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -209721,6 +210197,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-18-CA-PHC-0031-2018",
+    "num": "CA PHC 0031/2018",
+    "date_str": "2023-09-18",
+    "description": "Hettiarachchige Chathurika Maduwanthi v. Officer -in-Charge Police Station Tissamaharama Hettiarachchige Chathurika Maduwanthi v. Officer -in-Charge Police Station Tissamaharama View More before Hon. Kumararatnam, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Vehicle-Appeal-PHC-0031-18.pdf",
+    "parties": "Hettiarachchige Chathurika Maduwanthi v. Officer -in-Charge Police Station Tissamaharama Hettiarachchige Chathurika Maduwanthi v. Officer -in-Charge Police Station Tissamaharama View More",
+    "judgement_by": "Hon. Kumararatnam, J.",
+    "keywords": "confiscation of vehicle, knowledge of commission of illegal act, revision as discretionary remedy",
+    "legistation": "High Court of Provinces (Special Provisions) Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-18-CA-WRIT-85-2019",
     "num": "CA/WRIT/85/2019",
     "date_str": "2023-09-18",
@@ -209732,6 +210222,20 @@
     "judgement_by": " Hon. Sobhitha Rajakaruna J.",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-18-CA-Writ-115-22",
+    "num": "CA/Writ/115/22",
+    "date_str": "2023-09-18",
+    "description": "Romesh Mohan De Mel v. Minister of Lands Romesh Mohan De Mel v. Minister of Lands View More before Hon. Dhammika Ganepola, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA.WRIT_.115-22.pdf",
+    "parties": "Romesh Mohan De Mel v. Minister of Lands Romesh Mohan De Mel v. Minister of Lands View More",
+    "judgement_by": "Hon. Dhammika Ganepola, J.",
+    "keywords": "acquisition, discretion and power, premature",
+    "legistation": "Land Acquisition Act"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -209774,6 +210278,20 @@
     "judgement_by": " Hon.Sampath B. Abayakoon, J",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-20-CA--Writ--84-21",
+    "num": "CA (Writ) 84/21",
+    "date_str": "2023-09-20",
+    "description": "Mayadunnage Gunasena v. Kurunegala Pradeshiya Sabha Mayadunnage Gunasena v. Kurunegala Pradeshiya Sabha View More before Hon. Dhammika Ganepola, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA.WRIT_.84-21.pdf",
+    "parties": "Mayadunnage Gunasena v. Kurunegala Pradeshiya Sabha Mayadunnage Gunasena v. Kurunegala Pradeshiya Sabha View More",
+    "judgement_by": "Hon. Dhammika Ganepola, J.",
+    "keywords": "pipe constructed across common roadway, duty of Pradeshiya Sabha",
+    "legistation": "Pradeshiya Sabha Ac"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -209917,6 +210435,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-21-CA--WRIT--222-2019",
+    "num": "CA (WRIT) 222/2019",
+    "date_str": "2023-09-21",
+    "description": "Sri Lanka Thapal Sevaka Ekamuthu Sangamaya v. Postmaster General Sri Lanka Thapal Sevaka Ekamuthu Sangamaya v. Postmaster General View More before Hon. Karalliyadde, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Writ-222-2019.pdf",
+    "parties": "Sri Lanka Thapal Sevaka Ekamuthu Sangamaya v. Postmaster General Sri Lanka Thapal Sevaka Ekamuthu Sangamaya v. Postmaster General View More",
+    "judgement_by": "Hon. Karalliyadde, J.",
+    "keywords": "salary scale, salary increments",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-21-CA-PHC--82-2018",
     "num": "CA(PHC) 82/2018",
     "date_str": "2023-09-21",
@@ -210001,6 +210533,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-22-CA-WRT-350-2022",
+    "num": "CA/WRT/350/2022",
+    "date_str": "2023-09-22",
+    "description": "K . A. T. P. Jayasinghe v. Minister of Power & Energy K . A. T. P. Jayasinghe v. Minister of Power & Energy View More before Hon. Ahsan Marikar, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Writ-0350-22.pdf",
+    "parties": "K . A. T. P. Jayasinghe v. Minister of Power & Energy K . A. T. P. Jayasinghe v. Minister of Power & Energy View More",
+    "judgement_by": "Hon. Ahsan Marikar, J.",
+    "keywords": "revised scheme of recruitment, criteria for recruitment",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-22-CA-Writ-0364-2019",
     "num": "CA/Writ/0364/2019",
     "date_str": "2023-09-22",
@@ -210043,6 +210589,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-26-C-A--RII-5-2021",
+    "num": "C.A./RII/5/2021",
+    "date_str": "2023-09-26",
+    "description": "Sandhyani Deepika Gamage v. Memmemda Arachige Nirosha Lakmali Senerath and others Sandhyani Deepika Gamage v. Memmemda Arachige Nirosha Lakmali Senerath and others View More before Hon. Iddawala, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/27.-26092023-CA-RII-05-21.pdf",
+    "parties": "Sandhyani Deepika Gamage v. Memmemda Arachige Nirosha Lakmali Senerath and others Sandhyani Deepika Gamage v. Memmemda Arachige Nirosha Lakmali Senerath and others View More",
+    "judgement_by": "Hon. Iddawala, J.",
+    "keywords": "partition, duty of trial judge",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-26-CA--",
     "num": "CA./",
     "date_str": "2023-09-26",
@@ -210071,6 +210631,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-26-CA--HCC-0335-18",
+    "num": "CA. HCC-0335-18",
+    "date_str": "2023-09-26",
+    "description": "Imbulamure Sumangala Thero v. Attorney General Imbulamure Sumangala Thero v. Attorney General View More before Hon. Menaka Wijesundera, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-0335-18.pdf",
+    "parties": "Imbulamure Sumangala Thero v. Attorney General Imbulamure Sumangala Thero v. Attorney General View More",
+    "judgement_by": "Hon. Menaka Wijesundera, J.",
+    "keywords": "grave sexual abuse, sentencing considerations",
+    "legistation": "Criminal Procedure Code, Judicature Act"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2023-09-26-CA-TAX-0001-2021",
     "num": "CA/TAX/0001/2021",
     "date_str": "2023-09-26",
@@ -210082,6 +210656,20 @@
     "judgement_by": " Hon. Iddawala \u2013 J",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-27-CA--LTA-09-2022",
+    "num": "CA/ LTA/09/2022",
+    "date_str": "2023-09-27",
+    "description": "Nasoordeen Faleel Rizan v. N.M.M. Sabaruna Nasoordeen Faleel Rizan v. N.M.M. Sabaruna View More before Hon. Mohammed Laffar, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-LTA-9-22.pdf",
+    "parties": "Nasoordeen Faleel Rizan v. N.M.M. Sabaruna Nasoordeen Faleel Rizan v. N.M.M. Sabaruna View More",
+    "judgement_by": "Hon. Mohammed Laffar, J.",
+    "keywords": "mismanagement of a Mosque, powers of Wakf Board, inquiry",
+    "legistation": "Evidence Ordinance, Muslim Mosques and Charitable Trust or Wakfs Act"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -210138,6 +210726,20 @@
     "judgement_by": " Hon. Sampath B. Abayakoon, J",
     "keywords": "",
     "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2023-09-27-CA-TAX-0001-2021",
+    "num": "CA/TAX/0001/2021",
+    "date_str": "2023-09-27",
+    "description": "Commissioner General of Inland Revenue v. Aitken Spence Travels Limited Commissioner General of Inland Revenue v. Aitken Spence Travels Limited View More before Hon. Iddawala, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2023&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/28.26092023-CA-TAX-01-2021.pdf",
+    "parties": "Commissioner General of Inland Revenue v. Aitken Spence Travels Limited Commissioner General of Inland Revenue v. Aitken Spence Travels Limited View More",
+    "judgement_by": "Hon. Iddawala, J.",
+    "keywords": "tax exemption",
+    "legistation": "Tax Appeals Commission Act"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -251973,6 +252575,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-07-31-CA-WRIT-187-2022",
+    "num": "CA/WRIT/187/2022",
+    "date_str": "2026-07-31",
+    "description": "Maddumage Chandralal Fernando Vs. The King George The Fifth Silver Jubilee Commemoration Society & Others Maddumage Chandralal Fernando Vs. The King George The Fifth Silver Jubilee Commemoration Society & Others View More before Hon. Mayadunne Corea J",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Writ-187-22-FINAL.pdf",
+    "parties": "Maddumage Chandralal Fernando Vs. The King George The Fifth Silver Jubilee Commemoration Society & Others Maddumage Chandralal Fernando Vs. The King George The Fifth Silver Jubilee Commemoration Society & Others View More",
+    "judgement_by": "Hon. Mayadunne Corea J",
+    "keywords": "",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2026-07-31-CA-WRT-187-2022",
     "num": "CA/WRT/187/2022",
     "date_str": "2026-07-31",
@@ -252771,6 +253387,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-08-31-CA-WRIT-102-2022",
+    "num": "CA/WRIT/102/2022",
+    "date_str": "2026-08-31",
+    "description": "Pradeshiya Sanwardhana Bank Vs. A.D.W.J. Weerasinghe & Others Pradeshiya Sanwardhana Bank Vs. A.D.W.J. Weerasinghe & Others View More before Hon. Mayadunne Corea J",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Writ-102-22-FINAL-1.pdf",
+    "parties": "Pradeshiya Sanwardhana Bank Vs. A.D.W.J. Weerasinghe & Others Pradeshiya Sanwardhana Bank Vs. A.D.W.J. Weerasinghe & Others View More",
+    "judgement_by": "Hon. Mayadunne Corea J",
+    "keywords": "",
+    "legistation": ""
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2026-08-31-CA-WRT-102-2022",
     "num": "CA/WRT/102/2022",
     "date_str": "2026-08-31",
@@ -252838,6 +253468,20 @@
     "judgement_by": "Hon. P. Kumararatnam, J.",
     "keywords": "Re-trial",
     "legistation": "The Penal Code"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-09-01-CA-WRT-526-2023",
+    "num": "CA/WRT/526/2023",
+    "date_str": "2026-09-01",
+    "description": "Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others View More before Hon. Dr. D. F. H. Gunawardhana, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-526-23-1.pdf",
+    "parties": "Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others Pathirannehelage Seetha Pathirana Vs. Commissioner General of Lands and Others View More",
+    "judgement_by": "Hon. Dr. D. F. H. Gunawardhana, J.",
+    "keywords": "The Petitioner sought the intervention of this Court to compel the Respondents to issue a permit in terms of the State Lands Ordinance in respect of the land in suit in favour of the Petitioner according to the reports and recommendation made by the Respondents that was unsuccessfully challenged by the 6th Respondent in a previous separate application; 3rd Respondent had taken steps to issue permit in respect of the same land in favour of the 6th Respondent, contradictory to the initial report and recommendation of the 2nd Respondent. Held \u2013 Due to insufficient evidence to prove the 6th Respondent had effected improvements to the land and was entitled to the premises in suit, Writs issued. 2 nd to 5th Respondents have failed to follow instructions of the 1st Respondent authority which has led to the contradictory and capricious decisions of the 2nd and 3rd Respondents.",
+    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka"
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -253065,6 +253709,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-09-08-CA-TAX-0016-2015",
+    "num": "CA/TAX/0016/2015",
+    "date_str": "2026-09-08",
+    "description": "NDB Venture Investments (Private) Limited Vs. Commissioner General of Inland Revenue NDB Venture Investments (Private) Limited Vs. Commissioner General of Inland Revenue View More before Hon. B. Sasi Mahendran, J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/TAX-0016-2015.pdf",
+    "parties": "NDB Venture Investments (Private) Limited Vs. Commissioner General of Inland Revenue NDB Venture Investments (Private) Limited Vs. Commissioner General of Inland Revenue View More",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "Investment Company, Dividend, Retrospective",
+    "legistation": "Sec 22 of the DDD of the Inland Revenue Act No. 28 of 1979, Section 3A of the Inland Revenue Act No. 10 of 2006"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2026-09-09-CA-HCC-0272-2025",
     "num": "CA/HCC/0272/2025",
     "date_str": "2026-09-09",
@@ -253076,6 +253734,20 @@
     "judgement_by": "Hon. Amal Ranaraja, J.",
     "keywords": "Rape \u2013 Immaterial discrepancies due to nature of memory \u2013 Consistency and credibility of witness narrative",
     "legistation": "Section 364A (1), 364(3) of the Penal Code as amended by Penal Code (Amendment) Act No.22 of 1995"
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-09-11-CA-CPA-0056-2025",
+    "num": "CA/CPA/0056/2025",
+    "date_str": "2026-09-11",
+    "description": "Pemlal Ravinath Deheragoda Vs. Uduwalage Sujani Priyanka Karunaratne and Another Pemlal Ravinath Deheragoda Vs. Uduwalage Sujani Priyanka Karunaratne and Another View More before Hon. K. M. S. DISSANAYAKE, J",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA_PHC_0053_202211.09.2026-1-1.pdf",
+    "parties": "Pemlal Ravinath Deheragoda Vs. Uduwalage Sujani Priyanka Karunaratne and Another Pemlal Ravinath Deheragoda Vs. Uduwalage Sujani Priyanka Karunaratne and Another View More",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Application in revision-Does the Court of Appeal have jurisdiction to hear and determine an application in revision emanating from an order made by a High Court of the Province established by Article 154P(1) of the Constitution in the exercise of its revisionary jurisdiction vested in it by law-What is meant by Concurrent Jurisdiction-Distinction between revisionary jurisdiction of the Court of Appeal under Article 138 of the Constitution and the Concurrent Revisionary Jurisdiction of the Court of Appeal with the High Court established under the 13th amendment to the Constitution.",
+    "legistation": "Article 138, Article 154P(1) and Article 154P(3)(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 3, 5, 9,10, 11 and 12 of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990 as amended."
   },
   {
     "doc_type": "lk_appeal_court_judgements",
@@ -253107,6 +253779,20 @@
   },
   {
     "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-09-11-CA-HCC-083-2021",
+    "num": "CA/HCC/083/2021",
+    "date_str": "2026-09-11",
+    "description": "Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, View More before Hon. Dr. Sumudu Premachandra J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-0290-25-FINAL-FOR-PRINT.pdf",
+    "parties": "Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, View More",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Incestuous Statutory Rape, Leading Questions if not objected can be admissible. Exact proof of date of offence is immaterial unless no defense of alibi taken. Proof of contradictions and omissions. There is no presumption of innocence in favor of a Prosecution witness can be drawn that the witness is telling truth always. To test credibility which tests should be applied. What is test of \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Improbability? What is penetration. Is inter labial penetration sufficient for maintain rape charge? Difference between rape and grave sexual abuse.",
+    "legistation": "Sections 364 (3) and 365(B) of the Penal Code, 331(1) of the Code of Criminal Procedure Act No.15 of 1979 read with Article 138 (1) of the Constitution."
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
     "doc_id": "2026-09-11-CA-HCC-83-2021",
     "num": "CA/HCC/83/2021",
     "date_str": "2026-09-11",
@@ -253118,6 +253804,20 @@
     "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
     "keywords": "Incestuous Statutory Rape, Leading Questions if not objected can be admissible. Exact proof of date of offence is immaterial unless no defense of alibi taken. Proof of contradictions and omissions. There is no presumption of innocence in favor of a Prosecution witness can be drawn that the witness is telling truth always. To test credibility which tests should be applied. What is test of \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Improbability? What is penetration. Is inter labial penetration sufficient for maintain rape charge? Difference between rape and grave sexual abuse.",
     "legistation": "Sections 364 (3) and 365(B) of the Penal Code, 331(1) of the Code of Criminal Procedure Act No.15 of 1979 read with Article 138 (1) of the Constitution."
+  },
+  {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2026-09-11-CA-PHC-0053-2022",
+    "num": "CA/PHC/0053/2022",
+    "date_str": "2026-09-11",
+    "description": "Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. View More before Hon.K. M. S. Dissanayake, J",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA_PHC_0053_202211.09.2026-1.pdf",
+    "parties": "Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. View More",
+    "judgement_by": "Hon.K. M. S. Dissanayake, J",
+    "keywords": "Appeal under Article 154P(6) of the Constitution of the Democratic Socialist Republic of Sri Lanka from a judgment of the High Court established under Article 154P(1) of the Constitution made in exercise of the writ jurisdiction vested in it under Article 154P(4)(b) of the Constitution-Applicability of the doctrine of futility-Necessary parties to a writ application \u2013 Consequence of the failure to name necessary parties to a writ application.",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka - Articles 154P(1), 154P(4)(b) and 154P(6) thereof."
   },
   {
     "doc_type": "lk_appeal_court_judgements",
