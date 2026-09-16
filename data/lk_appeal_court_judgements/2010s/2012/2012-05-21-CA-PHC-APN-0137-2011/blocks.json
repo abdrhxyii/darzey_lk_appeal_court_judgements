@@ -1,0 +1,974 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.38,
+      72.62,
+      521.09,
+      88.1
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.94,
+      88.7,
+      397.61,
+      104.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      145.78,
+      217.47,
+      161.26
+    ],
+    "text": "CA PHC APN 137/2011",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      204.93,
+      369.62,
+      277.9
+    ],
+    "text": "Mamangam Parimalarajah Koduwamadu, Chenkalady.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.02,
+      283.54,
+      399.26,
+      435.11
+    ],
+    "text": "Appellant Vs. Hon. Attorney General Attorney General\u2019s Department Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.02,
+      440.82,
+      361.16,
+      454.79
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.979999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      71.34,
+      482.63,
+      87.57
+    ],
+    "text": "CA (PHC) APN 137/2011 HC Batticaloa HCB 1436/99",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.199999809265137,
+      11.24485969543457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.05,
+      126.3,
+      117.53,
+      141.81
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.99,
+      194.71,
+      124.8,
+      210.22
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.86,
+      278.22,
+      139.66,
+      307.41
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.96,
+      346.86,
+      176.85,
+      362.37
+    ],
+    "text": "Sisira de Abrew, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.19,
+      125.67,
+      285.33,
+      141.81
+    ],
+    "text": "Sisira de Abrew, J",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.56,
+      153.9,
+      311.98,
+      169.41
+    ],
+    "text": "Deepali Wijesundera, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.23,
+      194.53,
+      436.99,
+      223.55
+    ],
+    "text": "S. Sinnatamby with R. Sasikumar & Ganeshwaran for the Accused-Petitioner.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727,
+      11.208967208862305,
+      11.288148880004883,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.58,
+      236.06,
+      431.46,
+      251.4
+    ],
+    "text": "Harippriya Hayasundara SSC for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.04,
+      291.9,
+      245.98,
+      307.41
+    ],
+    "text": "21.05.2012",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.83,
+      401.41,
+      516.89,
+      416.75
+    ],
+    "text": "Heard both counsel in support of their respective cases. In this case the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.42,
+      429.0,
+      516.61,
+      444.34
+    ],
+    "text": "petitioner was charged under Section.296 of the Penal Code. Trial against the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.865249633789062
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.42,
+      456.6,
+      516.47,
+      471.94
+    ],
+    "text": "petitioner commenced on 29.09.2005. After the evidence was recorded on 29.09.2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.13,
+      484.44,
+      516.7,
+      499.78
+    ],
+    "text": "the trial was postponed for 29.11.2005. On both days accused petitioner was present in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.29,
+      512.04,
+      516.61,
+      527.38
+    ],
+    "text": "court. On 29 .1l.2005 the trial was postponed for 0 l.12.2005 on which date the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.37,
+      539.88,
+      136.84,
+      555.22
+    ],
+    "text": "was absent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.05,
+      594.6,
+      516.5,
+      609.94
+    ],
+    "text": "The learned High Court Judge issued a warrant against the accused as the accused was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.05,
+      622.2,
+      516.22,
+      637.54
+    ],
+    "text": "absent on 0l.12.2005. Learned High Court Judge there after on 22.06.2006 recorded the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.04,
+      649.8,
+      515.81,
+      665.14
+    ],
+    "text": "evidence of the RPC 15645 Jinna who was the warrant Executing Officer attached to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.428125381469727,
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.59,
+      668.92,
+      605.87,
+      766.7
+    ],
+    "text": "II, ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      14.399999618530273,
+      38.79999923706055,
+      39.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.29,
+      768.71,
+      602.75,
+      847.68
+    ],
+    "text": "f I f , !I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.399999618530273,
+      12.399999618530273,
+      14.800000190734863,
+      24.100000381469727,
+      26.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.41,
+      70.92,
+      514.33,
+      86.26
+    ],
+    "text": "Eravur Police Station. According to the evidence of the said police officer he could not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.9,
+      98.53,
+      494.82,
+      113.87
+    ],
+    "text": "go to the residence of the accused petitioner since the said area was an uncleared area.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.432250022888184,
+      11.5,
+      12.131890296936035
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.67,
+      153.24,
+      514.27,
+      168.58
+    ],
+    "text": "He has recorded a statement from the Gramasewaka and has said that the accused could",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.93,
+      180.61,
+      514.0,
+      195.95
+    ],
+    "text": "not be arrested. Learned High Court Judge has considered the said evidence and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.79,
+      207.96,
+      514.21,
+      223.31
+    ],
+    "text": "statement made by the Gramasewaka and decided to fix the matter for trial in the absence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.64,
+      235.32,
+      514.02,
+      250.66
+    ],
+    "text": "of the accused petitioner. Under Section 241 of Criminal Procedure Code for the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.275457382202148,
+      11.5,
+      11.865249633789062,
+      12.131890296936035
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.7,
+      263.17,
+      513.99,
+      278.51
+    ],
+    "text": "High Court Judge to make an order fixing the case for trial in the absence of the accused,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.5,
+      290.77,
+      513.84,
+      306.11
+    ],
+    "text": "he must be satisfied on evidence that the accused was absconding. In our view there was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.74,
+      318.12,
+      514.44,
+      333.46
+    ],
+    "text": "no legal evidence before the learned High Court Judge to make an order under Section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.489846229553223,
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.45,
+      345.72,
+      514.14,
+      361.06
+    ],
+    "text": "241 of the Criminal Procedure Code. We note that the learned High Court Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.36181926727295,
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.76,
+      373.09,
+      513.51,
+      388.43
+    ],
+    "text": "based his order on the statement made by Gramasewaka to the warrant Executing Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.63,
+      400.44,
+      513.79,
+      415.78
+    ],
+    "text": "Gramasewaka has not given evidence before the learned High Court Judge. Therefore the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.59,
+      428.04,
+      513.53,
+      443.38
+    ],
+    "text": "statement made by Gramasevaka to the Police Officer could not have been considered as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.4,
+      455.64,
+      514.62,
+      470.98
+    ],
+    "text": "evidence by the learned High Court Judge. In these circumstances, we hold that the order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.418107986450195,
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.74,
+      483.25,
+      513.82,
+      498.59
+    ],
+    "text": "made by learned High Court Judge on 22.06.2006 fixing the matter for trial in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.4,
+      511.09,
+      513.92,
+      526.43
+    ],
+    "text": "absence of the accused petitioner is wrong. We therefore set aside the order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.45,
+      538.69,
+      513.98,
+      554.03
+    ],
+    "text": "22.06.2006. Since we set aside the order of the learned High Court Judge dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.131890296936035
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.45,
+      566.28,
+      513.8,
+      581.62
+    ],
+    "text": "22.06.2006, all other subsequent orders made by the learned High Court Judge should be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.61,
+      593.64,
+      513.97,
+      608.98
+    ],
+    "text": "set aside. The learned High Court Judge has convicted the accused appellant on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.45,
+      621.24,
+      513.97,
+      636.58
+    ],
+    "text": "28.07.2006 and sentenced him to death. This conviction has been entered in the absence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.4,
+      649.56,
+      200.29,
+      664.9
+    ],
+    "text": "of the accused petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.865249633789062
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      291.53,
+      739.27,
+      299.85,
+      754.08
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.68,
+      126.66,
+      515.14,
+      141.33
+    ],
+    "text": "We set aside the conviction of murder and the death sentence and the order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.005548477172852,
+      11.018034934997559,
+      11.735556602478027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.41,
+      154.01,
+      515.21,
+      168.68
+    ],
+    "text": "27.01.2011 wherein he refused to order a fresh trial. We direct the learned High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.17,
+      181.36,
+      313.58,
+      196.04
+    ],
+    "text": "Judge to rehear the case on the same indictment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.093997955322266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.17,
+      291.48,
+      504.5,
+      307.55
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.2,
+      346.54,
+      197.34,
+      362.47
+    ],
+    "text": "Deepali Wijesundera,J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.16,
+      388.5,
+      113.28,
+      403.17
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287.97,
+      456.37,
+      497.59,
+      472.44
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.81,
+      539.84,
+      98.46,
+      555.85
+    ],
+    "text": "NaI-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.978981971740723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      292.43,
+      741.3,
+      300.68,
+      755.97
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  }
+]
