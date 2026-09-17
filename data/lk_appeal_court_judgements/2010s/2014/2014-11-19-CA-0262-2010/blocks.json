@@ -1,0 +1,2295 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -3.34,
+      -12.44,
+      34.25,
+      82.38
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      21.100000381469727,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.0,
+      151.47,
+      7.01,
+      170.28
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.95,
+      101.66,
+      512.33,
+      115.98
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.76633071899414,
+      9.983926773071289,
+      10.003854751586914,
+      10.017671585083008,
+      10.055338859558105,
+      10.119054794311523,
+      10.199999809265137,
+      10.270796775817871,
+      10.33917236328125,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.3,
+      273.92,
+      176.09,
+      287.93
+    ],
+    "text": "C.A. No. 262/2010",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.004374504089355,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.69,
+      295.5,
+      161.45,
+      309.52
+    ],
+    "text": "H.C. Galle 2374",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.977370262145996,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.48,
+      510.62,
+      128.24,
+      524.94
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.904233932495117
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.55,
+      574.46,
+      136.23,
+      588.78
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.048924446105957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.69,
+      650.22,
+      151.89,
+      664.24
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.191446304321289,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.19,
+      713.91,
+      152.42,
+      728.23
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.108823776245117,
+      10.380931854248047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.77,
+      509.64,
+      275.09,
+      524.2
+    ],
+    "text": "Anil Gooneratne J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.282599449157715,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      174.29,
+      530.82,
+      253.47,
+      545.49
+    ],
+    "text": "P. R. Walgama J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.146940231323242,
+      9.328848838806152,
+      10.199999809265137,
+      10.524576187133789
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.67,
+      187.99,
+      449.27,
+      202.0
+    ],
+    "text": "K. W. Thilak Kumara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.10693073272705,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.12,
+      251.9,
+      459.7,
+      266.22
+    ],
+    "text": "ACCUSED-APPELLANT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.150456428527832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.11,
+      317.59,
+      366.86,
+      330.37
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.36,
+      359.35,
+      461.81,
+      373.36
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.286284446716309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.13,
+      380.71,
+      505.81,
+      394.73
+    ],
+    "text": "Attorney General's Department",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.256990432739258
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.45,
+      402.07,
+      414.49,
+      416.08
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.22,
+      444.87,
+      498.9,
+      459.19
+    ],
+    "text": "COMPLAINANT-RESPONDNET",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.69,
+      573.9,
+      382.33,
+      587.92
+    ],
+    "text": "Tenny Fernando for the Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.283458709716797,
+      10.467103004455566
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.89,
+      606.78,
+      435.79,
+      620.8
+    ],
+    "text": "S. Thurairajah D.S.G. for the Complainant-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.293740272521973,
+      10.0596342086792,
+      10.199999809265137,
+      10.283458709716797,
+      10.558500289916992
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      174.63,
+      649.74,
+      231.47,
+      663.76
+    ],
+    "text": "12.11.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      174.63,
+      713.35,
+      231.47,
+      727.37
+    ],
+    "text": "19.11.2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      522.58,
+      66.65,
+      530.83,
+      81.32
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.11,
+      122.57,
+      604.79,
+      243.19
+    ],
+    "text": "It 1 I !!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.300099849700928,
+      7.199999809265137,
+      8.5,
+      16.299999237060547,
+      25.0,
+      28.799999237060547,
+      29.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.39,
+      286.09,
+      602.71,
+      364.47
+    ],
+    "text": "t!I;l",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.5,
+      16.600000381469727,
+      23.20009994506836,
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      590.91,
+      552.04,
+      609.7,
+      644.92
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.09,
+      -5.11,
+      29.71,
+      74.45
+    ],
+    "text": "I I 1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      18.899999618530273,
+      57.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.1,
+      229.13,
+      10.32,
+      284.76
+    ],
+    "text": "I 1 I {",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      14.100000381469727,
+      15.0,
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -0.48,
+      300.06,
+      5.38,
+      319.16
+    ],
+    "text": "\\ i",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      524.07,
+      67.22,
+      532.99,
+      81.92
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.74,
+      101.7,
+      168.45,
+      116.47
+    ],
+    "text": "GOONERATNE J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.307235717773438,
+      10.937421798706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.88,
+      165.95,
+      532.29,
+      182.99
+    ],
+    "text": "When this appeal was taken up for hearing, learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.39374828338623,
+      12.399999618530273,
+      12.418585777282715,
+      12.512290954589844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.2,
+      197.03,
+      531.93,
+      216.59
+    ],
+    "text": "1st Accused-Appellant, submitted to court that he has instruction from his",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.110930442810059,
+      12.219231605529785,
+      12.263751029968262,
+      12.399999618530273,
+      12.436994552612305,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.5,
+      233.14,
+      531.82,
+      250.18
+    ],
+    "text": "client not to canvass the conviction, but to mitigate the sentence imposed by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.265066146850586,
+      12.333471298217773,
+      12.399999618530273,
+      12.413542747497559,
+      12.504161834716797,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.34,
+      266.51,
+      530.9,
+      283.55
+    ],
+    "text": "the learned High Court Judge on 08.12.2011, only as regards count No. (1).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.714607238769531,
+      12.29323959350586,
+      12.354215621948242,
+      12.36003589630127,
+      12.381836891174316,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.09,
+      299.87,
+      531.79,
+      316.91
+    ],
+    "text": "Learned counsel also indicated that he would only canvass the sentence of 15",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.140585899353027,
+      12.336135864257812,
+      12.368459701538086,
+      12.399999618530273,
+      12.436994552612305,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.35,
+      333.22,
+      532.03,
+      350.26
+    ],
+    "text": "years rigorous imprisonment imposed on the said count for culpable homicide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.311030387878418,
+      12.399999618530273,
+      12.512290954589844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.88,
+      366.82,
+      532.93,
+      383.86
+    ],
+    "text": "not amounting to murder on the basis of grave and sudden provocation, and a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.304683685302734,
+      12.373170852661133,
+      12.399999618530273,
+      12.413542747497559,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.13,
+      400.19,
+      531.54,
+      417.23
+    ],
+    "text": "fine of Rs. 25,000/- which carries a default sentence of 12 months simple",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.288317680358887,
+      12.385841369628906,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.64,
+      433.78,
+      171.53,
+      450.82
+    ],
+    "text": "imprisonment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.59,
+      466.66,
+      531.69,
+      483.7
+    ],
+    "text": "In view of above this court only need to consider whether in view the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.172513008117676,
+      12.347187042236328,
+      12.399999618530273,
+      12.504161834716797,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.27,
+      500.26,
+      531.08,
+      517.3
+    ],
+    "text": "circumstances of this case the sentence and fine imposed on the Appellant as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.714607238769531,
+      12.160690307617188,
+      12.336487770080566,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.4,
+      533.62,
+      532.37,
+      550.66
+    ],
+    "text": "regards count No. (1) of the indictment could be varied. On the indictment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.955119132995605,
+      12.168233871459961,
+      12.29092025756836,
+      12.377178192138672,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.4,
+      566.75,
+      533.41,
+      583.79
+    ],
+    "text": "presented to the High court, three Accused were charged for the offence of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.381836891174316,
+      12.399999618530273,
+      12.418585777282715,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.4,
+      600.1,
+      476.23,
+      617.14
+    ],
+    "text": "murder (count No. (1)) and attempted murder (count No. (2)). The 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.276838302612305,
+      12.29323959350586,
+      12.373170852661133,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      476.25,
+      598.11,
+      521.06,
+      617.14
+    ],
+    "text": "nd and 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.13,
+      597.88,
+      529.93,
+      608.87
+    ],
+    "text": "rd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.93,
+      633.22,
+      470.66,
+      650.26
+    ],
+    "text": "Accused were acquitted after trial on the charge of murder. The 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.350601196289062,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      470.97,
+      631.24,
+      530.52,
+      650.26
+    ],
+    "text": "rd Accused",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.861958980560303,
+      12.357125282287598
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.15,
+      666.34,
+      314.47,
+      683.38
+    ],
+    "text": "was acquitted on both counts but the 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.458661079406738
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.73,
+      664.6,
+      531.93,
+      683.38
+    ],
+    "text": "nd Accused was only convicted on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      12.336487770080566,
+      12.39374828338623,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.29,
+      698.67,
+      243.33,
+      716.98
+    ],
+    "text": "2nd count in the indictment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      12.347187042236328,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.3,
+      315.54,
+      602.13,
+      347.83
+    ],
+    "text": "(",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.15,
+      351.02,
+      603.88,
+      401.36
+    ],
+    "text": "1Ir",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      15.399999618530273,
+      17.5,
+      24.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.53,
+      -0.14,
+      4.7,
+      10.16
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -0.85,
+      34.16,
+      9.99,
+      58.98
+    ],
+    "text": "I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      522.35,
+      67.58,
+      530.45,
+      81.98
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.16,
+      101.86,
+      531.61,
+      118.9
+    ],
+    "text": "The material submitted to this court by either counsel suggest that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.350601196289062,
+      12.387093544006348,
+      12.399999618530273,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.14,
+      132.47,
+      530.73,
+      152.26
+    ],
+    "text": "the 1st Accused-Appellant had been interested in the daughter of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.363846778869629,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.32,
+      168.82,
+      530.21,
+      185.87
+    ],
+    "text": "deceased's sister living elsewhere from the scene of the crime. It was also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.323162078857422,
+      12.391547203063965,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.09,
+      202.18,
+      530.27,
+      219.22
+    ],
+    "text": "suggested that the main witness the son of the deceased who was the victim",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273151397705078,
+      12.39374828338623,
+      12.399999618530273,
+      12.436994552612305,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.84,
+      235.78,
+      134.71,
+      252.82
+    ],
+    "text": "on the 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.73,
+      233.8,
+      529.77,
+      252.82
+    ],
+    "text": "nd count of the indictment and who was also an injured person had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      12.119681358337402,
+      12.286328315734863,
+      12.39374828338623,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.2,
+      268.9,
+      530.61,
+      285.94
+    ],
+    "text": "been staying in the deceased sister's house to give some protection to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.347187042236328,
+      12.399999618530273,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.09,
+      299.99,
+      529.8,
+      319.55
+    ],
+    "text": "sister's daughter in whom the 1st Accused had been interested and was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.323162078857422,
+      12.347187042236328,
+      12.363846778869629,
+      12.373170852661133,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.83,
+      336.1,
+      529.99,
+      353.14
+    ],
+    "text": "attempting to approach the girl at various stages. Submissions were also made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.2,
+      369.46,
+      530.43,
+      386.5
+    ],
+    "text": "by learned counsel on either side that prior to the date of incident the girl's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.502971649169922,
+      12.504161834716797,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.96,
+      402.58,
+      530.05,
+      419.62
+    ],
+    "text": "house had been stoned or pelted with stones, which resulted the witness",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.363846778869629,
+      12.399999618530273,
+      12.603874206542969
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.37,
+      436.18,
+      482.21,
+      453.22
+    ],
+    "text": "giving some protection to the sister of the deceased and her daughter.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.504161834716797,
+      12.602397918701172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.6,
+      469.79,
+      528.93,
+      486.83
+    ],
+    "text": "On the day of the incident the deceased who was a Grama Sevaka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.05273723602295,
+      12.140535354614258,
+      12.39374828338623,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.35,
+      503.39,
+      528.81,
+      520.43
+    ],
+    "text": "and his son (Witness No. (1)) left home at about 7.30 a.m on a motor cycle. On",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.955119132995605,
+      12.273151397705078,
+      12.29323959350586,
+      12.336487770080566,
+      12.367256164550781,
+      12.399999618530273,
+      12.473034858703613,
+      12.482078552246094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.94,
+      536.51,
+      530.87,
+      553.55
+    ],
+    "text": "the way they saw the Accused-appellant and the deceased stopped the motor",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.387443542480469,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.12,
+      569.62,
+      529.81,
+      586.66
+    ],
+    "text": "cycle and walked up to the Accused-Appellant and told the Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.48,
+      602.99,
+      529.08,
+      620.03
+    ],
+    "text": "not to interfere and cause any trouble to the daughter of the deceased's sister.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.31118106842041,
+      12.399999618530273,
+      12.413542747497559,
+      12.504161834716797,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.68,
+      636.35,
+      528.99,
+      653.39
+    ],
+    "text": "This has resulted in an exchange of words and the two parties had a fight. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.006867408752441,
+      12.119681358337402,
+      12.192462921142578,
+      12.363846778869629,
+      12.399999618530273,
+      12.607808113098145,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.18,
+      669.22,
+      529.0,
+      686.26
+    ],
+    "text": "the process the deceased had been stabbed by the Accused-Appellant and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286328315734863,
+      12.373170852661133,
+      12.387093544006348,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.18,
+      702.1,
+      530.07,
+      719.14
+    ],
+    "text": "the learned Deputy Solicitor General indicated that there were several injuries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.502971649169922
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -6.42,
+      -11.84,
+      21.05,
+      62.43
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.399999618530273,
+      49.40010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      518.59,
+      67.13,
+      526.84,
+      81.8
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.94,
+      102.08,
+      527.1,
+      118.84
+    ],
+    "text": "caused to the deceased as a result of stabbing. The Medico Legal Report shows",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.6197509765625,
+      12.064295768737793,
+      12.199999809265137,
+      12.402912139892578,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.96,
+      135.44,
+      526.29,
+      152.21
+    ],
+    "text": "one grievous injury and five non grievous injuries. Injury No. (3) and (6) caused",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.191396713256836,
+      12.193697929382324,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.09,
+      168.43,
+      523.19,
+      185.65
+    ],
+    "text": "by a blunt weapon and injury Nos. (i), (2), (4) & (5) by a sharp cutting weapon.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.091466903686523,
+      12.191396713256836,
+      12.199999809265137,
+      12.5,
+      12.834552764892578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.78,
+      201.91,
+      527.03,
+      218.68
+    ],
+    "text": "In the above facts and circumstances this court observes that there",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.270496368408203
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.35,
+      235.51,
+      523.45,
+      252.28
+    ],
+    "text": "was some form of provocation to cause death to the deceased by the Accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.220732688903809,
+      12.255622863769531,
+      12.402912139892578,
+      12.536995887756348,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.89,
+      269.12,
+      526.07,
+      285.89
+    ],
+    "text": "Appellant. I would refer to Premalal Vs. Attorney General 2000(2) SLR Pg. 403",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.127124786376953,
+      11.32335376739502,
+      11.69880485534668,
+      12.199999809265137,
+      12.402912139892578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.23,
+      302.47,
+      475.36,
+      319.24
+    ],
+    "text": "a case where cumulative and continuous provocation was considered.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.001129150390625,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.99,
+      335.64,
+      185.07,
+      349.78
+    ],
+    "text": "Held: Per Kulatilaka J.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.331448554992676,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.98,
+      364.3,
+      525.75,
+      378.97
+    ],
+    "text": "\"Our Judgments interpreted the phrase 'sudden provocation\" to mean that provocation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.79,
+      386.14,
+      525.72,
+      400.57
+    ],
+    "text": "should consist of a single act which occurred immediately before the killing so that there",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.16314697265625,
+      10.5,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.64,
+      407.74,
+      525.79,
+      422.17
+    ],
+    "text": "was no time for the anger to cool and the act must have been such that it would have made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.509695053100586,
+      10.514739990234375,
+      10.557990074157715,
+      10.619915962219238,
+      10.863072395324707,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.77,
+      429.11,
+      377.66,
+      443.54
+    ],
+    "text": "a reasonable man to react in the manner as the accused did\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.5,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.46,
+      471.56,
+      525.76,
+      486.26
+    ],
+    "text": "\"Of late we observe a development in other jurisdictions where courts have taken a more",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.5,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.68,
+      493.42,
+      525.82,
+      507.85
+    ],
+    "text": "pragmatic view of the mitigatory plea of provocation ... in a series of cases Court took into",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.277594566345215,
+      10.335968971252441,
+      10.5,
+      10.814053535461426,
+      10.948376655578613
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.28,
+      515.02,
+      481.89,
+      529.45
+    ],
+    "text": "consideration the prior course of relationship between the accused and his victim\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.46,
+      557.74,
+      526.66,
+      572.17
+    ],
+    "text": "(i) The act of stabbing cannot be taken in isolation. The accused appellant's ambition of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.416366577148438,
+      10.448675155639648,
+      10.5,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.96,
+      579.11,
+      525.81,
+      593.54
+    ],
+    "text": "becoming a Lecturer was shattered. He could not face the Campus community",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.167949676513672,
+      10.5,
+      10.552070617675781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.72,
+      600.46,
+      525.49,
+      614.89
+    ],
+    "text": "because he and M had been seen as confirmed lovers in that community. His only",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.31883716583252,
+      10.343128204345703,
+      10.489344596862793,
+      10.5,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.33,
+      621.82,
+      525.26,
+      636.25
+    ],
+    "text": "consolation had been M. He was losing her. The unusual behaviour reflects the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.167949676513672,
+      10.489344596862793,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.72,
+      643.19,
+      525.39,
+      657.62
+    ],
+    "text": "mental agony and the strain that the accused was undergoing because of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.72,
+      664.3,
+      345.67,
+      678.73
+    ],
+    "text": "haunting thought that he was going to lose her.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.343128204345703,
+      10.5,
+      10.623770713806152,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      588.96,
+      226.19,
+      601.22,
+      321.91
+    ],
+    "text": "i ! 1 I 1 I t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      12.399999618530273,
+      14.600000381469727,
+      15.800000190734863,
+      18.20009994506836,
+      18.5,
+      18.799999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -6.94,
+      -17.08,
+      30.81,
+      76.21
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      67.90010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      519.93,
+      67.13,
+      528.18,
+      81.8
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.16,
+      101.93,
+      527.71,
+      116.65
+    ],
+    "text": "(ii) It could be inferred that he had lost all self control at the point of time he stabbed",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.343128204345703,
+      10.460023880004883,
+      10.5,
+      10.509695053100586,
+      10.514739990234375,
+      10.557990074157715,
+      10.639647483825684,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.6,
+      123.83,
+      528.21,
+      138.26
+    ],
+    "text": "her. The brutal manner in which he attached the girl who was so precious to him,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.286325454711914,
+      10.460023880004883,
+      10.5,
+      10.514739990234375,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.21,
+      145.19,
+      528.81,
+      159.62
+    ],
+    "text": "and the attempted suicide are indicative of the fact that he in fact had lost this self",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.460023880004883,
+      10.5,
+      10.623770713806152,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.44,
+      166.54,
+      269.75,
+      180.97
+    ],
+    "text": "control at the time of stabbing.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.509695053100586,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136.04,
+      221.62,
+      527.56,
+      238.66
+    ],
+    "text": "We have considered the relevant facts of this case, but we are not in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.159262657165527,
+      12.17449951171875,
+      12.399999618530273,
+      12.413542747497559,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.91,
+      254.99,
+      528.39,
+      272.03
+    ],
+    "text": "a position to make any drastic variations to the sentence. However having",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.74,
+      288.35,
+      528.59,
+      305.39
+    ],
+    "text": "taken into account the plea of provocation and the resulting sudden fight",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.04,
+      321.7,
+      528.08,
+      338.74
+    ],
+    "text": "between the Accused-Appellant and the deceased party we would vary the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.69,
+      355.3,
+      528.44,
+      372.34
+    ],
+    "text": "sentence and impose a sentence of 12 years rigorous imprisonment. This court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.263801574707031,
+      12.370014190673828,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.06,
+      388.66,
+      528.29,
+      405.7
+    ],
+    "text": "is not inclined to alter the fine imposed by the learned High Court Judge and its",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.36003589630127,
+      12.373170852661133,
+      12.399999618530273,
+      12.496027946472168,
+      12.504161834716797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.44,
+      422.02,
+      527.9,
+      439.06
+    ],
+    "text": "default sentence. Subject to above variation of the term of imprisonment, this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.504161834716797,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.67,
+      455.63,
+      195.57,
+      472.67
+    ],
+    "text": "appeal is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135.37,
+      489.22,
+      238.55,
+      506.26
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.85,
+      598.97,
+      164.43,
+      613.69
+    ],
+    "text": "P. R. Walgama J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.134339332580566,
+      9.31114673614502,
+      10.5,
+      10.524576187133789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.07,
+      620.38,
+      208.08,
+      634.81
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      347.76,
+      638.15,
+      524.64,
+      678.89
+    ],
+    "text": "~,-t:..- ~~ JUDGE~PEAl",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      10.477263450622559,
+      16.079999923706055,
+      24.784576416015625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.79,
+      93.87,
+      597.85,
+      112.29
+    ],
+    "text": "t \\",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      590.82,
+      110.87,
+      601.05,
+      161.71
+    ],
+    "text": "~ ! I!",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.4194982051849365,
+      6.800099849700928,
+      7.500100135803223,
+      36.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      590.81,
+      150.77,
+      603.46,
+      213.28
+    ],
+    "text": "~ It",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.91853666305542,
+      11.199999809265137,
+      45.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      589.96,
+      207.35,
+      606.28,
+      418.48
+    ],
+    "text": "~ [ f I I f t , , i ! I I I I I I i 1",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      3.299487352371216,
+      5.900100231170654,
+      8.600000381469727,
+      10.100000381469727,
+      10.399999618530273,
+      10.5,
+      11.100000381469727,
+      11.5,
+      11.699999809265137,
+      13.399999618530273,
+      13.5,
+      16.899999618530273,
+      17.600000381469727,
+      17.70009994506836,
+      18.299999237060547,
+      19.5,
+      28.70009994506836
+    ]
+  }
+]
