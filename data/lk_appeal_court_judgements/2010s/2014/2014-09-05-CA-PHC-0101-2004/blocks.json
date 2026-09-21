@@ -1,0 +1,564 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      86.27,
+      521.2,
+      101.81
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      102.35,
+      397.66,
+      183.62
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) 101/2004",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      183.48,
+      378.76,
+      249.26
+    ],
+    "text": "D. Dilson Nevil Baseline Road, Katana.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      249.27,
+      484.27,
+      397.01
+    ],
+    "text": "Appellant Vs. Hon. Attorney General Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      396.87,
+      439.85,
+      413.33
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.43,
+      -17.15,
+      26.93,
+      97.7
+    ],
+    "text": "I t 1 I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      16.399999618530273,
+      41.0,
+      51.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.65,
+      87.34,
+      492.73,
+      114.8
+    ],
+    "text": "1 C.A. (PHC) No. 10112004 P.H.C. Negombo Case No. HCA 254/02",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.034553527832031,
+      13.157100677490234,
+      13.800000190734863,
+      15.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.58,
+      119.27,
+      121.78,
+      136.61
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.74,
+      167.27,
+      129.06,
+      184.61
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.58,
+      199.42,
+      148.05,
+      232.85
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.0,
+      13.026772499084473
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.58,
+      119.27,
+      372.37,
+      152.68
+    ],
+    "text": "K. T. Chitrasiri, J & W.M.M. Malinie Gunarathne, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.62,
+      167.27,
+      470.31,
+      200.68
+    ],
+    "text": "Accused-Appellant is absent and unrepresented. Anoopa de Silva, S.S.C., for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.00154972076416,
+      13.046964645385742
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.98,
+      215.27,
+      258.7,
+      232.61
+    ],
+    "text": "05.09.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.44,
+      245.66,
+      248.92,
+      269.7
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.04,
+      279.74,
+      194.14,
+      298.02
+    ],
+    "text": "K. T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.156026840209961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.77,
+      328.06,
+      517.59,
+      345.4
+    ],
+    "text": "The Registrar of this Court has sent a notice to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.025923728942871,
+      13.975592613220215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.74,
+      352.31,
+      517.76,
+      369.65
+    ],
+    "text": "appellant directing him to pay the brief fees. The said letter had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.025923728942871,
+      13.145337104797363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.92,
+      376.31,
+      517.99,
+      393.65
+    ],
+    "text": "sent to the address given in the petition of appeal under registered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.975592613220215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.76,
+      400.31,
+      517.89,
+      417.65
+    ],
+    "text": "cover. However, the appellant has not paid the brief fees. Therefore",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.202374458312988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.75,
+      424.54,
+      518.13,
+      441.89
+    ],
+    "text": "acting under rule 13(b) of Supreme Court Rules this Court makes an order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.975592613220215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.62,
+      448.78,
+      517.72,
+      466.13
+    ],
+    "text": "rejecting the appeal. At this stage it is necessary to note that this an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.056726455688477
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.75,
+      473.03,
+      517.4,
+      490.37
+    ],
+    "text": "appeal filed to challenge the decision where the High Court Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.75,
+      497.26,
+      518.22,
+      514.6
+    ],
+    "text": "exercised appellate powers. In terms of the decision in Wickremasekera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.845552444458008
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.85,
+      521.08,
+      517.35,
+      538.96
+    ],
+    "text": "Vs. O.I.C. Police Station Ampara, (2004 (1) SLR 257) this Court has no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.139748573303223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      545.99,
+      421.24,
+      563.34
+    ],
+    "text": "jurisdiction to entertain such an appeal. Appeal rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.12,
+      571.65,
+      173.58,
+      588.01
+    ],
+    "text": "Appeal rejected.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.04,
+      594.46,
+      494.54,
+      611.8
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.007197380065918,
+      13.02497673034668,
+      13.041783332824707,
+      13.075779914855957,
+      13.16490364074707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.83,
+      626.86,
+      263.21,
+      644.2
+    ],
+    "text": "W.M.M. Malinie Gunarathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.94448184967041,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152.07,
+      659.02,
+      200.45,
+      676.36
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.61,
+      674.62,
+      494.5,
+      708.52
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.006098747253418,
+      13.02497673034668,
+      13.075779914855957,
+      13.16490364074707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.33,
+      655.93,
+      600.45,
+      665.46
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.800099849700928
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.18,
+      706.09,
+      603.8,
+      835.43
+    ],
+    "text": "ffi fIIf f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.400100231170654,
+      9.600000381469727,
+      10.100000381469727,
+      14.800000190734863,
+      18.299999237060547,
+      20.799999237060547,
+      21.70009994506836,
+      38.20009994506836
+    ]
+  }
+]

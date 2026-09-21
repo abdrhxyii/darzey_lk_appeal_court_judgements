@@ -1,0 +1,530 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      153.02
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (PHC) 117/2001 PHC Kandy Case No. 149/94 (Rev.)",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      153.0,
+      358.24,
+      268.01
+    ],
+    "text": "Bandula Gamage And Others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      267.87,
+      398.92,
+      300.77
+    ],
+    "text": "Petitioners",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      300.75,
+      385.6,
+      382.85
+    ],
+    "text": "M.W.T.B. Dissanayake",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      381.01,
+      404.86,
+      418.07
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -0.4,
+      781.18,
+      11.1,
+      812.79
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.23,
+      815.53,
+      5.77,
+      842.75
+    ],
+    "text": "! ! i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.900100231170654,
+      8.800000190734863,
+      14.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.51,
+      68.6,
+      430.8,
+      85.68
+    ],
+    "text": "C.A. (PHC) 117/2001 PHC Kandy Case No. 149/94",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.715270042419434,
+      12.733427047729492,
+      12.800000190734863,
+      12.855031967163086,
+      13.00894546508789,
+      13.285011291503906,
+      13.486775398254395
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.21,
+      94.75,
+      288.55,
+      111.83
+    ],
+    "text": "(Rev.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.1,
+      199.4,
+      113.91,
+      216.48
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.02,
+      247.64,
+      124.83,
+      264.72
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.950613975524902
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.86,
+      320.11,
+      142.13,
+      337.19
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.86,
+      368.11,
+      174.34,
+      385.19
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.590129852294922,
+      12.994718551635742
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.82,
+      120.91,
+      523.79,
+      137.99
+    ],
+    "text": "MC Nuwara-Eliya now at Walapane MC Case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.679886817932129,
+      12.7598876953125,
+      12.866029739379883,
+      12.874632835388184,
+      13.040834426879883,
+      13.065839767456055,
+      13.645383834838867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.94,
+      147.32,
+      381.6,
+      164.4
+    ],
+    "text": "Nos. 84191 to 84238",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802749633789062,
+      13.061773300170898,
+      13.193501472473145
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.34,
+      199.4,
+      283.3,
+      216.48
+    ],
+    "text": "K.T. Chitrasiri,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.730813026428223,
+      12.994718551635742
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.1,
+      247.87,
+      430.19,
+      264.95
+    ],
+    "text": "Petitioners are absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.883278846740723,
+      13.094169616699219,
+      13.240326881408691,
+      13.312153816223145,
+      13.359329223632812
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.17,
+      271.87,
+      503.23,
+      288.95
+    ],
+    "text": "Yuresha Fernando, S.S.C. for the Applicant-Petitioner-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.816240310668945,
+      13.067161560058594,
+      13.134918212890625,
+      13.184815406799316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.1,
+      295.64,
+      328.33,
+      312.72
+    ],
+    "text": "Responden t -Responden t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.995359420776367,
+      13.019763946533203
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.14,
+      320.11,
+      252.62,
+      337.19
+    ],
+    "text": "15.09.2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.014896392822266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.93,
+      416.36,
+      519.36,
+      433.44
+    ],
+    "text": "Attorney for the Petitioners have filed a motion to have this matter re-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.80629825592041,
+      12.908341407775879,
+      12.913298606872559,
+      12.953875541687012,
+      13.134918212890625,
+      13.25699234008789,
+      13.25984001159668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.09,
+      444.43,
+      514.33,
+      461.51
+    ],
+    "text": "listed. However, the Petitioners are absent and unrepresented. Therefore,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.883278846740723,
+      13.094169616699219,
+      13.134918212890625,
+      13.166600227355957,
+      13.353436470031738,
+      13.359329223632812
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.17,
+      472.99,
+      518.63,
+      490.07
+    ],
+    "text": "the application made in the motion dated 04.08.2014 is rejected due to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.829715728759766,
+      12.903928756713867,
+      12.911216735839844,
+      12.913298606872559,
+      13.083999633789062,
+      13.124876976013184,
+      13.134918212890625,
+      13.140082359313965,
+      13.152642250061035,
+      13.223349571228027,
+      13.275179862976074
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.06,
+      501.32,
+      273.73,
+      518.4
+    ],
+    "text": "failure to support the application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.852343559265137,
+      13.134918212890625,
+      13.246753692626953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.12,
+      577.64,
+      508.23,
+      594.72
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.976385116577148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.79,
+      609.58,
+      101.98,
+      629.05
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.556892395019531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.64,
+      66.21,
+      605.93,
+      95.42
+    ],
+    "text": "I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      21.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.8,
+      126.65,
+      600.61,
+      140.53
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  }
+]

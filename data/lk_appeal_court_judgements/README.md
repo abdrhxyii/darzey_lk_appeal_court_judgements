@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--20_22:09:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--21_11:06:05-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**18,308** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.8 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**18,351** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.8 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2026-09-25 | `CA/WRT/383/2018` | Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-25-CA-WRT-383-2018)
 - 2026-09-18 | `CA/TAX/38/2019` | THE COMMISSIONER GENERAL OF INLAND REVENUE, Vs. VARNERS LANKA LAW OFFICE, THE COMMISSIONER GENERAL OF INLAND REVENUE, Vs. VARNERS LANKA LAW OFFICE, View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-TAX-38-2019)
+- 2026-09-18 | `CA/TAX/12/2018` | Siam City Cement (Lanka) Limited Vs. Commissioner General of Inland Revenue Siam City Cement (Lanka) Limited Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-TAX-12-2018)
 - 2026-09-18 | `CA/HCC/0066/2024` | The Democratic Socialist Republic of Sri Lanka. Vs. Mohomed Ismail Mohomed Irshad Karikattiya, The Democratic Socialist Republic of Sri Lanka. Vs. Mohomed Ismail Mohomed Irshad Karikattiya, View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC-0066-2024)
 - 2026-09-18 | `CA/HCC/0029/2023` | Weerakoon Mudiyanselage Pradeep Kumara Weerakoon alias Victe Aiya Vs. The Attorney General Weerakoon Mudiyanselage Pradeep Kumara Weerakoon alias Victe Aiya Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC-0029-2023)
 - 2026-09-18 | `CA/HCC/ 0255-257/2025` | 1. Rajeswaran Naguleswaran 2. Arasan Ajanthan 3. Rajeswaran Rajeeb Vs. The Attorney General 1. Rajeswaran Naguleswaran 2. Arasan Ajanthan 3. Rajeswaran Rajeeb Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC--0255-257-2025)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-11 | `CA/WRT/667/2024` | Ceylon Beverage Mart (Pvt) Ltd Vs Divisional Secretary of Tellippalai and Two Others Ceylon Beverage Mart (Pvt) Ltd Vs Divisional Secretary of Tellippalai and Two Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-11-CA-WRT-667-2024)
 - 2026-09-11 | `CA(PHC)0053/22` | Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. View More before Hon.K. M. S. Dissanayake, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-11-CA-PHC-0053-22)
 - 2026-09-11 | `CA/PHC/0053/2022` | Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. Rohitha Nandalal Jayawardena Vs. Chairman, Hatton Dikoya Urban Council and 16 Others. View More before Hon.K. M. S. Dissanayake, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-11-CA-PHC-0053-2022)
-- 2026-09-11 | `CA/HCC/83/2021` | Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, Ranabahuge Nilanka alias Ranabanuge Nilanga Vs The Hon. Attorney General, View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-11-CA-HCC-83-2021)
 
 ---
 

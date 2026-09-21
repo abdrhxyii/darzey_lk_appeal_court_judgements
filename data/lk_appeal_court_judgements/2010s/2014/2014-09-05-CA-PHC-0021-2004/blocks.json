@@ -1,0 +1,570 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.17,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      88.55,
+      397.66,
+      199.7
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. (PHC) NO.21/2004 P.H.C. Hambanthota Case No. HCA16/2001",
+    "fonts": [
+      "Arial,Bold",
+      "Arial,Italic",
+      "Cambria",
+      "Cambria,Bold",
+      "Cambria,Italic",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      199.68,
+      388.24,
+      265.37
+    ],
+    "text": "Senarath Wimalasena Denigama, Hungama.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      265.35,
+      482.35,
+      314.57
+    ],
+    "text": "Respondent-Petitioner - Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      327.03,
+      273.74,
+      343.49
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      355.83,
+      351.52,
+      372.29
+    ],
+    "text": "H.Hemachandra",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      413.69,
+      385.24,
+      430.15
+    ],
+    "text": "Nandasiri Rajapakshe",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      471.41,
+      508.03,
+      506.71
+    ],
+    "text": "Complainant \u2013 Respondent - Respondent",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.73,
+      -14.2,
+      22.73,
+      66.85
+    ],
+    "text": "I I 1 I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      12.0,
+      15.800000190734863,
+      45.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.14,
+      64.48,
+      5.32,
+      73.69
+    ],
+    "text": "$",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.16,
+      685.43,
+      16.17,
+      725.0
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.66,
+      713.1,
+      12.39,
+      754.15
+    ],
+    "text": "I i !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      12.0,
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      2.17,
+      748.32,
+      6.01,
+      760.32
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.293250560760498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.22,
+      84.05,
+      515.61,
+      102.41
+    ],
+    "text": "C.A. (PHC) NO.2112004 P.H.C. Hambanthota Case No. HCA16/2001",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.06,
+      132.05,
+      304.02,
+      149.99
+    ],
+    "text": "Before K. T. Chitrasiri, J &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.374876022338867,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.22,
+      180.05,
+      129.15,
+      197.93
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.82,
+      211.97,
+      148.05,
+      245.93
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.55,
+      148.12,
+      372.97,
+      166.0
+    ],
+    "text": "W.M.M. Malinie Gunarathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.345840454101562,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.3,
+      180.05,
+      387.17,
+      197.93
+    ],
+    "text": "Parties absent and unrepresented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.22,
+      228.05,
+      259.12,
+      245.93
+    ],
+    "text": "05.09.2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.91,
+      258.59,
+      249.56,
+      283.6
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.28,
+      308.53,
+      194.63,
+      326.81
+    ],
+    "text": "K. T. Chitrasiri, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.22,
+      372.28,
+      518.25,
+      390.28
+    ],
+    "text": "Counsel for the Appellant namely E. Winston L.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.82,
+      396.53,
+      518.99,
+      414.41
+    ],
+    "text": "Peries P .C. by his letter dated 12.0.2014 has informed Court that his client",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.24,
+      420.77,
+      518.99,
+      438.65
+    ],
+    "text": "is not pursuing this appeal. In that letter, the appellant also has placed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.84,
+      445.25,
+      518.81,
+      463.13
+    ],
+    "text": "his signature. Accordingly, acting on the request made by that letter dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.09,
+      469.48,
+      518.54,
+      487.36
+    ],
+    "text": "12.09.2012 written by Mr. Winston L Peries President's Counsel this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.97,
+      493.98,
+      195.37,
+      511.85
+    ],
+    "text": "appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.37,
+      519.0,
+      186.67,
+      536.09
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.76,
+      550.37,
+      495.26,
+      568.25
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.07,
+      582.77,
+      264.01,
+      600.65
+    ],
+    "text": "W.M.M. Malinie Gunarathne, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.345840454101562,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      152.54,
+      615.16,
+      201.11,
+      633.04
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.76,
+      631.01,
+      495.02,
+      648.89
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.85,
+      679.73,
+      114.09,
+      697.61
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  }
+]
