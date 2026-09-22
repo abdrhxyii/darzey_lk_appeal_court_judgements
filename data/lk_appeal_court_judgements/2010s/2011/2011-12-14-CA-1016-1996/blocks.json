@@ -1,0 +1,4528 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      88.5,
+      71.24,
+      520.45,
+      86.89
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.30055046081543,
+      11.332552909851074
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.56,
+      84.63,
+      348.62,
+      100.24
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.774065017700195,
+      11.91355037689209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.8,
+      251.4,
+      204.49,
+      280.66
+    ],
+    "text": "C.A No. 101611996 D.C. Kalutara 2951/MR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.34,
+      168.13,
+      393.1,
+      211.3
+    ],
+    "text": "S. Hector de Silva Victoria Stores, Boossa, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.288148880004883,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.08,
+      238.03,
+      370.19,
+      253.68
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.13,
+      279.25,
+      320.33,
+      294.59
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.72,
+      307.09,
+      480.73,
+      336.35
+    ],
+    "text": "Mohomed Haniffa Mohomed Musni No. 50, Moor Street,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.35,
+      334.93,
+      379.97,
+      350.27
+    ],
+    "text": "Kalutara South.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.88,
+      377.47,
+      379.61,
+      393.12
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.9,
+      404.53,
+      368.6,
+      419.87
+    ],
+    "text": "And between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.64,
+      446.28,
+      392.62,
+      489.22
+    ],
+    "text": "S. Hector de Silva Victoria Stores, Boossa, Galle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.452953338623047,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.6,
+      516.43,
+      446.79,
+      532.08
+    ],
+    "text": "PLAINTIFF -APPELLANT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.42,
+      571.88,
+      326.02,
+      587.53
+    ],
+    "text": "And",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.76,
+      599.16,
+      480.01,
+      642.11
+    ],
+    "text": "Mohomed Haniffa Mohomed Musni No. 50, Moor Street, Kalutara south.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.92,
+      668.84,
+      465.74,
+      684.49
+    ],
+    "text": "DEFENDANT -RESPONDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.35,
+      71.28,
+      141.28,
+      86.48
+    ],
+    "text": "BEFORE:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.52773380279541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.04,
+      112.79,
+      150.04,
+      127.99
+    ],
+    "text": "COUNSEL:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477189064025879
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.9,
+      196.79,
+      164.91,
+      211.99
+    ],
+    "text": "ARGUED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.470879554748535,
+      11.503579139709473
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.87,
+      238.32,
+      167.91,
+      253.52
+    ],
+    "text": "DECIDED ON:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.5087308883667
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.8,
+      320.71,
+      187.09,
+      336.72
+    ],
+    "text": "GOONERA TNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.592867851257324,
+      11.622183799743652,
+      12.167579650878906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.66,
+      71.03,
+      286.62,
+      86.23
+    ],
+    "text": "Anil Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.338835716247559,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.87,
+      112.55,
+      411.52,
+      141.67
+    ],
+    "text": "Bimal Rajapakse with Ravindra Anawaratne For Plaintiff-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.87,
+      154.32,
+      432.56,
+      169.52
+    ],
+    "text": "Defendant-Respondent absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.8,
+      196.86,
+      249.16,
+      211.67
+    ],
+    "text": "06.09.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.49,
+      238.39,
+      249.39,
+      253.2
+    ],
+    "text": "14.12.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      513.77,
+      35.34,
+      522.1,
+      50.15
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.32,
+      390.21,
+      522.72,
+      408.49
+    ],
+    "text": "This is a case of malicious prosecution and arrest claiming a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.72,
+      422.61,
+      522.36,
+      440.89
+    ],
+    "text": "sum of Rs. 350,0001-. In this appeal the Plaintiff-Appellant seeks to quash",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.41,
+      455.0,
+      522.38,
+      473.28
+    ],
+    "text": "the judgment of the learned District Judge, Kalutara dated 16.10.1996 and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.79,
+      487.4,
+      521.68,
+      505.68
+    ],
+    "text": "for relief as in terms of paragraph (b) of the Petition of Appeal. The Plaint in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.4,
+      519.8,
+      522.49,
+      538.09
+    ],
+    "text": "this case was filed in the original court on or about 1987. It has taken such a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.8,
+      552.2,
+      521.54,
+      570.48
+    ],
+    "text": "long time for the trial to be concluded and this court is called upon to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.3,
+      584.84,
+      521.9,
+      603.11
+    ],
+    "text": "consider an appeal which transaction or incident took place over 2 decades",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.29,
+      616.99,
+      110.64,
+      635.27
+    ],
+    "text": "ago.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.84,
+      649.64,
+      520.97,
+      667.93
+    ],
+    "text": "In brief the position is that the Appellant and his father (late S.C",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.07,
+      681.81,
+      521.86,
+      700.09
+    ],
+    "text": "de Silva) who was a contractor had made purchases of certain building",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.6575345993042,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      513.71,
+      34.25,
+      521.96,
+      48.92
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.65,
+      69.62,
+      521.85,
+      89.01
+    ],
+    "text": "materials mainly paints from the Respondent. In the petition of appeal it is",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.128419876098633,
+      13.484098434448242,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.72,
+      102.69,
+      522.84,
+      120.97
+    ],
+    "text": "stated that the Respondent agree to accept post dated cheques for payment or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.65,
+      135.32,
+      522.33,
+      153.6
+    ],
+    "text": "value of purchases. The Appellant visited the Respondent's shop and had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.41,
+      167.49,
+      522.48,
+      185.77
+    ],
+    "text": "made purchases on behalf of his late father and furnished to Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.47,
+      199.65,
+      522.15,
+      217.92
+    ],
+    "text": "blank cheques signed by his father. The father being a contractor had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.54,
+      232.06,
+      521.8,
+      250.34
+    ],
+    "text": "found fault by the Architect for using inferior paints, and he requested the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.38,
+      264.7,
+      522.34,
+      282.97
+    ],
+    "text": "Respondent to take over the inferior paint, (what he supplied) and stopped",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.25,
+      296.84,
+      522.03,
+      315.13
+    ],
+    "text": "payment of cheques. The Respondent thereafter complained to the police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.29,
+      329.24,
+      521.91,
+      347.52
+    ],
+    "text": "against the Appellant and the complaint of the Appellant was that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.14,
+      361.64,
+      522.31,
+      379.92
+    ],
+    "text": "Respondent has instigated or got the police to arrest the Appellant and got",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.21,
+      393.8,
+      521.46,
+      412.08
+    ],
+    "text": "him remanded and later bailed out. The case of the Appellant seems to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.93,
+      426.22,
+      521.56,
+      444.49
+    ],
+    "text": "that the Respondent got the police to file a case against him in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.92,
+      458.85,
+      521.29,
+      477.13
+    ],
+    "text": "Magistrate's Court. After several trial dates and trial being postponed on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.07,
+      491.49,
+      518.0,
+      509.77
+    ],
+    "text": "account of Respondents absence and in view of his absence the Accused-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.68,
+      523.7,
+      524.18,
+      543.09
+    ],
+    "text": "Appellant was discharged from criminal proceedings. In brief the position of",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.984952926635742,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.44,
+      556.53,
+      521.3,
+      574.81
+    ],
+    "text": "the Appellant was that his father late S.C de Silva only had transactions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.22,
+      588.69,
+      520.14,
+      606.96
+    ],
+    "text": "with the Respondent and that he had nothing to do with the transaction. All",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.32,
+      621.09,
+      520.4,
+      639.36
+    ],
+    "text": "cheques etc. was issued by his late father S.C de Silva, and that he had no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.32,
+      653.25,
+      520.95,
+      671.53
+    ],
+    "text": "dealings with purchasing of goods with the Respondent. Proceedings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.36,
+      685.16,
+      348.21,
+      703.44
+    ],
+    "text": "instituted against the Appellant was malicious.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      513.55,
+      34.65,
+      522.03,
+      49.73
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.82,
+      69.8,
+      522.51,
+      88.08
+    ],
+    "text": "In a case of this nature before I proceed to exam me the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.660343170166016,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.04,
+      101.97,
+      522.41,
+      120.25
+    ],
+    "text": "judgment of the District Court and the evidence led at the trial it would be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.05,
+      134.6,
+      522.74,
+      152.88
+    ],
+    "text": "important to consider the requirements or it's ingredients of malicious",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.02,
+      167.72,
+      523.07,
+      186.01
+    ],
+    "text": "arrest/prosecution. In Kotalawala vs. Perera (1936) 1 Cey. L. J. 139, court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.294148445129395,
+      13.295949935913086,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.02,
+      200.12,
+      522.11,
+      218.4
+    ],
+    "text": "cited Nathan and stated the requirements of malicious prosecution as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.0,
+      232.77,
+      133.23,
+      251.05
+    ],
+    "text": "follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.79,
+      265.53,
+      415.09,
+      280.61
+    ],
+    "text": "(1) The existence of the prosecution - Bringing of a prosecutor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.8,
+      293.37,
+      345.56,
+      308.45
+    ],
+    "text": "(2) Malice in instituting the criminal proceedings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.81,
+      321.21,
+      414.48,
+      336.29
+    ],
+    "text": "(3) Absence of reasonable and probable cause of the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.79,
+      348.81,
+      521.92,
+      363.89
+    ],
+    "text": "(4) Termination of criminal proceedings in favour of the Plaintiff - failure of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039,
+      12.025932312011719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.15,
+      376.89,
+      184.18,
+      391.97
+    ],
+    "text": "prosecution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.65,
+      404.12,
+      521.88,
+      422.4
+    ],
+    "text": "As stated above an exhaustive definition would not be so relevant. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.590311050415039,
+      13.689895629882812,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.94,
+      436.52,
+      525.38,
+      454.8
+    ],
+    "text": "brief the Defendant should set the authorities in motion to the detriment of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.4,
+      468.92,
+      522.11,
+      487.2
+    ],
+    "text": "the Plaintiff (vide Podisingho vs. Appuhamy - 1904 3 Bal 1451146). The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.46,
+      501.33,
+      521.61,
+      519.61
+    ],
+    "text": "principles of the Roman Dutch Law and English Law on the subject is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.46,
+      533.48,
+      522.99,
+      551.76
+    ],
+    "text": "practically identical and the onus is on the Plaintiff to prove malice 12 NLR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.150583267211914,
+      13.484098434448242,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.63,
+      565.89,
+      522.31,
+      584.18
+    ],
+    "text": "147. It is not sufficient to prove mere absence of reasonable and probable",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      13.845080375671387,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.54,
+      598.53,
+      195.95,
+      616.81
+    ],
+    "text": "cause 10 NLR 321.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.28975772857666,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.9,
+      630.92,
+      522.25,
+      649.2
+    ],
+    "text": "Parties proceeded to trial on 17 issues. The Plaintiff-Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.427438735961914,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.48,
+      663.08,
+      521.73,
+      681.35
+    ],
+    "text": "seems to prove his case as follows. Father was a contractor and he and his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.3,
+      695.25,
+      524.58,
+      713.53
+    ],
+    "text": "father both came to the Defendant's shop and made certain purchases of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      515.36,
+      34.42,
+      523.84,
+      49.5
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.62,
+      70.18,
+      524.04,
+      88.59
+    ],
+    "text": "paints etc. After some time Plaintiff made further purchases from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.54,
+      102.82,
+      523.78,
+      121.22
+    ],
+    "text": "Defendant and gave his fathers cheques signed in blank to the Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.45,
+      135.23,
+      523.69,
+      153.64
+    ],
+    "text": "(post dated). This was done to enable the Defendant-Respondent to fill in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.4,
+      167.39,
+      523.72,
+      185.79
+    ],
+    "text": "blanks and encash the cheque. When the contractor (Plaintiff's father) was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.23,
+      200.02,
+      523.32,
+      218.44
+    ],
+    "text": "engaged in doing some contract work for the Galle Bank of Ceylon the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.34,
+      232.42,
+      523.88,
+      250.83
+    ],
+    "text": "Architect had found fault with his father for using inferior paints. Plaintiff at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.09,
+      264.82,
+      523.44,
+      283.23
+    ],
+    "text": "that point had phoned the Defendant and wanted the Defendant to take the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.91,
+      297.22,
+      523.82,
+      315.63
+    ],
+    "text": "paints back which were of a inferior quality and made a complaint about",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.01,
+      329.62,
+      523.55,
+      348.03
+    ],
+    "text": "inferior quality to the Defendant in that way. Defendant-Respondent refused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67775821685791,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.75,
+      362.03,
+      523.21,
+      380.44
+    ],
+    "text": "and the Plaintiff's father had stopped payment of the cheques. When",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.98,
+      394.18,
+      523.48,
+      412.59
+    ],
+    "text": "cheques were deposited it was returned dihonoured. Defendant had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.73,
+      426.6,
+      522.95,
+      445.01
+    ],
+    "text": "complained to the Kalutara Police (S.C.I.B) alleging cheating against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.59,
+      459.0,
+      522.86,
+      477.41
+    ],
+    "text": "Plaintiff. The Plaintiff also stress that the police in arresting the Plaintiff was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.51,
+      491.4,
+      522.59,
+      509.81
+    ],
+    "text": "accompanied by the Defendant-Respondent and got him arrested at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.11,
+      524.02,
+      522.9,
+      542.45
+    ],
+    "text": "Plaintiff's father's workshop (Regional Office of the Bank of Ceylon, Galle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.34,
+      556.66,
+      523.01,
+      575.07
+    ],
+    "text": "Fort). On the way back to Kalutara the police along with the Defendant had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.21,
+      588.81,
+      522.72,
+      607.23
+    ],
+    "text": "searched the residence of Plaintiff. The Plaintiff was produced before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.84,
+      621.22,
+      488.39,
+      639.63
+    ],
+    "text": "Kalutara Magistrate on 16.5.1981 and remanded till 20.5.1981. He was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      514.42,
+      35.25,
+      522.82,
+      50.19
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.73,
+      70.64,
+      523.24,
+      88.78
+    ],
+    "text": "enlarged on bail on that date and subsequently charged on 23.3.1984. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.4,
+      103.03,
+      522.65,
+      121.18
+    ],
+    "text": "pleaded not guilty. On 2.9.1985 Plaintiff was discharged on the trial date as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.35,
+      135.67,
+      403.43,
+      153.81
+    ],
+    "text": "the Defendant Complainant was absent on the trial date.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.01,
+      168.31,
+      523.31,
+      186.45
+    ],
+    "text": "The Plaintiff Appellant stress that the name given to the police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.66,
+      200.72,
+      523.32,
+      218.86
+    ],
+    "text": "by the Defendant was S.C de Silva of Bossa (father). The signature",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.27,
+      233.35,
+      523.87,
+      251.49
+    ],
+    "text": "appearing on the cheques was that of S.C de Silva his father. Plaintiffs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.38,
+      265.52,
+      522.66,
+      283.66
+    ],
+    "text": "name is S. Hector de Silva. In this way Plaintiff imputes malice as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.314759254455566,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.34,
+      297.67,
+      523.27,
+      315.81
+    ],
+    "text": "Defendant was aware that he was not S.C de Silva and states further that it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.39,
+      330.08,
+      523.14,
+      348.22
+    ],
+    "text": "was malice on the part of Defendant. Plaintiff-appellant also urge that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.57,
+      362.71,
+      522.85,
+      380.85
+    ],
+    "text": "Defendant instigated the police to arrest him since the complaint by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.33,
+      393.69,
+      522.76,
+      413.25
+    ],
+    "text": "Defendant was on 15th May 1981 at 7.50 a.m, naming S.C de Silva.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6163330078125,
+      12.96235179901123,
+      13.4453706741333,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.34,
+      427.52,
+      522.96,
+      445.66
+    ],
+    "text": "Defendant accompanied the police on the same date and Plaintiff was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.27,
+      459.91,
+      522.51,
+      478.06
+    ],
+    "text": "arrested at about 9.00 a.m. This is to demonstrate by the Plaintiff as he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.434796333312988,
+      13.517802238464355,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.27,
+      492.31,
+      523.08,
+      510.46
+    ],
+    "text": "describes it to be 'indecent haste'. He also state that Defendant pleadings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.27,
+      524.71,
+      522.57,
+      542.85
+    ],
+    "text": "does not suggest that he acted bona fide. Defendant was well known to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.34,
+      557.35,
+      522.76,
+      575.49
+    ],
+    "text": "Plaintiffs father. But he had falsely implicated the Plaintiff. Plaintiff also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.21,
+      589.74,
+      522.0,
+      607.89
+    ],
+    "text": "state that Defendant did not act with reasonable and probable cause, as it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.235721588134766,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.26,
+      621.91,
+      225.68,
+      640.05
+    ],
+    "text": "apparent by his conduct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      518.48,
+      33.48,
+      528.07,
+      49.28
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.14,
+      69.8,
+      527.19,
+      88.08
+    ],
+    "text": "I have considered the position of the Appellant according to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.6,
+      102.22,
+      527.26,
+      120.49
+    ],
+    "text": "oral submissions made to this court and the material contained in the written",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.5,
+      134.6,
+      527.14,
+      153.7
+    ],
+    "text": "submissions. In the written submissions of Appellant there is much emphasis",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.127435684204102,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.35,
+      167.0,
+      526.99,
+      185.28
+    ],
+    "text": "on matters for determination both facts and law. I prefer to incorporate same",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.37,
+      199.17,
+      247.23,
+      217.45
+    ],
+    "text": "in this judgment as follows.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91.09,
+      230.44,
+      526.74,
+      247.64
+    ],
+    "text": "1. On the facts, significantly the 15t complaint by Respondent only implicates Appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.226224422454834,
+      10.523897171020508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.12,
+      252.76,
+      526.37,
+      268.51
+    ],
+    "text": "father (S.C de Silva). Please see PI, at page 281 of the Appeal brief. This is corroborated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.638647079467773,
+      11.800000190734863,
+      11.978796005249023,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.0,
+      273.89,
+      526.37,
+      289.64
+    ],
+    "text": "by an admission recorded under and in terms of section 420 of the Code of Criminal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.027865409851074,
+      11.800000190734863,
+      12.28911304473877,
+      12.422006607055664
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.19,
+      294.76,
+      526.49,
+      310.51
+    ],
+    "text": "Procedure Act stating that the said cheques were all issued and signed by Appellant's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.1,
+      315.65,
+      526.46,
+      331.4
+    ],
+    "text": "father (S.C de Silva), at page 301. Unfortunately, cross examination of Appellant took",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.77316951751709,
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.11,
+      336.28,
+      352.01,
+      352.03
+    ],
+    "text": "about six years and meanwhile S.C de Silva also died.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.77316951751709,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.93,
+      377.81,
+      526.34,
+      393.62
+    ],
+    "text": "2. It is also important to note that the said PI (supra) was recorded at Kalutara South",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.410057067871094,
+      11.547343254089355,
+      11.740449905395508,
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.95,
+      398.44,
+      526.28,
+      414.19
+    ],
+    "text": "Police Station, on 15.5.1981 at 7.50 a.m. Thereafter, police came along in a car with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.95,
+      419.32,
+      456.5,
+      435.07
+    ],
+    "text": "Respondent and took Appellant away, also on 15.5.1981, at about 9.30 a.m.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.87,
+      461.32,
+      524.61,
+      477.07
+    ],
+    "text": "3. Consequently, Appellant was made to make a statement (to Police), also on 15.5.1981",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.985940933227539,
+      11.0,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.64,
+      481.96,
+      525.0,
+      497.71
+    ],
+    "text": "and thereafter kept in the Police lock-up. Next day (16.5.1981), Appellant was taken to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.25,
+      502.84,
+      525.45,
+      518.59
+    ],
+    "text": "the Remand jail and after being produced before the Magistrate, Appellant was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.66,
+      523.72,
+      525.79,
+      539.46
+    ],
+    "text": "imprisoned for four days and later released on bail. The proceedings in the Magistrate's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.39,
+      544.59,
+      525.48,
+      560.33
+    ],
+    "text": "Court lasted about two years and later Appellant was discharged. This evidence remains",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.51,
+      565.0,
+      238.02,
+      580.74
+    ],
+    "text": "uncontradicted by Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.99,
+      606.76,
+      524.83,
+      622.51
+    ],
+    "text": "4. The necessary ingredients forming a charge of malicious criminal arrest are stated In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.557100296020508,
+      11.721287727355957,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.16,
+      627.64,
+      525.04,
+      643.39
+    ],
+    "text": "Chitty Vs. Peries (41 N.L.R 145 at page 147) viz Plaintiff must show (i) that his arrest on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.16,
+      648.52,
+      524.87,
+      664.26
+    ],
+    "text": "a criminal charge was instigated, authorized or effected by the Defendant (ii) that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      89.22,
+      669.17,
+      524.81,
+      684.91
+    ],
+    "text": "Defendant acted maliciously and (iii) that the Defendant acted without reasonable and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.82,
+      689.57,
+      324.68,
+      705.31
+    ],
+    "text": "probable cause - by Howard CJ quoting Nathan.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      514.6,
+      35.16,
+      523.23,
+      50.5
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.3,
+      91.11,
+      522.84,
+      106.72
+    ],
+    "text": "These ingredients have been satisfied by Appellant, inasmuch as (a) the 1 st statement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.400100231170654,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.3,
+      112.24,
+      522.39,
+      127.85
+    ],
+    "text": "implicated only S.C de Silva (father of Appellant) (b) however, Respondent went with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.12,
+      132.87,
+      522.59,
+      148.48
+    ],
+    "text": "the Police in a car and showing Appellant at his Galle worksite, induced Police to arrest",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.14,
+      153.99,
+      522.84,
+      169.6
+    ],
+    "text": "him (c) all the cheques were drawn by the father of Appellant from his personal Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.04,
+      175.11,
+      522.6,
+      190.72
+    ],
+    "text": "account (d) no evidence was led to state that Appellant induced his father to stop these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.92,
+      196.24,
+      522.54,
+      211.85
+    ],
+    "text": "payments (e) there was no relationship of principal and agent, of a partnership between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.236929893493652
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.89,
+      217.11,
+      522.04,
+      232.72
+    ],
+    "text": "these two clearly established to show that Appellant was also culpable of, inter alia,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.04,
+      235.26,
+      522.26,
+      254.5
+    ],
+    "text": "cheating and (0 malice is established inasmuch as within a few hours after making his",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      13.83624267578125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.29,
+      258.63,
+      522.47,
+      274.24
+    ],
+    "text": "first statement (supra), Respondent went along with the Police is a car and had appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.05,
+      279.51,
+      128.46,
+      295.12
+    ],
+    "text": "arrested.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.82,
+      320.61,
+      522.76,
+      338.89
+    ],
+    "text": "I will deal with a - d above. I do not see the basis to support the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.03,
+      353.0,
+      522.94,
+      371.28
+    ],
+    "text": "case of the Appellant relying on a, b & c above. If cheques are dishonoured",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.526450157165527,
+      13.699999809265137,
+      14.21342945098877,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.88,
+      385.64,
+      522.41,
+      403.92
+    ],
+    "text": "the Defendant-Respondent has every right to complain to the police. What is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.9,
+      417.8,
+      522.95,
+      436.08
+    ],
+    "text": "wrong in that? (a) above suggests that the 1 st complaint of the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.79,
+      450.22,
+      522.84,
+      468.49
+    ],
+    "text": "only implicates Appellant's father. That position would fortify the position",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.02,
+      482.61,
+      522.97,
+      500.89
+    ],
+    "text": "of the Respondent to show that he had no malice but genuinely made a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.78,
+      515.24,
+      522.98,
+      533.52
+    ],
+    "text": "complaint because he is the person who has suffered monetarily due to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.65,
+      547.64,
+      522.02,
+      565.92
+    ],
+    "text": "transaction between them. By paragraph (b) above Appellant seeks to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.55,
+      580.04,
+      522.55,
+      598.32
+    ],
+    "text": "demonstrate the speed at which steps were taken. Is the Appellant suggesting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.37,
+      612.68,
+      522.19,
+      630.95
+    ],
+    "text": "that under normal circumstances the authorities act at a very slow pace and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.41,
+      645.08,
+      470.78,
+      663.36
+    ],
+    "text": "prosecutions take time. It would be unreasonable to hold against the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.683144569396973,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      513.71,
+      33.96,
+      522.34,
+      49.3
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.09,
+      70.29,
+      522.56,
+      88.57
+    ],
+    "text": "Respondent merely because he provided transport to the police. In criminal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.93,
+      103.17,
+      522.88,
+      121.45
+    ],
+    "text": "prosecutions the complainant is expected to assist the law enforcement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.77,
+      135.56,
+      522.6,
+      153.84
+    ],
+    "text": "authorities in the investigation. To draw an inference of malice on this alone",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.66,
+      167.73,
+      522.25,
+      186.01
+    ],
+    "text": "would be unreasonable to the Respondent. Malice is a burden placed on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.84,
+      199.88,
+      522.29,
+      218.16
+    ],
+    "text": "Plaintiff-Appellant and the burden is heavy and court should be very",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.79,
+      232.53,
+      348.9,
+      250.81
+    ],
+    "text": "cautious in drawing any conclusion on malice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.4,
+      265.17,
+      525.38,
+      283.45
+    ],
+    "text": "At this point of the judgment I have to consider the version of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.64,
+      297.32,
+      522.69,
+      315.6
+    ],
+    "text": "the Respondent prior to analyzing the learned District Jude's judgment,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.65,
+      329.72,
+      522.35,
+      348.0
+    ],
+    "text": "though the Respondent was absent and unrepresented at hearing before this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.82,
+      362.37,
+      120.16,
+      380.65
+    ],
+    "text": "court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.17,
+      394.53,
+      522.54,
+      412.81
+    ],
+    "text": "However subsequent to the date of hearing and before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.71,
+      427.17,
+      522.43,
+      445.44
+    ],
+    "text": "pronouncing the judgment by this court, Respondent has filed written",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.72,
+      459.57,
+      522.02,
+      477.84
+    ],
+    "text": "submissions on or about 28.11.2011, and I am bound to give my mind to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.39,
+      491.97,
+      521.59,
+      510.26
+    ],
+    "text": "those submissions. Respondent support the judgment of the District Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.37,
+      524.37,
+      522.27,
+      542.65
+    ],
+    "text": "Respondent states that Appellant purchased some goods and cheques instead",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.3,
+      557.01,
+      521.78,
+      575.29
+    ],
+    "text": "of paying money cheques were given to him and later the cheques were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.18,
+      589.16,
+      522.48,
+      607.44
+    ],
+    "text": "returned on the basis of stop payment. Respondent is justified in making a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.29,
+      621.56,
+      521.48,
+      639.84
+    ],
+    "text": "complaint to the police and stress that he is legally entitled to do so",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.484098434448242,
+      13.655377388000488,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.13,
+      653.73,
+      514.22,
+      672.01
+    ],
+    "text": "Respondent also made a cross-claim in the original court and the trial Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      508.47,
+      34.96,
+      521.92,
+      50.08
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.586477279663086
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.02,
+      70.49,
+      515.57,
+      88.5
+    ],
+    "text": "accepted such claim and dismissed Plaintiff s action. Respondent states that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.88,
+      102.65,
+      516.51,
+      120.66
+    ],
+    "text": "Appellant purchased paint, electrical items, hardware and bicycle (pg 424 -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.640519142150879
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.63,
+      135.3,
+      522.71,
+      153.32
+    ],
+    "text": "426 of the record) Respondent allege that the Appellant having complained",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.77,
+      168.18,
+      522.22,
+      186.2
+    ],
+    "text": "about low quality of the paint failed to return the paint (if remaining) and did",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.777743339538574,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.65,
+      200.57,
+      358.69,
+      218.58
+    ],
+    "text": "not pay the Respondent for the items purchased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.31,
+      232.74,
+      523.35,
+      250.75
+    ],
+    "text": "The learned trial Judge has been very fair in his judgment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.8,
+      265.13,
+      522.11,
+      283.14
+    ],
+    "text": "although the disposal of the trial took a very long lapse of time. In the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.24181842803955
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.81,
+      297.55,
+      522.28,
+      315.56
+    ],
+    "text": "judgment the trial Judge had addresses his mind to the following admissions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.7,
+      329.93,
+      243.46,
+      347.94
+    ],
+    "text": "by the Plaintiff in evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.54,
+      362.44,
+      497.29,
+      378.19
+    ],
+    "text": "(a) Apart from purchasing paint several other items were purchased by Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.54,
+      383.33,
+      360.72,
+      399.08
+    ],
+    "text": "(b) Defendant was not paid for the items purchased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.53,
+      404.21,
+      521.66,
+      419.96
+    ],
+    "text": "(c) That Plaintiff purchased to the value of Rs. 25,863/- from the Defendant and not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.28911304473877
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.78,
+      424.84,
+      231.95,
+      440.58
+    ],
+    "text": "paid money for same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.3,
+      445.72,
+      438.55,
+      461.46
+    ],
+    "text": "(d) The so called low quality paints were not returned to Defendant,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.3,
+      466.35,
+      400.86,
+      482.09
+    ],
+    "text": "(e) Never complained to the police about low quality goods.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      121.08,
+      508.01,
+      517.61,
+      526.02
+    ],
+    "text": "The following extract from the judgment is reproduced and it is to my",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.41,
+      540.66,
+      374.08,
+      558.67
+    ],
+    "text": "mind the trial Judge's reasoning has been very fair.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.7,
+      574.33,
+      530.08,
+      588.61
+    ],
+    "text": "CJ@eDO l:fE)e5C\u00bbE)@~ Ol;\u00aer8J@&S)Ol; @@@ @E)&lk5rnE)@O ~~@ @~)@C5)E)@ 8~~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.938386917114258,
+      7.3378801345825195,
+      9.26308822631836,
+      9.809494018554688,
+      10.182852745056152,
+      10.330262184143066,
+      10.46512222290039,
+      10.720597267150879
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.14,
+      597.36,
+      523.29,
+      611.64
+    ],
+    "text": "E)e5eDO ~es5@es5 eD@es5@cs) ~) Q)E)O oE)CJooO @c.o~ l:fl;eD. CJ@eDO l:fE)e5C\u00bbE)@~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.542476654052734,
+      6.838104724884033,
+      6.938386917114258,
+      9.742838859558105,
+      10.251396179199219,
+      10.251399993896484,
+      10.336629867553711,
+      10.346820831298828,
+      10.364180564880371,
+      11.344348907470703
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.32,
+      621.6,
+      519.93,
+      635.88
+    ],
+    "text": "@@@ @E)&lk5rn l:f(5)Ol; ~ Q)E) eD@es5 @~~OO) Q)E) oE)CJes5eDO @c.o~ l:fl;eD.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.788295745849609,
+      8.97997760772705,
+      9.022638320922852,
+      9.738500595092773,
+      9.760339736938477,
+      9.940817832946777,
+      10.277925491333008,
+      10.288642883300781,
+      10.487642288208008,
+      10.570516586303711
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.1,
+      645.12,
+      520.99,
+      659.4
+    ],
+    "text": "CJ@eDO l:fE)e5C\u00bbE)@~ ~E\u00bb l:f(5)Ol; ~ Q)E)rn E)rnrnOOl;O ~~@ @~)@C5)~ Q)E)rn",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022491455078125,
+      7.513188362121582,
+      7.6197638511657715,
+      9.06933307647705,
+      9.375371932983398,
+      10.182852745056152,
+      10.496055603027344,
+      10.542388916015625,
+      10.570516586303711,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.77,
+      667.69,
+      459.51,
+      681.97
+    ],
+    "text": "8@(5)es50 @c.o~ l:fl;eD. E>rnrnOOl; E)Ses5 Ol;\u00aer8J@OOl;O ~@o8)E) l:fCJeD23",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.838104724884033,
+      7.749357223510742,
+      9.917756080627441,
+      10.288642883300781,
+      10.570262908935547,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      509.0,
+      34.16,
+      520.53,
+      49.69
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.933926582336426
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.64,
+      69.56,
+      525.61,
+      86.64
+    ],
+    "text": "(3e>keD>e)~ ~(3e)(S,) Q5)CS)0) (3@Q (30)@ScoD ooesSeDD (3CO~eD) coC3 ereJ~6rmcoD",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.039365291595459,
+      6.807891368865967,
+      7.178173542022705,
+      7.683749198913574,
+      10.699999809265137,
+      10.91922378540039,
+      11.657183647155762,
+      11.671175003051758,
+      12.46470832824707
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.12,
+      92.59,
+      521.82,
+      109.67
+    ],
+    "text": "B>CS)\u00aeeD(.O ~@ (3eD)(5)Z;~. oz;\u00aerID@ooz; e)sesS O)\u00aeesSD (3~eD @~ (3e>oom erCS)oz;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.026341915130615,
+      6.835577487945557,
+      8.80345344543457,
+      9.359999656677246,
+      10.357390403747559,
+      11.150346755981445,
+      11.320268630981445,
+      12.239582061767578,
+      12.302948951721191,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.8,
+      115.64,
+      521.33,
+      132.72
+    ],
+    "text": "e) eDZ;e)O) oz;\u00aerID\u00ae (3G5t5J(3~)D(3cs)eD (3o)@ScoD ~(3eS oz;\u00aerID@ ~Oes)eDD @CO)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.405212879180908,
+      6.736335277557373,
+      7.3997297286987305,
+      10.601313591003418,
+      10.70608139038086,
+      11.790925979614258,
+      11.901300430297852,
+      12.033978462219238,
+      12.46470832824707
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.92,
+      138.67,
+      522.15,
+      155.75
+    ],
+    "text": "~@ Q)e> ereJOOeDcoD (3oB> coCB. (3\u00ae\u00ae (3e>oom e)mrnooz;D (5)0 ~ erz;m(3m",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.960714340209961,
+      9.535282135009766,
+      10.619589805603027,
+      10.691604614257812,
+      11.640701293945312,
+      11.80329418182373,
+      11.943119049072266,
+      12.152629852294922,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.58,
+      161.95,
+      525.13,
+      179.03
+    ],
+    "text": "oz;\u00aerID@OOZ;(3cs) 8co) (3eD)~e)m ~ er~ O)\u00aeesSD (3e>oom (5)0 ~esS ~~CS)@co)D",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.742462635040283,
+      7.189815998077393,
+      7.528505802154541,
+      9.091534614562988,
+      9.43152141571045,
+      11.246475219726562,
+      11.534324645996094,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.92,
+      184.76,
+      527.77,
+      201.84
+    ],
+    "text": "~(30B>e> e)mrnooz; @CO) ~O~ @z;Q) erz;O). e)mrn~oz; e)Ses) OOeD @~ ~\u00ae",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099363327026367,
+      7.384307861328125,
+      8.97997760772705,
+      9.479240417480469,
+      10.561515808105469,
+      10.71593952178955,
+      11.253643035888672,
+      12.08572006225586,
+      12.387503623962402,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.82,
+      199.19,
+      522.08,
+      227.47
+    ],
+    "text": "oz;\u00aeB>@@ \u00aeO) (30)@SCO @CO)eD\u00ae~ e) ~ er~e) m e\u00bb60\u00bbe) ~O>C \u00ae(3G5eSQ)m",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.305624961853027,
+      7.929539680480957,
+      8.960714340209961,
+      9.473161697387695,
+      11.530940055847168,
+      11.71364974975586,
+      11.78891658782959,
+      11.80795669555664,
+      12.209635734558105,
+      12.800000190734863,
+      21.20009994506836
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.78,
+      230.11,
+      521.79,
+      247.19
+    ],
+    "text": "ereJoormcoD @~aom 00 e)mrnooz;D ~(30B>e) eD~ oz;e)a\u00aeD @CO) ~o erz;rn",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.248834609985352,
+      7.785524845123291,
+      9.27158260345459,
+      9.347684860229492,
+      10.65881061553955,
+      11.693690299987793,
+      12.800000190734863,
+      14.967912673950195
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.58,
+      251.1,
+      524.23,
+      270.34
+    ],
+    "text": "Q)e) (3oB> 00. (3\u00ae\u00ae eD~(3e) e)mrnooz; e)sesS SO\u00bb \u00aeO\u00bb erQo)23 (3e>J~eD)e)~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.744667053222656,
+      6.7743000984191895,
+      11.184446334838867,
+      11.313594818115234,
+      11.640701293945312,
+      11.80329418182373,
+      11.94333267211914,
+      11.966085433959961,
+      12.239582061767578,
+      12.800000190734863,
+      14.140445709228516
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.57,
+      275.72,
+      521.63,
+      292.8
+    ],
+    "text": "oz;\u00aerID@ooz;e) erSoz; O)mme)co~ om ~\u00aeDm ~ (3e)(S,) Q(5)CS)O)e) erQo)23",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.284963607788086,
+      8.609947204589844,
+      10.356910705566406,
+      10.751357078552246,
+      11.16732406616211,
+      11.94333267211914,
+      12.267577171325684,
+      12.800000190734863,
+      13.542136192321777
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.68,
+      299.24,
+      492.2,
+      316.32
+    ],
+    "text": "oz;\u00aerID@@~ (3o)@ScoD ~@) coC3 ereJ~ormcoD as(3eSm 8@CS)0) (3eD~Z;~.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.17152214050293,
+      7.669777870178223,
+      7.820896625518799,
+      8.51019287109375,
+      10.848130226135254,
+      11.78212833404541,
+      12.49199390411377,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.68,
+      343.63,
+      490.3,
+      360.71
+    ],
+    "text": "~ Q@)Q)es)W(3coes) oz;\u00aerID@OOZ;(3cs) Q)~(ico Q@~) Q)z;@(3\u00ae~ erB>e\u00bb623(3coes5@",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.851124286651611,
+      7.226292133331299,
+      8.434216499328613,
+      8.752599716186523,
+      10.987527847290039,
+      11.484222412109375,
+      11.58393383026123
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.33,
+      365.95,
+      524.02,
+      383.03
+    ],
+    "text": "oz;\u00aerID@ooZ;D ~(30B>e) (30)@ScoD oz;\u00aerID@ ~\u00ae ~(5) (3\u00ae\u00ae eD~(3e)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.86060094833374,
+      7.159888744354248,
+      8.067713737487793,
+      11.308050155639648,
+      11.725936889648438,
+      11.80329418182373,
+      12.126111030578613,
+      12.49199390411377
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.3,
+      388.51,
+      521.8,
+      405.59
+    ],
+    "text": "e)mrnooz;D (3(5)~ (3G5t5Jes) rn(3Q)eD Q)e) ereJoormcoD (3oB> coCB. e)mrnooz; e)Ses)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.618519306182861,
+      10.752190589904785,
+      10.805153846740723,
+      11.175058364868164,
+      11.313594818115234,
+      11.749982833862305,
+      12.333551406860352,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.45,
+      412.28,
+      525.05,
+      429.36
+    ],
+    "text": "~ er~ (30)@ScoD OOeD @~ oz;\u00aerID@@ (3G5t5J(3~)D(3cs)eD (30)@SCO e)Ses) eD~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.56739616394043,
+      7.785524845123291,
+      9.091534614562988,
+      9.389697074890137,
+      11.709606170654297,
+      11.78891658782959,
+      12.034404754638672,
+      12.333551406860352,
+      12.46470832824707
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.32,
+      433.63,
+      527.85,
+      450.71
+    ],
+    "text": "oz;e)a\u00aeD @CO) aa\u00ae Q@~) Q)z;@(3\u00ae~ ~co Q)\u00ae)eD23 @CO) oC)o)C)coD er~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.922658443450928,
+      7.393465518951416,
+      8.511545181274414,
+      9.157815933227539,
+      10.601313591003418,
+      10.71593952178955,
+      11.39588737487793,
+      12.419340133666992,
+      12.800000190734863,
+      14.023477554321289
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.45,
+      457.16,
+      359.13,
+      474.24
+    ],
+    "text": "S~e)eD @CO) ~)\u00aeCO~ Q)e) ereJ~orm(3c.; B>cs)\u00aeeDcoCB.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.003531455993652,
+      7.580671787261963,
+      8.009855270385742,
+      10.601313591003418,
+      10.953282356262207,
+      11.392966270446777
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.1,
+      503.95,
+      521.05,
+      521.03
+    ],
+    "text": "oz;\u00aerID@OOZ;(3cs) Q)~(3coes5@ oo\u00a7) oe)Q) SC)(3c.; e)mrnOOZ;(3CS)es) @Q\u00bb CS)m (3\u00ae\u00ae",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.397296905517578,
+      9.399999618530273,
+      10.528680801391602,
+      10.752429008483887,
+      11.481491088867188,
+      11.517722129821777,
+      11.744697570800781,
+      11.861926078796387,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.2,
+      526.75,
+      521.23,
+      543.83
+    ],
+    "text": "eD~e)D er~)@ asC) om Q(5) Q)~ @z;CBeSt5J e)@D er~)@ 5)es)ro Q\u00aeQ)es)W(3coes)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.559809684753418,
+      7.580671787261963,
+      7.5910491943359375,
+      7.606523513793945,
+      10.521566390991211,
+      10.699999809265137,
+      11.376720428466797,
+      11.664702415466309,
+      12.520345687866211,
+      12.917411804199219,
+      13.62867546081543
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.2,
+      549.31,
+      408.26,
+      566.39
+    ],
+    "text": "e)mrn~oz;D oz;\u00aerID@ooz; e)Ses) ~~@ (3CS)e\u00bb (3eD)@z;rn Q)e)co.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.528505802154541,
+      9.107359886169434,
+      10.29379653930664,
+      11.122186660766602,
+      11.633275985717773,
+      12.302948951721191,
+      12.387503623962402
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      156.62,
+      605.96,
+      521.59,
+      624.24
+    ],
+    "text": "I would reject the contention of the Appellant that he was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      85.06,
+      638.36,
+      521.58,
+      656.64
+    ],
+    "text": "falsely implicated by the Defendant-Respondent. What is underlying in this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.81,
+      670.53,
+      506.91,
+      688.81
+    ],
+    "text": "entire case (prior to examining ingredients of malicious prosecution) is the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      508.9,
+      34.28,
+      521.89,
+      49.22
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.105450630187988
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.51,
+      69.57,
+      522.87,
+      87.85
+    ],
+    "text": "default of Plaintiff. The Plaintiff never paid for the goods supplied. Cheques",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.53,
+      101.96,
+      522.7,
+      120.24
+    ],
+    "text": "issued were dishonoured. Any person who receives cheques which are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.03,
+      134.84,
+      522.27,
+      153.12
+    ],
+    "text": "dishonoured has a right to complain. There is no evidence led at the trial to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.21,
+      167.25,
+      525.38,
+      185.53
+    ],
+    "text": "show that Plaintiff at least attempted to settle the bills. The counter claim of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.85,
+      199.64,
+      522.71,
+      217.92
+    ],
+    "text": "Respondent is justified in the circumstances of this case. Plaintiff has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.680935859680176,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.03,
+      232.29,
+      522.14,
+      250.57
+    ],
+    "text": "doing the contract works with his late father. Both were involved in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.94,
+      264.44,
+      521.42,
+      282.72
+    ],
+    "text": "business. There is ample evidence that Plaintiff made several purchases from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.64,
+      296.84,
+      522.2,
+      315.12
+    ],
+    "text": "the Defendant. Plaintiff took the initiative to deal with the Defendant. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.78,
+      329.0,
+      522.32,
+      347.27
+    ],
+    "text": "even submitted the cheques to the Defendant though the account holder was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.67,
+      361.4,
+      522.12,
+      379.68
+    ],
+    "text": "his late father. Plaintiff cannot simply shift the burden to his father even with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.53,
+      394.05,
+      521.92,
+      412.33
+    ],
+    "text": "document P2 @. If goods were sold and delivered on credit, it has to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.748464584350586,
+      13.699999809265137,
+      14.362911224365234
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.42,
+      426.68,
+      522.14,
+      444.96
+    ],
+    "text": "honoured within a reasonable period. Plaintiff was well aware of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.55,
+      459.08,
+      521.37,
+      477.36
+    ],
+    "text": "dishonourd cheques and merely state paints were of an inferior quality.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.08,
+      491.24,
+      518.23,
+      509.52
+    ],
+    "text": "There were other items purchased by Plaintiff for which payments were due.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      156.86,
+      523.64,
+      521.09,
+      541.92
+    ],
+    "text": "I do not wish to interfere with the primary facts of this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.09,
+      556.29,
+      521.91,
+      574.57
+    ],
+    "text": "Trial Judge has arrived at a correct conclusion. Appellate Court should not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.19,
+      588.68,
+      521.04,
+      606.96
+    ],
+    "text": "without cogent reasons interfere with primary facts. 1993( 1) SLR 119; 20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.28470516204834,
+      13.699199676513672,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.54,
+      621.08,
+      521.29,
+      639.37
+    ],
+    "text": "NLR 332 & 282. It is not sufficient to prove mere absence of reasonable and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.680935859680176,
+      13.699999809265137,
+      13.845080375671387,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.74,
+      653.01,
+      313.81,
+      671.29
+    ],
+    "text": "probable cause. 10 NLR 321 1 CLW 66.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.427438735961914,
+      13.654925346374512,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      507.24,
+      33.81,
+      519.6,
+      48.75
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.831228256225586
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      156.41,
+      70.42,
+      521.02,
+      89.39
+    ],
+    "text": "In all the circumstances of this case I affirm the judgment of the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.986995697021484,
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.67,
+      103.39,
+      380.15,
+      121.4
+    ],
+    "text": "District Judge and dismiss this appeal without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      321.13,
+      115.36,
+      495.65,
+      164.65
+    ],
+    "text": "GJ~ __ ~e~Jv",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      18.096275329589844,
+      20.46419334411621,
+      22.591636657714844
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      300.9,
+      167.96,
+      498.04,
+      182.9
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.32262897491455
+    ]
+  }
+]
