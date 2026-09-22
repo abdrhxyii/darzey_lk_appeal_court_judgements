@@ -1,0 +1,911 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      92.54,
+      105.15,
+      540.19,
+      128.98
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      154.54,
+      125.32,
+      478.67,
+      149.15
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.02,
+      274.09,
+      210.74,
+      291.7
+    ],
+    "text": "C.A. No. 351 /2000 F",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.146491050720215,
+      13.199999809265137,
+      13.522754669189453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.85,
+      305.77,
+      279.95,
+      323.38
+    ],
+    "text": "D.C. Kegalle No. 19684/ Partition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.419179916381836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.72,
+      163.7,
+      529.44,
+      260.26
+    ],
+    "text": "1. Kadigamuwalage Podiya, Thambugala. 2. Kadigamuwalage Lucia (deceased) 2A. Alankaradevage Piyadasa, Danowita, Thambugala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.550521850585938,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      437.67,
+      259.4,
+      494.02,
+      277.27
+    ],
+    "text": "Plaintiffs",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.93,
+      290.42,
+      388.02,
+      308.03
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.1,
+      337.47,
+      470.27,
+      386.74
+    ],
+    "text": "Kadigamuwalage Saranelis, Thambugala, Danowita.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.13,
+      400.57,
+      398.28,
+      418.18
+    ],
+    "text": "And 15 Others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.908378601074219,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      437.47,
+      417.33,
+      506.83,
+      435.2
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      331.65,
+      448.77,
+      475.67,
+      466.64
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.90519905090332,
+      13.033954620361328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.24,
+      479.77,
+      528.96,
+      576.35
+    ],
+    "text": "1. Kadigamuwalage Podiya, Thambugala. 2. Kadigamuwalage Lucia (deceased) 2A. Alankaradevage Piyadasa, Danowita, Thambugala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.550521850585938,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.45,
+      575.24,
+      524.65,
+      608.03
+    ],
+    "text": "Plaintiffs Appellants Vs",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.62,
+      621.61,
+      469.53,
+      670.66
+    ],
+    "text": "Kadigamuwalage Saranelis, Thambugala, Danowita.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.65,
+      684.5,
+      397.8,
+      702.12
+    ],
+    "text": "And 15 Others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.908378601074219,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      380.11,
+      717.33,
+      526.98,
+      735.2
+    ],
+    "text": "Defendants Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      20.88,
+      50.11,
+      27.64,
+      67.19
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.1,
+      138.02,
+      135.03,
+      155.63
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.02,
+      185.32,
+      145.42,
+      203.2
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.1,
+      255.89,
+      166.38,
+      273.77
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.14,
+      303.4,
+      242.57,
+      321.28
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      305.43,
+      70.89,
+      314.85,
+      86.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.82,
+      137.57,
+      414.89,
+      155.45
+    ],
+    "text": "UPALY ABEYRATHNE J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.142118453979492,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.45,
+      184.84,
+      471.1,
+      202.72
+    ],
+    "text": "Appellants - absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.15,
+      208.61,
+      482.13,
+      226.49
+    ],
+    "text": "Respondents - absent and unrepresented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.11,
+      255.65,
+      324.35,
+      273.52
+    ],
+    "text": "12.12.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153.26,
+      350.69,
+      539.66,
+      368.57
+    ],
+    "text": "The Plaintiff Appellants (hereinafter referred to as the Appellants)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.55,
+      374.69,
+      540.11,
+      392.57
+    ],
+    "text": "instituted the said action against the Defendant Respondents (hereinafter referred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.18,
+      398.21,
+      540.09,
+      416.1
+    ],
+    "text": "to as the Respondents) in the District Court of Kegalle seeking to partition the land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.26,
+      421.95,
+      292.76,
+      439.83
+    ],
+    "text": "described in the schedule to the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.49,
+      469.47,
+      542.25,
+      487.36
+    ],
+    "text": "At the trial the Respondents took up the position that the judgement of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.78919792175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.34,
+      493.25,
+      540.21,
+      511.13
+    ],
+    "text": "Kegalle District Court cases No 9355 / Partition has the effect of a Res Judicata on",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.37,
+      516.75,
+      181.91,
+      534.63
+    ],
+    "text": "the present action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.34,
+      564.04,
+      539.88,
+      582.01
+    ],
+    "text": "It was common ground that in the present case, the 1 st Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273,
+      14.04719066619873
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.27,
+      587.8,
+      538.94,
+      605.68
+    ],
+    "text": "claimed his rights upon the title deeds No 3030 (P 2) and 40498 (P 3). The 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.37,
+      611.8,
+      540.31,
+      629.68
+    ],
+    "text": "Appellant in his evidence had admitted the judgement of the said action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.21,
+      634.24,
+      541.85,
+      653.2
+    ],
+    "text": "No 9355/P. He had further admitted that the 3rd Respondent was the 1st Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.5,
+      657.53,
+      540.28,
+      676.49
+    ],
+    "text": "and he was the 9th Defendant of the said action. At the trial of the present case, a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.399999618530273,
+      13.923715591430664,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.51,
+      682.37,
+      540.23,
+      700.25
+    ],
+    "text": "copy of the evidence of Siyadoris of the said case No 9355/P had been produced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664,
+      14.05694580078125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.14,
+      705.89,
+      539.67,
+      723.86
+    ],
+    "text": "marked 3 V 8. It is apparent from 3 V 8 that the 1 st Appellant had produced the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.229312896728516,
+      13.399999618530273,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      19.29,
+      13.32,
+      24.31,
+      35.06
+    ],
+    "text": "..",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.97269058227539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.94,
+      70.12,
+      312.79,
+      85.87
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.52,
+      105.32,
+      538.08,
+      123.6
+    ],
+    "text": "said title deeds No 3030 (P 2) and 40498 (P 3) and had secured a piece of land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.56,
+      129.09,
+      361.04,
+      147.37
+    ],
+    "text": "from the subject matter of the said case No 9355/P.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.67,
+      176.36,
+      537.82,
+      194.65
+    ],
+    "text": "It appears that the 1 st Appellant has again produced the same title",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.300000190734863,
+      13.699999809265137,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.59,
+      200.12,
+      536.85,
+      218.4
+    ],
+    "text": "deeds to claim title to the land to be partitioned in the present case. Since the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.300000190734863,
+      13.664002418518066,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.21,
+      224.12,
+      537.57,
+      242.4
+    ],
+    "text": "Appellant has exhausted his rights over the said title deeds No 3030 and 40498 he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.59,
+      247.64,
+      540.9,
+      265.92
+    ],
+    "text": "is now debarred claiming any right upon the said deeds from the subject matter of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.2,
+      271.41,
+      179.97,
+      289.69
+    ],
+    "text": "the present action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.97,
+      318.69,
+      537.74,
+      336.97
+    ],
+    "text": "In the aforesaid circumstances I find no reason to interfere with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.36,
+      342.69,
+      538.28,
+      360.97
+    ],
+    "text": "judgement of the learned Additional District Judge dated 09.06.2000. Therefore I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.58,
+      366.44,
+      380.43,
+      384.73
+    ],
+    "text": "dismiss the instant appeal of the Appellants with costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.32,
+      415.85,
+      248.62,
+      431.96
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      359.44,
+      461.25,
+      521.57,
+      479.53
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363,
+      14.21342945098877
+    ]
+  }
+]

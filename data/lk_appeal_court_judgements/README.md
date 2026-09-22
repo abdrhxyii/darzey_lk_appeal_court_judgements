@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_11:04:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--22_22:57:46-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**18,451** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**15.9 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**18,463** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**16.0 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -45,6 +45,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-09-25 | `CA/WRT/383/2018` | Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others Dialog Axiata PLC Vs. (Ms.) S.P. Charles and Others View More before Hon. Damith Thotawatte, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-25-CA-WRT-383-2018)
+- 2026-09-22 | `CA/HCC/0217-218/2025` | 1. Tokhirove Tukhirbanu alias Jasmine 2. Thangaraj Lorence Thilagar Vs. The Attorney General 1. Tokhirove Tukhirbanu alias Jasmine 2. Thangaraj Lorence Thilagar Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-22-CA-HCC-0217-218-2025)
+- 2026-09-22 | `CA/ TAX/ 214/ 2024` | MMBL Money Transfer (Private) Limited, Vs. Commissioner General of Inland Revenue, MMBL Money Transfer (Private) Limited, Vs. Commissioner General of Inland Revenue, View More before Hon. B. Sasi Mahendran, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-22-CA--TAX--214--2024)
 - 2026-09-21 | `CA/PHC/0005/2024` | Hiripurage Chithralatha Vs. The officer in Charge, Police Station, Embilipitiya, The Hon. Attorney General Hiripurage Chithralatha Vs. The officer in Charge, Police Station, Embilipitiya, The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA-PHC-0005-2024)
 - 2026-09-21 | `CA/HCC/ 0269/2024` | Subasinghe Kankanamlage Ashoka Senadeera alais Mahatung Vs. The Attorney General Subasinghe Kankanamlage Ashoka Senadeera alais Mahatung Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA-HCC--0269-2024)
 - 2026-09-21 | `CA/HCC/ 0101/2025` | Paragala Ange Hapan Peligedara Rasika Wijekumara Vs. The Attorney General Paragala Ange Hapan Peligedara Rasika Wijekumara Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA-HCC--0101-2025)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-17 | `CA/HCC/0001/2023` | Wijjapathiyalage Sandaka Nuwan Jayaratne Vs. The Attorney General Wijjapathiyalage Sandaka Nuwan Jayaratne Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-17-CA-HCC-0001-2023)
 - 2026-09-17 | `CA (HCC)0271/2025` | Mahalekamlage Antony Chaminda Fernando alias Mahalekamlage Anton Chaminda Fernando Vs. Hon. Attorney General Mahalekamlage Antony Chaminda Fernando alias Mahalekamlage Anton Chaminda Fernando Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-17-CA--HCC-0271-2025)
 - 2026-09-17 | `CA (HCC)0213/2024` | Wickremasinghege Premathilake Wickremasinghe Vs. Hon. Attorney General Wickremasinghege Premathilake Wickremasinghe Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-17-CA--HCC-0213-2024)
-- 2026-09-17 | `CA (HCC)0137/2025` | Gurudeniya Wedagedara Nandasena alias Donald Vs. Hon. Attorney General Gurudeniya Wedagedara Nandasena alias Donald Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-17-CA--HCC-0137-2025)
-- 2026-09-17 | `CA (HCC)0023-24/2024` | 1. Weerasingha Pathiranage Lal Premasiri 2. Samarasekara Weerasuriya Arachchige Sunethra Vs. Hon. Attorney General 1. Weerasingha Pathiranage Lal Premasiri 2. Samarasekara Weerasuriya Arachchige Sunethra Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-17-CA--HCC-0023-24-2024)
 
 ---
 
