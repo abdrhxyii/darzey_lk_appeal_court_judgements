@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--24_23:42:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--25_11:02:10-green)
 
 [https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**18,526** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**16.0 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**18,528** documents](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**16.0 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -54,6 +54,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-21 | `CA/HCC/ 0269/2024` | Subasinghe Kankanamlage Ashoka Senadeera alais Mahatung Vs. The Attorney General Subasinghe Kankanamlage Ashoka Senadeera alais Mahatung Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA-HCC--0269-2024)
 - 2026-09-21 | `CA/HCC/ 0101/2025` | Paragala Ange Hapan Peligedara Rasika Wijekumara Vs. The Attorney General Paragala Ange Hapan Peligedara Rasika Wijekumara Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA-HCC--0101-2025)
 - 2026-09-21 | `CA (HCC)0039/2025` | Mohamed Niyas Mohamed Kuthupdeen Accused-Appellant -Vs- Hon. Attorney General Attorney General’s Department Colombo 12. Mohamed Niyas Mohamed Kuthupdeen Accused-Appellant -Vs- Hon. Attorney General Attorney General’s Department Colombo 12. View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-21-CA--HCC-0039-2025)
+- 2026-09-18 | `CA/Writ/222/2024` | S. Srihar and Others Vs. Urban Development Authority and Others S. Srihar and Others Vs. Urban Development Authority and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-Writ-222-2024)
 - 2026-09-18 | `CA/TAX/38/2019` | THE COMMISSIONER GENERAL OF INLAND REVENUE, Vs. VARNERS LANKA LAW OFFICE, THE COMMISSIONER GENERAL OF INLAND REVENUE, Vs. VARNERS LANKA LAW OFFICE, View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-TAX-38-2019)
 - 2026-09-18 | `CA/TAX/12/2018` | Siam City Cement (Lanka) Limited Vs. Commissioner General of Inland Revenue Siam City Cement (Lanka) Limited Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-TAX-12-2018)
 - 2026-09-18 | `CA/HCC/0128/2023` | Pararasasingham Kokulakrishnan Vs. The Hon. Attorney General, Pararasasingham Kokulakrishnan Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC-0128-2023)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-18 | `CA/HCC/ 0255-257/2025` | 1. Rajeswaran Naguleswaran 2. Arasan Ajanthan 3. Rajeswaran Rajeeb Vs. The Attorney General 1. Rajeswaran Naguleswaran 2. Arasan Ajanthan 3. Rajeswaran Rajeeb Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC--0255-257-2025)
 - 2026-09-18 | `CA/HCC/ 0235/2025` | Kodithuwakku Arachchilage Wasantha alias Alibaby Vs. The Attorney General Kodithuwakku Arachchilage Wasantha alias Alibaby Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC--0235-2025)
 - 2026-09-18 | `CA/HCC/ 0161/2024` | mburawala Kankanamge Sumith Priyantha Vs. The Attorney General mburawala Kankanamge Sumith Priyantha Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA-HCC--0161-2024)
-- 2026-09-18 | `CA (HCC)0081/2018` | Liyana Arachchige Manoj Bimsara Dissanayake Vs. Hon. Attorney General Liyana Arachchige Manoj Bimsara Dissanayake Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/abdrhxyii/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-18-CA--HCC-0081-2018)
 
 ---
 
