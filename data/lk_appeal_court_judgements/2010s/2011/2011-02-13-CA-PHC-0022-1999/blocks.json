@@ -1,0 +1,1055 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      27.19,
+      32.83,
+      34.22,
+      48.22
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      121.35,
+      78.61,
+      518.52,
+      100.08
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.52,
+      97.34,
+      471.6,
+      118.81
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.26,
+      134.44,
+      502.06,
+      152.32
+    ],
+    "text": "Basnayake W anniarchchilage Charl~es",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599961280822754,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.25,
+      167.0,
+      512.25,
+      185.84
+    ],
+    "text": "Respondent-Petitioner-Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.38,
+      199.48,
+      345.01,
+      249.53
+    ],
+    "text": "Vs CA (PHC) 22/99 HC Hambanthota HCA88/97",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.14,
+      328.84,
+      125.66,
+      346.72
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.06,
+      377.57,
+      132.71,
+      395.44
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.66,
+      442.61,
+      151.64,
+      476.82
+    ],
+    "text": "Argued on Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.7,
+      264.29,
+      481.01,
+      282.19
+    ],
+    "text": "Margret Punya Wamakulasuriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      189.57,
+      329.09,
+      305.46,
+      363.34
+    ],
+    "text": "Sisira de Abrew J & Anil Gooneratne J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.13,
+      296.84,
+      463.75,
+      315.68
+    ],
+    "text": "Respondent-Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.5,
+      377.81,
+      430.97,
+      411.77
+    ],
+    "text": "W. Dayarathne PC with Samantha Bandara for the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.37051773071289,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      185.71,
+      410.21,
+      405.11,
+      428.09
+    ],
+    "text": "Respondent is absent and unreprented.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.81,
+      442.6,
+      256.79,
+      476.81
+    ],
+    "text": "13.12.2010 11.2.2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.75,
+      491.08,
+      208.42,
+      511.72
+    ],
+    "text": "Sisira de Abrew J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.671263694763184,
+      13.849069595336914,
+      14.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.62,
+      522.52,
+      520.68,
+      540.4
+    ],
+    "text": "On a complaint made by Gunathunga Wamakulasuriya, the owner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.58,
+      546.76,
+      519.81,
+      564.64
+    ],
+    "text": "of the land in question, that his due share not being paid by the ande",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.923715591430664
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.6,
+      571.24,
+      520.7,
+      589.12
+    ],
+    "text": "cultivator, the Assistant Commissioner of Agrarian Services (hereinafter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.22,
+      595.72,
+      520.02,
+      613.6
+    ],
+    "text": "referred to as the Assistant Commissioner) held an inquiry. After the inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.96,
+      619.96,
+      519.96,
+      637.84
+    ],
+    "text": "the Assistant Commissioner by his notice datedI9.12.90, directed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.32,
+      644.22,
+      519.73,
+      662.09
+    ],
+    "text": "appellant to pay due share to the said Gunathunga Wamakulasuriya. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.32,
+      668.22,
+      520.29,
+      686.09
+    ],
+    "text": "assistant Commissioner, by his order dated 20.5.93, informed the appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.96,
+      692.46,
+      520.29,
+      710.33
+    ],
+    "text": "that his ande rights had come to an end as he had failed to comply with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.83,
+      33.92,
+      305.25,
+      49.45
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.58,
+      70.05,
+      518.11,
+      88.33
+    ],
+    "text": "previous direction issued on 19.12.90 and further directed that the vacant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.35,
+      94.53,
+      518.21,
+      112.81
+    ],
+    "text": "possession of the land be handed over to said Gunathunga Warnakulasuriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.53,
+      118.77,
+      517.8,
+      137.05
+    ],
+    "text": "within 30 days from the date of the letter. The appellant did not comply with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.27,
+      143.24,
+      520.58,
+      161.52
+    ],
+    "text": "the said direction: The Assistant Commissioner upon the death of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.18,
+      167.48,
+      517.57,
+      185.76
+    ],
+    "text": "Gunathunga Warnakulasuriya substituted his wife in the room of said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.51,
+      191.97,
+      517.34,
+      210.26
+    ],
+    "text": "Wamakulasuriya. As the appellant did not hand over the possession of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.45,
+      216.44,
+      517.63,
+      234.72
+    ],
+    "text": "land, the learned Magistrate upon an application made by the Assistant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.2,
+      240.92,
+      377.69,
+      259.2
+    ],
+    "text": "Commissioner made an order evicting the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      136.66,
+      289.64,
+      517.67,
+      307.92
+    ],
+    "text": "On 8.12.1997, the appellant filed a petition in the High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.08,
+      313.88,
+      517.1,
+      332.16
+    ],
+    "text": "movmg for (a) writ of certiorari to quash the direction issued by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.81,
+      338.37,
+      516.74,
+      356.66
+    ],
+    "text": "Assistant Commissioner on 20.5.93 (b) writ of certiorari to quash the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.12,
+      362.61,
+      517.86,
+      380.89
+    ],
+    "text": "substitution effected by the Assistant Commissioner on 27.9.96 and (c) writ",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.94,
+      386.84,
+      517.37,
+      405.12
+    ],
+    "text": "of mandamus compelling the Assistant Commissioner to withdraw the case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.942700386047363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.94,
+      411.33,
+      257.52,
+      429.6
+    ],
+    "text": "filed in the Magistrates' Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      132.64,
+      460.04,
+      516.86,
+      478.32
+    ],
+    "text": "Learned PC for the appellant contended that substitution of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.58,
+      484.53,
+      517.73,
+      502.82
+    ],
+    "text": "wife of Gunathunga Warnakulasuriya is wrong as there is no such provision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.97,
+      508.53,
+      517.49,
+      526.81
+    ],
+    "text": "in the Act. I now advert to this contention. The best person to be substituted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.73,
+      533.01,
+      516.94,
+      551.29
+    ],
+    "text": "in the room of the husband is his wife. There can't be any objection to this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.628110885620117,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.64,
+      557.25,
+      517.32,
+      575.52
+    ],
+    "text": "substitution. I am therefore unable to agree with this submission. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.7,
+      581.73,
+      516.55,
+      600.02
+    ],
+    "text": "appellant did not hand over the vacant possession of the land within 30 days",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.93,
+      605.73,
+      517.21,
+      624.01
+    ],
+    "text": "from the direction dated 20.5.93. Thus the ande rights of the appellant have",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.699049949645996,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.69,
+      630.2,
+      516.94,
+      648.48
+    ],
+    "text": "come to an end on 20.6.93. Therefore the appellant has no right to take any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.44,
+      654.45,
+      517.62,
+      672.73
+    ],
+    "text": "objection to the said substitution. The learned High Court Judge in his order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.68,
+      679.41,
+      215.01,
+      697.69
+    ],
+    "text": "observed these matters.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.87,
+      32.81,
+      302.12,
+      47.48
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.6,
+      68.37,
+      515.32,
+      86.65
+    ],
+    "text": "The appellant having participated at the inquiry before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.39,
+      92.86,
+      515.14,
+      111.13
+    ],
+    "text": "Assistant Commissioner, intentionally withdrew from the inquiry which was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.69,
+      117.09,
+      515.54,
+      135.37
+    ],
+    "text": "being conducted in accordance with the procedure established by law. Writ",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.26,
+      141.56,
+      515.69,
+      159.84
+    ],
+    "text": "of mandamus and certiorari being discretionary remedies will not available",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.61,
+      166.05,
+      312.05,
+      184.33
+    ],
+    "text": "to a person who displays such a conduct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.33467960357666,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.3,
+      214.76,
+      515.56,
+      233.03
+    ],
+    "text": "For the above reasons, I hold that the learned High Court Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.35,
+      239.24,
+      515.96,
+      257.52
+    ],
+    "text": "was right when he dismissed the appellant's petition. In the circumstances I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.25,
+      263.73,
+      320.22,
+      282.01
+    ],
+    "text": "dismiss the appeal as thee is no merit in it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.64,
+      290.13,
+      181.72,
+      306.49
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.13,
+      410.36,
+      185.07,
+      428.64
+    ],
+    "text": "Anil Gooneratne J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.06,
+      434.86,
+      123.53,
+      453.14
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.56,
+      307.68,
+      514.47,
+      379.2
+    ],
+    "text": "~\u00b7r1J.~ Judge of the Court of Appeal",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633,
+      32.28287887573242
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      319.41,
+      441.34,
+      505.27,
+      501.13
+    ],
+    "text": "~ .... ~Cr~ UC)\u00b7 c:--f Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      13.699999809265137,
+      14.346925735473633,
+      17.124122619628906,
+      17.915870666503906,
+      20.5,
+      23.51142692565918,
+      28.08307647705078
+    ]
+  }
+]

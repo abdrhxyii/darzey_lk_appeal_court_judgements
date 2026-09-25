@@ -1,0 +1,502 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.34,
+      72.47,
+      521.23,
+      88.01
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.85,
+      88.55,
+      397.66,
+      104.09
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.63,
+      309.56,
+      200.45
+    ],
+    "text": "C.A.No.932/99(F) D.C. Colombo No.11427/MR",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      209.03,
+      465.61,
+      224.57
+    ],
+    "text": "Jacksvin apparel Pvt Ltd",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      233.27,
+      387.46,
+      248.81
+    ],
+    "text": "No: 775/2,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      257.42,
+      418.54,
+      272.96
+    ],
+    "text": "Negambo Road,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      281.54,
+      373.9,
+      297.08
+    ],
+    "text": "Mabola,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      305.66,
+      378.1,
+      321.2
+    ],
+    "text": "Wattala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      346.22,
+      487.57,
+      425.86
+    ],
+    "text": "PETITIONER Vs. Hon. Attorney General",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      434.44,
+      502.69,
+      449.98
+    ],
+    "text": "Attorney General's Department",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      458.68,
+      397.18,
+      474.22
+    ],
+    "text": "Colombo 12",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      499.12,
+      495.25,
+      514.66
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.12,
+      69.88,
+      500.69,
+      86.55
+    ],
+    "text": "C.A.No.932/99(F) D.C. Colombo No.11427/MR",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.332208633422852,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.3,
+      129.64,
+      375.98,
+      146.89
+    ],
+    "text": "Before S.Sriskandarajaj, J.{P/CA}",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.9,
+      157.15,
+      337.89,
+      176.98
+    ],
+    "text": "Sunil Rajapakse, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.806804656982422,
+      12.0,
+      12.113860130310059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.75,
+      188.67,
+      461.63,
+      205.34
+    ],
+    "text": "Counsel Malaka Ekanayake for Plaintiff-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.65,
+      218.44,
+      499.86,
+      235.12
+    ],
+    "text": "Nayomi Kahawita SC for Defendant-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.81,
+      248.44,
+      289.12,
+      265.12
+    ],
+    "text": "Decided on 24.09.2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.5,
+      12.77380084991455
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.7,
+      308.34,
+      266.18,
+      324.96
+    ],
+    "text": "S.Sriskandarajaj, T.(P{CA)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.834001541137695,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.51,
+      336.99,
+      520.73,
+      353.66
+    ],
+    "text": "Counsel for Plaintiff-Appellant moves to withdraw the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.65750789642334
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.26,
+      366.99,
+      520.58,
+      383.66
+    ],
+    "text": "Counsel for the Defendant-Respondent has no objection. Application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.555426597595215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.38,
+      397.23,
+      517.89,
+      413.9
+    ],
+    "text": "withdrawal of the appeal is allowed. Appeal is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.592705726623535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.59,
+      457.23,
+      521.04,
+      473.9
+    ],
+    "text": "Registrar is directed to forward the original case record to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.12,
+      487.23,
+      320.89,
+      503.9
+    ],
+    "text": "District Court of Colombo forthwith.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.605504035949707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.82,
+      546.99,
+      500.98,
+      563.67
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.22,
+      575.12,
+      226.96,
+      595.06
+    ],
+    "text": "Sunil Rajapakse, T.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.799132347106934,
+      12.0,
+      12.064128875732422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.83,
+      606.27,
+      199.73,
+      622.94
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.33,
+      636.03,
+      473.21,
+      652.71
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.62,
+      666.27,
+      155.99,
+      682.94
+    ],
+    "text": "KLP/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.614822387695312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      512.07,
+      742.42,
+      520.74,
+      756.71
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  }
+]
